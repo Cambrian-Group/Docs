@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/mainnet/running-a-full-node-in-mainnet",
+  "id": "getting-started/mainnet/running-a-full-node-in-mainnet",
+  "title": "Run a Celo Full Node",
+  "description": "How to run a full node on the Celo Mainnet Network using a prebuilt Docker image.",
+  "source": "@site/docs/getting-started/mainnet/running-a-full-node-in-mainnet.md",
+  "sourceDirName": "getting-started/mainnet",
+  "slug": "/getting-started/mainnet/running-a-full-node-in-mainnet",
+  "permalink": "/es/getting-started/mainnet/running-a-full-node-in-mainnet",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Run a Celo Full Node",
+    "description": "How to run a full node on the Celo Mainnet Network using a prebuilt Docker image."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Running a Celo Validator",
+    "permalink": "/es/getting-started/mainnet/running-a-validator-in-mainnet"
+  },
+  "next": {
+    "title": "Celo's Alfajores Testnet",
+    "permalink": "/es/getting-started/alfajores-testnet"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
+  "id": "celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
+  "title": "Bridge Tokens with Etherscan",
+  "description": "Bridging ERC-20 tokens from Ethereum and Polygon to Celo.",
+  "source": "@site/docs/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan.md",
+  "sourceDirName": "celo-codebase/protocol/bridging",
+  "slug": "/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
+  "permalink": "/es/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bridge Tokens with Etherscan",
+    "description": "Bridging ERC-20 tokens from Ethereum and Polygon to Celo."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Bridge Native Assets with Etherscan",
+    "permalink": "/es/celo-codebase/protocol/bridging/bridging-native-assets"
+  },
+  "next": {
+    "title": "Migrating to Optics v2",
+    "permalink": "/es/celo-codebase/protocol/bridging/migrating-to-optics-v2"
+  }
+}

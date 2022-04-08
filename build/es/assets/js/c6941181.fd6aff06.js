@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[1770],{61127:function(a){a.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/hardhat","name":"hardhat","count":1,"permalink":"/es/blog/tags/hardhat"}')}}]);

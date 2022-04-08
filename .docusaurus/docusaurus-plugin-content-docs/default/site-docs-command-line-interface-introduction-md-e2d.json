@@ -1,0 +1,28 @@
+{
+  "unversionedId": "command-line-interface/introduction",
+  "id": "command-line-interface/introduction",
+  "title": "Celo CLI",
+  "description": "The Command Line Interface allows users to interact with the Celo Protocol smart contracts.",
+  "source": "@site/docs/command-line-interface/introduction.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/introduction",
+  "permalink": "/es/command-line-interface/introduction",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Celo CLI",
+    "description": "The Command Line Interface allows users to interact with the Celo Protocol smart contracts.",
+    "sidebar_position": 1
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "ZSC FAQ",
+    "permalink": "/es/faqs"
+  },
+  "next": {
+    "title": "celocli account",
+    "permalink": "/es/command-line-interface/account"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[5655],{38868:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/material-ui","name":"material-ui","count":1,"permalink":"/blog/tags/material-ui"}')}}]);

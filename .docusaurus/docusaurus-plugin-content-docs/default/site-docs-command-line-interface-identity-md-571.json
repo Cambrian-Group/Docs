@@ -1,0 +1,23 @@
+{
+  "unversionedId": "command-line-interface/identity",
+  "id": "command-line-interface/identity",
+  "title": "celocli identity",
+  "description": "Interact with ODIS and the attestations service",
+  "source": "@site/docs/command-line-interface/identity.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/identity",
+  "permalink": "/es/command-line-interface/identity",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "celocli help",
+    "permalink": "/es/command-line-interface/help"
+  },
+  "next": {
+    "title": "celocli lockedgold",
+    "permalink": "/es/command-line-interface/lockedgold"
+  }
+}

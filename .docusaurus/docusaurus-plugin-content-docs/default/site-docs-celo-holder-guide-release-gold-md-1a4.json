@@ -1,0 +1,27 @@
+{
+  "unversionedId": "celo-holder-guide/release-gold",
+  "id": "celo-holder-guide/release-gold",
+  "title": "Celo ReleaseGold",
+  "description": "Introduction to ReleaseGold including examples, use cases, and FAQ.",
+  "source": "@site/docs/celo-holder-guide/release-gold.md",
+  "sourceDirName": "celo-holder-guide",
+  "slug": "/celo-owner-guide/release-gold",
+  "permalink": "/es/celo-owner-guide/release-gold",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo ReleaseGold",
+    "description": "Introduction to ReleaseGold including examples, use cases, and FAQ.",
+    "slug": "/celo-owner-guide/release-gold"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Asset Management Guide",
+    "permalink": "/es/celo-owner-guide/cusd"
+  },
+  "next": {
+    "title": "Exchange Celo Assets",
+    "permalink": "/es/celo-owner-guide/celo-exchange-bot"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/celo-milestones",
+  "id": "learn/celo-milestones",
+  "title": "Celo Milestones",
+  "description": "Important milestones for the Celo protocol and ecosystem.",
+  "source": "@site/docs/learn/celo-milestones.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/celo-milestones",
+  "permalink": "/es/learn/celo-milestones",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Milestones",
+    "description": "Important milestones for the Celo protocol and ecosystem."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Economic Model",
+    "permalink": "/es/learn/celo-economic-model"
+  },
+  "next": {
+    "title": "Celo Ecosystem",
+    "permalink": "/es/learn/celo-ecosystem"
+  }
+}

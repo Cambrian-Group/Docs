@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/stability/oracles",
+  "id": "celo-codebase/protocol/stability/oracles",
+  "title": "Oracles",
+  "description": "How the SortedOracles smart contract uses governance to collect reports and maintain the oraclized rate or the Celo dollar.",
+  "source": "@site/docs/celo-codebase/protocol/stability/oracles.md",
+  "sourceDirName": "celo-codebase/protocol/stability",
+  "slug": "/celo-codebase/protocol/stability/oracles",
+  "permalink": "/es/celo-codebase/protocol/stability/oracles",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Oracles",
+    "description": "How the SortedOracles smart contract uses governance to collect reports and maintain the oraclized rate or the Celo dollar."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Granda Mento",
+    "permalink": "/es/celo-codebase/protocol/stability/granda-mento"
+  },
+  "next": {
+    "title": "Celo Stability Fees",
+    "permalink": "/es/celo-codebase/protocol/stability/stability-fees"
+  }
+}

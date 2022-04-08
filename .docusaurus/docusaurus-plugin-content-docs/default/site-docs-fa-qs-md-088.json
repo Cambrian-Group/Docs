@@ -1,0 +1,27 @@
+{
+  "unversionedId": "faqs",
+  "id": "faqs",
+  "title": "ZSC FAQ",
+  "description": "Answers to frequently asked questions about ZSC.",
+  "source": "@site/docs/FAQs.md",
+  "sourceDirName": ".",
+  "slug": "/faqs",
+  "permalink": "/es/faqs",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ZSC FAQ",
+    "description": "Answers to frequently asked questions about ZSC.",
+    "id": "faqs"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo DApp Gallery",
+    "permalink": "/es/developer-guide/celo-dapp-gallery"
+  },
+  "next": {
+    "title": "Celo CLI",
+    "permalink": "/es/command-line-interface/introduction"
+  }
+}

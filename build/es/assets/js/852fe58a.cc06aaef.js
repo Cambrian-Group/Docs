@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[3622],{68572:function(e){e.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/code-playground","name":"code playground","count":2,"permalink":"/es/blog/tags/code-playground"}')}}]);

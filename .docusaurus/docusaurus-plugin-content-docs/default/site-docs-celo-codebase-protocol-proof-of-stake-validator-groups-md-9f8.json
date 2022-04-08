@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/proof-of-stake/validator-groups",
+  "id": "celo-codebase/protocol/proof-of-stake/validator-groups",
+  "title": "Celo Validator Groups",
+  "description": "Celo's proof-of-stake mechanism introduces the concept of Validator Groups as intermediaries between voters and validators.",
+  "source": "@site/docs/celo-codebase/protocol/proof-of-stake/validator-groups.md",
+  "sourceDirName": "celo-codebase/protocol/proof-of-stake",
+  "slug": "/celo-codebase/protocol/proof-of-stake/validator-groups",
+  "permalink": "/es/celo-codebase/protocol/proof-of-stake/validator-groups",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Validator Groups",
+    "description": "Celo's proof-of-stake mechanism introduces the concept of Validator Groups as intermediaries between voters and validators."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Proof of Stake Overview",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake"
+  },
+  "next": {
+    "title": "Locked CELO and Voting",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/locked-gold"
+  }
+}

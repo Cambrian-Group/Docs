@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments",
+  "id": "celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments",
+  "title": "Payments and Exchanging",
+  "description": "How the Celo wallet facilitates payments and exchanges using Celo assets.",
+  "source": "@site/docs/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments.md",
+  "sourceDirName": "celo-codebase/wallet/how-the-wallet-works",
+  "slug": "/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments",
+  "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Payments and Exchanging",
+    "description": "How the Celo wallet facilitates payments and exchanges using Celo assets."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Wallet Invitations",
+    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/invitations"
+  },
+  "next": {
+    "title": "Ultralight Node Sync",
+    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync"
+  }
+}

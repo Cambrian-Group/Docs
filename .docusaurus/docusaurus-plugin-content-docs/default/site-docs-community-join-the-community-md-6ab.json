@@ -1,0 +1,26 @@
+{
+  "unversionedId": "community/join-the-community",
+  "id": "community/join-the-community",
+  "title": "Join the Celo Community",
+  "description": "Find Celo on social media, contribute to the codebase, or chat with the community.",
+  "source": "@site/docs/community/join-the-community.md",
+  "sourceDirName": "community",
+  "slug": "/community/join-the-community",
+  "permalink": "/es/community/join-the-community",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Join the Celo Community",
+    "description": "Find Celo on social media, contribute to the codebase, or chat with the community."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Whitepapers",
+    "permalink": "/es/learn/celo-whitepapers"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/es/getting-started/glossary"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[9583],{72938:function(s){s.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/smart-contract","name":"smart contract","count":2,"permalink":"/es/blog/tags/smart-contract"}')}}]);

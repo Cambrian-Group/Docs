@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developer-resources/celo-dapp-gallery",
+  "id": "developer-resources/celo-dapp-gallery",
+  "title": "Celo DApp Gallery",
+  "description": "List of featured DApp examples to help you start building on Celo.",
+  "source": "@site/docs/developer-resources/celo-dapp-gallery.md",
+  "sourceDirName": "developer-resources",
+  "slug": "/developer-guide/celo-dapp-gallery",
+  "permalink": "/es/developer-guide/celo-dapp-gallery",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo DApp Gallery",
+    "description": "List of featured DApp examples to help you start building on Celo.",
+    "slug": "/developer-guide/celo-dapp-gallery"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Hosted Nodes",
+    "permalink": "/es/getting-started/hosted-nodes"
+  },
+  "next": {
+    "title": "ZSC FAQ",
+    "permalink": "/es/faqs"
+  }
+}

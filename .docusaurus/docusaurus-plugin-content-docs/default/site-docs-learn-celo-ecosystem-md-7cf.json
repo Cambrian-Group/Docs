@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/celo-ecosystem",
+  "id": "learn/celo-ecosystem",
+  "title": "Celo Ecosystem",
+  "description": "Celo tools, assets, and community are focused on creating a future where everyone can prosper.",
+  "source": "@site/docs/learn/celo-ecosystem.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/celo-ecosystem",
+  "permalink": "/es/learn/celo-ecosystem",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Ecosystem",
+    "description": "Celo tools, assets, and community are focused on creating a future where everyone can prosper."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Milestones",
+    "permalink": "/es/learn/celo-milestones"
+  },
+  "next": {
+    "title": "Key Concepts",
+    "permalink": "/es/key-concepts"
+  }
+}

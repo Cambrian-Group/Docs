@@ -1,0 +1,23 @@
+{
+  "unversionedId": "command-line-interface/grandamento",
+  "id": "command-line-interface/grandamento",
+  "title": "celocli grandamento",
+  "description": "Cancels a Granda Mento exchange proposal",
+  "source": "@site/docs/command-line-interface/grandamento.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/grandamento",
+  "permalink": "/es/command-line-interface/grandamento",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "celocli governance",
+    "permalink": "/es/command-line-interface/governance"
+  },
+  "next": {
+    "title": "celocli help",
+    "permalink": "/es/command-line-interface/help"
+  }
+}

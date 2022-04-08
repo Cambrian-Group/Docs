@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developer-resources/integrations/integrations",
+  "id": "developer-resources/integrations/integrations",
+  "title": "Integrate with Celo",
+  "description": "Collection of resources to help integrate Celo with your service.",
+  "source": "@site/docs/developer-resources/integrations/integrations.md",
+  "sourceDirName": "developer-resources/integrations",
+  "slug": "/developer-guide/integrations",
+  "permalink": "/es/developer-guide/integrations",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Integrate with Celo",
+    "description": "Collection of resources to help integrate Celo with your service.",
+    "slug": "/developer-guide/integrations"
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Deploy with Replit",
+    "permalink": "/es/developer-resources/deploy-replit"
+  },
+  "next": {
+    "title": "Celo General Integration Information",
+    "permalink": "/es/developer-guide/integrations/general"
+  }
+}

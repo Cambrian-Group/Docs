@@ -1,0 +1,28 @@
+{
+  "unversionedId": "getting-started/wallets/index",
+  "id": "getting-started/wallets/index",
+  "title": "Digital Wallets for Celo",
+  "description": "Overview of digital wallets available to send, spend, and earn Celo assets.",
+  "source": "@site/docs/getting-started/wallets/index.md",
+  "sourceDirName": "getting-started/wallets",
+  "slug": "/getting-started/wallets",
+  "permalink": "/es/getting-started/wallets",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Digital Wallets for Celo",
+    "id": "index",
+    "slug": "/getting-started/wallets",
+    "description": "Overview of digital wallets available to send, spend, and earn Celo assets."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/es/getting-started/glossary"
+  },
+  "next": {
+    "title": "Celo Wallet Functionality",
+    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/"
+  }
+}

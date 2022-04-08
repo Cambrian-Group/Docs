@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developer-resources/dappkit/setup",
+  "id": "developer-resources/dappkit/setup",
+  "title": "Celo DAppKit Setup",
+  "description": "How to configure and install DAppKit to begin building on Celo.",
+  "source": "@site/docs/developer-resources/dappkit/setup.md",
+  "sourceDirName": "developer-resources/dappkit",
+  "slug": "/developer-guide/dappkit/setup",
+  "permalink": "/es/developer-guide/dappkit/setup",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo DAppKit Setup",
+    "description": "How to configure and install DAppKit to begin building on Celo.",
+    "slug": "/developer-guide/dappkit/setup"
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Celo DAppKit",
+    "permalink": "/es/developer-guide/dappkit"
+  },
+  "next": {
+    "title": "Celo DAppKit Usage",
+    "permalink": "/es/developer-guide/dappkit/usage"
+  }
+}

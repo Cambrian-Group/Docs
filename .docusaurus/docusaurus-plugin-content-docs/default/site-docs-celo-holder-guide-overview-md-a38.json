@@ -1,0 +1,17 @@
+{
+  "unversionedId": "celo-holder-guide/overview",
+  "id": "celo-holder-guide/overview",
+  "title": "Use Celo",
+  "description": "Download a wallet, manage Celo assets, and start using the Celo network.",
+  "source": "@site/docs/celo-holder-guide/overview.md",
+  "sourceDirName": "celo-holder-guide",
+  "slug": "/celo-holder-guide/overview",
+  "permalink": "/es/celo-holder-guide/overview",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Use Celo",
+    "description": "Download a wallet, manage Celo assets, and start using the Celo network."
+  }
+}

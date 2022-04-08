@@ -1,0 +1,14 @@
+{
+  "unversionedId": "celo-codebase/protocol/proof-of-stake/becoming-a-validator",
+  "id": "celo-codebase/protocol/proof-of-stake/becoming-a-validator",
+  "title": "Becoming a Validator",
+  "description": "To participate in the network, an operator must put up a slashable commitment of locked CELO, register as a validator, and join a validator group. A minimum stake of one CELO and a notice period of 60 days is required to be a validator in the Alfajores Testnet.",
+  "source": "@site/docs/celo-codebase/protocol/proof-of-stake/becoming-a-validator.md",
+  "sourceDirName": "celo-codebase/protocol/proof-of-stake",
+  "slug": "/celo-codebase/protocol/proof-of-stake/becoming-a-validator",
+  "permalink": "/es/celo-codebase/protocol/proof-of-stake/becoming-a-validator",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

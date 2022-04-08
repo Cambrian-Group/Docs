@@ -1,0 +1,17 @@
+{
+  "unversionedId": "celo-codebase/protocol/bridging/optics-gui-zh_cn",
+  "id": "celo-codebase/protocol/bridging/optics-gui-zh_cn",
+  "title": "Optics Bridge GUI - gui-zh-cn",
+  "description": "Sending ETH From Ethereum to Celo",
+  "source": "@site/docs/celo-codebase/protocol/bridging/optics-gui-zh_cn.md",
+  "sourceDirName": "celo-codebase/protocol/bridging",
+  "slug": "/celo-codebase/protocol/bridging/optics-gui-zh_cn",
+  "permalink": "/es/celo-codebase/protocol/bridging/optics-gui-zh_cn",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Optics Bridge GUI - gui-zh-cn",
+    "description": "Sending ETH From Ethereum to Celo"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "developer-resources/walkthroughs/randomness",
+  "id": "developer-resources/walkthroughs/randomness",
+  "title": "Use onchain randomness",
+  "description": "How to use onchain randomness in your smart contracts.",
+  "source": "@site/docs/developer-resources/walkthroughs/randomness.md",
+  "sourceDirName": "developer-resources/walkthroughs",
+  "slug": "/developer-guide/start/randomness",
+  "permalink": "/es/developer-guide/start/randomness",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Use onchain randomness",
+    "description": "How to use onchain randomness in your smart contracts.",
+    "slug": "/developer-guide/start/randomness"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-holder-guide/owners",
+  "id": "celo-holder-guide/owners",
+  "title": "Get CELO",
+  "description": "Start sending, spending, and earning crypto from your mobile phone",
+  "source": "@site/docs/celo-holder-guide/owners.md",
+  "sourceDirName": "celo-holder-guide",
+  "slug": "/celo-holder-guide/owners",
+  "permalink": "/es/celo-holder-guide/owners",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Get CELO",
+    "description": "Start sending, spending, and earning crypto from your mobile phone"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Connect Ledger to Celo CLI",
+    "permalink": "/es/celo-holder-guide/connecting-ledger-celocli"
+  },
+  "next": {
+    "title": "Self-Custody CELO",
+    "permalink": "/es/celo-owner-guide/quick-start"
+  }
+}

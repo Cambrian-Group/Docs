@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/oracles/oracles-on-celo",
+  "id": "celo-codebase/protocol/oracles/oracles-on-celo",
+  "title": "Oracles on Celo",
+  "description": "A list of oracles available on the Celo network.",
+  "source": "@site/docs/celo-codebase/protocol/oracles/oracles-on-celo.md",
+  "sourceDirName": "celo-codebase/protocol/oracles",
+  "slug": "/celo-codebase/protocol/oracles/oracles-on-celo",
+  "permalink": "/es/celo-codebase/protocol/oracles/oracles-on-celo",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Oracles on Celo",
+    "description": "A list of oracles available on the Celo network."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Optics Bridge FAQs",
+    "permalink": "/es/celo-codebase/protocol/bridging/optics-bridge-faq"
+  },
+  "next": {
+    "title": "Using Band Protocol",
+    "permalink": "/es/celo-codebase/protocol/oracles/band-protocol-how-to"
+  }
+}

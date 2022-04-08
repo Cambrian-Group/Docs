@@ -1,0 +1,49 @@
+{
+  "permalink": "/es/blog/developer-guide/start/web-dapp",
+  "source": "@site/blog/2022-01-06-web-dapp.md",
+  "title": "React based DApp",
+  "description": "The basics of developing a decentralised application (DApp) on Celo.",
+  "date": "2022-01-06T00:00:00.000Z",
+  "formattedDate": "6 de enero de 2022",
+  "tags": [
+    {
+      "label": "DApp",
+      "permalink": "/es/blog/tags/d-app"
+    },
+    {
+      "label": "react",
+      "permalink": "/es/blog/tags/react"
+    },
+    {
+      "label": "nextjs",
+      "permalink": "/es/blog/tags/nextjs"
+    },
+    {
+      "label": "use-contractkit",
+      "permalink": "/es/blog/tags/use-contractkit"
+    },
+    {
+      "label": "sdk",
+      "permalink": "/es/blog/tags/sdk"
+    }
+  ],
+  "readingTime": 6.54,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Josh Crites",
+      "title": "Developer Relations, cLabs",
+      "url": "https://github.com/critesjosh",
+      "image_url": "https://github.com/critesjosh.png",
+      "imageURL": "https://github.com/critesjosh.png"
+    }
+  ],
+  "prevItem": {
+    "title": "Use onchain randomness",
+    "permalink": "/es/blog/developer-guide/start/randomness"
+  },
+  "nextItem": {
+    "title": "Deploy an NFT to Celo",
+    "permalink": "/es/blog/2022/01/05/no-code-erc721"
+  }
+}

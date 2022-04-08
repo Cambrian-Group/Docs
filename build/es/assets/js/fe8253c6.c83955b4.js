@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[7923],{25314:function(e){e.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/oracle","name":"oracle","count":1,"permalink":"/es/blog/tags/oracle"}')}}]);

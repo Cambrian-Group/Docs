@@ -1,0 +1,49 @@
+{
+  "permalink": "/es/blog/developer-guide/start/hellocelo",
+  "source": "@site/blog/2022-01-01-hellocelo.md",
+  "title": "Sending CELO & Stable Assets",
+  "description": "How to connect to the Celo test network and tranfer tokens using ContractKit.",
+  "date": "2022-01-01T00:00:00.000Z",
+  "formattedDate": "1 de enero de 2022",
+  "tags": [
+    {
+      "label": "tokens",
+      "permalink": "/es/blog/tags/tokens"
+    },
+    {
+      "label": "celo wallet",
+      "permalink": "/es/blog/tags/celo-wallet"
+    },
+    {
+      "label": "contractkit",
+      "permalink": "/es/blog/tags/contractkit"
+    },
+    {
+      "label": "sdk",
+      "permalink": "/es/blog/tags/sdk"
+    },
+    {
+      "label": "ledger",
+      "permalink": "/es/blog/tags/ledger"
+    }
+  ],
+  "readingTime": 6.733333333333333,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Josh Crites",
+      "title": "Developer Relations, cLabs",
+      "url": "https://github.com/critesjosh",
+      "image_url": "https://github.com/critesjosh.png",
+      "imageURL": "https://github.com/critesjosh.png"
+    }
+  ],
+  "prevItem": {
+    "title": "Deploy a Contract on Celo (local node)",
+    "permalink": "/es/blog/developer-guide/start/hellocontracts"
+  },
+  "nextItem": {
+    "title": "Using Keystores Library for Local Key Management",
+    "permalink": "/es/blog/developer-guide/start/using-js-keystores"
+  }
+}

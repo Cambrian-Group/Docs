@@ -1,0 +1,16 @@
+{
+  "unversionedId": "developer-resources/networks/celo-mainnet",
+  "id": "developer-resources/networks/celo-mainnet",
+  "title": "Celo Mainnet",
+  "description": "The production Celo network, Mainnet was previously known as the Release Candidate 1 network. Deployed by the Celo community starting 4/22/20, the network is currently working towards enabling the Celo stability mechanism. Much of the activity is being driven by the validator organizations that are featured on the leaderboard of The Great Celo Stake Off.",
+  "source": "@site/docs/developer-resources/networks/celo-mainnet.md",
+  "sourceDirName": "developer-resources/networks",
+  "slug": "/developer-resources/networks/celo-mainnet",
+  "permalink": "/es/developer-resources/networks/celo-mainnet",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Mainnet"
+  }
+}

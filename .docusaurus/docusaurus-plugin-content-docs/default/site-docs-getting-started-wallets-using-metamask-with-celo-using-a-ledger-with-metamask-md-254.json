@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask",
+  "id": "getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask",
+  "title": "Using a Ledger with MetaMask",
+  "description": "Things to keep in mind when using a Ledger hardware wallet with MetaMask to connect to the Celo network.",
+  "source": "@site/docs/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask.md",
+  "sourceDirName": "getting-started/wallets/using-metamask-with-celo",
+  "slug": "/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask",
+  "permalink": "/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Using a Ledger with MetaMask",
+    "description": "Things to keep in mind when using a Ledger hardware wallet with MetaMask to connect to the Celo network."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Import Valora Wallet to MetaMask",
+    "permalink": "/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import"
+  },
+  "next": {
+    "title": "Set up a Ledger Wallet with Celo",
+    "permalink": "/es/celo-owner-guide/ledger"
+  }
+}

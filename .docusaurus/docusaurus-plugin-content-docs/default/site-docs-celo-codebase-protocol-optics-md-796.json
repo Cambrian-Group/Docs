@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/optics",
+  "id": "celo-codebase/protocol/optics",
+  "title": "Optics",
+  "description": "Introduction to Optics, it's core concepts, architecture, process, and implementation.",
+  "source": "@site/docs/celo-codebase/protocol/optics.md",
+  "sourceDirName": "celo-codebase/protocol",
+  "slug": "/celo-codebase/protocol/optics",
+  "permalink": "/es/celo-codebase/protocol/optics",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Optics",
+    "description": "Introduction to Optics, it's core concepts, architecture, process, and implementation."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Randomness",
+    "permalink": "/es/celo-codebase/protocol/identity/randomness"
+  },
+  "next": {
+    "title": "Plumo Ultralight Sync",
+    "permalink": "/es/celo-codebase/protocol/plumo"
+  }
+}

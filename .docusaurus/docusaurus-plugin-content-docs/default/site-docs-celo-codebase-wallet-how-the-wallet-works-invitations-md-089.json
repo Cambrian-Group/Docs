@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/wallet/how-the-wallet-works/invitations",
+  "id": "celo-codebase/wallet/how-the-wallet-works/invitations",
+  "title": "Wallet Invitations",
+  "description": "How invitations allow users to create accounts in the Celo wallet.",
+  "source": "@site/docs/celo-codebase/wallet/how-the-wallet-works/invitations.md",
+  "sourceDirName": "celo-codebase/wallet/how-the-wallet-works",
+  "slug": "/celo-codebase/wallet/how-the-wallet-works/invitations",
+  "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/invitations",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Wallet Invitations",
+    "description": "How invitations allow users to create accounts in the Celo wallet."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Wallet Verification",
+    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/verification"
+  },
+  "next": {
+    "title": "Payments and Exchanging",
+    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments"
+  }
+}

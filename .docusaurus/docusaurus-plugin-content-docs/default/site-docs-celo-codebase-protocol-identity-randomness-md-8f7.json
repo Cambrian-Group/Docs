@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/identity/randomness",
+  "id": "celo-codebase/protocol/identity/randomness",
+  "title": "Celo Randomness",
+  "description": "How unpredictable pseudo-randomness is achieved on the Celo blockchain.",
+  "source": "@site/docs/celo-codebase/protocol/identity/randomness.md",
+  "sourceDirName": "celo-codebase/protocol/identity",
+  "slug": "/celo-codebase/protocol/identity/randomness",
+  "permalink": "/es/celo-codebase/protocol/identity/randomness",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Randomness",
+    "description": "How unpredictable pseudo-randomness is achieved on the Celo blockchain."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Metadata and Claims",
+    "permalink": "/es/celo-codebase/protocol/identity/metadata"
+  },
+  "next": {
+    "title": "Optics",
+    "permalink": "/es/celo-codebase/protocol/optics"
+  }
+}

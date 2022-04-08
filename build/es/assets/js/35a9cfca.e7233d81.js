@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[1538],{53765:function(e){e.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/react","name":"react","count":3,"permalink":"/es/blog/tags/react"}')}}]);

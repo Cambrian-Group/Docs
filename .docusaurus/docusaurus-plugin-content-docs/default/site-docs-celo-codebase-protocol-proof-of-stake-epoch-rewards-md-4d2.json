@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/proof-of-stake/epoch-rewards",
+  "id": "celo-codebase/protocol/proof-of-stake/epoch-rewards",
+  "title": "Celo Epoch Rewards Overview",
+  "description": "Introduction to Celo epoch rewards and the target reward release schedule.",
+  "source": "@site/docs/celo-codebase/protocol/proof-of-stake/epoch-rewards.md",
+  "sourceDirName": "celo-codebase/protocol/proof-of-stake",
+  "slug": "/celo-codebase/protocol/proof-of-stake/epoch-rewards",
+  "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Epoch Rewards Overview",
+    "description": "Introduction to Celo epoch rewards and the target reward release schedule."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Validator Elections",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/validator-elections"
+  },
+  "next": {
+    "title": "Celo Rewards for Validators and Validator Groups",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/validator-rewards"
+  }
+}

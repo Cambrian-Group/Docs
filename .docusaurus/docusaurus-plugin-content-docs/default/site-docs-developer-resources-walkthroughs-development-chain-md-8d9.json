@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developer-resources/walkthroughs/development-chain",
+  "id": "developer-resources/walkthroughs/development-chain",
+  "title": "Celo Local Development Chain with Protocol Contracts",
+  "description": "How to set up a Celo development blockchain that includes all of the core protocol contracts including identity and stability contracts.",
+  "source": "@site/docs/developer-resources/walkthroughs/development-chain.md",
+  "sourceDirName": "developer-resources/walkthroughs",
+  "slug": "/developer-guide/development-chain",
+  "permalink": "/es/developer-guide/development-chain",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Local Development Chain with Protocol Contracts",
+    "description": "How to set up a Celo development blockchain that includes all of the core protocol contracts including identity and stability contracts.",
+    "slug": "/developer-guide/development-chain"
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Celo Forno",
+    "permalink": "/es/developer-guide/forno"
+  },
+  "next": {
+    "title": "Celo EVM Compatible Tooling",
+    "permalink": "/es/learn/evm-compatible-tooling"
+  }
+}

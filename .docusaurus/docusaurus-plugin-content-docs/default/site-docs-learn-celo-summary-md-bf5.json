@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/celo-summary",
+  "id": "learn/celo-summary",
+  "title": "Celo",
+  "description": "Summary of Celo and the value it provides to the community.",
+  "source": "@site/docs/learn/celo-summary.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/celo-summary",
+  "permalink": "/es/learn/celo-summary",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo",
+    "description": "Summary of Celo and the value it provides to the community."
+  },
+  "sidebar": "contributors",
+  "previous": {
+    "title": "Celo Mainnet Disclaimer",
+    "permalink": "/es/important-information/mainnet-network-disclaimer"
+  },
+  "next": {
+    "title": "Celo Protocol",
+    "permalink": "/es/learn/celo-protocol-summary"
+  }
+}

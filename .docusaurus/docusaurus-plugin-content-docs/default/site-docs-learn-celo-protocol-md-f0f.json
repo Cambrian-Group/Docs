@@ -1,0 +1,17 @@
+{
+  "unversionedId": "learn/celo-protocol",
+  "id": "learn/celo-protocol",
+  "title": "The Celo Protocol",
+  "description": "Introduction to the Celo Protocol's consensus, governance, incentives, and key features.",
+  "source": "@site/docs/learn/celo-protocol.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/celo-protocol",
+  "permalink": "/es/learn/celo-protocol",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Celo Protocol",
+    "description": "Introduction to the Celo Protocol's consensus, governance, incentives, and key features."
+  }
+}

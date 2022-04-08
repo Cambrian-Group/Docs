@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/celo-highlights",
+  "id": "learn/celo-highlights",
+  "title": "Key Concepts",
+  "description": "Summary of benefits, features, and data behind the Celo platform.",
+  "source": "@site/docs/learn/celo-highlights.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/celo-highlights",
+  "permalink": "/es/learn/celo-highlights",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Key Concepts",
+    "description": "Summary of benefits, features, and data behind the Celo platform."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Why ZSC",
+    "permalink": "/es/why-celo"
+  },
+  "next": {
+    "title": "Celo Economic Model",
+    "permalink": "/es/learn/celo-economic-model"
+  }
+}

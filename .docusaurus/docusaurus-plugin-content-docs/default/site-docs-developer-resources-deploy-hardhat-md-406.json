@@ -1,0 +1,26 @@
+{
+  "unversionedId": "developer-resources/deploy-hardhat",
+  "id": "developer-resources/deploy-hardhat",
+  "title": "Deploy with Hardhat",
+  "description": "How to deploy a Smart Contract to Celo using Hardhat",
+  "source": "@site/docs/developer-resources/deploy-hardhat.md",
+  "sourceDirName": "developer-resources",
+  "slug": "/developer-resources/deploy-hardhat",
+  "permalink": "/es/developer-resources/deploy-hardhat",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Deploy with Hardhat",
+    "description": "How to deploy a Smart Contract to Celo using Hardhat"
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Deploy with Truffle",
+    "permalink": "/es/developer-resources/deploy-truffle"
+  },
+  "next": {
+    "title": "Deploy with Replit",
+    "permalink": "/es/developer-resources/deploy-replit"
+  }
+}

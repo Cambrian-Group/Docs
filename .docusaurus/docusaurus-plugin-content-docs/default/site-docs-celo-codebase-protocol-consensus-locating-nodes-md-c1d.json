@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/consensus/locating-nodes",
+  "id": "celo-codebase/protocol/consensus/locating-nodes",
+  "title": "Locating Nodes",
+  "description": "How Celo nodes join the network, establish a connection, and communiate their IP address.",
+  "source": "@site/docs/celo-codebase/protocol/consensus/locating-nodes.md",
+  "sourceDirName": "celo-codebase/protocol/consensus",
+  "slug": "/celo-codebase/protocol/consensus/locating-nodes",
+  "permalink": "/es/celo-codebase/protocol/consensus/locating-nodes",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Locating Nodes",
+    "description": "How Celo nodes join the network, establish a connection, and communiate their IP address."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Validator Set Differences",
+    "permalink": "/es/celo-codebase/protocol/consensus/validator-set-differences"
+  },
+  "next": {
+    "title": "Celo Ultralight Sync",
+    "permalink": "/es/celo-codebase/protocol/consensus/ultralight-sync"
+  }
+}

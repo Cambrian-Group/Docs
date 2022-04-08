@@ -1,0 +1,23 @@
+{
+  "unversionedId": "command-line-interface/lockedgold",
+  "id": "command-line-interface/lockedgold",
+  "title": "celocli lockedgold",
+  "description": "View and manage locked CELO",
+  "source": "@site/docs/command-line-interface/lockedgold.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/lockedgold",
+  "permalink": "/es/command-line-interface/lockedgold",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "celocli identity",
+    "permalink": "/es/command-line-interface/identity"
+  },
+  "next": {
+    "title": "celocli multisig",
+    "permalink": "/es/command-line-interface/multisig"
+  }
+}

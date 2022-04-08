@@ -1,0 +1,27 @@
+{
+  "unversionedId": "celo-codebase/protocol/proof-of-stake/community-fund",
+  "id": "celo-codebase/protocol/proof-of-stake/community-fund",
+  "title": "Celo Community Fund",
+  "description": "Introduction to the community fund, its assets, and its relationship to the on-chain reserve.",
+  "source": "@site/docs/celo-codebase/protocol/proof-of-stake/community-fund.md",
+  "sourceDirName": "celo-codebase/protocol/proof-of-stake",
+  "slug": "/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund",
+  "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Community Fund",
+    "slug": "/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund",
+    "description": "Introduction to the community fund, its assets, and its relationship to the on-chain reserve."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Locked CELO Rewards",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/locked-gold-rewards"
+  },
+  "next": {
+    "title": "Carbon Offsetting Fund",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/carbon-offsetting-fund"
+  }
+}

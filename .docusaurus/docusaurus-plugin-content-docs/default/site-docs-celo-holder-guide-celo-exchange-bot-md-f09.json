@@ -1,0 +1,27 @@
+{
+  "unversionedId": "celo-holder-guide/celo-exchange-bot",
+  "id": "celo-holder-guide/celo-exchange-bot",
+  "title": "Exchange Celo Assets",
+  "description": "How to use the Celo exchange bot to exchange CELO and Celo stable tokens.",
+  "source": "@site/docs/celo-holder-guide/celo-exchange-bot.md",
+  "sourceDirName": "celo-holder-guide",
+  "slug": "/celo-owner-guide/celo-exchange-bot",
+  "permalink": "/es/celo-owner-guide/celo-exchange-bot",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Exchange Celo Assets",
+    "description": "How to use the Celo exchange bot to exchange CELO and Celo stable tokens.",
+    "slug": "/celo-owner-guide/celo-exchange-bot"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo ReleaseGold",
+    "permalink": "/es/celo-owner-guide/release-gold"
+  },
+  "next": {
+    "title": "Voting for Validator Groups",
+    "permalink": "/es/celo-owner-guide/voting-validators"
+  }
+}

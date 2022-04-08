@@ -1,0 +1,17 @@
+{
+  "unversionedId": "learn/topology-of-a-celo-network",
+  "id": "learn/topology-of-a-celo-network",
+  "title": "Celo Network Topology",
+  "description": "Introduction to the Celo Network's topology including validators, full nodes, light clients, and wallets.",
+  "source": "@site/docs/learn/topology-of-a-celo-network.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/topology-of-a-celo-network",
+  "permalink": "/es/learn/topology-of-a-celo-network",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Network Topology",
+    "description": "Introduction to the Celo Network's topology including validators, full nodes, light clients, and wallets."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "developer-resources/style-guide/typescript",
+  "id": "developer-resources/style-guide/typescript",
+  "title": "TypeScript Style Guide",
+  "description": "Function parameters",
+  "source": "@site/docs/developer-resources/style-guide/typescript.md",
+  "sourceDirName": "developer-resources/style-guide",
+  "slug": "/developer-resources/style-guide/typescript",
+  "permalink": "/es/developer-resources/style-guide/typescript",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

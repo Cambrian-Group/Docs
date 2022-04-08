@@ -1,0 +1,18 @@
+{
+  "unversionedId": "developer-resources/walkthroughs/hello-contract-remote-node",
+  "id": "developer-resources/walkthroughs/hello-contract-remote-node",
+  "title": "Deploy and Interact with Contracts (Remotely)",
+  "description": "How to deploy and interact your own smart contracts using a remote node.",
+  "source": "@site/docs/developer-resources/walkthroughs/hello-contract-remote-node.md",
+  "sourceDirName": "developer-resources/walkthroughs",
+  "slug": "/developer-guide/start/hello-contract-remote-node",
+  "permalink": "/es/developer-guide/start/hello-contract-remote-node",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Deploy and Interact with Contracts (Remotely)",
+    "description": "How to deploy and interact your own smart contracts using a remote node.",
+    "slug": "/developer-guide/start/hello-contract-remote-node"
+  }
+}

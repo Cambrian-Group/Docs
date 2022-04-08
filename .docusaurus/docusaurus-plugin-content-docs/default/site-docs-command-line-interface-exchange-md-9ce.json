@@ -1,0 +1,23 @@
+{
+  "unversionedId": "command-line-interface/exchange",
+  "id": "command-line-interface/exchange",
+  "title": "celocli exchange",
+  "description": "Exchange Celo Dollars and CELO via the stability mechanism",
+  "source": "@site/docs/command-line-interface/exchange.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/exchange",
+  "permalink": "/es/command-line-interface/exchange",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "celocli election",
+    "permalink": "/es/command-line-interface/election"
+  },
+  "next": {
+    "title": "celocli governance",
+    "permalink": "/es/command-line-interface/governance"
+  }
+}

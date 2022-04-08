@@ -1,0 +1,28 @@
+{
+  "unversionedId": "learn/why-celo",
+  "id": "learn/why-celo",
+  "title": "Why ZSC",
+  "description": "Celo believes in a future where everyone can prosper.",
+  "source": "@site/docs/learn/why-celo.md",
+  "sourceDirName": "learn",
+  "slug": "/why-celo",
+  "permalink": "/es/why-celo",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Why ZSC",
+    "id": "why-celo",
+    "slug": "/why-celo",
+    "description": "Celo believes in a future where everyone can prosper."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Welcome to ZSC",
+    "permalink": "/es/"
+  },
+  "next": {
+    "title": "Key Concepts",
+    "permalink": "/es/learn/celo-highlights"
+  }
+}

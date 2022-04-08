@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[6283],{49196:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/dappstarter","name":"dappstarter","count":1,"permalink":"/blog/tags/dappstarter"}')}}]);

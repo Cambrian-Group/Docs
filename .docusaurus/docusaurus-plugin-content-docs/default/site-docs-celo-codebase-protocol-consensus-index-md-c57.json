@@ -1,0 +1,27 @@
+{
+  "unversionedId": "celo-codebase/protocol/consensus/index",
+  "id": "celo-codebase/protocol/consensus/index",
+  "title": "Consensus Introduction",
+  "description": "Overview of Celo's consensus protocol and network validators.",
+  "source": "@site/docs/celo-codebase/protocol/consensus/index.md",
+  "sourceDirName": "celo-codebase/protocol/consensus",
+  "slug": "/celo-codebase/protocol/consensus",
+  "permalink": "/es/celo-codebase/protocol/consensus",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Consensus Introduction",
+    "description": "Overview of Celo's consensus protocol and network validators.",
+    "slug": "/celo-codebase/protocol/consensus"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Protocol",
+    "permalink": "/es/celo-codebase/protocol"
+  },
+  "next": {
+    "title": "Validator Set Differences",
+    "permalink": "/es/celo-codebase/protocol/consensus/validator-set-differences"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[1041],{24954:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/pinata","name":"pinata","count":1,"permalink":"/blog/tags/pinata"}')}}]);

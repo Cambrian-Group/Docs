@@ -1,0 +1,33 @@
+{
+  "permalink": "/es/blog/code-playground",
+  "source": "@site/blog/2021-11-15-code-playground.md",
+  "title": "Intro to the Code Playground",
+  "description": "Playing with Code",
+  "date": "2021-11-15T00:00:00.000Z",
+  "formattedDate": "15 de noviembre de 2021",
+  "tags": [
+    {
+      "label": "code playground",
+      "permalink": "/es/blog/tags/code-playground"
+    }
+  ],
+  "readingTime": 0.99,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Josh Crites",
+      "title": "Developer Relations, cLabs",
+      "url": "https://github.com/critesjosh",
+      "image_url": "https://github.com/critesjosh.png",
+      "imageURL": "https://github.com/critesjosh.png"
+    }
+  ],
+  "prevItem": {
+    "title": "Code Playground -- Metamask",
+    "permalink": "/es/blog/code-metamask"
+  },
+  "nextItem": {
+    "title": "Contributing to the Blog",
+    "permalink": "/es/blog/blog-contributions"
+  }
+}

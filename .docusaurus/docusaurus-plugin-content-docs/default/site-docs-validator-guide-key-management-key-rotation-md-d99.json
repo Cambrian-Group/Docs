@@ -1,0 +1,27 @@
+{
+  "unversionedId": "validator-guide/key-management/key-rotation",
+  "id": "validator-guide/key-management/key-rotation",
+  "title": "Celo Validator Signer Key Rotation",
+  "description": "How to manage signer key rotations as a Celo Validator.",
+  "source": "@site/docs/validator-guide/key-management/key-rotation.md",
+  "sourceDirName": "validator-guide/key-management",
+  "slug": "/validator-guide/summary/key-rotation",
+  "permalink": "/es/validator-guide/summary/key-rotation",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Validator Signer Key Rotation",
+    "description": "How to manage signer key rotations as a Celo Validator.",
+    "slug": "/validator-guide/summary/key-rotation"
+  },
+  "sidebar": "validators",
+  "previous": {
+    "title": "Celo Detailed Role Descriptions",
+    "permalink": "/es/validator-guide/summary/detailed"
+  },
+  "next": {
+    "title": "Run Secure Celo Nodes and Services",
+    "permalink": "/es/validator-guide/securing-nodes-and-services"
+  }
+}

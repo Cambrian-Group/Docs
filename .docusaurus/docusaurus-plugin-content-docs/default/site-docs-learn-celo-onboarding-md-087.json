@@ -1,0 +1,17 @@
+{
+  "unversionedId": "learn/celo-onboarding",
+  "id": "learn/celo-onboarding",
+  "title": "Celo Onboarding",
+  "description": "Learn the basics of the Celo platform.",
+  "source": "@site/docs/learn/celo-onboarding.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/celo-onboarding",
+  "permalink": "/es/learn/celo-onboarding",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Onboarding",
+    "description": "Learn the basics of the Celo platform."
+  }
+}

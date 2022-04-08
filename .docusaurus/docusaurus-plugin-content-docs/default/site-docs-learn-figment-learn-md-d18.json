@@ -1,0 +1,17 @@
+{
+  "unversionedId": "learn/figment-learn",
+  "id": "learn/figment-learn",
+  "title": "Figment Learn",
+  "description": "Learn Celo. Build a better Internet.",
+  "source": "@site/docs/learn/figment-learn.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/figment-learn",
+  "permalink": "/es/learn/figment-learn",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Figment Learn",
+    "description": "Learn Celo. Build a better Internet."
+  }
+}

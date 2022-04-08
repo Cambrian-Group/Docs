@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/wallet/intro",
+  "id": "celo-codebase/wallet/intro",
+  "title": "Running the Wallet Locally",
+  "description": "How to setup the Celo Wallet locally, complete basic wallet functions, and troubleshoot common issues.",
+  "source": "@site/docs/celo-codebase/wallet/intro.md",
+  "sourceDirName": "celo-codebase/wallet",
+  "slug": "/celo-codebase/wallet/intro",
+  "permalink": "/es/celo-codebase/wallet/intro",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Running the Wallet Locally",
+    "description": "How to setup the Celo Wallet locally, complete basic wallet functions, and troubleshoot common issues."
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Celo Wallet",
+    "permalink": "/es/celo-codebase/wallet"
+  },
+  "next": {
+    "title": "Using the Celo Wallet",
+    "permalink": "/es/getting-started/using-the-wallet"
+  }
+}

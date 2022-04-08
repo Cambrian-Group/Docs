@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator-guide/celo-signal",
+  "id": "validator-guide/celo-signal",
+  "title": "Celo Signal",
+  "description": "How to join the mailing list for everything involving the Celo core community and owners who participate in governance.",
+  "source": "@site/docs/validator-guide/celo-signal.md",
+  "sourceDirName": "validator-guide",
+  "slug": "/validator-guide/celo-signal",
+  "permalink": "/es/validator-guide/celo-signal",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Signal",
+    "description": "How to join the mailing list for everything involving the Celo core community and owners who participate in governance."
+  },
+  "sidebar": "validators",
+  "previous": {
+    "title": "Celo Foundation Voting Policy",
+    "permalink": "/es/validator-guide/celo-foundation-voting-policy"
+  },
+  "next": {
+    "title": "Celo Validator Troubleshooting FAQ",
+    "permalink": "/es/getting-started/validator-troubleshooting-faq"
+  }
+}

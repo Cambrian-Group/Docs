@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[6029],{60365:function(s){s.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/solidity","name":"solidity","count":3,"permalink":"/es/blog/tags/solidity"}')}}]);

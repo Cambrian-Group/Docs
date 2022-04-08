@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/bridging/bridging-to-celo",
+  "id": "celo-codebase/protocol/bridging/bridging-to-celo",
+  "title": "Celo Bridges",
+  "description": "How to bridge from Ethereum, Polygon, and Solana to Celo.",
+  "source": "@site/docs/celo-codebase/protocol/bridging/bridging-to-celo.md",
+  "sourceDirName": "celo-codebase/protocol/bridging",
+  "slug": "/celo-codebase/protocol/bridging/bridging-to-celo",
+  "permalink": "/es/celo-codebase/protocol/bridging/bridging-to-celo",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Bridges",
+    "description": "How to bridge from Ethereum, Polygon, and Solana to Celo."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Recover ETH or ERC-20 tokens from a Celo address",
+    "permalink": "/es/celo-owner-guide/celo-recovery"
+  },
+  "next": {
+    "title": "Optics Bridge GUI",
+    "permalink": "/es/celo-codebase/protocol/bridging/optics-gui"
+  }
+}

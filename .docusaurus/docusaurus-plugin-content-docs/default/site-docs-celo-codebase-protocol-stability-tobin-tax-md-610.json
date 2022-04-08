@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/stability/tobin-tax",
+  "id": "celo-codebase/protocol/stability/tobin-tax",
+  "title": "Celo Tobin Tax",
+  "description": "Overview of the Tobin Tax and its effect on the Celo reserve.",
+  "source": "@site/docs/celo-codebase/protocol/stability/tobin-tax.md",
+  "sourceDirName": "celo-codebase/protocol/stability",
+  "slug": "/celo-codebase/protocol/stability/tobin-tax",
+  "permalink": "/es/celo-codebase/protocol/stability/tobin-tax",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Tobin Tax",
+    "description": "Overview of the Tobin Tax and its effect on the Celo reserve."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Add Stable Assets to Celo",
+    "permalink": "/es/celo-codebase/protocol/stability/adding_stable_assets"
+  },
+  "next": {
+    "title": "Celo Transactions Overview",
+    "permalink": "/es/celo-codebase/protocol/transactions"
+  }
+}

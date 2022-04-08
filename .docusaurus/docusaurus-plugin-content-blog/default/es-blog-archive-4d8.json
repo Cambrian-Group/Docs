@@ -1,0 +1,748 @@
+{
+  "blogPosts": [
+    {
+      "id": "/2022/02/21/introduction-to-celo-progressive-dappstarter",
+      "metadata": {
+        "permalink": "/es/blog/2022/02/21/introduction-to-celo-progressive-dappstarter",
+        "source": "@site/blog/2022-02-21-introduction-to-celo-progressive-dappstarter.md",
+        "title": "Introduction to Celo Progressive DAppstarter",
+        "description": "Quickly develop full-stack progressive web applications on Celo.",
+        "date": "2022-02-21T00:00:00.000Z",
+        "formattedDate": "21 de febrero de 2022",
+        "tags": [
+          {
+            "label": "react",
+            "permalink": "/es/blog/tags/react"
+          },
+          {
+            "label": "material-ui",
+            "permalink": "/es/blog/tags/material-ui"
+          },
+          {
+            "label": "dappstarter",
+            "permalink": "/es/blog/tags/dappstarter"
+          },
+          {
+            "label": "progressive",
+            "permalink": "/es/blog/tags/progressive"
+          }
+        ],
+        "readingTime": 2.9466666666666668,
+        "truncated": true,
+        "authors": [],
+        "nextItem": {
+          "title": "Celo Valora + WalletConnect v1",
+          "permalink": "/es/blog/2022/01/08/valora-wc-v1"
+        }
+      },
+      "content": "import ImageWrapper from '@components/ImageWrapper'\nimport YouTube from '@components/YouTube';\n\n\n\nQuickly develop full-stack progressive web applications on the Celo blockchain.\n\n---\n\n## Getting started\n\nWelcome to the [Celo Progressive Dappstarter](https://celo-progressive-dapp-starter.netlify.app/)—a starter pack to get you up and running fast with Celo DApp development. The goal of this post is to get you up and running [Celo Progressive Dapp starter](https://github.com/celo-org/celo-progressive-dapp-starter) in about 15 minutes or less. From there you can quickly build, iterate, and deploy new DApps on the Celo blockchain.\n\n**Here's a quick look at what you'll build**\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/1.png)\n\n<!--truncate-->\n\n## Watch the video\n\nCheck out this video for an overview of the topics covered in this post.\n\n<YouTube videoId=\"MQg2sta0lr8\"/>\n\n:::info README\n\nView the project [README](https://github.com/celo-org/celo-progressive-dapp-starter) for a quick summary of steps in this video.\n\n:::\n\n## Prerequisites\n\nTo start building, you’ll need a basic understanding of web development, Node (v12), yarn, and Git.\n\n- Node (v12), [NVM](https://github.com/nvm-sh/nvm)\n- Yarn\n- Git\n\n## Project stack\n\nThe Celo Progressive Dappstarter uses the [Next.js](https://nextjs.org/) React framework with [Material UI](https://mui.com/), and [use-contractkit](https://www.npmjs.com/package/@celo-tools/use-contractkit) Celo library to get you started with building a responsive, web3 DApp quickly. The goal is to get you started quickly for ha reference and extend it with any web3 packages you are familiar with.\n\n## Set up your project repo\n\nNavigate to the [project repo](https://github.com/celo-org/celo-progressive-dapp-starter) and select **Use this template**\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/2.png)\n\nAdd a repository **name**, **description **and click **Create repository from template.**\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/3.png)\n\n:::info Include all branches\n\nThis template will soon include additional branches with new features. If you would like to include these branches in your repository, select **Include all branches**.\n\n:::\n\n## Create a local project\n\nFrom your new GitHub repository, select code, and copy the GitHub URL for your project.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/4.png)\n\nOpen your terminal, navigate to your project directory, and `git clone` your project using the GitHub URL.\n\n```\ngit clone https://github.com/path-to-your-project-repo\n```\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/5.png)\n\nNavigate into your Celo project and run `nvm use` to switch to a Celo compatible Node version. Celo is compatible with Node v12 as specified in `.nvmrc` of the project folder.\n\n```\ncd celo-progressive-dapp-starter\nnvm use\n```\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/6.png)\n\n## Setup your testnet account\n\nCreate a new account and print the account number and private key using [hardhat](https://hardhat.org/) `create-account`.\n\n```\nnpx hardhat create-account\n```\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/7.png)\n\nCopy the testnet account address, paste it into the [Celo Testnet Faucet](https://celo.org/developers/faucet) and select **Get Started** to transfer funds into your testnet account.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/8.png)\n\nImport a new MetaMask account using your private key to view your newly funded Testnet Account.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/9.png)\n\n:::info MetaMask Setup\n\nLearn more about setting up your Alfajores Testnet with MetaMask [here](https://docs.celo.org/getting-started/wallets/using-metamask-with-celo/manual-setup#adding-a-celo-network-to-metamask)\n\n:::\n\n## Deploy smart contracts\n\nChange into the hardhat directory and install the project dependencies.\n\n```\ncd packages/hardhat\nyarn install\n```\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/10.png)\n\nOpen your projects `.env` file and replace `PRIVATE_KEY` with the account **private key** from your terminal.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/11.png)\n\nReturn to your terminal and run `yarn deploy` to deploy your smart contracts.\n\n:::info Redeploy contracts\n\nYou can run **yarn deploy --reset** to force re-deploy your contracts to any chain.\n\n:::\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/12.png)\n\n## Start the front-end\n\nNavigate into the react-app directory and run `yarn install` to install the project front-end dependencies.\n\n```\ncd packages/react-app\nyarn install\nyarn dev\n```\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/13.png)\n\nRun `yarn dev` to start your development environment.\n\n```\nyarn dev\n```\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/14.png)\n\nOpen [localhost:3000 ](http://localhost:3000/)to view your project.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/15.png)\n\n## Explore your dApp\n\nEnter a value in the **write contract **function and confirm the transaction to store a value.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/16.png)\n\nOnce the transaction has been complete (approximately 5 seconds) you may view the transaction using the alert that appears with a link to the [Celo Alfajores Block Explorer](https://alfajores-blockscout.celo-testnet.org/).\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/17.png)\n\nYou should now be able to view the updated storage value using the **Read Storage Contract **function.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/18.png)\n\nView the **Greeter Contract **using the tabs to interact with a similar contract that allows you to read and write string values rather than numbers.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/19.png)\n\n## Customize your dApp\n\nSmart contracts for this project are in the **packages/hardhat/contracts **folder.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/20.png)\n\nThe deploy scripts for each smart contract are found in** packages/hardhat/deploy/00-deploy.js**.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/21.png)\n\nThe front-end code for each smart contract interface are found in **packages/react-app/components **and are named as components that should be similar to the name of the smart contract.\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/22.png)\n\n:::info Redeploy contracts\n\nYou can run **yarn deploy --reset** to force re-deploy your contracts to any chain.\n\n:::\n\n## View on Mobile\n\nServe your React app to your mobile device for testing via a tunnel. Next.js defaults to serving your app on `port 3000`.\n\n```\nnpx localtunnel --port 3000\n```\n\n:::info Local Tunnel\n\nRead more about localtunnel [here](https://www.npmjs.com/package/localtunnel).\n\n:::\n\n![dappstarter](/img/doc-images/introduction-to-celo-progressive-dappstarter/23.png)\n\nYour Celo dApp is now available on your mobile device at the URL provided in your terminal.\n\n## Contribute to the project\n\nWe welcome contributions to this repository! If you decide to try this out and find something confusing, consider opening a pull request to make things more clear for the next developer. If you improve the user interface or create new components that you think might be useful for other developers, consider opening a PR.\n\nWe will happily compensate you for your contributions. Anywhere between 5 and 50 cUSD (or more) will be awarded to contributors depending on the scope of the work as determined by the Celo Foundation Developer Relations team.\n\n:::info Get Support\n\nJoin the [Celo Discord server](https://chat.celo.org/) or reach out on the dedicated repo channel\n[here](https://discord.com/channels/600834479145353243/941003424298856448).\n\n:::"
+    },
+    {
+      "id": "/2022/01/08/valora-wc-v1",
+      "metadata": {
+        "permalink": "/es/blog/2022/01/08/valora-wc-v1",
+        "source": "@site/blog/2022-01-08-valora-wc-v1.md",
+        "title": "Celo Valora + WalletConnect v1",
+        "description": "How to use Wallet Connect version 1 in a DApp to connect to Valora.",
+        "date": "2022-01-08T00:00:00.000Z",
+        "formattedDate": "8 de enero de 2022",
+        "tags": [
+          {
+            "label": "react",
+            "permalink": "/es/blog/tags/react"
+          },
+          {
+            "label": "valora",
+            "permalink": "/es/blog/tags/valora"
+          },
+          {
+            "label": "wallet connect",
+            "permalink": "/es/blog/tags/wallet-connect"
+          }
+        ],
+        "readingTime": 1.8666666666666667,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Introduction to Celo Progressive DAppstarter",
+          "permalink": "/es/blog/2022/02/21/introduction-to-celo-progressive-dappstarter"
+        },
+        "nextItem": {
+          "title": "Use onchain randomness",
+          "permalink": "/es/blog/developer-guide/start/randomness"
+        }
+      },
+      "content": "import ImageWrapper from '@components/ImageWrapper'\n\n\n\nHow to use [WalletConnect version 1](https://docs.walletconnect.com/1.0/) in a DApp to connect to [Valora](https://valoraapp.com/).\n\n<!--truncate-->\n\n## Getting Started\n\nIn this example, we will demonstrate how to add WalletConnect to a simple React app.\n\nThis is a simple DApp that focuses on demonstrating how to connect WalletConnect to Valora, but also shows how to set up [ContractKit](/developer-guide/contractkit) and make a simple cUSD transfer. You can view the DApp code [here](https://github.com/critesjosh/valora-wallet-connect-v1).\n\n## Add Packages\n\nAdd the packages that you need to your project.\n\n- [@walletconnect/web3-provider](https://www.npmjs.com/package/@walletconnect/web3-provider)\n- [Contractkit](https://www.npmjs.com/package/@celo/contractkit)\n- [Web3](https://www.npmjs.com/package/web3)\n\n```shell\nyarn add @wallet-connect/web3-provider web3 @celo/contractkit\n```\n\nImport the packages to your project code.\n\n```js\nimport WalletConnectProvider from \"@walletconnect/web3-provider\";\nimport Web3 from \"web3\";\nimport { newKitFromWeb3 } from \"@celo/contractkit\";\n```\n\n## Connect\n\nIf the DApp does not detect a [wallet connect provider](https://docs.walletconnect.com/1.0/quick-start/dapps/web3-provider), the user will be presented with a button to initiate a wallet connection.\n\nIf the DApp is being accessed on a computer or device other than the mobile device with the wallet, the user can connect to the mobile wallet by scanning the presented QR code. If the DApp is being accessed on the same device as the wallet, the connection will be made via the appropriate linking mechanism (iOS and Android are different). You can read more about that [here](https://docs.walletconnect.com/1.0/mobile-linking#wallet-support).\n\nWhen a provider is detected, the DApp will show a button to send some cUSD.\n\n![connect dapp](/img/doc-images/valora-wc-v1/connect-dapp.png)\n\nThe connect function sets up the WalletConnect Provider and initializes ContractKit with the provider and user account. It also sets up a listener that will log when the user changes accounts. The DApp then saves the provider and initialized Contractkit in the [React component state](https://reactjs.org/docs/faq-state.html).\n\n```js\nconnect = async () => {\n  const provider = new WalletConnectProvider({\n    rpc: {\n      44787: \"https://alfajores-forno.celo-testnet.org\",\n      42220: \"https://forno.celo.org\",\n    },\n  });\n\n  await provider.enable();\n  const web3 = new Web3(provider);\n  let kit = newKitFromWeb3(web3);\n\n  kit.defaultAccount = provider.accounts[0];\n\n  provider.on(\"accountsChanged\", (accounts) => {\n    console.log(accounts);\n  });\n\n  this.setState({ provider, kit });\n};\n```\n\n**DApp:**\n\n![qr code](/img/doc-images/valora-wc-v1/qr-code.png)\n\n**Valora:**\n\n<ImageWrapper path=\"/img/doc-images/valora-wc-v1/connect-valora.jpg\" alt=\"connect valora\" width=\"200\" />\n\nWhen the provider has been set and the DApp is connected to Valora, the UI will update the button and display the user account address below.\n\n![send cusd](/img/doc-images/valora-wc-v1/send-cusd.png)\n\n## Send cUSD\n\nClicking the new button will prompt the user to send 0.001 cUSD to a hard-coded address. The user will have to click Allow to send the transaction. Once the transaction is confirmed, the transaction receipt will be printed in the DApp browser console.\n\nYou can code the transaction approval request with just a few lines, demonstrated in the `sendcUSD` function.\n\n- Get the saved instance of ContractKit from `this.state.kit`\n- Get the stabletoken (cUSD) contract\n- Call `transfer` and `send` with the recipient and amount\n\n```js\nsendcUSD = async () => {\n  let kit = this.state.kit;\n\n  let amount = kit.web3.utils.toWei(\"0.001\", \"ether\");\n\n  const stabletoken = await kit.contracts.getStableToken();\n  const tx = await stabletoken.transfer(this.state.someAddress, amount).send();\n  const receipt = await tx.waitReceipt();\n\n  console.log(receipt);\n};\n```\n\n<ImageWrapper path=\"/img/doc-images/valora-wc-v1/valora-send.jpg\" alt=\"approve valora\" width=\"200\" />\n\nThe receipt will be logged once the user approves the transaction and it is confirmed on the network.\n\n## Pay Fees in Stable currencies\n\nSpecifying the `feeCurrency` field in the transaction will allow users to pay transaction fees in that currency. Here's how you can have users pay transaction fees in cUSD, for example:\n\n```js\nconst stabletoken = await kit.contracts.getStableToken();\nlet tx = await stabletoken\n  .transfer(this.state.someAddress, amount)\n  .send({ feeCurrency: stabletoken.address });\n```"
+    },
+    {
+      "id": "/developer-guide/start/randomness",
+      "metadata": {
+        "permalink": "/es/blog/developer-guide/start/randomness",
+        "source": "@site/blog/2022-01-07-on-chain-randomness.md",
+        "title": "Use onchain randomness",
+        "description": "How to use onchain randomness in your smart contracts.",
+        "date": "2022-01-07T00:00:00.000Z",
+        "formattedDate": "7 de enero de 2022",
+        "tags": [
+          {
+            "label": "solidity",
+            "permalink": "/es/blog/tags/solidity"
+          },
+          {
+            "label": "randomness",
+            "permalink": "/es/blog/tags/randomness"
+          },
+          {
+            "label": "oracle",
+            "permalink": "/es/blog/tags/oracle"
+          }
+        ],
+        "readingTime": 0.33,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Celo Valora + WalletConnect v1",
+          "permalink": "/es/blog/2022/01/08/valora-wc-v1"
+        },
+        "nextItem": {
+          "title": "React based DApp",
+          "permalink": "/es/blog/developer-guide/start/web-dapp"
+        }
+      },
+      "content": "import PageRef from '@components/PageRef';\n\nOnchain randomness is used for selecting validators to perform phone number verification. Read more about how onchain randomness is produced at the provided page.\n\n<!--truncate-->\n\n<PageRef url=\"/celo-codebase/protocol/identity/randomness\" pageName=\"Randomness\" />\n\nThis randomness can be used by any smart contracts deployed to a Celo network.\n\n```solidity\nimport \"celo-monorepo/packages/protocol/identity/interfaces/IRandom.sol\";\nimport \"celo-monorepo/packages/protocol/common/interfaces/IRegistry.sol\";\n\ncontract Example {\n    function test() external view returns (bytes32 randomness) {\n        randomness = IRandom(\n            IRegistry(0x000000000000000000000000000000000000ce10)\n                .getAddressFor(keccak256(abi.encodePacked(\"Random\")))\n        ).random();\n    }\n}\n```\n\nAlternatively, through inheritance of `UsingRegistry`.\n\n```solidity\nimport \"celo-monorepo/packages/protocol/common/UsingRegistryV2.sol\";\n\ncontract Example is UsingRegistryV2 {\n    function test() external view returns (bytes32 randomness) {\n        randomness = getRandom().random();\n    }\n}\n```"
+    },
+    {
+      "id": "/developer-guide/start/web-dapp",
+      "metadata": {
+        "permalink": "/es/blog/developer-guide/start/web-dapp",
+        "source": "@site/blog/2022-01-06-web-dapp.md",
+        "title": "React based DApp",
+        "description": "The basics of developing a decentralised application (DApp) on Celo.",
+        "date": "2022-01-06T00:00:00.000Z",
+        "formattedDate": "6 de enero de 2022",
+        "tags": [
+          {
+            "label": "DApp",
+            "permalink": "/es/blog/tags/d-app"
+          },
+          {
+            "label": "react",
+            "permalink": "/es/blog/tags/react"
+          },
+          {
+            "label": "nextjs",
+            "permalink": "/es/blog/tags/nextjs"
+          },
+          {
+            "label": "use-contractkit",
+            "permalink": "/es/blog/tags/use-contractkit"
+          },
+          {
+            "label": "sdk",
+            "permalink": "/es/blog/tags/sdk"
+          }
+        ],
+        "readingTime": 6.54,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Use onchain randomness",
+          "permalink": "/es/blog/developer-guide/start/randomness"
+        },
+        "nextItem": {
+          "title": "Deploy an NFT to Celo",
+          "permalink": "/es/blog/2022/01/05/no-code-erc721"
+        }
+      },
+      "content": "The basics of developing a decentralised application (DApp) on Celo.\n\n<!--truncate-->\n\n## Getting Started\n\nThis example will develop using one of the core Celo contracts, [Governance.sol](https://github.com/celo-org/celo-monorepo/blob/master/packages/protocol/contracts/governance/Governance.sol), and allowing users of our DApp to vote on active [Celo Governance proposals](https://docs.celo.org/celo-owner-guide/voting-governance).\n\n## Foreword\n\nThis guide requires an understanding of a few popular web technologies. Our application will be written in [React](https://reactjs.org/), utilising [hooks](https://reactjs.org/docs/hooks-intro.html) for state management and built with [Next.js](https://nextjs.org/), a popular static site generation framework.\n\nIf you find this tutorial lacking in any way or want to dive into the code more thoroughly, checkout the [Celo Tools](https://github.com/alexbharley/celo-tools) GitHub repository where much of this tutorial has been ported from.\n\n## Getting started\n\nStep one of developing our application is scaffolding it out with `create-next-app` and adding TypeScript compilation so we can develop more confidently.\n\n```bash\nyarn create next-app voting-dapp\ncd voting-dapp\ntouch tsconfig.json\nyarn add --dev typescript @types/react @types/node\n```\n\nNow running `yarn dev` should open up our new Next.js website on `localhost:3000`.\n\nNext we'll need to add a few Celo specific dependencies so we can work with our core contracts.\n\n```bash\nyarn add @celo/contractkit @celo-tools/use-contractkit bignumber.js\n```\n\nHere's what we'll be using each of these packages for:\n\n- [@celo/contractkit](https://github.com/celo-org/celo-monorepo/tree/master/packages/sdk/contractkit) is a lightweight wrapper around the [Web3](https://web3js.readthedocs.io/) object you may already be familiar with. It contains typed interfaces for the core contracts (generated from the Contract ABIs) and helper functions to make common operations on Celo easier\n- [@celo-tools/use-contractkit](https://github.com/celo-tools/use-contractkit) is a community provided library to ease establishing the connection with a user's wallet, whether that is a hardware, mobile, or web wallet. When developing with this library, your users can hold Celo via [Valora](https://valoraapp.com), a Ledger, Metamask and more\n- [bignumber.js](https://github.com/MikeMcl/bignumber.js/) is a library for expressing large numbers in JavaScript. When interacting with a blockchain we often need to handle arbitrary-precision decimal and non-decimal arithmetic.\n\nWe'll also need to add some Next.js config to work with these packages. Update next.config.js with the following:\n\n```javascript title=\"next.config.js\"\nmodule.exports = {\n  webpack: (config) => {\n    config.resolve.fallback = {\n      ...config.resolve.fallback,\n      fs: false,\n      net: false,\n      child_process: false,\n      readline: false,\n    };\n    return config;\n  },\n};\n```\n\nWe'll need to restart the server for the config changes to take effect.\n\n## Developing the application\n\nAfter all our boilerplate has been setup, we're ready to start developing our application.\n\n### Connecting to the user's wallet\n\nWhen a user wants to interact with your DApp we need to somehow allow them to connect their wallet. Interaction with on chain smart contracts is impossible without this step.\n\nLeveraging our previously added [@celo-tools/use-contractkit](https://github.com/celo-tools/use-contractkit) library we can provide a button that prompts the user to connect their wallet.\n\nUpdate pages/index.js with the following:\n\n```javascript title=\"pages/index.js\"\nimport React from \"react\";\nimport { useContractKit } from \"@celo-tools/use-contractkit\";\nimport { ContractKitProvider } from \"@celo-tools/use-contractkit\";\nimport \"@celo-tools/use-contractkit/lib/styles.css\";\n\nfunction App() {\n  const { address, connect } = useContractKit();\n\n  return (\n    <main>\n      <h1>Celo Voting DApp</h1>\n      <p>{address}</p>\n      <button onClick={connect}>Click here to connect your wallet</button>\n    </main>\n  );\n}\n\nfunction WrappedApp() {\n  return (\n    <ContractKitProvider\n      dapp={{\n        name: \"My awesome dApp\",\n        description: \"My awesome description\",\n        url: \"https://example.com\",\n      }}\n    >\n      <App />\n    </ContractKitProvider>\n  );\n}\nexport default WrappedApp;\n```\n\nClicking this button will show the `use-contractkit` modal and allow the user to connect with their wallet of choice. Once the modal has been dismissed, the `address` property exposed by `use-contractkit` will be filled with the users primary account.\n\n### Accessing contracts\n\nAfter that we've connected to the user's wallet we can show interesting information based on their address. In the context of a governance voting DApp it may make sense to show past proposals they've voted on. If we were creating a simple banking interface, we could imagine wanting to show transfers into and out of the users account.\n\n:::info\n\nOn the Celo blockchain, only queued and dequeued proposals are kept in the Governance state. That means to access old proposals we'd need to access an indexed history of the blockchain. This is out of scope for our tutorial however there's many resources online you can find that will help you accessing indexed blockchain state.\n\nFor a comprehensive look at how to interpret this on chain state, take a look at the implementation for the [celocli governance:list](https://github.com/celo-org/celo-monorepo/blob/master/packages/cli/src/commands/governance/list.ts) command.\n\nFor the purposes of this tutorial, we'll only be looking at dequeued proposals, or proposals we can currently vote on.\n\n:::\n\nHere's how it looks using a combination of the `useEffect` and `useCallback` hooks to request and display all dequeued proposals from the blockchain.\n\n```javascript title=\"pages/index.js\"\nimport React, { useCallback, useEffect, useState } from \"react\";\nimport { useContractKit } from \"@celo-tools/use-contractkit\";\n\nfunction GovernanceApp() {\n  const { address, connect, kit, getConnectedKit } = useContractKit();\n  const [proposals, setProposals] = useState([]);\n\n  const fetchProposals = useCallback(async () => {\n    const governance = await kit.contracts.getGovernance();\n    const dequeue = await governance.getDequeue();\n\n    const fetchedProposals = await Promise.all(\n      dequeue.map(async (id) => ({\n        id,\n        ...(await governance.getProposalRecord(id)),\n      }))\n    );\n    setProposals(fetchedProposals);\n  }, [kit]);\n\n  useEffect(() => {\n    fetchProposals();\n  }, [fetchProposals]);\n\n  return (\n    <div>\n      <h1>Celo Voting DApp</h1>\n      <p>{address}</p>\n      <button onClick={connect}>Click here to connect your wallet</button>\n      <table>\n        <thead>\n          <tr>\n            <th>ID</th>\n            <th>Status</th>\n            <th>Description URL</th>\n          </tr>\n        </thead>\n        <tbody>\n          {proposals.map((proposal) => (\n            <tr>\n              <td>{proposal.id.toString()}</td>\n              <td>\n                {proposal.passed\n                  ? \"Passed\"\n                  : proposal.approved\n                  ? \"Approved\"\n                  : \"Not approved\"}\n              </td>\n              <td>\n                <a\n                  href={proposal.metadata.descriptionURL}\n                  target=\"_blank\"\n                  style={{ color: \"blue\", textDecoration: \"underline\" }}\n                >\n                  Link\n                </a>\n              </td>\n            </tr>\n          ))}\n        </tbody>\n      </table>\n    </div>\n  );\n}\n```\n\nBe sure to add this new `GovernanceApp` component to your `WrappedApp` component.\n\n```js title=\"pages/index.js\"\nfunction WrappedApp() {\n  return (\n    <ContractKitProvider\n      dapp={{\n        name: \"My awesome dApp\",\n        description: \"My awesome description\",\n        url: \"https://example.com\",\n      }}\n    >\n      <GovernanceApp />\n    </ContractKitProvider>\n  );\n}\n```\n\nThis works pretty well however it makes sense to additionally show whether the user has voted on any given dequeued governance proposal. To show that information, we can amend our `fetchProposals` function as follows\n\n```js title=\"pages/index.js\"\nconst fetchProposals = useCallback(async () => {\n  if (!address) {\n    return;\n  }\n\n  const governance = await kit.contracts.getGovernance();\n  const dequeue = await governance.getDequeue();\n\n  const fetchedProposals = await Promise.all(\n    dequeue.map(async (id) => {\n      const [record, voteRecord] = await Promise.all([\n        governance.getProposalRecord(id),\n        governance.getVoteRecord(address, id),\n      ]);\n\n      return {\n        id,\n        ...record,\n        vote: voteRecord ? voteRecord.value : undefined,\n      };\n    })\n  );\n  setProposals(fetchedProposals);\n}, [kit, address]);\n```\n\nNow we have access to whether the user voted on this proposal, we can render that information in our table.\n\n```js title=\"pages/index.js\"\nreturn (\n  <table>\n    <thead>\n      <tr>\n        <th>ID</th>\n        <th>Status</th>\n        <th>Description URL</th>\n        <th>Voted</th>\n      </tr>\n    </thead>\n    <tbody>\n      {proposals.map((proposal) => (\n        <tr>\n          <td>{proposal.id.toString()}</td>\n          <td>\n            {proposal.passed\n              ? \"Passed\"\n              : proposal.approved\n              ? \"Approved\"\n              : \"Not approved\"}\n          </td>\n          <td>\n            <a\n              style={{ color: \"blue\", textDecoration: \"underline\" }}\n              href={proposal.metadata.descriptionURL}\n              target=\"_blank\"\n            >\n              Link\n            </a>\n          </td>\n          <td>{proposal.vote ?? \"No vote yet\"}</td>\n        </tr>\n      ))}\n    </tbody>\n  </table>\n);\n```\n\n### Locking Celo (optional)\n\nA prerequisite to [voting on Celo governance proposals](/celo-owner-guide/voting-governance) is having locked Celo to vote with. We won't cover the various flows for locking, unlocking and relocking Celo in this tutorial but you can check the implementation in [Celo Tools](https://github.com/alexbharley/celo-tools) or take inspiration from the following script:\n\n```javascript\nconst lockValue = new BigNumber(res.flags.value);\n\nconst lockedGold = await this.kit.contracts.getLockedGold();\nconst pendingWithdrawalsValue =\n  await lockedGold.getPendingWithdrawalsTotalValue(address);\nconst relockValue = BigNumber.minimum(pendingWithdrawalsValue, value);\nconst lockValue = value.minus(relockValue);\n\nconst txos = await lockedGold.relock(address, relockValue);\nfor (const txo of txos) {\n  await kit.sendAndWaitForReceipt({ from: address });\n}\n```\n\nAll you need to take care of in your React application is handling user input to select the amount to lock and handling errors in case the user tries to lock more CELO than they hold.\n\nIt's also possible that users of your DApp already have locked CELO, so you might not need to worry about the complexity of permitting that operation.\n\n### Voting on a proposal\n\nTo actually vote on a proposal we need to again interact with the [Governance.sol](https://github.com/celo-org/celo-monorepo/blob/master/packages/protocol/contracts/governance/Governance.sol) smart contract. Our logic for handling a vote looks as follows:\n\n```typescript title=\"pages/index.js\"\nconst vote = useCallback(\n  async (id: string, value: VoteValue) => {\n    const kit = await getConnectedKit();\n    const governance = await kit.contracts.getGovernance();\n    await (await governance.vote(id, value)).sendAndWaitForReceipt();\n    fetchProposals();\n  },\n  [kit, fetchProposals]\n);\n```\n\nHow you handle calling that function is up to you. With [Celo Tools](https://github.com/alexbharley/celo-tools) we opted for simple upwards and downwards facing arrows to handle voting on proposals, however the data can be rendered however you'd prefer.\n\nHere's a simple example showing buttons for `Yes` or `No` votes when no vote has been cast.\n\n```javascript title=\"pages/index.js\"\nimport { VoteValue } from \"@celo/contractkit/lib/wrappers/Governance\";\n\nreturn (\n  <tr>\n    <td>{proposal.id.toString()}</td>\n    <td>\n      {proposal.passed\n        ? \"Passed\"\n        : proposal.approved\n        ? \"Approved\"\n        : \"Not approved\"}\n    </td>\n    <td>\n      <a href={proposal.descriptionURL} target=\"_blank\">\n        Description link\n      </a>\n    </td>\n    <td>\n      {proposal.vote ? (\n        <span>{proposal.vote}</span>\n      ) : (\n        <div>\n          <button onClick={() => vote(proposal.id, VoteValue.Yes)}>Yes</button>\n          <button onClick={() => vote(proposal.id, VoteValue.No)}>No</button>\n        </div>\n      )}\n    </td>\n  </tr>\n);\n```\n\n## Best practices\n\nWe've compiled a short list on best practices to follow when developing DApps. Following these will improve the end user experience and keep them more engaged with the Celo ecosystem. If you have any questions around these, feel free to [reach out on Discord](https://chat.celo.org), we're always there and happy to chat.\n\n### Last used address\n\n[@celo-tools/use-contractkit](https://github.com/celo-tools/use-contractkit) will remember the address a user last logged in with (via [browser LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)). Use this to your advantage and allow your DApp to display the same data whether or not the user has connected their wallet. A good test is to refresh your DApp after connecting and see if anything changes. At the very most, buttons for interaction could be disabled, however it's preferable to prompt to connect the wallet on button click.\n\nKeeping the UI consistent by using the last connected address is a quick win we can have with DApps that make the experience using them closer to Web2, an experience more users will be familiar with.\n\n### Loading states\n\nLoading times are often the give away that an application is a Web3 DApp. Be liberal with loading screens and prioritise making animations smooth.\n\nNothing is worse than a perpetually hanging screen that takes multiple seconds to become interactive. By showing a spinner it communicates to the user that things are happening, however slow they may be.\n\nThis is often offset by the ability to index a blockchain and provide the data in a more accessible format (maybe a SQL database or behind a GraphQL API). As mentioned earlier we haven't covered that in this tutorial, however there's a lot of content on the web around DApp optimisation through prior state indexing.\n\n### Prerender what you can\n\nWith modern static site generators we have amazing leverage over what gets computed server side and what the browser has to request and compute before rendering. If you're unable to index the blockchain before a client requests access to a page, consider loading the relevant data server side with a cache invalidated every hour or so.\n\nNext.js [getStaticProps](https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation) comes to mind here as a great way to offload heavy computation to the server.\n\n### Showing numbers in wei vs. Celo vs. local currency\n\nTake this advice with a grain of salt as it really depends on how familiar with cryptocurrencies and blockchain your users are. At some point in most DApp users are going to need to deal with large numbers. It's up to you whether you display these in wei (1e18) CELO or converted to a currency the user prefers (BTC, USD or EUR for example).\n\nThe sweeping generalisation would be to allow entering values in CELO or their preferred currency and never expose the raw wei amounts to end users.\n\n## Wrapping up\n\nHopefully you have a better grasp on developing DApps against the Celo core contracts now. In this tutorial we covered:\n\n- Connecting to user wallets ([use-contractkit](https://github.com/celo-tools/use-contractkit))\n- Fetching on-chain data\n- Calling simple functions on the core contracts\n- A brief word on best practices with regard to DApp development.\n\nThis is not a comprehensive tutorial for Celo's features and capabilities, keep exploring the docs to learn more and please [connect with us on Discord](https://chat.celo.org) if you need any help (or just want to chat)!"
+    },
+    {
+      "id": "/2022/01/05/no-code-erc721",
+      "metadata": {
+        "permalink": "/es/blog/2022/01/05/no-code-erc721",
+        "source": "@site/blog/2022-01-05-no-code-erc721.md",
+        "title": "Deploy an NFT to Celo",
+        "description": "How to deploy ERC721 tokens (NFTs) on the Celo network using autogenerated code.",
+        "date": "2022-01-05T00:00:00.000Z",
+        "formattedDate": "5 de enero de 2022",
+        "tags": [
+          {
+            "label": "tokens",
+            "permalink": "/es/blog/tags/tokens"
+          },
+          {
+            "label": "ERC721",
+            "permalink": "/es/blog/tags/erc-721"
+          },
+          {
+            "label": "mint",
+            "permalink": "/es/blog/tags/mint"
+          },
+          {
+            "label": "NFT",
+            "permalink": "/es/blog/tags/nft"
+          },
+          {
+            "label": "ipfs",
+            "permalink": "/es/blog/tags/ipfs"
+          },
+          {
+            "label": "pinata",
+            "permalink": "/es/blog/tags/pinata"
+          },
+          {
+            "label": "solidity",
+            "permalink": "/es/blog/tags/solidity"
+          },
+          {
+            "label": "remix",
+            "permalink": "/es/blog/tags/remix"
+          }
+        ],
+        "readingTime": 3.4,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "React based DApp",
+          "permalink": "/es/blog/developer-guide/start/web-dapp"
+        },
+        "nextItem": {
+          "title": "Deploy & Mint a Token",
+          "permalink": "/es/blog/2022/01/04/no-code-erc20"
+        }
+      },
+      "content": "How to deploy ERC721 tokens (NFTs) on the Celo network using autogenerated code.\n\n<!--truncate-->\n\n## Getting Started\n\nIn this example, we will be using IPFS for off-chain storage, but you can use whatever off-chain storage mechanism you want.\n\n## Set up your wallet\n\n1. Install [Metamask](https://metamask.io/).\n2. [Add the Celo network](/getting-started/wallets/using-metamask-with-celo/manual-setup#adding-a-celo-network-to-metamask) to Metamask. We suggest adding the Alfajores testnet to Metamask as well, so you can test contract deployments before deploying to mainnet.\n3. Add a small amount of CELO to your Metamask account. In this example, we will deploy to the Alfajores testnet, so we need Alfajores CELO, which you can get from the faucet [here](https://celo.org/developers/faucet).\n\n## Prepare the NFT metadata\n\n4. Go to [https://app.pinata.cloud/](https://app.pinata.cloud/) and sign up for an account if you don’t have one already. Pinata is a service that allows you to easily upload files to [IPFS](https://ipfs.io/).\n5. Upload your NFT images to IPFS. Because storing data on a blockchain can be expensive, NFTs often reference off-chain data. In this example, We are creating a set of NFTs that reference pictures of trees. We uploaded all of the images of trees to IPFS individually. The names of the images correspond to the token ID. This isn’t necessary, we just did it for convenience. Notice that each image has a corresponding CID hash, this is the unique identifier for that file or folder. ![pinata upload image list.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/pinata%20upload%20image%20list.png?raw=true)\n6. Once all of your images have been uploaded, you will need to prepare the token metadata in a new folder.\n   1. We created a folder called “prosper factory metadata”. You can view the contents of the folder [here](https://gateway.pinata.cloud/ipfs/QmdmA3gwGukA8QDPH7Ypq1WAoVfX82nx7SaXFvh1T7UmvZ). The folder contains 14 files, numbered 0-13. **The names of these files are important.** These file names correspond to the token ID of each NFT that will be created by the contract. Make sure that there are no extensions (.txt, .json, .jpeg, .png) on your files. ![ipfs folder contents.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/ipfs%20folder%20contents.png?raw=true)\n   2. Click on one of the files. The files contain the NFT metadata. In this simple example, the metadata only contains a reference to the unique tree image. You can view the image in a browser that supports IPFS (we are using Brave) here. Each file should have a unique image reference. ![ipfs image metadata.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/ipfs%20image%20metadata.png?raw=true) You will need to create a similarly structured folder containing metadata for all of the NFTs that you want to create.\n7. Upload the folder containing all of the token metadata to IPFS. This will make your NFT data publicly available. We called ours “prosper factory metadata”. Note the CID of this folder. We will need it shortly. ![pinata prosper factory metadata folder.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/pinata%20prosper%20factory%20metadata%20folder.png?raw=true)\n\n## Design and Deploy the Smart Contracts\n\n8. Go to [https://docs.openzeppelin.com/contracts/4.x/wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)\n9. Select ERC721 as your token choice.\n10. Enter your token information.\n    1. We are calling our token the ProsperityFactory, symbol PF.\n    2. We entered the IPFS CID of our token metadata folder (prosper factory metadata) in the “Base URI” field. Be sure to add a trailing “/” to the base URI, the token ID will be appended to the end of the base URI to get the IPFS metadata file. So the complete Base URI for our NFT contract is `ipfs://QmdmA3gwGukA8QDPH7Ypq1WAoVfX82nx7SaXFvh1T7UmvZ/`. Again, you can view the folder [here](https://gateway.pinata.cloud/ipfs/QmdmA3gwGukA8QDPH7Ypq1WAoVfX82nx7SaXFvh1T7UmvZ).\n    3. We made the token mintable and it will automatically increment the token IDs as the tokens are minted. The counter starts at 0 and adds 1 to each successive token. It is important that the file contents of the IPFS metadata folder are labeled accordingly (ie. 0-13) and correspond to the token IDs.\n    4. The contract is also marked Ownable, meaning that only the owner of the contract (which is initially set to the account that deploys the contract) can mint new NFTs. ![erc721 filled settings.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/erc721%20filled%20settings.png?raw=true)\n11. Click “Open in Remix”. Remix will pop open with your contract code already filled in.\n12. Click the big blue button on the left side of Remix that says “Compile contract-xxxx.sol”. ![remix compile erc721.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/remix%20compile%20erc721.png?raw=true)\n13. Once the contract is compiled, click the Ethereum logo on the left side of the window. A new sidebar will appear. ![remix deploy page erc721.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/remix%20deploy%20page%20erc721.png?raw=true)\n14. In the “Environment” dropdown, select “Injected Web3”. This will connect Remix and Metamask. Make sure that Metamask is connected to the correct network. In this example, We are deploying to the Alfajores testnet, so we see a textbox below the dropdown that says `Custom (44787) network`. 44787 is the network id for Alfajores. ![select injected web3.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/select%20injected%20web3.png?raw=true)\n15. Select the contract that you want to deploy. We titled the contract the ProsperityFactory. ![select erc721 contract.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/select%20erc721%20contract.png?raw=true)\n16. Click Deploy. Metamask will pop up asking you to confirm the transaction. ![remix deploy 721 tx.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/remix%20deploy%20721%20tx.png?raw=true)\n17. Once the contract is deployed, Remix will show a newly deployed contract on the bottom left corner of the window. Expand the ProsperityFactory dropdown to see all of the contract functions. You can see the deployed ProsperityFactory NFT contract [here](https://alfajores-blockscout.celo-testnet.org/address/0xD8ea7beC4820dbC22aCf87EB0cCFE50203a45A6F/transactions). ![remix 721 contract interface.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/remix%20721%20contract%20interface.png?raw=true)\n18. Let’s mint the first NFT. To do that we will call the safeMint function. The safeMint function needs an account address as an input, so it knows who to mint the token to. I’ll just enter the first Metamask address and click the orange button. Metamask will pop up, confirm the transaction. When the transaction is confirmed, this will have minted the first NFT, with token ID 0. ![safeMint.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/safeMint.png?raw=true)\n19. Check the token metadata. You can verify that the token was minted by calling the “tokenURI” function with the expected token ID. We call the contract with token ID 0 and it returns an IPFS reference. ![721 read token uri.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/721%20read%20token%20uri.png?raw=true)\n20. Navigating to this IPFS reference will show the token metadata for that NFT. ![ipfs token metadata.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/ipfs%20token%20metadata.png?raw=true)\n21. Going to that IPFS reference will show the image for the token.\n\nWe went through the same process and minted all 14 NFTs from this contract.\n\nThat’s it! You now know how to create your own NFT contract with corresponding metadata!\n\nLet me know what you end up building and reach out if you have any questions, [@critesjosh\\_](https://twitter.com/critesjosh_) on Twitter or joshc#0001 on Discord. Join the Celo discord at [https://chat.celo.org](https://chat.celo.org)."
+    },
+    {
+      "id": "/2022/01/04/no-code-erc20",
+      "metadata": {
+        "permalink": "/es/blog/2022/01/04/no-code-erc20",
+        "source": "@site/blog/2022-01-04-no-code-erc20.md",
+        "title": "Deploy & Mint a Token",
+        "description": "How to deploy an ERC20 token contract to Celo.",
+        "date": "2022-01-04T00:00:00.000Z",
+        "formattedDate": "4 de enero de 2022",
+        "tags": [
+          {
+            "label": "tokens",
+            "permalink": "/es/blog/tags/tokens"
+          },
+          {
+            "label": "ERC20",
+            "permalink": "/es/blog/tags/erc-20"
+          },
+          {
+            "label": "mint",
+            "permalink": "/es/blog/tags/mint"
+          },
+          {
+            "label": "solidity",
+            "permalink": "/es/blog/tags/solidity"
+          },
+          {
+            "label": "open zeppelin",
+            "permalink": "/es/blog/tags/open-zeppelin"
+          },
+          {
+            "label": "remix",
+            "permalink": "/es/blog/tags/remix"
+          }
+        ],
+        "readingTime": 2.5033333333333334,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Deploy an NFT to Celo",
+          "permalink": "/es/blog/2022/01/05/no-code-erc721"
+        },
+        "nextItem": {
+          "title": "Deploy and Interact with Contracts (Remotely)",
+          "permalink": "/es/blog/developer-guide/start/hello-contract-remote-node"
+        }
+      },
+      "content": "How to deploy a token contract that use the ERC20 token standard to Celo without writing code.\n\n<!--truncate-->\n\n## Getting Started\n\nIn this tutorial, we will go over how to deploy an ERC20 token contract. The process is very similar for deploying other tokens as well.\n\n1. Install [Metamask](https://metamask.io/).\n2. [Add the Celo network](/getting-started/wallets/using-metamask-with-celo/manual-setup#adding-a-celo-network-to-metamask) to Metamask. We suggest adding the Alfajores testnet to Metamask as well, so you can test contract deployments before deploying to mainnet.\n3. Add a small amount of CELO to your Metamask account. In this example, we will deploy to the Alfajores testnet, so we need Alfajores CELO, which you can get from the faucet [here](https://celo.org/developers/faucet).\n4. Go to the [Open Zeppelin Contracts Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard).\n5. Select `ERC20` as the type of contract that you would like to deploy.\n\n![erc20 empty settings.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/erc20%20empty%20settings.png?raw=true)\n\n6. Name your token. We are calling our token “ProsperityToken” in this example.\n7. Select the features for your token. We are making ProsperityToken mintable, burnable and enabling snapshots, so the token may be used for governance. We are also making the contract Ownable, so the deployer of the contract can mint new tokens and distribute them as desired. Ideally, the owner account will be a multi-signature contract, so no single person has control over this token contract.\n   If you want the block explorer to recognize your token then leave \"Upgradeability\" unchecked and do not select one of the two radio options below it. Selecting one of these options will prevent the [Celo block explorer](https://explorer.celo.org/) from recognizing your deployed contract as a token. If you want upgradability and do not care about the block explorer, feel free to make your token contract upgradable.\n\n![erc20 filled settings.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/erc20%20filled%20settings.png?raw=true)\n\n8. Open your contract in Remix by clicking “Open in Remix”. Remix will pop open with the contract code already filled in.\n9. Click the big blue button that says “Compile contract-xxxxx.sol”. The contract should compile without error.\n\n![remix compile erc20.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/remix%20compile%20erc20.png?raw=true)\n\n10. Click the Ethereum logo in the left sidebar. This will bring up a new interface for deploying the contract.\n\n![remix deploy erc20.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/remix%20deploy%20erc20.png?raw=true)\n\n11. In the “Environment” section on the top left, select “Injected Web3”. This will connect Remix to Metamask. Now clicking the “deploy” button will deploy the contracts to whichever network Metamask is connected to. You should see a small textbox indicating that Remix is connected to a custom network. The Alfajores network id is 44787.\n\n![select injected web3.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/select%20injected%20web3.png?raw=true)\n\n12. In the Contract dropdown, select the contract that you want to deploy. In this example, it is called ProsperityToken.\n\n![select prosperitytoken erc20 contract.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/select%20prosperitytoken%20erc20%20contract.png?raw=true)\n\n13. Click Deploy. Metamask should pop open.\n\n![deploy prosperity token erc20.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/deploy%20prosperity%20token%20erc20.png?raw=true)\n\n14. Click Confirm. Once the transaction confirms (less than 5 seconds), a contract interface will appear in the bottom left, and transaction details will appear in the console at the bottom.\n\n![deployed prosperity token.png](https://github.com/critesjosh/images/blob/main/token_deploy_tutorials/deployed%20prosperity%20token.png?raw=true)\n\nThat’s it! We now have ProsperityToken deployed on Alfajores with the Metamask account as the contract owner.\n\nYou can see the contract information on the [Alfajores block explorer](https://alfajores-blockscout.celo-testnet.org/). Copy and paste the contract address or deployment transaction hash from the console output and paste it into the block explorer search bar or look up the deployment transaction info in the Metamask activity.\n\n## Deploying your token on the Mainnet\n\nWhen you're ready to deploy your token to the Celo Mainnet make sure to change the network of your connected wallet from Alfajores to the Celo Mainnet. Once you have done this you can simply redeploy the contract (you will not need to recompile it).\n\nNote: When deploying to the Mainnet you will need to use real Celo to pay the gas fee (as opposed to using the faucet on the testnet). As of December 2021 this cost is less than $0.01 US. You can learn how to [get Celo here](https://celo.org/buy).\n\nYou can read about how to add your new token to the Celo Wallet [here](/blog/add-token-celo-wallet).\n\n## Verify\n\nIf you are unable to view your token on the block explorer, you may need to Verify it first. If you are able to see your token, you may skip this section.\n\nVerifying your contract with Remix is straight-forward and allows anyone to read and interact with the contract on the block explorer. You can read more about verifying a contract with Remix on [this page](/developer-resources/deploy-remix#verify-the-smart-contract).\n\nYou can find my example contract [here](https://alfajores-blockscout.celo-testnet.org/address/0x97d550A2540F902F4501e21A6c09f12B69173261/transactions).\n\nLet me know what you end up building and reach out if you have any questions, [@critesjosh\\_](https://twitter.com/critesjosh_) on Twitter or joshc#0001 on Discord. Join the Celo discord at https://chat.celo.org."
+    },
+    {
+      "id": "/developer-guide/start/hello-contract-remote-node",
+      "metadata": {
+        "permalink": "/es/blog/developer-guide/start/hello-contract-remote-node",
+        "source": "@site/blog/2022-01-03-hello-contract-remote-node.md",
+        "title": "Deploy and Interact with Contracts (Remotely)",
+        "description": "How to deploy and interact your own smart contracts using a remote node.",
+        "date": "2022-01-03T00:00:00.000Z",
+        "formattedDate": "3 de enero de 2022",
+        "tags": [
+          {
+            "label": "smart contract",
+            "permalink": "/es/blog/tags/smart-contract"
+          },
+          {
+            "label": "remote",
+            "permalink": "/es/blog/tags/remote"
+          },
+          {
+            "label": "deploy",
+            "permalink": "/es/blog/tags/deploy"
+          }
+        ],
+        "readingTime": 5.1,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Deploy & Mint a Token",
+          "permalink": "/es/blog/2022/01/04/no-code-erc20"
+        },
+        "nextItem": {
+          "title": "Deploy a Contract on Celo (local node)",
+          "permalink": "/es/blog/developer-guide/start/hellocontracts"
+        }
+      },
+      "content": "import PageRef from '@components/PageRef'\n\n\n\nHow to deploy and interact your own smart contracts using a remote node.\n\n<!--truncate-->\n\n:::tip\n\nAs Celo is fully EVM compatible, we inherit the rich developer ecosystem and tooling of the Ethereum community. You will be deploying a typical hello world smart contract onto the Alfajores testnet with the common Ethereum tool, Truffle.\n\n:::\n\n:::note\n\nThis page is similar to the Hello Contracts page, but this one will connect to a remote node (Forno) and do key management in the Truffle project.\n\n:::\n\n## Setup\n\nThis guide assumes that you have a basic Node/[NPM](https://www.npmjs.com/get-npm) setup.\n\n:::info\n\n[Learn more about the Truffle development framework here.](https://www.trufflesuite.com/docs/truffle/overview)\n\n:::\n\nAs you may know, Truffle is built for Ethereum developers. Because Celo has a similar network architecture and runs the Ethereum Virtual Machine, Celo developers are able to leverage many Ethereum developer tools. But it is important to keep in mind the differences. If you haven't already, please review the Celo overview.\n\n<PageRef url=\"/overview\" pageName=\"Celo Overview\"/>\n\n[Clone this Truffle project from GitHub to get started](https://github.com/critesjosh/hello_contract-truffle).\n\n```\ngit clone https://github.com/critesjosh/hello_contract-truffle.git\n```\n\nThis is a basic truffle project, with some additional files to help us with account management and deploying to a remote Celo test net node. Run `npm install` to install of the project dependencies.\n\n## Hello World!\n\nAdd a contract with the command\n\n```text\ntruffle create contract HelloWorld\n```\n\nWe will not go into the details of how to write Solidity in this exercise, but you can learn more at the [Solidity documentation page](https://solidity.readthedocs.io/en/latest/).\n\nThe contract will just store a name for now:\n\n```solidity title=\"contracts/HelloWorld.sol\"\n\npragma solidity >=0.5.0 <0.8.0;\n\ncontract HelloWorld {\n  string name = 'Celo';\n\n  function getName() public view returns (string memory) {\n    return name;\n  }\n\n  function setName(string calldata newName) external {\n    name = newName;\n  }\n}\n```\n\n## Prepare Deployment\n\n### Compile the contract\n\nBefore you deploy the contract, you need to compile the Solidity code into Ethereum bytecode. The following truffle command will look in the `./contracts` directory and compile any new or updated Solidity (`.sol`) contracts.\n\n```\ntruffle compile\n```\n\nAfter compiling the contract, you need to create a migration to deploy the contract. For that, create a file in the `./migrations/` folder named `2_deploy_helloworld.js`:\n\n:::info\n\n[Learn more about Truffle migrations here.](https://www.trufflesuite.com/docs/truffle/getting-started/running-migrations)\n\n:::\n\n```javascript title=\"migrations/2_deploy_helloworld.js\"\nvar HelloWorld = artifacts.require(\"HelloWorld\");\n\nmodule.exports = function (deployer) {\n  deployer.deploy(HelloWorld);\n};\n```\n\n:::info\n\nYou can [learn more about Truffle configuration options here.](https://www.trufflesuite.com/docs/truffle/reference/configuration)\n\n:::\n\n## Deploy to Alfajores \\(Remotely\\)\n\nWhen you deploy contracts to the Celo network with a remote node, you have to sign the contract deployment transaction locally before sending it to the remote node to be broadcast to the network. This presents some unique challenges when using Ethereum development tools \\(like Truffle\\) because Celo transaction objects are slightly different than Ethereum transaction objects.\n\nWhen you are ready to deploy your contract to Alfajores, you'll need a Celo client connected to the testnet. In this exercise you will connect to a remote node to read and write to the public testnet (Alfajores), but you could also run a testnet node locally to perform the same actions.\n\nHere are the steps to go through to deploy the contract to the Alfajores testnet.\n\n1. Connect to Forno \\(a remote Celo node service provider\\)\n2. Get personal account information \\(generate a private key if required, stored in `./.env`\\)\n3. Get your personal account address and fund it via the [faucet](https://celo.org/build/faucet)\n4. Get the compiled contract bytecode\n5. Create and sign the contract deployment transaction\n6. Send transaction to the network\n\nMake sure the dependencies are installed with:\n\n```text\nyarn install\n```\n\nRun the createAccount.js script with:\n\n```text\nnode createAccount.js\n```\n\n```javascript title=\"createAccount.js\"\nconst Web3 = require(\"web3\");\nconst web3 = new Web3(\"http://localhost:8545\");\n\nconsole.log(web3.eth.accounts.create());\n```\n\nThe provided code will print a private key / account pair in the terminal. Copy and paste the printed `priavteKey` into a `PRIVATE_KEY` variable in a file called `.env`, similar to what is shown in the `.envexample` file. The `address` that is printed with the private key is the account that we will fund with the faucet.\n\nIf you go to the [Alfajores Faucet Page](https://celo.org/build/faucet), you can faucet your account some CELO and see your balance increase.\n\n### Deploy the contract\n\n#### Truffle Deployment\n\nBefore you can use truffle for the migration, you need to set up the proper configuration in `./truffle-config.js`. At the top of `./truffle-config.js`, set up the `kit` by connecting to the test network and adding the account you just funded.\n\n```javascript title=\"truffle.config.js\"\nconst ContractKit = require(\"@celo/contractkit\");\nconst Web3 = require(\"web3\");\nrequire(\"dotenv\").config();\n\nconst web3 = new Web3(\"https://alfajores-forno.celo-testnet.org\");\nconst kit = ContractKit.newKitFromWeb3(web3);\n\nkit.connection.addAccount(process.env.PRIVATE_KEY);\n```\n\nThen, in the `networks` object, you can add the initialized `kit`provider to an `alfajores` property.\n\n```javascript title=\"truffle.config.js\"\n  networks: {\n    test: {\n      host: \"127.0.0.1\",\n      port: 7545,\n      network_id: \"*\"\n    },\n    alfajores: {\n      provider: kit.connection.web3.currentProvider, // CeloProvider\n      network_id: 44787,                             // Alfajores network id\n      gas: 4000000,            // You need to include the gas limit\n    }\n  }\n```\n\n:::info\n\nTruffle doesn't estimate the gas properly, so you need to specify a gas limit in `truffle.config.js`.\n\n:::\n\nNow, deploy the contracts to Alfajores with this command:\n\n```javascript\ntruffle migrate --network alfajores\n```\n\n#### Custom Node.js Deployment\n\nIn this section, you will deploy a contract using a simple Node.js script to show how you can do it without using Truffle.\n\nYou need to compile the `HelloWorld.sol` contract using \\(if it isn't already\\):\n\n```javascript\ntruffle compile\n```\n\nThis command will generate a `HelloWorld.json` file in the `./build/contracts/` directory. `HelloWorld.json` contains a lot of data about the contract, compiler and low level details. Import this file into the deployment script `celo_deploy.js` with:\n\n```javascript\nconst HelloWorld = require(\"./build/contracts/HelloWorld.json\");\n```\n\nYou are finally ready to deploy the contract. Use the `kit`to create a custom transaction that includes the contract bytecode.\n\n```javascript title=\"celo_deploy.js\"\nlet tx = await kit.connection.sendTransaction({\n  from: address,\n  data: HelloWorld.bytecode, // from ./build/contracts/HelloWorld.json\n});\n```\n\n:::info\n\nTo deploy a contract on Celo, use the `kit.connection.sendTransaction()` function with no `to:` field and the contract bytecode in the `data` field. The account that you are sending the transaction from must have enough CELO to pay the transaction fee, unless you specify another currency as the `feeCurrency`, then you need enough of that currency to pay the transaction fee.\n\n:::\n\nThe entire deployment script is about 20 lines of code.\n\n```javascript title=\"celo_deploy.js\"\nconst Web3 = require(\"web3\");\nconst ContractKit = require(\"@celo/contractkit\");\nconst web3 = new Web3(\"https://alfajores-forno.celo-testnet.org\");\nconst privateKeyToAddress =\n  require(\"@celo/utils/lib/address\").privateKeyToAddress;\nconst kit = ContractKit.newKitFromWeb3(web3);\nrequire(\"dotenv\").config();\nconst HelloWorld = require(\"./build/contracts/HelloWorld.json\");\n\nasync function awaitWrapper() {\n  kit.connection.addAccount(process.env.PRIVATE_KEY); // this account must have a CELO balance to pay transaction fees\n\n  // This account must have a CELO balance to pay tx fees\n  // get some testnet funds at https://celo.org/build/faucet\n  const address = privateKeyToAddress(process.env.PRIVATE_KEY);\n  console.log(address);\n\n  let tx = await kit.connection.sendTransaction({\n    from: address,\n    data: HelloWorld.bytecode,\n  });\n\n  const receipt = await tx.waitReceipt();\n  console.log(receipt);\n}\n\nawaitWrapper();\n```\n\nCongratulations! You have deployed your first contract onto Celo! You can verify your contract deployment on [Blockscout](https://alfajores-blockscout.celo-testnet.org/). You can get the transaction hash from the receipt and look it up on the block explorer.\n\n### Interacting with Custom Contracts\n\nNow HelloWorld.sol is deployed onto the Alfajores testnet. How can you interact with the deployed contract using ContractKit? `helloWorld.js` includes some example code that shows how you can do this.\n\nThere are 3 functions defined in `helloWorld.js` that accomplish this.\n\nThe first function, `initContract()`, reads the deployed contract information from the Truffle artifact at `HelloWorld.json`. With this information, you can create a new web3.js Contract instance:\n\n```javascript title=\"helloWorld.js\"\nasync function initContract() {\n  // Check the Celo network ID\n  const networkId = await web3.eth.net.getId();\n\n  // Get the contract associated with the current network\n  const deployedNetwork = HelloWorld.networks[networkId];\n\n  // Create a new contract instance with the HelloWorld contract info\n  let instance = new kit.web3.eth.Contract(\n    HelloWorld.abi,\n    deployedNetwork && deployedNetwork.address\n  );\n\n  getName(instance);\n  setName(instance, \"hello world!\");\n}\n```\n\nAfter creating the contract instance, the `initContract()` function calls `getName()` and `setName()`.\n\nThe `getName()` function will call, return and print the `getName()` function of the provided instance of the HelloWorld contract.\n\n```javascript title=\"helloWorld.js\"\nasync function getName(instance) {\n  let name = await instance.methods.getName().call();\n  console.log(name);\n}\n```\n\nThe `setName()` function is a bit more involved. First, it gets the account key from the provided `./secret` file, just like in `celo_deploy.js`. Then it creates a `txObject` that encodes a smart contract transaction call to `setName()` with the provided `newName` to the provided instance of the HelloWorld contract. Then the function sends the encoded transaction object to the network, waits for a reciept and prints it to the console.\n\n```javascript title=\"helloWorld.js\"\nasync function setName(instance, newName) {\n  // Add your account to ContractKit to sign transactions\n  // This account must have a CELO balance to pay tx fees, get some https://celo.org/build/faucet\n  kit.connection.addAccount(process.env.PRIVATE_KEY);\n  const address = privateKeyToAddress(process.env.PRIVATE_KEY);\n\n  // Encode the transaction to HelloWorld.sol according to the ABI\n  let txObject = await instance.methods.setName(newName);\n\n  // Send the transaction\n  let tx = await kit.sendTransactionObject(txObject, { from: address });\n\n  let receipt = await tx.waitReceipt();\n  console.log(receipt);\n}\n```\n\nThe above method shows a more detail about how to create custom deployment transactions and scripts than the previous method.\n\nAs you can see, all the goodies from Ethereum apply to Celo, so virtually all tutorials and other content should be easily translatable to Celo.\n\nCheck out [https://celo.org/build](https://celo.org/build) for more resources!"
+    },
+    {
+      "id": "/developer-guide/start/hellocontracts",
+      "metadata": {
+        "permalink": "/es/blog/developer-guide/start/hellocontracts",
+        "source": "@site/blog/2022-01-02-hellocontracts.md",
+        "title": "Deploy a Contract on Celo (local node)",
+        "description": "How to deploy your own smart contracts onto Celo from a local node.",
+        "date": "2022-01-02T00:00:00.000Z",
+        "formattedDate": "2 de enero de 2022",
+        "tags": [
+          {
+            "label": "smart contract",
+            "permalink": "/es/blog/tags/smart-contract"
+          }
+        ],
+        "readingTime": 2.776666666666667,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Deploy and Interact with Contracts (Remotely)",
+          "permalink": "/es/blog/developer-guide/start/hello-contract-remote-node"
+        },
+        "nextItem": {
+          "title": "Sending CELO & Stable Assets",
+          "permalink": "/es/blog/developer-guide/start/hellocelo"
+        }
+      },
+      "content": "How to deploy your own smart contracts onto a Celo local node.\n\n<!--truncate-->\n\n:::tip\n\nAs Celo is fully EVM compliant, we inherit the rich developer ecosystem and tooling of the Ethereum community. We will be deploying a typical hello world smart contract onto the Alfajores testnet with typical Ethereum tools like Truffle and Ganache.\n\n:::\n\n## Setup\n\nThis guide assumes that you have a basic Node/[NPM](https://www.npmjs.com/get-npm) setup (Node.js v12.x). If so, you can install truffle with:\n\n```\nnpm install -g truffle\n```\n\nIn your desired project folder, intiialize a new truffle project:\n\n```\ntruffle init\n```\n\n## Hello World!\n\nLet's add a contract with\n\n```\ntruffle create contract HelloWorld\n```\n\nOur contract will just store a name for now:\n\n```solidity\npragma solidity >=0.5.0 <0.7.0;\n\ncontract HelloWorld {\n  string name = 'Celo';\n\n  function getName() public view returns (string memory) {\n    return name;\n  }\n\n  function setName(string calldata newName) external {\n    name = newName;\n  }\n}\n```\n\n## Deploy locally\n\nLet's create a migration to deploy the contract. For that, we need to create a file in the `migrations` folder named `2_deploy_helloworld.js`:\n\n```javascript\nvar HelloWorld = artifacts.require(\"HelloWorld\");\n\nmodule.exports = function (deployer) {\n  deployer.deploy(HelloWorld);\n};\n```\n\nTo be able to actually deploy it though, we need a blockchain. For local development and testing, you can use our fork of ganache:\n\n```\nnpm install -g @celo/ganache-cli\n```\n\nAnd then start ganache with:\n\n```\nganache-cli --port 7545\n```\n\nIn your `truffle-config.js`, you'll want to add your local test network under networks:\n\n```\n  networks: {\n    test: {\n      host: \"127.0.0.1\",\n      port: 7545,\n      network_id: \"*\"\n    }\n  }\n```\n\nThen you can deploy your contract to your local network first:\n\n```\ntruffle migrate --network test\n```\n\nYou can interact with your contract by running the truffle console:\n\n```\ntruffle console --network test\ntruffle(test)> contract = await HelloWorld.deployed()\nundefined\ntruffle(test)> contract.getName()\n'Celo'\ntruffle(test)> contract.setName('MyName')\n{ tx:\n...\ntruffle(test)> contract.getName()\n'MyName'\n```\n\n## Deploy to Alfajores\n\nWhen you are ready to deploy your contract to Alfajores, you'll need a Celo client connected to the testnet. We'll run a node somewhat similarly to the [Instructions of running a full node on Baklava](/getting-started/baklava-testnet/running-a-full-node-in-baklava):\n\n```bash\nexport CELO_IMAGE=us.gcr.io/celo-org/geth:alfajores\n```\n\n### Pull the Celo Docker image\n\nWe're going to use a Docker image containing the Celo node software in this tutorial.\n\nIf you are re-running these instructions, the Celo Docker image may have been updated, and it's important to get the latest version.\n\n```bash\ndocker pull $CELO_IMAGE\n```\n\n### Set up a data directory\n\nFirst, create the directory that will store your node's configuration and its copy of the blockchain. This directory can be named anything you'd like, but here's a default you can use. The commands below create a directory and then navigate into it. The rest of the steps assume you are running the commands from inside this directory.\n\n```bash\nmkdir celo-data-dir\ncd celo-data-dir\n```\n\n### Create an account and get its address\n\nIn this step, you'll create an account on the network. If you've already done this and have an account address, you can skip this and move on to configuring your node.\n\nRun the command to create a new account:\n\n```bash\ndocker run -v $PWD:/root/.celo --rm -it $CELO_IMAGE account new\n```\n\nIt will prompt you for a passphrase, ask you to confirm it, and then will output your account address: `Address: {<YOUR-ACCOUNT-ADDRESS>`\n\nSave this address to an environment variables, so that you can reference it below (don't include the braces):\n\n```bash\nexport CELO_ACCOUNT_ADDRESS=<YOUR-ACCOUNT-ADDRESS>\n```\n\n_Note: this environment variable will only persist while you have this terminal window open. If you want this environment variable to be available in the future, you can add it to your `~/.bash_profile_\n\n### Start the node\n\nThis command specifies the settings needed to run the node, and gets it started.\n\n```bash\ndocker run --name celo-ultralight-node -d --restart unless-stopped -p 127.0.0.1:8545:8545 -v $PWD:/root/.celo $CELO_IMAGE --verbosity 3  --syncmode lightest --http --http.addr 0.0.0.0 --http.api eth,net,web3,debug,admin,personal --etherbase $CELO_ACCOUNT_ADDRESS --alfajores --datadir=/root/.celo --allow-insecure-unlock\n```\n\nYou can follow the logs with\n\n```bash\ndocker logs -f celo-ultralight-node\n```\n\nAfter a few seconds of syncing (with [Celo's ultralight sync](/celo-codebase/protocol/consensus/ultralight-sync)), you should be able to query the balance of your account:\n\n```bash\ndocker exec celo-ultralight-node geth attach --exec 'eth.getBalance(\"<YOUR-ACCOUNT-ADDRESS>\")'\n```\n\nIf you go to our [Alfajores Faucet Page](https://celo.org/build/faucet), you should be able to faucet your account some CELO and see your balance increase with the above command.\n\n### Deploy the contract\n\nWe are finally ready to deploy the contract. First let's unlock the account:\n\n```bash\ndocker exec celo-ultralight-node geth attach --exec 'personal.unlockAccount(\"<YOUR-ACCOUNT-ADDRESS>\", \"<YOUR-ACCOUNT-PASSWORD>\")'\n```\n\nIn your `truffle-config.js` reference your node:\n\n```\nalfajores: {\n  host: \"127.0.0.1\",\n  port: 8545,\n  network_id: 44787\n}\n```\n\nThen you should be able to deploy your contract with:\n\n```\ntruffle migrate --network alfajores\n```\n\nYou can verify your contract deployment on [Blockscout](https://alfajores-blockscout.celo-testnet.org/), as well as interact with your new contract with the `truffle console --network alfajores`. Congratulations!\n\nAs you can see, all the goodies from Ethereum apply to Celo, so virtually all tutorials and other content should be easily translatable to Celo. Check out [https://celo.org/build](https://celo.org/build) for more resources!"
+    },
+    {
+      "id": "/developer-guide/start/hellocelo",
+      "metadata": {
+        "permalink": "/es/blog/developer-guide/start/hellocelo",
+        "source": "@site/blog/2022-01-01-hellocelo.md",
+        "title": "Sending CELO & Stable Assets",
+        "description": "How to connect to the Celo test network and tranfer tokens using ContractKit.",
+        "date": "2022-01-01T00:00:00.000Z",
+        "formattedDate": "1 de enero de 2022",
+        "tags": [
+          {
+            "label": "tokens",
+            "permalink": "/es/blog/tags/tokens"
+          },
+          {
+            "label": "celo wallet",
+            "permalink": "/es/blog/tags/celo-wallet"
+          },
+          {
+            "label": "contractkit",
+            "permalink": "/es/blog/tags/contractkit"
+          },
+          {
+            "label": "sdk",
+            "permalink": "/es/blog/tags/sdk"
+          },
+          {
+            "label": "ledger",
+            "permalink": "/es/blog/tags/ledger"
+          }
+        ],
+        "readingTime": 6.733333333333333,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Deploy a Contract on Celo (local node)",
+          "permalink": "/es/blog/developer-guide/start/hellocontracts"
+        },
+        "nextItem": {
+          "title": "Using Keystores Library for Local Key Management",
+          "permalink": "/es/blog/developer-guide/start/using-js-keystores"
+        }
+      },
+      "content": "How to connect to the Celo test network and tranfer tokens using ContractKit.\n\n<!--truncate-->\n\n## Hello Celo: sending value with Celo\n\nIn this guide we are going to write a Node.js script to introduce some of the basic concepts that are important to understand how Celo works. This will get us started with connecting to the Celo network and learning how to develop more advanced applications.\n\n:::info\n\nWe assume you already have Node.js and NPM installed on your computer.\n\n:::\n\n## Learning Objectives\n\nAt the end of this guide, you will be able to:\n\n- Connect to the Celo test network, called Alfajores\n- Get test CELO, Celo Dollars (cUSD) and Celo Euros (cEUR) from the faucet\n- Read account and contract information from the test network\n- Transferring CELO, cUSD and cEUR on the test network\n\n## Getting Started\n\nTo start, [clone this GitHub repo](https://github.com/critesjosh/helloCelo). This is a Node.js application.\n\n```\ngit clone https://github.com/critesjosh/helloCelo.git\n```\n\nWe will be using the Celo ContractKit SDK to interact with the Celo test network (Alfajores). Let's install it. It is already defined in the package.json, so we can get it with\n\n```\ncd helloCelo\nnpm install\n```\n\n## Importing ContractKit\n\nWe will be writing our Node.js app in the `helloCelo.js` file.\n\nImport the contract kit into our script with\n\n```javascript title=\"helloCelo.js\"\n// 1. Import web3 and contractkit\nconst Web3 = require(\"web3\");\nconst ContractKit = require(\"@celo/contractkit\");\n```\n\nNow we can use the ContractKit to connect to the test network.\n\n```javascript title=\"helloCelo.js\"\n// 2. Init a new kit, connected to the alfajores testnet\nconst web3 = new Web3(\"https://alfajores-forno.celo-testnet.org\");\nconst kit = ContractKit.newKitFromWeb3(web3);\n```\n\n:::info\n\nAt any point in the file you can `console.log()` variables to print their output when you run the script.\n\n:::\n\n## Reading Alfajores\n\nContractKit contains a `contracts` property that we can use to access certain information about deployed Celo contracts.\n\n:::info\n\nThe Celo blockchain has two native assets, CELO \\(CELO\\) and the Celo Dollar \\(cUSD\\). Both of these assets implement the [ERC20 token standard](https://eips.ethereum.org/EIPS/eip-20) from Ethereum. The CELO asset is managed by the CELO smart contract and Celo Dollars is managed by the cUSD contract. We can access the CELO contract via the SDK with `kit.contracts.getGoldToken()` and the cUSD contract with `kit.contracts.getStableToken()`. These functions return promises, so we have to wait for them to resolve before we can interact with the token contracts. If you are unfamiliar with Promises in Javascript, [check out this documentation.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) Promises are a common tool in blockchain development. In this guide, we use the [async/await syntax for promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await).\n\n:::\n\nLet's read some token balances from the blockchain. Add the following line in the `readAccount()` function.\n\n```javascript title=\"helloCelo.js\"\n// 3. Get the token contract wrappers\nlet celotoken = await kit.contracts.getGoldToken();\nlet cUSDtoken = await kit.contracts.getStableToken();\nlet cEURtoken = await kit.contracts.getStableToken(\"cEUR\");\n```\n\nWe can get the CELO balance of an account using the token wrappers like `goldtoken.balanceOf(address)`. Let's check the balance of this address `'0xD86518b29BB52a5DAC5991eACf09481CE4B0710d'`.\n\n```javascript title=\"helloCelo.js\"\n// 4. Address to look up\nlet anAddress = \"0xD86518b29BB52a5DAC5991eACf09481CE4B0710d\";\n\n// 5. Get token balances\nlet celoBalance = await celotoken.balanceOf(anAddress);\nlet cUSDBalance = await cUSDtoken.balanceOf(anAddress);\nlet cEURBalance = await cEURtoken.balanceOf(anAddress);\n\n// Print balances\nconsole.log(`${anAddress} CELO balance: ${celoBalance.toString()}`);\nconsole.log(`${anAddress} cUSD balance: ${cUSDBalance.toString()}`);\nconsole.log(`${anAddress} cEUR balance: ${cEURBalance.toString()}`);\n```\n\nThe `balanceOf(address)` function also returns a Promise, so we wait for the promise to resolve then we print the result.\n\nTo view the balances, run the script from the termainal with\n\n```\nnode helloCelo.js\n```\n\n:::info\n\nNote that the `balanceOf()` function returns objects with type [BigNumber](https://github.com/MikeMcl/bignumber.js/) because balances are represented in Celo as a 256 bit unsigned integer, and JavaScript's number type cannot safely handle numbers of that size. Note also that the balance values are reported in units of CELO Wei, where one CELO = 10\\*\\*18 CELO Wei.\n\n:::\n\nReading all account balances is a powerful feature of blockchains. Next, let's see how we can send value to each other on the testnet.\n\nIn order to do transfers (aka [transactions](https://docs.celo.org/getting-started/glossary#transaction)), we need to:\n\n1. Create an [account](https://docs.celo.org/getting-started/glossary#account) \\(by creating a private key\\)\n2. Fund it with test CELO and cUSDs\n3. Sign and send transactions to the network\n\n## Accounts\n\nWe are accessing the Celo network via a remote [node](https://docs.celo.org/getting-started/glossary#node) via HTTP requests at `'https://alfajores-forno.celo-testnet.org'`.\n\n:::info\n\nDon't worry about what this means right now, just understand that it is easier to get started using Celo by accessing remote nodes, rather than running them locally on your machine. You can [read more about the details of the Celo network here.](https://github.com/critesjosh/celo-monorepo/tree/8542c1bc3ad32bc48eed33073f4d34a36fd91fae/packages/docs/celo-sdk/walkthroughs/overview.md#topology-of-a-celo-network)\n\n:::\n\nBecause we are accessing the network remotely, we need to generate an account to sign transactions and fund that account with test CELO.\n\nThere is a short script in `getAccount.js` to either get a Celo account from a mnemonic in the `.secret` file, or create a random account if the file is empty. In the script, we use`web3.js` to create a new private key/account pair. [Web3.js](https://web3js.readthedocs.io/) is a popular javascript library for handling Ethereum related functionality. Celo is a cousin of Ethereum, so this library works well for generating Celo accounts.\n\n:::danger\n\nThis is not the standard way of managing Celo accounts. In a production environment, the [Celo Wallet](/celo-codebase/wallet) will manage accounts for you. Accessing accounts from the Celo Wallet will be discussed in future guides.\n\n:::\n\nWe can now use this `account` to get account information \\(ie the private key and account address\\) and to send transactions from `account.address`. Add the following code to read the account balance. Continue adding to `helloCelo.js`.\n\n```javascript title=\"helloCelo.js\"\n//\n// Create an Account\n//\n\n// 6. Import the getAccount function\nconst getAccount = require(\"./getAccount\").getAccount;\n\nasync function getBalances() {\n  // 7. Get your account\n  let account = await getAccount();\n\n  // 8. Get the token contract wrappers\n  let celotoken = await kit.contracts.getGoldToken();\n  let cUSDtoken = await kit.contracts.getStableToken();\n  let cEURtoken = await kit.contracts.getStableToken(\"cEUR\");\n\n  // 9. Get your token balances\n  let celoBalance = await celotoken.balanceOf(account.address);\n  let cUSDBalance = await cUSDtoken.balanceOf(account.address);\n  let cEURBalance = await cEURtoken.balanceOf(account.address);\n\n  // Print your account info\n  console.log(`Your account address: ${account.address}`);\n  console.log(`Your account CELO balance: ${celoBalance.toString()}`);\n  console.log(`Your account cUSD balance: ${cUSDBalance.toString()}`);\n  console.log(`Your account cEUR balance: ${cEURBalance.toString()}`);\n}\n```\n\nRun this script again with `node helloCelo.js`. This will print `0`, as we have not funded the associated account yet.\n\n## Using the faucet\n\nWe can get free test CELO and cUSDs on the test network for development via [the Celo Alfajores faucet](https://celo.org/build/faucet).\n\nCopy your randomly generated account address from the console output mentioned above, and paste it into the faucet.\n\nOnce your account has been funded, run `$ node helloCelo.js` again to see your updated balance.\n\n## Sending Value\n\nWe have an account with CELO and cUSD in it, now how do we send tokens to another account? Remember the token wrappers we used to read account balances earlier? We can use the same wrappers to send tokens, you just need to add the private key associated with your account to ContractKit \\(see line 10\\).\n\nThe token wrappers have a method called `transfer(address, amount)` that allows you to send value to the specified address \\(line 14\\).\n\nYou need to `send()` the transaction to the network after you construct it. The `send()` methods accepts an option that allows you to specify the `feeCurrency`, which allows the sender to pay transaction fees in CELO or cUSD. The default `feeCurrency` is CELO. In the following example, let's pay transaction fees in CELO when we transfer CELO and pay with cUSD when we transfer cUSD.\n\nThe `send()` method returns a transaction object. We will wait for the transaction receipt \\(which will be returned when the transaction has been included in the blockchain\\) and print it when we get it. This receipt contains information about the transaction.\n\nAfter we read the receipt, we check the balance of our account again, using the `balanceOf()` function. The logs print our updated balance!\n\nYou may notice that the account balance is a bit smaller than the amount of tokens that we sent. This is because you have to pay for every update to the network.\n\nAdd the following code to the `send()` function in `helloCelo.js` to send a transaction.\n\n```javascript title=\"helloCelo.js\"\nasync function send() {\n  // 10. Get your account\n  let account = await getAccount();\n\n  // 11. Add your account to ContractKit to sign transactions\n  kit.connection.addAccount(account.privateKey);\n\n  // 12. Specify recipient Address\n  let anAddress = \"0xD86518b29BB52a5DAC5991eACf09481CE4B0710d\";\n\n  // 13. Specify an amount to send\n  let amount = 100000;\n\n  // 14. Get the token contract wrappers\n  let celotoken = await kit.contracts.getGoldToken();\n  let cUSDtoken = await kit.contracts.getStableToken();\n  let cEURtoken = await kit.contracts.getStableToken(\"cEUR\");\n\n  // 15. Transfer CELO and cUSD from your account to anAddress\n  // Optional: specify the feeCurrency, default feeCurrency is CELO\n  let celotx = await celotoken\n    .transfer(anAddress, amount)\n    .send({ from: account.address });\n  let cUSDtx = await cUSDtoken\n    .transfer(anAddress, amount)\n    .send({ from: account.address, feeCurrency: cUSDtoken.address });\n  let cEURtx = await cEURtoken\n    .transfer(anAddress, amount)\n    .send({ from: account.address });\n\n  // 16. Wait for the transactions to be processed\n  let celoReceipt = await celotx.waitReceipt();\n  let cUSDReceipt = await cUSDtx.waitReceipt();\n  let cEURReceipt = await cEURtx.waitReceipt();\n\n  // 17. Print receipts\n  console.log(\"CELO Transaction receipt: %o\", celoReceipt);\n  console.log(\"cUSD Transaction receipt: %o\", cUSDReceipt);\n  console.log(\"cEUR Transaction receipt: %o\", cEURReceipt);\n\n  // 18. Get your new balances\n  let celoBalance = await celotoken.balanceOf(account.address);\n  let cUSDBalance = await cUSDtoken.balanceOf(account.address);\n  let cEURBalance = await cEURtoken.balanceOf(account.address);\n\n  // 19. Print new balance\n  console.log(`Your new account CELO balance: ${celoBalance.toString()}`);\n  console.log(`Your new account cUSD balance: ${cUSDBalance.toString()}`);\n  console.log(`Your new account cUSD balance: ${cEURBalance.toString()}`);\n}\n```\n\nRun `$ node helloCelo.js` again to send the transactions and see the printed output in the console.\n\n## Connecting to a Ledger Device from a Web Application\n\nThe above instructions apply to building NodeJS applications. If you want to build an integration with a web application, you can still use the ContractKit by following slightly modified instructions.\n\nThe following code examples are typescript so should be stored in a `.tsc` file, you will also need to install typescript and then compile your typescript to javascript with `npx tsc` before you can run the code with node.\n\n```\nnpm install --save-dev typescript\nnpm install web3 @celo/contractkit @celo/wallet-ledger @ledgerhq/hw-app-eth @ledgerhq/hw-transport-u2f @ledgerhq/hw-transport-webusb\n```\n\nThen, you can create a new instance of the ContractKit with the following code:\n\n```javascript\nimport { ContractKit, newKitFromWeb3 } from \"@celo/contractkit\";\nimport { newLedgerWalletWithSetup } from \"@celo/wallet-ledger\";\nimport Eth from \"@ledgerhq/hw-app-eth\";\nimport TransportU2F from \"@ledgerhq/hw-transport-u2f\";\nimport TransportUSB from \"@ledgerhq/hw-transport-webusb\";\nimport Web3 from \"web3\";\n\n// Handle getting the Celo Ledger transport.\nconst getCeloLedgerTransport = () => {\n  if (window.USB) {\n    return TransportUSB.create();\n  } else if (window.u2f) {\n    return TransportU2F.create();\n  }\n\n  throw new Error(\n    \"Ledger Transport not support, please use Chrome, Firefox, Brave, Opera or Edge.\"\n  );\n};\n\n// Handle creating a new Celo ContractKit\nconst getContractKit = async () => {\n  // Create a Web3 provider by passing in the testnet/mainnet URL\n  const web3 = new Web3(\"https://alfajores-forno.celo-testnet.org\");\n\n  // Get the appropriate Ledger Transport\n  const transport = await getCeloLedgerTransport();\n\n  // Create a new instance of the ETH Ledger Wallet library\n  const eth = new Eth(transport);\n\n  // Use the Celo Ledger Wallet setup util\n  const wallet = await newLedgerWalletWithSetup(eth.transport);\n\n  // Instantiate the ContractKit\n  const kit: ContractKit = newKitFromWeb3(web3, wallet);\n\n  return kit;\n};\n```\n\nOnce you have successfully created the ContractKit, you can use the various Celo contracts to sign transactions with a connected Ledger device. For example, here's how to transfer gold tokens (just like above in the NodeJS example):\n\n```javascript\n// Use the gold token contract to transfer tokens\nconst transfer = async (from, to, amount) => {\n  const celoTokenContract = await kit.contracts.getGoldToken();\n  const tx = await celoTokenContract.transfer(to, amount).send({ from });\n  const receipt = await tx.waitReceipt();\n  console.log(\"Transaction Receipt: \", receipt);\n};\n```\n\nThis is the basic setup to integrate the Celo Ledger App with a web application. You can also view the [Celo Ledger App example codebase](https://github.com/celo-org/celo-ledger-web-app) for some other examples of connecting to a Ledger Device from a web application.\n\n## Wrapping Up\n\nCongratulations! You have accomplished a lot in this short introduction to developing on Celo.\n\nWe covered:\n\n- Installing and setting up ContractKit\n- Connecting to the Celo Alfajores network\n- Getting the CELO contract wrapper\n- Reading account balances using the CELO wrapper\n- Generating a new account in Celo\n- Funding an account using the Celo Alfajores Faucet\n- Sending CELO"
+    },
+    {
+      "id": "/developer-guide/start/using-js-keystores",
+      "metadata": {
+        "permalink": "/es/blog/developer-guide/start/using-js-keystores",
+        "source": "@site/blog/2021-12-31-using-js-keystores.md",
+        "title": "Using Keystores Library for Local Key Management",
+        "description": "Introduction to the keystores library and how to use it for local key management.",
+        "date": "2021-12-31T00:00:00.000Z",
+        "formattedDate": "31 de diciembre de 2021",
+        "tags": [
+          {
+            "label": "keystores",
+            "permalink": "/es/blog/tags/keystores"
+          }
+        ],
+        "readingTime": 3.0233333333333334,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Sending CELO & Stable Assets",
+          "permalink": "/es/blog/developer-guide/start/hellocelo"
+        },
+        "nextItem": {
+          "title": "Add Your ERC20 Token to Your Celo Wallet",
+          "permalink": "/es/blog/add-token-celo-wallet"
+        }
+      },
+      "content": "Introduction to the keystores library and how to use it for local key management.\n\n<!--truncate-->\n\n## Getting Started\n\nThis is a JavaScript library that provides functions for creating and interacting with encrypted keystores for private key management. To do this, this library wraps the existing [`ethereumjs-wallet` library](https://github.com/ethereumjs/ethereumjs-wallet), which is a standard library for managing keystores according to the [Web3 Secret Storage Definition](https://github.com/ethereum/wiki/wiki/Web3-Secret-Storage-Definition). As specified, secrets are encrypted using the Scrypt KDF (Key Derivation Function); in this case, the private key is encrypted with a passphrase (that should be kept secret) and can be decrypted later by the same phrase. Note that a keystore generated for the same (private key, passphrase) multiple times will not yield the same output due to how the KDF works. Keystore files generated by a geth node can be decrypted and accessed with this library, and vice versa.\n\n**Note that keystore files generated by this library do not contain BLS public keys, meaning that these should not be used for validator signer keys used in consensus.**\n\nThe components of the library are roughly as follows:\n\n- `KeystoreBase` which wraps the functionality of `ethereumjs-wallet` and exposes functions to:\n  - import PKs (into encrypted keystores)\n  - decrypt and get a PK from an encrypted keystore\n  - change the passphrase on a keystore\n- `FileKeystore`, `InMemoryKeystore` which specifiy the IO in addition to the above base class\n- `KeystoreWalletWrapper`: (not stable; likely to structurally change) a very simple wrapper for a `Keystore` and `LocalWallet`, which allows a user to decrypt a keystore and pass the key to the `LocalWallet` in order to sign transactions.\n\n## Usage\n\n:::warning\n\nFor accounts containing significant funds or otherwise requiring a high degree of security, we **do not** recommend this keystore library! This is only for managing keys for low-risk hot wallets and signers.\n\nFor more stringent security requirements, check out the guide to [Choosing a Wallet](/getting-started/wallets).\n\n:::\n\nDepending on your use case, you can either interact directly with the `FileKeystore` (purely for creating and interacting with keystore files, importing or accessing private keys) or else use the `KeystoreWalletWrapper` (combines the keystore functionality with convenient access to the `LocalWallet` for signing tranactions).\n\n### Using the FileKeystore\n\n#### Create new keystore and import private key\n\nThis snippet will create a `keystore` directory in the `parentDirectory` and create an encrypted file in the `keystore` directory containing the private key. Note that you can only create a new encrypted file for a private key if there is not already an existing file for that private key. If it already exists, you can change the passphrase (see below), but you may not have multiple files for the same private key in the same `keystore` directory.\n\n```js\nimport * as readline from \"readline\";\nimport { FileKeystore } from \"@celo/keystores\";\n\n// This is the directory that will contain a \"keystore\" directory\nconst parentDirectory = \"<INSERT_PATH_HERE>\";\n// This creates a \"keystore\" directory if one does not already exist in the parentDirectory\nconst keystore = new FileKeystore(parentDirectory);\n\n// Prompt to enter private key and passphrase on the command line\nlet rl = readline.createInterface({\n  input: process.stdin,\n  output: process.stdout,\n});\nconst privateKey: string = await new Promise((resolve) =>\n  rl.question(\"Enter private key:\", (answer) => {\n    resolve(answer);\n  })\n);\nconst passphrase: string = await new Promise((resolve) =>\n  rl.question(\"Enter secret passphrase:\", (answer) => {\n    rl.close();\n    resolve(answer);\n  })\n);\n// Import private key into the keystore, which is then stored as an encrypted file\n// Should create a file with a name like `UTC-<DATETIME>-<ACCOUNT_ADDRESS>`\nawait keystore.importPrivateKey(privateKey, passphrase);\n// Retrieve all addresses contained in the keystore\nconsole.log(\"Addresses in keystore: \", await keystore.listKeystoreAddresses());\n```\n\n#### Accessing an existing keystore file\n\n```js\n// Keystore already exists\nconst parentDirectory = '<INSERT_PATH_HERE>'\nconst keystore = new FileKeystore(parentDirectory)\nconst address = '<YOUR_ADDRESS_HERE>'\nconst oldPassphrase = '<OLD_PASSPHRASE>'\n\n// Decrypt file and retrieve private key\nawait keystore.getPrivateKey(address, oldPassphrase)\n\n// Change the passphrase encrypting the file\nconst newPassphrase = '<NEW_PASSPHRASE>'\nawait.keystore.changeKeystorePassphrase(address, oldPassphrase, newPassphrase)\n\n// Decrypt file and retrieve private key using new passphrase\nconsole.log(await keystore.getPrivateKey(address, newPassphrase))\n```\n\n#### Remove (delete) a keystore file for a particular address\n\n```js\nconst parentDirectory = \"<INSERT_PATH_HERE>\";\nconst keystore = new FileKeystore(parentDirectory);\nconst address = \"<YOUR_ADDRESS_HERE>\";\n\n// When you know the address\n// Get the filename (keystore name)\nconst keystoreName = await keystore.getKeystoreName(address);\nawait keystore.removeKeystore(keystoreName);\n\n// Alternatively, you can do this by passing in the filename directly\nkeystore.removeKeystore(\"<KEYSTORE_FILENAME_TO_DELETE>\");\n```\n\n### Using the KeystoreWalletWrapper\n\nThis example will instantiate a `KeystoreWalletWrapper`, import a private key, and use the inner `LocalWallet` within the wrapper to sign and send a transaction with `ContractKit`.\n\n```js\nimport { newKit } from \"@celo/contractkit\";\nimport { FileKeystore, KeystoreWalletWrapper } from \"@celo/keystores\";\n\n// This is the directory that will contain a \"keystore\" directory\nconst parentDirectory =\n  \"/celo/celo-monorepo/packages/sdk/wallets/wallet-keystore/test-keystore-dir\";\n// Instantiate a KeystoreWalletWrapper using a FileKeystore\nconst keystoreWalletWrapper = new KeystoreWalletWrapper(\n  new FileKeystore(parentDirectory)\n);\n// Make sure to not commit this if using real funds!\n// You can also get this as input on the command-line using `readline`\n// as in the example above for FileKeystore\nconst privateKey = \"YOUR_TEST_PRIVATE_KEY\";\nconst passphrase = \"test-passphrase1! \";\n\n// Import private key or unlock account\nawait keystoreWalletWrapper.importPrivateKey(privateKey, passphrase);\n// If the keystore file already exists for an address, simply unlock:\n// const address = 'YOUR_TEST_ADDRESS'\n// await keystoreWalletWrapper.unlockAccount(address, passphrase)\n\n// Get the wrapper's `LocalWallet` instance and pass this into ContractKit\nconst wallet = keystoreWalletWrapper.getLocalWallet();\nconst kit = newKit(\"https://alfajores-forno.celo-testnet.org\", wallet);\nconst [from] = wallet.getAccounts();\n\n// Send a test transaction\nconst gold = await kit.contracts.getGoldToken();\nawait gold\n  .transfer(\"0x22579ca45ee22e2e16ddf72d955d6cf4c767b0ef\", \"1\")\n  .sendAndWaitForReceipt({ from });\nconsole.log(\"Transaction sent!\");\n```"
+    },
+    {
+      "id": "add-token-celo-wallet",
+      "metadata": {
+        "permalink": "/es/blog/add-token-celo-wallet",
+        "source": "@site/blog/2021-12-06-addtokentocelowallet.md",
+        "title": "Add Your ERC20 Token to Your Celo Wallet",
+        "description": "Learn How to Add Your ERC20 Token to Your Celo Wallet",
+        "date": "2021-12-06T00:00:00.000Z",
+        "formattedDate": "6 de diciembre de 2021",
+        "tags": [
+          {
+            "label": "tokens",
+            "permalink": "/es/blog/tags/tokens"
+          },
+          {
+            "label": "celo wallet",
+            "permalink": "/es/blog/tags/celo-wallet"
+          }
+        ],
+        "readingTime": 1.18,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Connor Fabiano",
+            "url": "https://github.com/vissequ",
+            "image_url": "https://github.com/vissequ.png",
+            "imageURL": "https://github.com/vissequ.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Using Keystores Library for Local Key Management",
+          "permalink": "/es/blog/developer-guide/start/using-js-keystores"
+        },
+        "nextItem": {
+          "title": "Verifying Contracts with Hardhat",
+          "permalink": "/es/blog/hardhat-deploy-verify"
+        }
+      },
+      "content": "If you are trying to add your own token please make sure you have already read Josh's tutorial on [how to make your own ERC20 Token on Celo](https://docs.celo.org/developer-resources/walkthroughs/no-code-erc20).\n\nNow that you’ve made your own ERC20 Token, you will want to have it displayed in your Celo Wallet. If you don’t currently have Celo Wallet you will need to [download it](https://celowallet.app/setup) first.\n\n<!-- truncate -->\n\n1) Open up Cello Wallet and make sure you can see “Account Balance Details” then select “Add a new currency/token.”\n\n![Photo](https://user-images.githubusercontent.com/93226346/144902366-42169908-95e8-4d0a-a6d8-b6ad021394cf.png)\n\nIf you don’t see the above screen then click the green “More” button in the upper left of the Celo Wallet app.\n  \n![Photo](https://user-images.githubusercontent.com/93226346/144900620-2ed8b9a1-513e-4a8b-a95a-9542c97c2908.png)\n\nThen select \"Balance - View Balances\"\n\n![Photo](https://user-images.githubusercontent.com/93226346/144900692-5a213c05-a99e-408b-97c9-7aeed41d870c.png)\n\n2) Copy your token’s address and paste it into the “Token name or address” text field. If you don’t remember your Token’s address you can search for it by name on [Celo’s Explorer](https://explorer.celo.org/).\n\n![Photo](https://user-images.githubusercontent.com/93226346/144900871-cc2ffa50-d7f2-46c3-94dd-15126d71f57b.png)\n\n3) Click “Add” and you should then see the token listed. The token I added for this example is “BCN.” If you look to the far right you’ll see that only “BCN” has an “X” after its address. This is because I manually added “BCN” and the other listed coins are native assets from Celo.\n\n![Photo](https://user-images.githubusercontent.com/93226346/144901070-cc1e1317-d2ab-4279-8c83-dd62072b9987.png)\n\n4) If you wish to send your token to another Celo Wallet click the green “Send” button in the upper left.\n\n![Photo](https://user-images.githubusercontent.com/93226346/144901103-72335db9-7806-40e4-bdad-11a8c8ad51b6.png)\n\n5) Enter the recipient’s address and select your token from the Currency dropdown. You can then enter the amount of tokens you wish to send.\n\n![Photo](https://user-images.githubusercontent.com/93226346/144901137-2b679ac6-24ea-4947-80fd-4fab1d3b76cd.png)\n\n6) You’ll be charged a fee in Celo for your transaction. Make sure you are sending this to another Cello Wallet! If the address, token and amount are all correct click “Send Payment.”\n\n![Photo](https://user-images.githubusercontent.com/93226346/144901189-2f9adb93-9cce-48ff-8e4d-1476b75f1fec.png)\n\nCongratulations! You’ve just sent your own token to somebody! Your token should be automatically added to their list. If for some reason it is not automatically added, they can simply follow the above steps.\n\nIf you have any questions feel free to message me on Discord at vissequ#1301 or on Twitter at [@connorfabiano](https://twitter.com/connorfabiano)\n\n(Tutorials for using different wallets such as Metamask will be added in the future.)"
+    },
+    {
+      "id": "hardhat-deploy-verify",
+      "metadata": {
+        "permalink": "/es/blog/hardhat-deploy-verify",
+        "source": "@site/blog/2021-11-30-hardhat-deploy-verify/index.md",
+        "title": "Verifying Contracts with Hardhat",
+        "description": "Learn to verify contracts on Sourcify using the hardhat-deploy plugin",
+        "date": "2021-11-30T00:00:00.000Z",
+        "formattedDate": "30 de noviembre de 2021",
+        "tags": [
+          {
+            "label": "hardhat",
+            "permalink": "/es/blog/tags/hardhat"
+          },
+          {
+            "label": "sourcify",
+            "permalink": "/es/blog/tags/sourcify"
+          },
+          {
+            "label": "verification",
+            "permalink": "/es/blog/tags/verification"
+          }
+        ],
+        "readingTime": 1.9633333333333334,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "imageURL": "https://github.com/critesjosh.png",
+            "key": "josh"
+          }
+        ],
+        "prevItem": {
+          "title": "Add Your ERC20 Token to Your Celo Wallet",
+          "permalink": "/es/blog/add-token-celo-wallet"
+        },
+        "nextItem": {
+          "title": "Demos with ObservableHQ",
+          "permalink": "/es/blog/observable-intro"
+        }
+      },
+      "content": "Hardhat is one of the most popular developer tools for writing contracts for EVM compatible blockchains. Hardhat is a great tool for developing smart contracts for Celo--you can find more information about this in the Celo documentation [here](/developer-resources/deploy-hardhat).\n\nIn this tutorial I will go over how to use the [hardhat-deploy plugin](https://github.com/wighawag/hardhat-deploy) for hardhat, specifically to verify deployed contracts on the [Celo block explorer](https://explorer.celo.org/) via [Sourcify](https://sourcify.dev/). You can verify contracts with the plugin whether you deployed them using the plugin or not.\n\nIn this post I will cover\n\n- setting up a hardhat project with the hardhat-deploy plugin\n- deploying contracts using the plugin\n- how to verify the contracts on sourcify\n\n<!--truncate-->\n\n## Verify contracts using hardhat-deploy\n\n### Setup\n\nFirst, I will cover how to deploy contracts using the plugin. This will help provide some context around how a project using this plugin is different from a regular hardhat project. This guide assumes that you already have a hardhat project set up. If you don’t, refer to [this page](https://docs.celo.org/developer-resources/deploy-hardhat).\n\n:::tip\n\nYou can reference the 'hardhat-deploy' branch of [this github repo](https://github.com/critesjosh/celo-hardhat/tree/hardhat-deploy) to see how the project is structured.\n\n:::\n\nInstall the plugin in your hardhat project:\n\n```shell\nnpm install -D hardhat-deploy\n```\n\nImport the plugin in your `hardhat.config.js` file.\n\n```js\nrequire('hardhat-deploy');\n```\n\nSince `hardhat-deploy-ethers` is a fork of `@nomiclabs/hardhat-ethers` and that other plugin might have an hardcoded dependency on `@nomiclabs/hardhat-ethers` the best way to install `hardhat-deploy-ethers` and ensure compatibility is the following:\n\n```shell\nnpm install --save-dev  @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers\n```\n\nWhich means you then need to do `require(\"@nomiclabs/hardhat-ethers\")` instead of `require(\"hardhat-deploy-ethers\")` in your `hardhat.config.js` file.\n\nThe plugin also supports Typescript, which you can find more information about [here](https://github.com/wighawag/hardhat-deploy#typescript-support).\n\nThe plugin also has a concept of `namedAccounts` which makes it easier to reference available accounts. You can read more about the details [here](https://github.com/wighawag/hardhat-deploy#1-namedaccounts-ability-to-name-addresses). For our purposes, keep it simple and add `namedAccounts` to the exports in `hardhat.config.js` like so\n\n```js\n//hardhat.config.js\n...\nmodule.exports = {\n defaultNetwork: \"alfajores\",\n namedAccounts: {\n   deployer: 0\n },\n networks: {\n...\n```\n\nYou can see my source file [here](https://github.com/critesjosh/celo-hardhat/blob/085cf7bc304ec3b0924de1419fe32e37b57e7185/hardhat.config.js#L23).  \n\n### Deploy\n\nDeployment scripts used by `hardhat-deploy` live in a folder called `deploy` in the root of the project. The deployment scripts will save deployment information in a `deployments` folder in the project root as well.\n\n[Here](https://github.com/critesjosh/celo-hardhat/blob/hardhat-deploy/deploy/00-deploy.js) is the deployment script for deploying the [Greeter contract](https://github.com/critesjosh/celo-hardhat/blob/hardhat-deploy/contracts/Greeter.sol) in the example repo.\n\n```js\n// deploy/00_deploy_my_contract.js\nmodule.exports = async ({getNamedAccounts, deployments}) => {\n   const {deploy} = deployments;\n   const {deployer} = await getNamedAccounts();\n   await deploy('Greeter', {\n     from: deployer,\n     args: [\"hello world\"],\n     log: true,\n   });\n };\n module.exports.tags = ['Greeter'];\n```\n\nIt is a simple function that takes the `namedAccounts`, configuration info and the contract constructor arguments and deploys the contract. You can read more about deploy scripts [here](https://github.com/wighawag/hardhat-deploy#deploy-scripts).\n\nTo run the deployment, use the command\n\n```bash\nnpx hardhat --network alfajores deploy\n```\n\nThere should be terminal output similar to this:\n\n```shell\nDownloading compiler 0.8.4\nCompiling 1 file with 0.8.4\nCompilation finished successfully\ndeploying \"Greeter\" (tx: 0x7fedbd14877cdca23485a96108e22ae6764b65348eddbaa1cbec9504707b7186)...: deployed at 0x9F163C9138faA5cdc731b94E1e9632C05764C23e with 493178 gas\n```\n\n### Verify\n\nOnce the contract is deployed, you can verify it with the command:\n\n```shell\nnpx hardhat --network alfajores sourcify\n```\n\nWhich should output\n\n```shell\nverifying Greeter (0x9F163C9138faA5cdc731b94E1e9632C05764C23e on chain 44787) ...\n => contract Greeter is now verified\n```\n\nYou can check the verification on the block explorer, [https://alfajores-blockscout.celo-testnet.org/address/0x9F163C9138faA5cdc731b94E1e9632C05764C23e/contracts](https://alfajores-blockscout.celo-testnet.org/address/0x9F163C9138faA5cdc731b94E1e9632C05764C23e/contracts) in this case.\n\nI hope this is helpful and feel free to [join the Celo Discord](https://chat.celo.org) server and reach out if you have any questions. My handle is joshc#0001.\n\nYou can view my hardhat-deploy repository for reference on GitHub here: [https://github.com/critesjosh/celo-hardhat/tree/hardhat-deploy](https://github.com/critesjosh/celo-hardhat/tree/hardhat-deploy )"
+    },
+    {
+      "id": "observable-intro",
+      "metadata": {
+        "permalink": "/es/blog/observable-intro",
+        "source": "@site/blog/2021-11-18-observable-intro/index.md",
+        "title": "Demos with ObservableHQ",
+        "description": "Learn more about Observable notebooks and how they can be used in a blog",
+        "date": "2021-11-18T00:00:00.000Z",
+        "formattedDate": "18 de noviembre de 2021",
+        "tags": [
+          {
+            "label": "observable",
+            "permalink": "/es/blog/tags/observable"
+          }
+        ],
+        "readingTime": 1.98,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "imageURL": "https://github.com/critesjosh.png",
+            "key": "josh"
+          }
+        ],
+        "prevItem": {
+          "title": "Verifying Contracts with Hardhat",
+          "permalink": "/es/blog/hardhat-deploy-verify"
+        },
+        "nextItem": {
+          "title": "Using the Graph w/ Celo",
+          "permalink": "/es/blog/using-the-graph"
+        }
+      },
+      "content": "## What is Observable?\n\n[Observable HQ](https://observablehq.com/) is a Javascript notebook tool that makes it easy to share executable Javascript code right in the browser. This greatly reduces the friction around introducing and educating people about tools or features. Observable is designed primarily as a data visualization tool, but I have found it to be helpful for explaining and demonstrating concepts and behaviors for web3 as well.\n\nFor the official introduction to Observable, [check out the 5 minute introduction.](https://observablehq.com/@observablehq/five-minute-introduction?collection=@observablehq/introduction)\n\n## Why I like it\n\n### Easy to setup\n\nFirst of all, there is nothing to download! This is a huge benefit when introducing developers to new technology. I can show off features and techniques for using new tech without requiring developers to have to download anything or set up an environment. This makes it easier to spark curiosity and inspire people to continue on their learning journey.\n\n<!--truncate-->\n\n### Code + Visualizations + Text\n\nObservable supports Javascript, Markdown and HTML in cells. This means I can write executable Javascript surrounded by markdown that helps explain the context in which this code can be used and may be useful. The notebooks are also easy to embed into other contexts (like this blog).\n\nHere is an example from a post on Merkle Trees. You can [view the full notebook here.](https://observablehq.com/@critesjosh/merkle-trees)\n\n<iframe width=\"100%\" height=\"643\" frameborder=\"0\" className=\"observable-notebook\"\n  src=\"https://observablehq.com/embed/@critesjosh/merkle-trees?cells=chart%2Cp1%2Cvisualize_heading\"></iframe>\n\n### Executable Javascript\n\nObservable allows anyone inspect the Javascript in the notebook and displays the results of the code execution. This is particularly useful to demo interactions with a connected web3 wallet or reviewing the structure of responses from API calls. Also, when code in one cell is updated, all other cells that use the code are referenced as well, kind of like hot reloading.\n\nFor example, in the [graph post](../2021-11-18-using-the-graph/index.md), I make a query to the Graph and the notebook shows a live response. Viewers can click through the notebook response to insepct the results.\n\n[![the graph query](query.gif)](https://observablehq.com/@critesjosh/query-the-graph)\n\n### Remix + Share\n\nViewers can edit the Javascript in the notebook and execute their own code to see the results. They can fork their changes and save them in their own notebook to be worked on later or to share with others.\n\nI can import common node packages into a notebook and run them as I would in an application. This allows me to quickly test things and share them.\n\n## What I don't like\n\nUsing Observable isn't great for everything--it has its limitations.\n\n### Limited packages\n\nWhile many npm packages work with observable, not all of them do. You may need to build packages to work specifically for Observable or import minified versions from a CDN. [This tool](https://observablehq.com/@observablehq/module-require-debugger) can help you figure out how to import packages that you want to use.\n\n### Simple, specific actions\n\nObservable is great for showing simple interactions with packages or creating visualizations, but is not well suited for demonstrating how to design or build an application. It is a unique environment where Javascript syntax may be different than what developers are used to, so it is useful for specific things.\n\n### Iframe limitations\n\nObservable notebooks are easiest to embed in other pages using an [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe). This means the context of the notebook is limited by the same things as an iframe, which may or may not be a problem, depending on what you are trying to do. There are ways around this as well, you can link readers directly to your notebook or embed the notebook using a React component or vanilla Javascript. You can read more about embedding on the [Observable site here](https://observablehq.com/@observablehq/introduction-to-embedding)."
+    },
+    {
+      "id": "using-the-graph",
+      "metadata": {
+        "permalink": "/es/blog/using-the-graph",
+        "source": "@site/blog/2021-11-18-using-the-graph/index.md",
+        "title": "Using the Graph w/ Celo",
+        "description": "Learn about what the Graph is and how to use it in your Celo DApp",
+        "date": "2021-11-18T00:00:00.000Z",
+        "formattedDate": "18 de noviembre de 2021",
+        "tags": [
+          {
+            "label": "The Graph",
+            "permalink": "/es/blog/tags/the-graph"
+          },
+          {
+            "label": "DApps",
+            "permalink": "/es/blog/tags/d-apps"
+          }
+        ],
+        "readingTime": 4.496666666666667,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "imageURL": "https://github.com/critesjosh.png",
+            "key": "josh"
+          }
+        ],
+        "prevItem": {
+          "title": "Demos with ObservableHQ",
+          "permalink": "/es/blog/observable-intro"
+        },
+        "nextItem": {
+          "title": "Code Playground -- Metamask",
+          "permalink": "/es/blog/code-metamask"
+        }
+      },
+      "content": "import styles from '../styles.css'\n\n[The Graph protocol](https://thegraph.com/) makes it easy to get historical blockchain data. This can be useful when you want to check a users history of using a specific token or interacting with a specific contract. It may also be useful when collecting data about the activity around a specific contract, or set of contracts. The Graph also makes this data easy to transform, organize and share across applications.\n\nIn this post I explore\n\n- [What the Graph is](index.md#what-is-the-graph)\n- [How to get started using the Graph with Celo](index.md#using-the-graph)\n- [What a subgraph is and how to create one](index.md#initialize-your-subgraph)\n- [How to deploy a subgraph to the Graph's hosted service](index.md#deploy-subgraph)\n- [How to query a subgraph](index.md#query-the-subgraph)\n\n## What is the Graph?\n\nFrom the Graph website:\n\n*The Graph is a decentralized protocol for indexing and querying data from blockchains, starting with Ethereum. It makes it possible to query data that is difficult to query directly.*\n\nThe problem that the Graph solves is that indexing blockchain data is actually very difficult. Additionally, the Graph makes it easy to get historical blockchain data without having to run your own archive node or paying to access an archive node through a node service provider, like [Quicknode](https://www.quicknode.com/chains/celo).\n\n<!--truncate-->\n\n## Using the Graph\n\nI will be using [this GitHub repository](https://github.com/critesjosh/the-graph-hello-world) as a reference throughout this post. This repo contains a simple [HelloWorld contract](https://github.com/critesjosh/the-graph-hello-world/blob/master/HelloWorld.sol) that stores a string that can be updated. \n\n`HelloWorld.sol`\n```js\n// HelloWorld.sol\n\n// Learn more about Solidity here: https://solidity.readthedocs.io\npragma solidity >=0.5.0;\n\ncontract HelloWorld {\n  \n  event NameUpdated(string newName, address updater);\n  \n  // Define a string called name\n  string name;\n\n  // Declares a function called getName\n  // The 'public' label means the function can be called internally, by transactions or other contracts\n  // The 'view' label indicates that the function does not change the state of the contract\n  // The function returns a string, from the memory data location  \n  function getName() \n    public \n    view \n    returns (string memory) \n  {\n    // Return the storage variable 'name'\n    return name;\n  }\n\n  // Declare a function called setName\n  // The function takes 1 parameter, a string, called newName, with the calldata data location in the Ethereum Virtual Machine  \n  // The 'external' label means the function can only be called from an external source\n  function setName(string calldata newName) \n    external \n  {\n    emit NameUpdated(newName, msg.sender);\n    // Set the storage variable, name, to the value passed in as newName\n    name = newName;\n  }\n}\n```\n\nThe contract emits an event every time the storage sting is updated. Event handlers in the subgraph are triggered by contract events, so setting up a contract with events is required.\n\nIt is easiest to get started using the Graph hosted service, which supports queries on the Celo network.\n\n:::tip\n\nYou can [learn more about the Graph's hosted service here](https://thegraph.com/docs/hostedservice/what-is-hosted-service).\n\n:::\n\n### Install the Graph CLI\n\nThe first step is to install the graph command line tool.\n\n```bash\nnpm install -g @graphprotocol/graph-cli\n```\n\nor\n\n```bash\nyarn global add @graphprotocol/graph-cli\n```\n\n:::tip\n\nLearn more about the `graph-cli` package [here](https://www.npmjs.com/package/@graphprotocol/graph-cli).\n\n:::\n\n### Initialize your Subgraph\n\n*A subgraph defines which data The Graph will index from Ethereum, and how it will store it. Once deployed, it will form a part of a global graph of blockchain data.*\n\n:::tip\n\n[Read more about subgraphs on the Graph website.](https://thegraph.com/docs/developer/define-subgraph-hosted)\n\n:::\n\nIn a new, empty project directory, run the following command in the terminal:\n\n```bash\ngraph init --product hosted-service --from-contract 0xd2dC7E59971E934bF479B8eA86B9Ec1627B0F3D6 --network celo-alfajores --abi <FILE> critesjosh/Hello-World\n```\n\nThe CLI tool will prompt you for some additional information. Use the \"Hosted Service\" for creating subgraphs that query contracts on the Celo network.\n\nFor the subgraph name, enter your GitHub username followed by the name of your project. In my case this is `critesjosh/Hello-World`.\n\nThe tool will ask you to specify a directory, network and contract address that you would like to query. I chose the default directory (Hello-World), the `celo-alfajores` network, the address of my deployed Solidity contract and the path to my [contract ABI](https://docs.soliditylang.org/en/latest/abi-spec.html).\n\nThe tool sets up my subgraph in the specified directory. Open `subgraph.yml` in the new subgraph project folder to see how it is configured. You can find more information about the [Subgraph Manifest file here](https://thegraph.com/docs/developer/create-subgraph-hosted#the-subgraph-manifest).\n\n### Define the schema\n\nThe next step is to define your graphql schema in `schema.graphql` in the new project directory.\n\nA graphql schema is like a dictionary that defines the types of entities to map from the data and how the entities are related. This is an important step to spend some time thinking about because this will define how your data is structured and linked. Here is [sushiswap's subgraph repo](https://github.com/sushiswap/sushiswap-subgraph) as a complex project reference.\n\nFor the simple HelloWorld contract that we are querying with this subgraph, I defined the schema like this:\n\n```graphql\ntype Name @entity {\n  id: ID!\n  newName: String\n  updater: Bytes!\n}\n```\n\nThis will tell us the new name that is being stored in the contract, `newName`, and the account address that updated the name, `udpater`.\n\n:::tip\n\n[Read more about the Graph schemas here.](https://thegraph.com/docs/developer/create-subgraph-hosted#the-graphql-schema)\n\n:::\n\n### Define Mappings\n\nMappings are defined in `./src/mappings.ts` and transform the contract data (events) into the entities that are defined in `schema.graphql`. These mappings are written in a subset of Typescript. \n\nIn this example, there is only one event being indexed, so there is only one mapping.\n\n```ts\nimport { NameUpdated } from '../generated/HelloWorld/HelloWorld'\nimport { Name } from '../generated/schema'\n\nexport function handleNameUpdated(event: NameUpdated): void {\n  let id = event.transaction.hash.toHex()\n  let name = Name.load(id)\n  if (name == null) {\n    name = new Name(id)\n  }\n  name.newName = event.params.newName\n  name.updater = event.params.updater\n  name.save()\n}\n```\n\nThis mapping sets the entity `id` as the transaction hash, the entity `newName` as the newName from the event parameter and the entity `updater` as the updater from the event parameter. The mapping will update an entity if one with a known `id` already exists, but since transaction hashes are unique, each event emitted from the contract will create a new entity.\n\n:::tip\n\nYou can find more information about mappings on [the Graph website here](https://thegraph.com/docs/developer/create-subgraph-hosted#writing-mappings).\n\n:::\n\nOnce the mapping is defined, you can generate the Graph AssemblyScript by running\n\n```bash\ngraph codegen\n```\n\n\"This will generate an AssemblyScript class for every smart contract in the ABI files mentioned in subgraph.yaml, allowing you to bind these contracts to specific addresses in the mappings and call read-only contract methods against the block being processed. It will also generate a class for every contract event to provide easy access to event parameters as well as the block and transaction the event originated from.\"\n\n*--[The Graph codegen docs](https://thegraph.com/docs/developer/create-subgraph-hosted#code-generation)* \n\n### Deploy Subgraph\n\nTo deploy the subgraph to the hosted service, you will need to create an account on [the Graph's hosted service site](https://thegraph.com/hosted-service).\n\nFrom the [dashboard](https://thegraph.com/hosted-service/dashboard), you can find your Access Token for deploying the subgraph. Once you have that, you can authenticate with:\n\n```bash\ngraph auth --product hosted-service <ACCESS_TOKEN>\n```\n\nNext, click the \"Add Subgraph\" button. Fill out the subgraph info with the appropriate information and deploy it with:\n\n```bash\ngraph deploy --product hosted-service <GITHUB_USER>/<SUBGRAPH NAME>\n```\n\nOnce your subgraph is deployed, you should be able to view it on the hosted service dashboard. You can view my [Hello World subgraph page here](https://thegraph.com/hosted-service/subgraph/critesjosh/hello-world).\n\n![](dashboard.png)\n\nOnce the subgraph is deployed, the service will take some time to sync the events from the contract. Once it has been fully synced, you can run queries in the playground to test it out.\n\n### Query the subgraph\n\nYou can learn more about [querying your subgraph from the hosted service here](https://thegraph.com/docs/hostedservice/query-hosted-service).\n\nThe following embedded code notebook from [Observable HQ](https://observablehq.com/) shows how to query the subgraph I deployed with basic Javascript. You can [view the notebook on Observable here](https://observablehq.com/@critesjosh/query-the-graph). I wrote a post that goes into more detail about Observable, you can [read it here](../2021-11-18-observable-intro/index.md).\n\nYou can inspect the JavaScript objects in the notebook by clicking on them. Try clicking on the `result` object. Click on the `names` array in the `data` object.\n\n<iframe width=\"100%\" height=\"500\" frameborder=\"0\" class=\"observable-notebook\"\n  src=\"https://observablehq.com/embed/@critesjosh/query-the-graph?cell=*\"></iframe>\n\nYou can see the entities that were defined in the `schema.graphql`, populated with event information like the `newName` and `updater` from each transaction!"
+    },
+    {
+      "id": "code-metamask",
+      "metadata": {
+        "permalink": "/es/blog/code-metamask",
+        "source": "@site/blog/2021-11-16-connect-to-metamask.md",
+        "title": "Code Playground -- Metamask",
+        "description": "Playing with Metamask",
+        "date": "2021-11-16T00:00:00.000Z",
+        "formattedDate": "16 de noviembre de 2021",
+        "tags": [
+          {
+            "label": "code playground",
+            "permalink": "/es/blog/tags/code-playground"
+          }
+        ],
+        "readingTime": 1.69,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Using the Graph w/ Celo",
+          "permalink": "/es/blog/using-the-graph"
+        },
+        "nextItem": {
+          "title": "Intro to the Code Playground",
+          "permalink": "/es/blog/code-playground"
+        }
+      },
+      "content": "Let's see how we can interact with Metamask from the code playground. We can connect to Metamask, switch networks, add tokens to the Metamask asset list and send them to other accounts.\n\nThis post uses a live code editor. Check out [this post](2021-11-15-code-playground.md) to learn more about how it works.\n\n:::tip\n\nMake sure that you have have [Metamask installed](https://metamask.io) in your browser.\n\n:::\n\n## Connect to Metamask\n\nThe following example shows how to connect Metamask to this browser page.\n\n:::note\n\nThis function will only trigger an action if Metamask is not yet connect to the site. If you've already connected, nothing will happen.\n\n:::\n\n```jsx live\nfunction connect() {\n  function connectMetamask() {\n    ethereum.request({ method: \"eth_requestAccounts\" });\n  }\n\n  return <button onClick={connectMetamask}>Connect Metamask</button>;\n}\n```\n\n<!--truncate-->\n\n### Switch Networks\n\nThis example shows how you can prompt a user to connect to a specific Celo network. This component renders two buttons, one to connect to Celo mainnet and one to connect to the Alfajores testnet. If you try to connect to a network that you are already connected to, nothing happens.\n\nTry it out:\n\n```jsx live\nfunction MetamaskSwitchNetwork() {\n  const NETWORK_PARAMS = {\n    chainName: \"Celo\",\n    nativeCurrency: {\n      name: \"Celo\",\n      symbol: \"CELO\",\n      decimals: 18,\n    },\n  };\n\n  const MAINNET_PARAMS = {\n    ...NETWORK_PARAMS,\n    chainId: \"0xa4ec\", // 42220\n    rpcUrls: [\"https://forno.celo.org\"],\n    blockExplorerUrls: [\"https://explorer.celo.org/\"],\n  };\n\n  const ALFAJORES_PARAMS = {\n    ...NETWORK_PARAMS,\n    chainId: \"0xaef3\", // 44787\n    rpcUrls: [\"https://alfajores-forno.celo-testnet.org\"],\n    blockExplorerUrls: [\"https://alfajores-blockscout.celo-testnet.org/\"],\n  };\n\n  function addMainnet() {\n    window.ethereum.request({\n      method: \"wallet_addEthereumChain\",\n      params: [MAINNET_PARAMS],\n    });\n  }\n\n  function addAlfajores() {\n    window.ethereum.request({\n      method: \"wallet_addEthereumChain\",\n      params: [ALFAJORES_PARAMS],\n    });\n  }\n\n  return (\n    <div>\n      <button onClick={addMainnet}>Connect to Celo Mainnet</button>\n      <br />\n      <button onClick={addAlfajores}>Connect to Alfajores Testnet</button>\n      <br />\n    </div>\n  );\n}\n```\n\n### Add Tokens\n\nThe following code example shows how you can add the cUSD token on the Alfajores testnet to Metamask. To add other tokens, just update the parameter options. You can read more about the Metamask API [here](https://docs.metamask.io/guide/rpc-api.html#wallet-watchasset).\n\n```jsx live\nfunction MetamaskAddToken() {\n  const TOKEN_PARAMS = {\n    type: \"ERC20\",\n    options: {\n      address: \"0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1\",\n      symbol: \"cUSD\",\n      decimals: 18,\n    },\n  };\n\n  function addToken() {\n    window.ethereum.request({\n      method: \"wallet_watchAsset\",\n      params: TOKEN_PARAMS,\n    });\n  }\n\n  return <button onClick={addToken}>Add cUSD (Alfajores)</button>;\n}\n```\n\n### Send Tokens\n\nLet's try to send some CELO on Alfajores. Make sure you are connected to the Alfajores testnet, you can double check by clicking the `Connect to Alfajores Testnet` button above again.\n\nMake sure you have some Alfajores CELO to send. If you need some, you can get some from [the faucet here](https://celo.org/developers/faucet).\n\n```jsx live\nfunction MetamaskSendCelo() {\n  const TX_PARAMS = {\n    to: \"0x5038ae19CDf0B623e6e8015249ecF58A1165D653\",\n    from: ethereum.selectedAddress,\n    value: \"0x11111111111111\",\n  };\n\n  async function send() {\n    let txID = await window.ethereum.request({\n      method: \"eth_sendTransaction\",\n      params: [TX_PARAMS],\n    });\n    console.log(txID);\n  }\n\n  return <button onClick={send}>Send CELO (Alfajores)</button>;\n}\n```\n\nClick the button to send some CELO. Once you click submit, the transaction id will be logged in the browser console!\n\nTo send cUSD or interact with any other smart contract, you will have to encode the data and include it in the transaction data field. Libraries like [web3.js](https://web3js.readthedocs.io/en/v1.5.2/) and [contractkit](https://www.npmjs.com/package/@celo/contractkit) make this easier. We will go over using web3.js and contractkit in future posts."
+    },
+    {
+      "id": "code-playground",
+      "metadata": {
+        "permalink": "/es/blog/code-playground",
+        "source": "@site/blog/2021-11-15-code-playground.md",
+        "title": "Intro to the Code Playground",
+        "description": "Playing with Code",
+        "date": "2021-11-15T00:00:00.000Z",
+        "formattedDate": "15 de noviembre de 2021",
+        "tags": [
+          {
+            "label": "code playground",
+            "permalink": "/es/blog/tags/code-playground"
+          }
+        ],
+        "readingTime": 0.99,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Code Playground -- Metamask",
+          "permalink": "/es/blog/code-metamask"
+        },
+        "nextItem": {
+          "title": "Contributing to the Blog",
+          "permalink": "/es/blog/blog-contributions"
+        }
+      },
+      "content": "This post provides an introduction to the live code editor that is included as a feature in this blog. It allows you to see working examples of things like connecting to the Celo network with Metamask and initiating user transactions with the SDK.\n\nIf you have any suggestions for examples that you'd like to see, or if you'd like to create one yourself and have it included in the blog, please reach out to me at [josh@clabs.co](mailto:josh@clabs.co) or on Discord at joshc#0001.\n\n## Live coding\n\nThis is a live, editable code block. You can update the code right on this page and it will be compiled and executed as you updated it. This is a powerful feature for learning and testing code in real time--you get immediate feedback about what works and what doesn't.\n\n:::note\n\nThe code is rendered using [React Live](https://github.com/FormidableLabs/react-live). This means that the code is rendered as a React component, which gives you access to React features like hooks, but also limits what is possible.\n\n:::\n\n<!--truncate-->\n### Hello World\n\nTry it out:\n\n```jsx live\nfunction helloWorld(){\n\n  return <p>Hello World!</p>\n\n}\n```\n\nEdit the code to return some new text. Try rendering different HTML.\n\nYou can see that the result is a simple rendering of the return statement, which is just HTML. The component must include a return statement, although you can return an empty string. You can also log stuff to your browser console from the environment.\n\n### Logging\n\nSee this example that returns an empty string and logs the browser `Window` object.\n\n```jsx live\nfunction logger(){\n  console.log(window)\n  return \"\"\n}\n```\n\nCool!\n\nThis is just a small preview into what code sharing and learning experiences we can build with this tool. Check out this post about [Connecting to Metamask](2021-11-16-connect-to-metamask.md) to learn more."
+    },
+    {
+      "id": "blog-contributions",
+      "metadata": {
+        "permalink": "/es/blog/blog-contributions",
+        "source": "@site/blog/2021-11-08-contributing.md",
+        "title": "Contributing to the Blog",
+        "description": "How to contribute to the blog",
+        "date": "2021-11-08T00:00:00.000Z",
+        "formattedDate": "8 de noviembre de 2021",
+        "tags": [
+          {
+            "label": "contribute",
+            "permalink": "/es/blog/tags/contribute"
+          }
+        ],
+        "readingTime": 1.4666666666666666,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Josh Crites",
+            "title": "Developer Relations, cLabs",
+            "url": "https://github.com/critesjosh",
+            "image_url": "https://github.com/critesjosh.png",
+            "imageURL": "https://github.com/critesjosh.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Intro to the Code Playground",
+          "permalink": "/es/blog/code-playground"
+        }
+      },
+      "content": "Contribute to Celo.\n\n## Open Source\n\nCelo is an open source project and without community contributions from people like you Celo wouldn't exist. We welcome contributions to our [codebase](https://github.com/celo-org), [documentation](https://github.com/celo-org/docs), [translations](https://celo.crowdin.com/) and [blog](https://github.com/celo-org/docs/blog).\n\nIt can be difficult to find ways to meaningfully contribute to a new project, but writing a guest post on our blog is a great way to get started!\n\nWrite about your experience as a member of the Celo community, whether you're a CELO owner or a project founder. Your experience and perspective is valuable and can help others.\n\n<!--truncate-->\n\n## Blog Ideas\n\nHere are some topics that you could write about:\n\n- Document your experience onboarding to Celo\n- Share how Celo has impacted your life\n- Using DeFi on Celo\n- Minting tokens on Celo\n- How to build a product or service on Celo\n- How to debug transactions using the Truffle debugger\n- Getting events using the Graph protocol\n- How to contribute to specific Celo packages\n- Project spotlights (your own project or researching another)\n\n## How to Contribute\n\n### File naming\n\nCreating a new post in the blog is straightforward. Create a new file in the [blog directory](https://github.com/celo-org/docs/tree/main/blog) in the documentation repository. Filenames follow the format of `YYYY-MM-DD-post-name.md`. For example, this post was written November 8th, 2021 so it has the filename `2021-11-08-contributing.md`.\n\n### Front Matter\n\nPosts are written in [Markdown](https://www.markdownguide.org/). Posts include front matter. Front matter is file metadata at the top of the file that provides more information about the post. The front matter for this post looks like this:\n\n```md\n---\ntitle: Contributing to the Blog\ndescription: How to contribute to the blog\nslug: blog-contributions\nauthors:\n  - name: Josh Crites\n    title: Developer Relations, cLabs\n    url: https://github.com/critesjosh\n    image_url: https://github.com/critesjosh.png\ntags: [contribute]\nimage: https://i.imgur.com/mErPwqL.png\nhide_table_of_contents: false\n---\n```\n\n### Post summary\n\nPages can also include a `<!--truncate-->` tag that specifies what text will be shown along with the post title on the post list page. Any text above `<!--truncate-->` will appear as the post summary.\n\n### Adding static assets\n\nIf you would like to include images or other static assets in a post, you can create a folder following the naming convention described above (YYYY-MM-DD-post-name). The contents of the folder can include the images and the post (with filename index.md).\n\nFor examples of how other posts do this and to see how other features are implemented (like [live coding](./2021-11-15-code-playground.md)), check out other posts source code in the [blog directory on GitHub](https://github.com/celo-org/docs/tree/main/blog).\n\n## Reach out\n\nIf you have any questions, feel free to join our Discord server at [https://chat.celo.org](https://chat.celo.org) and feel free to reach out to me. My username is joshc#0001."
+    }
+  ]
+}

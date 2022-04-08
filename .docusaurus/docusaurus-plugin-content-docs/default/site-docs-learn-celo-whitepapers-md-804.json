@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/celo-whitepapers",
+  "id": "learn/celo-whitepapers",
+  "title": "Celo Whitepapers",
+  "description": "Overview of Celo Whitepapers describing Celo's protocol, economics, and social impact.",
+  "source": "@site/docs/learn/celo-whitepapers.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/celo-whitepapers",
+  "permalink": "/es/learn/celo-whitepapers",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Whitepapers",
+    "description": "Overview of Celo Whitepapers describing Celo's protocol, economics, and social impact."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/es/learn/celo-stack"
+  },
+  "next": {
+    "title": "Join the Celo Community",
+    "permalink": "/es/community/join-the-community"
+  }
+}

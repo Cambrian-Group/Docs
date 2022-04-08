@@ -1,0 +1,17 @@
+{
+  "unversionedId": "developer-resources/walkthroughs/no-code-erc20",
+  "id": "developer-resources/walkthroughs/no-code-erc20",
+  "title": "Deploy & Mint a Token",
+  "description": "How to deploy an ERC20 token contract to Celo.",
+  "source": "@site/docs/developer-resources/walkthroughs/no-code-erc20.md",
+  "sourceDirName": "developer-resources/walkthroughs",
+  "slug": "/developer-resources/walkthroughs/no-code-erc20",
+  "permalink": "/es/developer-resources/walkthroughs/no-code-erc20",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Deploy & Mint a Token",
+    "description": "How to deploy an ERC20 token contract to Celo."
+  }
+}

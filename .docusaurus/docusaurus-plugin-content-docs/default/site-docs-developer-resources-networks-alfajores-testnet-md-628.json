@@ -1,0 +1,16 @@
+{
+  "unversionedId": "developer-resources/networks/alfajores-testnet",
+  "id": "developer-resources/networks/alfajores-testnet",
+  "title": "Alfajores Testnet",
+  "description": "The Alfajores Testnet is a Celo test network for developers building on the Celo platform. You can use it to try out the Celo Wallet or the Celo CLI (by sending transfers to yourself or other users of the testnet). You can also assist in running the network by operating a full node on your machine (or on a cloud or hosting provider).",
+  "source": "@site/docs/developer-resources/networks/alfajores-testnet.md",
+  "sourceDirName": "developer-resources/networks",
+  "slug": "/developer-resources/networks/alfajores-testnet",
+  "permalink": "/es/developer-resources/networks/alfajores-testnet",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Alfajores Testnet"
+  }
+}

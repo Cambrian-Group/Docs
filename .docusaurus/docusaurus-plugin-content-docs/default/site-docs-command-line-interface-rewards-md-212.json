@@ -1,0 +1,23 @@
+{
+  "unversionedId": "command-line-interface/rewards",
+  "id": "command-line-interface/rewards",
+  "title": "celocli rewards",
+  "description": "Show rewards information about a voter, registered Validator, or Validator Group",
+  "source": "@site/docs/command-line-interface/rewards.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/rewards",
+  "permalink": "/es/command-line-interface/rewards",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "celocli reserve",
+    "permalink": "/es/command-line-interface/reserve"
+  },
+  "next": {
+    "title": "celocli transfer",
+    "permalink": "/es/command-line-interface/transfer"
+  }
+}

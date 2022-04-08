@@ -1,0 +1,24 @@
+{
+  "unversionedId": "getting-started/validator-troubleshooting-faq",
+  "id": "getting-started/validator-troubleshooting-faq",
+  "title": "Celo Validator Troubleshooting FAQ",
+  "description": "Answers to frequently asked questions while troubleshooting isses as a Validator.",
+  "source": "@site/docs/getting-started/validator-troubleshooting-faq.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/validator-troubleshooting-faq",
+  "permalink": "/es/getting-started/validator-troubleshooting-faq",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Validator Troubleshooting FAQ",
+    "description": "Answers to frequently asked questions while troubleshooting isses as a Validator.",
+    "id": "validator-troubleshooting-faq",
+    "slug": "/getting-started/validator-troubleshooting-faq"
+  },
+  "sidebar": "validators",
+  "previous": {
+    "title": "Celo Signal",
+    "permalink": "/es/validator-guide/celo-signal"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/transactions/full-node-incentives",
+  "id": "celo-codebase/protocol/transactions/full-node-incentives",
+  "title": "Celo Full Node Incentives",
+  "description": "Overview of full node incentives available to node operators using gateway fees and transaction payments.",
+  "source": "@site/docs/celo-codebase/protocol/transactions/full-node-incentives.md",
+  "sourceDirName": "celo-codebase/protocol/transactions",
+  "slug": "/celo-codebase/protocol/transactions/full-node-incentives",
+  "permalink": "/es/celo-codebase/protocol/transactions/full-node-incentives",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Full Node Incentives",
+    "description": "Overview of full node incentives available to node operators using gateway fees and transaction payments."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Encrypted Payment Comments",
+    "permalink": "/es/celo-codebase/protocol/transactions/tx-comment-encryption"
+  },
+  "next": {
+    "title": "Celo Identity Overview",
+    "permalink": "/es/celo-codebase/protocol/identity"
+  }
+}

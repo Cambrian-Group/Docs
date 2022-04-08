@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/bridging/optics-bridge-faq",
+  "id": "celo-codebase/protocol/bridging/optics-bridge-faq",
+  "title": "Optics Bridge FAQs",
+  "description": "Common questions about the Optics Bridge.",
+  "source": "@site/docs/celo-codebase/protocol/bridging/optics-bridge-faq.md",
+  "sourceDirName": "celo-codebase/protocol/bridging",
+  "slug": "/celo-codebase/protocol/bridging/optics-bridge-faq",
+  "permalink": "/es/celo-codebase/protocol/bridging/optics-bridge-faq",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Optics Bridge FAQs",
+    "description": "Common questions about the Optics Bridge."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Migrating to Optics v2",
+    "permalink": "/es/celo-codebase/protocol/bridging/migrating-to-optics-v2"
+  },
+  "next": {
+    "title": "Oracles on Celo",
+    "permalink": "/es/celo-codebase/protocol/oracles/oracles-on-celo"
+  }
+}

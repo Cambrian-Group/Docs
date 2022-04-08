@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/identity/valora-accounts",
+  "id": "celo-codebase/protocol/identity/valora-accounts",
+  "title": "Valora Accounts",
+  "description": "How Valora operates as a meta-transaction wallet to facilitate mobile payments.",
+  "source": "@site/docs/celo-codebase/protocol/identity/valora-accounts.md",
+  "sourceDirName": "celo-codebase/protocol/identity",
+  "slug": "/celo-codebase/protocol/identity/valora-accounts",
+  "permalink": "/es/celo-codebase/protocol/identity/valora-accounts",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Valora Accounts",
+    "description": "How Valora operates as a meta-transaction wallet to facilitate mobile payments."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Identity Overview",
+    "permalink": "/es/celo-codebase/protocol/identity"
+  },
+  "next": {
+    "title": "Phone Number Privacy",
+    "permalink": "/es/celo-codebase/protocol/identity/phone-number-privacy"
+  }
+}

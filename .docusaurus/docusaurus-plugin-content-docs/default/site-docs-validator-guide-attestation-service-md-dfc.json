@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator-guide/attestation-service",
+  "id": "validator-guide/attestation-service",
+  "title": "Celo Attestation Service",
+  "description": "How to configure, run, and manage an attestation service as a Celo Validator.",
+  "source": "@site/docs/validator-guide/attestation-service.md",
+  "sourceDirName": "validator-guide",
+  "slug": "/validator-guide/attestation-service",
+  "permalink": "/es/validator-guide/attestation-service",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Attestation Service",
+    "descriptin": "How to configure, run, and manage an attestation service as a Celo Validator."
+  },
+  "sidebar": "validators",
+  "previous": {
+    "title": "Celo Validators",
+    "permalink": "/es/validator-guide/overview"
+  },
+  "next": {
+    "title": "Celo Key Management Summary",
+    "permalink": "/es/validator-guide/summary"
+  }
+}

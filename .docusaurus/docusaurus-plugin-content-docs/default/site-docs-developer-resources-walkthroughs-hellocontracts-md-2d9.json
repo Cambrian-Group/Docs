@@ -1,0 +1,18 @@
+{
+  "unversionedId": "developer-resources/walkthroughs/hellocontracts",
+  "id": "developer-resources/walkthroughs/hellocontracts",
+  "title": "Deploy a Contract on Celo (local node)",
+  "description": "How to deploy your own smart contracts onto Celo from a local node.",
+  "source": "@site/docs/developer-resources/walkthroughs/hellocontracts.md",
+  "sourceDirName": "developer-resources/walkthroughs",
+  "slug": "/developer-guide/start/hellocontracts",
+  "permalink": "/es/developer-guide/start/hellocontracts",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Deploy a Contract on Celo (local node)",
+    "description": "How to deploy your own smart contracts onto Celo from a local node.",
+    "slug": "/developer-guide/start/hellocontracts"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/baklava-testnet/running-a-validator-in-baklava",
+  "id": "getting-started/baklava-testnet/running-a-validator-in-baklava",
+  "title": "Run Baklava Testnet Validator on Celo",
+  "description": "How to get a Validator node running on the Celo Mainnet (Celo's Node Operator Testnet).",
+  "source": "@site/docs/getting-started/baklava-testnet/running-a-validator-in-baklava.md",
+  "sourceDirName": "getting-started/baklava-testnet",
+  "slug": "/getting-started/baklava-testnet/running-a-validator-in-baklava",
+  "permalink": "/es/getting-started/baklava-testnet/running-a-validator-in-baklava",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Run Baklava Testnet Validator on Celo",
+    "description": "How to get a Validator node running on the Celo Mainnet (Celo's Node Operator Testnet)."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Baklava Testnet",
+    "permalink": "/es/getting-started/baklava-testnet"
+  },
+  "next": {
+    "title": "Run a Baklava Full Node",
+    "permalink": "/es/getting-started/baklava-testnet/running-a-full-node-in-baklava"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[9721],{23866:function(s){s.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/sdk","name":"sdk","count":2,"permalink":"/es/blog/tags/sdk"}')}}]);

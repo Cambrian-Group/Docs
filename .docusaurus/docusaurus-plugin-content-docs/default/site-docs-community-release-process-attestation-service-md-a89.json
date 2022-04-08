@@ -1,0 +1,26 @@
+{
+  "unversionedId": "community/release-process/attestation-service",
+  "id": "community/release-process/attestation-service",
+  "title": "Celo Attestation Service Release Process",
+  "description": "Details of the release process for updating the attestation service on the Celo platform.",
+  "source": "@site/docs/community/release-process/attestation-service.md",
+  "sourceDirName": "community/release-process",
+  "slug": "/community/release-process/attestation-service",
+  "permalink": "/es/community/release-process/attestation-service",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Attestation Service Release Process",
+    "description": "Details of the release process for updating the attestation service on the Celo platform."
+  },
+  "sidebar": "contributors",
+  "previous": {
+    "title": "Celo Release Process for CeloCLI and ContractKit",
+    "permalink": "/es/community/release-process/base-cli-contractkit-dappkit-utils"
+  },
+  "next": {
+    "title": "Celo Alfajores Testnet Disclaimer",
+    "permalink": "/es/important-information/alfajores-testnet-disclaimer"
+  }
+}

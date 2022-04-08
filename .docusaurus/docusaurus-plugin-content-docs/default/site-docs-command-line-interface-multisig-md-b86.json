@@ -1,0 +1,23 @@
+{
+  "unversionedId": "command-line-interface/multisig",
+  "id": "command-line-interface/multisig",
+  "title": "celocli multisig",
+  "description": "Shows information about multi-sig contract",
+  "source": "@site/docs/command-line-interface/multisig.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/multisig",
+  "permalink": "/es/command-line-interface/multisig",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "celocli lockedgold",
+    "permalink": "/es/command-line-interface/lockedgold"
+  },
+  "next": {
+    "title": "celocli network",
+    "permalink": "/es/command-line-interface/network"
+  }
+}

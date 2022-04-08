@@ -1,0 +1,28 @@
+{
+  "unversionedId": "getting-started/alfajores-testnet/index",
+  "id": "getting-started/alfajores-testnet/index",
+  "title": "Celo's Alfajores Testnet",
+  "description": "Collection of resources to get started with Celo Alfajores Testnet (Celo's Developer Testnet).",
+  "source": "@site/docs/getting-started/alfajores-testnet/index.md",
+  "sourceDirName": "getting-started/alfajores-testnet",
+  "slug": "/getting-started/alfajores-testnet",
+  "permalink": "/es/getting-started/alfajores-testnet",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo's Alfajores Testnet",
+    "description": "Collection of resources to get started with Celo Alfajores Testnet (Celo's Developer Testnet).",
+    "id": "index",
+    "slug": "/getting-started/alfajores-testnet"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Run a Celo Full Node",
+    "permalink": "/es/getting-started/mainnet/running-a-full-node-in-mainnet"
+  },
+  "next": {
+    "title": "Run an Alfajores Full Node on Celo",
+    "permalink": "/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "celo-codebase/protocol/identity/privacy-research",
+  "id": "celo-codebase/protocol/identity/privacy-research",
+  "title": "Future Privacy Research",
+  "description": "Celo is committed to meet the privacy needs of its users. This section describes future plans for delivering on this commitment, while also sharing the current limitations of the Celo networks.",
+  "source": "@site/docs/celo-codebase/protocol/identity/privacy-research.md",
+  "sourceDirName": "celo-codebase/protocol/identity",
+  "slug": "/celo-codebase/protocol/identity/privacy-research",
+  "permalink": "/es/celo-codebase/protocol/identity/privacy-research",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "community/release-process/smart-contracts",
+  "id": "community/release-process/smart-contracts",
+  "title": "Celo Smart Contracts Release Process",
+  "description": "Details of the release process for updating smart contracts on the Celo platform.",
+  "source": "@site/docs/community/release-process/smart-contracts.mdx",
+  "sourceDirName": "community/release-process",
+  "slug": "/community/release-process/smart-contracts",
+  "permalink": "/es/community/release-process/smart-contracts",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Smart Contracts Release Process",
+    "description": "Details of the release process for updating smart contracts on the Celo platform."
+  },
+  "sidebar": "contributors",
+  "previous": {
+    "title": "Celo Release Process",
+    "permalink": "/es/community/release-process/"
+  },
+  "next": {
+    "title": "Celo Blockchain Client Release Process",
+    "permalink": "/es/community/release-process/blockchain-client"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "celo-holder-guide/voting-validators",
+  "id": "celo-holder-guide/voting-validators",
+  "title": "Voting for Validator Groups",
+  "description": "Overview of Validator elections for validator groups including technical details, policies, and explorers.",
+  "source": "@site/docs/celo-holder-guide/voting-validators.md",
+  "sourceDirName": "celo-holder-guide",
+  "slug": "/celo-owner-guide/voting-validators",
+  "permalink": "/es/celo-owner-guide/voting-validators",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Voting for Validator Groups",
+    "description": "Overview of Validator elections for validator groups including technical details, policies, and explorers.",
+    "slug": "/celo-owner-guide/voting-validators"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Exchange Celo Assets",
+    "permalink": "/es/celo-owner-guide/celo-exchange-bot"
+  },
+  "next": {
+    "title": "Celo Voting on Governance Proposals",
+    "permalink": "/es/celo-owner-guide/voting-governance"
+  }
+}

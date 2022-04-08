@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator-guide/securing-nodes-and-services",
+  "id": "validator-guide/securing-nodes-and-services",
+  "title": "Run Secure Celo Nodes and Services",
+  "description": "Recommendations for running secure Celo nodes and services.",
+  "source": "@site/docs/validator-guide/securing-nodes-and-services.md",
+  "sourceDirName": "validator-guide",
+  "slug": "/validator-guide/securing-nodes-and-services",
+  "permalink": "/es/validator-guide/securing-nodes-and-services",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Run Secure Celo Nodes and Services",
+    "description": "Recommendations for running secure Celo nodes and services."
+  },
+  "sidebar": "validators",
+  "previous": {
+    "title": "Celo Validator Signer Key Rotation",
+    "permalink": "/es/validator-guide/summary/key-rotation"
+  },
+  "next": {
+    "title": "Celo Monitoring",
+    "permalink": "/es/validator-guide/monitoring"
+  }
+}

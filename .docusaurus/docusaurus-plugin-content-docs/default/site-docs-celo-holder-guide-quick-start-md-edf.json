@@ -1,0 +1,27 @@
+{
+  "unversionedId": "celo-holder-guide/quick-start",
+  "id": "celo-holder-guide/quick-start",
+  "title": "Self-Custody CELO",
+  "description": "Account access and reward details for self-custodying holder of CELO on the Celo Mainnet.",
+  "source": "@site/docs/celo-holder-guide/quick-start.md",
+  "sourceDirName": "celo-holder-guide",
+  "slug": "/celo-owner-guide/quick-start",
+  "permalink": "/es/celo-owner-guide/quick-start",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Self-Custody CELO",
+    "description": "Account access and reward details for self-custodying holder of CELO on the Celo Mainnet.",
+    "slug": "/celo-owner-guide/quick-start"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Get CELO",
+    "permalink": "/es/celo-holder-guide/owners"
+  },
+  "next": {
+    "title": "Celo Asset Management Guide",
+    "permalink": "/es/celo-owner-guide/cusd"
+  }
+}

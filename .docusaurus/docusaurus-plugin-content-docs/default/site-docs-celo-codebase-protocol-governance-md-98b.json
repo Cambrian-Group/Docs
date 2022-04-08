@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/governance",
+  "id": "celo-codebase/protocol/governance",
+  "title": "Celo Governance",
+  "description": "Overview of Celo governance and how the network is managed using the stakeholder proposal process.",
+  "source": "@site/docs/celo-codebase/protocol/governance.md",
+  "sourceDirName": "celo-codebase/protocol",
+  "slug": "/celo-codebase/protocol/governance",
+  "permalink": "/es/celo-codebase/protocol/governance",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Governance",
+    "description": "Overview of Celo governance and how the network is managed using the stakeholder proposal process."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Validator Penalties",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/penalties"
+  },
+  "next": {
+    "title": "Celo Stability Mechanism Overview",
+    "permalink": "/es/celo-codebase/protocol/stability"
+  }
+}

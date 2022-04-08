@@ -1,0 +1,27 @@
+{
+  "unversionedId": "celo-holder-guide/governance-cheat-sheet",
+  "id": "celo-holder-guide/governance-cheat-sheet",
+  "title": "Celo Governance Cheat Sheet",
+  "description": "List of governable parameters and governance restrictions on Celo.",
+  "source": "@site/docs/celo-holder-guide/governance-cheat-sheet.md",
+  "sourceDirName": "celo-holder-guide",
+  "slug": "/celo-owner-guide/governance-cheat-sheet",
+  "permalink": "/es/celo-owner-guide/governance-cheat-sheet",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Governance Cheat Sheet",
+    "description": "List of governable parameters and governance restrictions on Celo.",
+    "slug": "/celo-owner-guide/governance-cheat-sheet"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Voting on Governance Proposals",
+    "permalink": "/es/celo-owner-guide/voting-governance"
+  },
+  "next": {
+    "title": "Recover CELO from an Ethereum Address",
+    "permalink": "/es/celo-owner-guide/eth-recovery"
+  }
+}

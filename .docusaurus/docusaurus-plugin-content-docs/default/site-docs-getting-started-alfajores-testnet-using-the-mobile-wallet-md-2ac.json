@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/alfajores-testnet/using-the-mobile-wallet",
+  "id": "getting-started/alfajores-testnet/using-the-mobile-wallet",
+  "title": "Using the Mobile Wallet",
+  "description": "How to get started with the Alfajores Testnet using the Celo Mobile wallet.",
+  "source": "@site/docs/getting-started/alfajores-testnet/using-the-mobile-wallet.md",
+  "sourceDirName": "getting-started/alfajores-testnet",
+  "slug": "/getting-started/alfajores-testnet/using-the-mobile-wallet",
+  "permalink": "/es/getting-started/alfajores-testnet/using-the-mobile-wallet",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Using the Mobile Wallet",
+    "description": "How to get started with the Alfajores Testnet using the Celo Mobile wallet."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Run an Alfajores Full Node on Celo",
+    "permalink": "/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores"
+  },
+  "next": {
+    "title": "Celo Wallet Testnet Funds",
+    "permalink": "/es/getting-started/alfajores-testnet/faucet"
+  }
+}

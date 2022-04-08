@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/stability/stability-fees",
+  "id": "celo-codebase/protocol/stability/stability-fees",
+  "title": "Celo Stability Fees",
+  "description": "Overview of stability fee parameters, timing, frequency, amounts, management, and updates.",
+  "source": "@site/docs/celo-codebase/protocol/stability/stability-fees.md",
+  "sourceDirName": "celo-codebase/protocol/stability",
+  "slug": "/celo-codebase/protocol/stability/stability-fees",
+  "permalink": "/es/celo-codebase/protocol/stability/stability-fees",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Stability Fees",
+    "description": "Overview of stability fee parameters, timing, frequency, amounts, management, and updates."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Oracles",
+    "permalink": "/es/celo-codebase/protocol/stability/oracles"
+  },
+  "next": {
+    "title": "Add Stable Assets to Celo",
+    "permalink": "/es/celo-codebase/protocol/stability/adding_stable_assets"
+  }
+}

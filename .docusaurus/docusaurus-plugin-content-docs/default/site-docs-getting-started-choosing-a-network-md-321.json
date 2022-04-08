@@ -1,0 +1,28 @@
+{
+  "unversionedId": "getting-started/choosing-a-network",
+  "id": "getting-started/choosing-a-network",
+  "title": "Celo Networks",
+  "description": "How to choose a Celo network based on your interested and objectives.",
+  "source": "@site/docs/getting-started/choosing-a-network.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/choosing-a-network",
+  "permalink": "/es/getting-started/choosing-a-network",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Networks",
+    "description": "How to choose a Celo network based on your interested and objectives.",
+    "id": "choosing-a-network",
+    "slug": "/getting-started/choosing-a-network"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Plumo Ultralight Sync",
+    "permalink": "/es/celo-codebase/protocol/plumo"
+  },
+  "next": {
+    "title": "Celo Mainnet",
+    "permalink": "/es/getting-started/mainnet"
+  }
+}

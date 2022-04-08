@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developer-resources/develop-on-windows",
+  "id": "developer-resources/develop-on-windows",
+  "title": "Celo Local Envorinment using Windows",
+  "description": "How to set up a local development environment for Celo using Windows.",
+  "source": "@site/docs/developer-resources/develop-on-windows.md",
+  "sourceDirName": "developer-resources",
+  "slug": "/developer-guide/start/develop-on-windows",
+  "permalink": "/es/developer-guide/start/develop-on-windows",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Local Envorinment using Windows",
+    "description": "How to set up a local development environment for Celo using Windows.",
+    "slug": "/developer-guide/start/develop-on-windows"
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Celo Local Development Environment Using Mac",
+    "permalink": "/es/developer-resources/using-mac"
+  },
+  "next": {
+    "title": "Setup Testnet Wallets",
+    "permalink": "/es/developer-resources/testnet-wallet"
+  }
+}

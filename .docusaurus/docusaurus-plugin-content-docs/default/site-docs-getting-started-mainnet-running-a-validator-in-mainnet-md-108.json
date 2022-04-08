@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/mainnet/running-a-validator-in-mainnet",
+  "id": "getting-started/mainnet/running-a-validator-in-mainnet",
+  "title": "Running a Celo Validator",
+  "description": "How to get a Validator node running on the Celo Mainnet.",
+  "source": "@site/docs/getting-started/mainnet/running-a-validator-in-mainnet.md",
+  "sourceDirName": "getting-started/mainnet",
+  "slug": "/getting-started/mainnet/running-a-validator-in-mainnet",
+  "permalink": "/es/getting-started/mainnet/running-a-validator-in-mainnet",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Running a Celo Validator",
+    "description": "How to get a Validator node running on the Celo Mainnet."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Mainnet",
+    "permalink": "/es/getting-started/mainnet"
+  },
+  "next": {
+    "title": "Run a Celo Full Node",
+    "permalink": "/es/getting-started/mainnet/running-a-full-node-in-mainnet"
+  }
+}

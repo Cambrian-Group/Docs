@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[7387],{7390:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/sourcify","name":"sourcify","count":1,"permalink":"/blog/tags/sourcify"}')}}]);

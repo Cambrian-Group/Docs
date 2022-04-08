@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developer-resources/integrations/checklist",
+  "id": "developer-resources/integrations/checklist",
+  "title": "Celo Integration Checklist",
+  "description": "Checklist for applications building and integrating on Celo.",
+  "source": "@site/docs/developer-resources/integrations/checklist.md",
+  "sourceDirName": "developer-resources/integrations",
+  "slug": "/developer-guide/integrations/checklist",
+  "permalink": "/es/developer-guide/integrations/checklist",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Integration Checklist",
+    "slug": "/developer-guide/integrations/checklist",
+    "description": "Checklist for applications building and integrating on Celo."
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Celo General Integration Information",
+    "permalink": "/es/developer-guide/integrations/general"
+  },
+  "next": {
+    "title": "Celo Custody Integrations",
+    "permalink": "/es/developer-guide/integrations/custody"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "learn/platform-native-stablecoins-summary",
+  "id": "learn/platform-native-stablecoins-summary",
+  "title": "Platform-Native Stablecoins (cUSD, cEUR)",
+  "description": "Summary of Celo Platform-Native Stablecoins and the value they provide to the community.",
+  "source": "@site/docs/learn/platform-native-stablecoins-summary.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/platform-native-stablecoins-summary",
+  "permalink": "/es/learn/platform-native-stablecoins-summary",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Platform-Native Stablecoins (cUSD, cEUR)",
+    "description": "Summary of Celo Platform-Native Stablecoins and the value they provide to the community."
+  },
+  "sidebar": "contributors",
+  "previous": {
+    "title": "Celo",
+    "permalink": "/es/learn/CELO-coin-summary"
+  },
+  "next": {
+    "title": "Celo Resources",
+    "permalink": "/es/learn/celo-resources"
+  }
+}

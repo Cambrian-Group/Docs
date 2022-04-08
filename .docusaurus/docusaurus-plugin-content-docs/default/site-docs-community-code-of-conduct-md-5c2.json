@@ -1,0 +1,25 @@
+{
+  "unversionedId": "community/code-of-conduct",
+  "id": "community/code-of-conduct",
+  "title": "Code of Conduct",
+  "description": "All communication and contributions to the Celo project are subject to the Celo Code of Conduct.",
+  "source": "@site/docs/community/code-of-conduct.md",
+  "sourceDirName": "community",
+  "slug": "/community/code-of-conduct",
+  "permalink": "/es/community/code-of-conduct",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Code of Conduct"
+  },
+  "sidebar": "contributors",
+  "previous": {
+    "title": "Community Improvement Proposals",
+    "permalink": "/es/community/CIP-contributors"
+  },
+  "next": {
+    "title": "Celo Grant Playbook",
+    "permalink": "/es/community/grant-playbook"
+  }
+}

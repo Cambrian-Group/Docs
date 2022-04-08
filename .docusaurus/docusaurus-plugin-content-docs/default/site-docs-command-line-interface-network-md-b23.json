@@ -1,0 +1,26 @@
+{
+  "unversionedId": "command-line-interface/network",
+  "id": "command-line-interface/network",
+  "title": "celocli network",
+  "description": "View details about the network, like contracts and parameters",
+  "source": "@site/docs/command-line-interface/network.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/network",
+  "permalink": "/es/command-line-interface/network",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "celocli network",
+    "description": "View details about the network, like contracts and parameters"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "celocli multisig",
+    "permalink": "/es/command-line-interface/multisig"
+  },
+  "next": {
+    "title": "celocli node",
+    "permalink": "/es/command-line-interface/node"
+  }
+}

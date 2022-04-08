@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developer-resources/contractkit/contracts-wrappers-registry",
+  "id": "developer-resources/contractkit/contracts-wrappers-registry",
+  "title": "Celo Core Contracts (Wrapper/Registry)",
+  "description": "How to interact with CELO assets using the wrapper and registry Celo Core Contracts.",
+  "source": "@site/docs/developer-resources/contractkit/contracts-wrappers-registry.md",
+  "sourceDirName": "developer-resources/contractkit",
+  "slug": "/developer-guide/contractkit/contracts-wrappers-registry",
+  "permalink": "/es/developer-guide/contractkit/contracts-wrappers-registry",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Core Contracts (Wrapper/Registry)",
+    "description": "How to interact with CELO assets using the wrapper and registry Celo Core Contracts.",
+    "slug": "/developer-guide/contractkit/contracts-wrappers-registry"
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Using Web3 from ContractKit with Celo",
+    "permalink": "/es/developer-guide/contractkit/notes-web3-with-contractkit"
+  },
+  "next": {
+    "title": "Querying on-chain identifiers with ODIS",
+    "permalink": "/es/developer-guide/contractkit/odis"
+  }
+}

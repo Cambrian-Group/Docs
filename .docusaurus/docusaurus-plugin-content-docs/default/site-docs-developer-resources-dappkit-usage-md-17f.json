@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developer-resources/dappkit/usage",
+  "id": "developer-resources/dappkit/usage",
+  "title": "Celo DAppKit Usage",
+  "description": "How to use DAppKit and make use of its features while building DApps on Celo.",
+  "source": "@site/docs/developer-resources/dappkit/usage.md",
+  "sourceDirName": "developer-resources/dappkit",
+  "slug": "/developer-guide/dappkit/usage",
+  "permalink": "/es/developer-guide/dappkit/usage",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo DAppKit Usage",
+    "description": "How to use DAppKit and make use of its features while building DApps on Celo.",
+    "slug": "/developer-guide/dappkit/usage"
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Celo DAppKit Setup",
+    "permalink": "/es/developer-guide/dappkit/setup"
+  },
+  "next": {
+    "title": "Celo Forno",
+    "permalink": "/es/developer-guide/forno"
+  }
+}

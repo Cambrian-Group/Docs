@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/transactions/gas-pricing",
+  "id": "celo-codebase/protocol/transactions/gas-pricing",
+  "title": "Celo Gas Pricing",
+  "description": "Introduction to gas prices, calculations, transactions, and fees on the Celo network.",
+  "source": "@site/docs/celo-codebase/protocol/transactions/gas-pricing.md",
+  "sourceDirName": "celo-codebase/protocol/transactions",
+  "slug": "/celo-codebase/protocol/transactions/gas-pricing",
+  "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Gas Pricing",
+    "description": "Introduction to gas prices, calculations, transactions, and fees on the Celo network."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Paying for Gas in Tokens",
+    "permalink": "/es/celo-codebase/protocol/transactions/erc20-transaction-fees"
+  },
+  "next": {
+    "title": "Celo's Escrow Contract",
+    "permalink": "/es/celo-codebase/protocol/transactions/escrow"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/alfajores-testnet/running-a-full-node-in-alfajores",
+  "id": "getting-started/alfajores-testnet/running-a-full-node-in-alfajores",
+  "title": "Run an Alfajores Full Node on Celo",
+  "description": "How to run a full node on the Alfajores Network using a prebuilt Docker image.",
+  "source": "@site/docs/getting-started/alfajores-testnet/running-a-full-node-in-alfajores.md",
+  "sourceDirName": "getting-started/alfajores-testnet",
+  "slug": "/getting-started/alfajores-testnet/running-a-full-node-in-alfajores",
+  "permalink": "/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Run an Alfajores Full Node on Celo",
+    "description": "How to run a full node on the Alfajores Network using a prebuilt Docker image."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo's Alfajores Testnet",
+    "permalink": "/es/getting-started/alfajores-testnet"
+  },
+  "next": {
+    "title": "Using the Mobile Wallet",
+    "permalink": "/es/getting-started/alfajores-testnet/using-the-mobile-wallet"
+  }
+}

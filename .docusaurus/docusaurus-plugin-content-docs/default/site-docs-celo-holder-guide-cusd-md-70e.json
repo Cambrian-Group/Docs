@@ -1,0 +1,27 @@
+{
+  "unversionedId": "celo-holder-guide/cusd",
+  "id": "celo-holder-guide/cusd",
+  "title": "Celo Asset Management Guide",
+  "description": "Access and account management for holding, exchanging, or sending Celo Dollars (cUSD) and stablecoins.",
+  "source": "@site/docs/celo-holder-guide/cusd.md",
+  "sourceDirName": "celo-holder-guide",
+  "slug": "/celo-owner-guide/cusd",
+  "permalink": "/es/celo-owner-guide/cusd",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Asset Management Guide",
+    "description": "Access and account management for holding, exchanging, or sending Celo Dollars (cUSD) and stablecoins.",
+    "slug": "/celo-owner-guide/cusd"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Self-Custody CELO",
+    "permalink": "/es/celo-owner-guide/quick-start"
+  },
+  "next": {
+    "title": "Celo ReleaseGold",
+    "permalink": "/es/celo-owner-guide/release-gold"
+  }
+}

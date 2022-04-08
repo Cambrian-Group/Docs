@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/oracles/band-protocol-how-to",
+  "id": "celo-codebase/protocol/oracles/band-protocol-how-to",
+  "title": "Using Band Protocol",
+  "description": "Tutorial on how to use the Band Protocol on Celo",
+  "source": "@site/docs/celo-codebase/protocol/oracles/band-protocol-how-to.md",
+  "sourceDirName": "celo-codebase/protocol/oracles",
+  "slug": "/celo-codebase/protocol/oracles/band-protocol-how-to",
+  "permalink": "/es/celo-codebase/protocol/oracles/band-protocol-how-to",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Using Band Protocol",
+    "description": "Tutorial on how to use the Band Protocol on Celo"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Oracles on Celo",
+    "permalink": "/es/celo-codebase/protocol/oracles/oracles-on-celo"
+  },
+  "next": {
+    "title": "Using RedStone oracles",
+    "permalink": "/es/celo-codebase/protocol/oracles/redstone-protocol-how-to"
+  }
+}

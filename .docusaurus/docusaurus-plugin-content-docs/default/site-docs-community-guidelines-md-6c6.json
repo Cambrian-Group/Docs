@@ -1,0 +1,26 @@
+{
+  "unversionedId": "community/guidelines",
+  "id": "community/guidelines",
+  "title": "Celo Contributor Guidelines",
+  "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone.",
+  "source": "@site/docs/community/guidelines.md",
+  "sourceDirName": "community",
+  "slug": "/community/guidelines",
+  "permalink": "/es/community/guidelines",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Contributor Guidelines",
+    "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone."
+  },
+  "sidebar": "contributors",
+  "previous": {
+    "title": "Developer Events",
+    "permalink": "/es/community/developer-events"
+  },
+  "next": {
+    "title": "Celo Code Contributors",
+    "permalink": "/es/community/code-contributors"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/baklava-testnet/running-a-full-node-in-baklava",
+  "id": "getting-started/baklava-testnet/running-a-full-node-in-baklava",
+  "title": "Run a Baklava Full Node",
+  "description": "How to get a full node running on the Baklava Network using a prebuilt Docker image.",
+  "source": "@site/docs/getting-started/baklava-testnet/running-a-full-node-in-baklava.md",
+  "sourceDirName": "getting-started/baklava-testnet",
+  "slug": "/getting-started/baklava-testnet/running-a-full-node-in-baklava",
+  "permalink": "/es/getting-started/baklava-testnet/running-a-full-node-in-baklava",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Run a Baklava Full Node",
+    "description": "How to get a full node running on the Baklava Network using a prebuilt Docker image."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Run Baklava Testnet Validator on Celo",
+    "permalink": "/es/getting-started/baklava-testnet/running-a-validator-in-baklava"
+  },
+  "next": {
+    "title": "Hosted Nodes",
+    "permalink": "/es/getting-started/hosted-nodes"
+  }
+}

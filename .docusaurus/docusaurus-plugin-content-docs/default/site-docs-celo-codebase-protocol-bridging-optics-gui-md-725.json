@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/bridging/optics-gui",
+  "id": "celo-codebase/protocol/bridging/optics-gui",
+  "title": "Optics Bridge GUI",
+  "description": "How to send ETH From Ethereum to Celo using the Optics Bridge GUI.",
+  "source": "@site/docs/celo-codebase/protocol/bridging/optics-gui.md",
+  "sourceDirName": "celo-codebase/protocol/bridging",
+  "slug": "/celo-codebase/protocol/bridging/optics-gui",
+  "permalink": "/es/celo-codebase/protocol/bridging/optics-gui",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Optics Bridge GUI",
+    "description": "How to send ETH From Ethereum to Celo using the Optics Bridge GUI."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Bridges",
+    "permalink": "/es/celo-codebase/protocol/bridging/bridging-to-celo"
+  },
+  "next": {
+    "title": "Bridge Native Assets with Etherscan",
+    "permalink": "/es/celo-codebase/protocol/bridging/bridging-native-assets"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-holder-guide/connecting-ledger-celocli",
+  "id": "celo-holder-guide/connecting-ledger-celocli",
+  "title": "Connect Ledger to Celo CLI",
+  "description": "How to connect a ledger wallet to the Celo CLI.",
+  "source": "@site/docs/celo-holder-guide/connecting-ledger-celocli.md",
+  "sourceDirName": "celo-holder-guide",
+  "slug": "/celo-holder-guide/connecting-ledger-celocli",
+  "permalink": "/es/celo-holder-guide/connecting-ledger-celocli",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Connect Ledger to Celo CLI",
+    "description": "How to connect a ledger wallet to the Celo CLI."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Connect Ledger to Celo Web Wallet",
+    "permalink": "/es/celo-holder-guide/connecting-ledger-celo-web-wallet"
+  },
+  "next": {
+    "title": "Get CELO",
+    "permalink": "/es/celo-holder-guide/owners"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "developer-resources/networks/baklava-testnet",
+  "id": "developer-resources/networks/baklava-testnet",
+  "title": "Baklava Testnet",
+  "description": "Baklava Testnet",
+  "source": "@site/docs/developer-resources/networks/baklava-testnet.md",
+  "sourceDirName": "developer-resources/networks",
+  "slug": "/developer-resources/networks/baklava-testnet",
+  "permalink": "/es/developer-resources/networks/baklava-testnet",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Baklava Testnet"
+  }
+}

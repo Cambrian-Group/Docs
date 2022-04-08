@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developer-resources/integrations/general",
+  "id": "developer-resources/integrations/general",
+  "title": "Celo General Integration Information",
+  "description": "General information about integrations regardless of your service or use case.",
+  "source": "@site/docs/developer-resources/integrations/general.md",
+  "sourceDirName": "developer-resources/integrations",
+  "slug": "/developer-guide/integrations/general",
+  "permalink": "/es/developer-guide/integrations/general",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo General Integration Information",
+    "slug": "/developer-guide/integrations/general",
+    "description": "General information about integrations regardless of your service or use case."
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Integrate with Celo",
+    "permalink": "/es/developer-guide/integrations"
+  },
+  "next": {
+    "title": "Celo Integration Checklist",
+    "permalink": "/es/developer-guide/integrations/checklist"
+  }
+}

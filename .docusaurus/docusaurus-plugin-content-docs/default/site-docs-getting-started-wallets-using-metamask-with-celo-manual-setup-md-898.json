@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/wallets/using-metamask-with-celo/manual-setup",
+  "id": "getting-started/wallets/using-metamask-with-celo/manual-setup",
+  "title": "MetaMask Manual Setup on Celo",
+  "description": "How to manually add a Celo network to your existing MetaMask wallet.",
+  "source": "@site/docs/getting-started/wallets/using-metamask-with-celo/manual-setup.md",
+  "sourceDirName": "getting-started/wallets/using-metamask-with-celo",
+  "slug": "/getting-started/wallets/using-metamask-with-celo/manual-setup",
+  "permalink": "/es/getting-started/wallets/using-metamask-with-celo/manual-setup",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MetaMask Manual Setup on Celo",
+    "description": "How to manually add a Celo network to your existing MetaMask wallet."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "MetaMask and Celo",
+    "permalink": "/es/getting-started/wallets/using-metamask-with-celo"
+  },
+  "next": {
+    "title": "MetaMask Programmatic Setup on Celo",
+    "permalink": "/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup"
+  }
+}

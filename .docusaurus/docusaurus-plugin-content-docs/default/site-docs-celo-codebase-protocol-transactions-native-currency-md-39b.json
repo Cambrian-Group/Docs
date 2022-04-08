@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/transactions/native-currency",
+  "id": "celo-codebase/protocol/transactions/native-currency",
+  "title": "Celo Native Currency",
+  "description": "Introduction to CELO and its compliance to the ERC20 standard.",
+  "source": "@site/docs/celo-codebase/protocol/transactions/native-currency.md",
+  "sourceDirName": "celo-codebase/protocol/transactions",
+  "slug": "/celo-codebase/protocol/transactions/native-currency",
+  "permalink": "/es/celo-codebase/protocol/transactions/native-currency",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Native Currency",
+    "description": "Introduction to CELO and its compliance to the ERC20 standard."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Transactions Overview",
+    "permalink": "/es/celo-codebase/protocol/transactions"
+  },
+  "next": {
+    "title": "Paying for Gas in Tokens",
+    "permalink": "/es/celo-codebase/protocol/transactions/erc20-transaction-fees"
+  }
+}

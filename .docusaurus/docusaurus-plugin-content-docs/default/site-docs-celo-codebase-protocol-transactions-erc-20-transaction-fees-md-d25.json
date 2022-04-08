@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/transactions/erc20-transaction-fees",
+  "id": "celo-codebase/protocol/transactions/erc20-transaction-fees",
+  "title": "Paying for Gas in Tokens",
+  "description": "How to pay Celo gas fees using whitelisted ERC20 tokens.",
+  "source": "@site/docs/celo-codebase/protocol/transactions/erc20-transaction-fees.md",
+  "sourceDirName": "celo-codebase/protocol/transactions",
+  "slug": "/celo-codebase/protocol/transactions/erc20-transaction-fees",
+  "permalink": "/es/celo-codebase/protocol/transactions/erc20-transaction-fees",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Paying for Gas in Tokens",
+    "description": "How to pay Celo gas fees using whitelisted ERC20 tokens."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Native Currency",
+    "permalink": "/es/celo-codebase/protocol/transactions/native-currency"
+  },
+  "next": {
+    "title": "Celo Gas Pricing",
+    "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing"
+  }
+}

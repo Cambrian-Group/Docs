@@ -1,0 +1,26 @@
+{
+  "unversionedId": "community/translation-contributors",
+  "id": "community/translation-contributors",
+  "title": "Celo Translators",
+  "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone.",
+  "source": "@site/docs/community/translation-contributors.md",
+  "sourceDirName": "community",
+  "slug": "/community/translation-contributors",
+  "permalink": "/es/community/translation-contributors",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Translators",
+    "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone."
+  },
+  "sidebar": "contributors",
+  "previous": {
+    "title": "Celo Code Contributors",
+    "permalink": "/es/community/code-contributors"
+  },
+  "next": {
+    "title": "Celo Technical Writers",
+    "permalink": "/es/community/documentation-contributors"
+  }
+}

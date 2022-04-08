@@ -1,0 +1,27 @@
+{
+  "unversionedId": "developer-resources/forno/index",
+  "id": "developer-resources/forno/index",
+  "title": "Celo Forno",
+  "description": "How to connect to Celo without running a full node using Forno.",
+  "source": "@site/docs/developer-resources/forno/index.md",
+  "sourceDirName": "developer-resources/forno",
+  "slug": "/developer-guide/forno",
+  "permalink": "/es/developer-guide/forno",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Forno",
+    "description": "How to connect to Celo without running a full node using Forno.",
+    "slug": "/developer-guide/forno"
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Celo DAppKit Usage",
+    "permalink": "/es/developer-guide/dappkit/usage"
+  },
+  "next": {
+    "title": "Celo Local Development Chain with Protocol Contracts",
+    "permalink": "/es/developer-guide/development-chain"
+  }
+}

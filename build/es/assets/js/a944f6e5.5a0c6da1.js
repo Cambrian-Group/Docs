@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[3970],{42374:function(s){s.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/use-contractkit","name":"use-contractkit","count":1,"permalink":"/es/blog/tags/use-contractkit"}')}}]);

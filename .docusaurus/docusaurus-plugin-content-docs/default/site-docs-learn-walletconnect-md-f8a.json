@@ -1,0 +1,25 @@
+{
+  "unversionedId": "learn/walletconnect",
+  "id": "learn/walletconnect",
+  "title": "WalletConnect",
+  "description": "WalletConnect is a standard across EVM compatible blockchains to connect wallets to dapps. It allows developers to build connections between wallets and dapps on the same desktop or mobile device, or between desktop dapps and mobile wallets.",
+  "source": "@site/docs/learn/walletconnect.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/walletconnect",
+  "permalink": "/es/learn/walletconnect",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WalletConnect"
+  },
+  "sidebar": "developers",
+  "previous": {
+    "title": "Celo Ethers.js Wrapper",
+    "permalink": "/es/developer-resources/ethers-js-wrapper"
+  },
+  "next": {
+    "title": "Celo DAppKit",
+    "permalink": "/es/developer-guide/dappkit"
+  }
+}

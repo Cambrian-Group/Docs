@@ -1,0 +1,23 @@
+{
+  "unversionedId": "command-line-interface/node",
+  "id": "command-line-interface/node",
+  "title": "celocli node",
+  "description": "Manage your Celo node",
+  "source": "@site/docs/command-line-interface/node.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/node",
+  "permalink": "/es/command-line-interface/node",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "celocli network",
+    "permalink": "/es/command-line-interface/network"
+  },
+  "next": {
+    "title": "celocli oracle",
+    "permalink": "/es/command-line-interface/oracle"
+  }
+}

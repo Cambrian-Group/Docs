@@ -1,0 +1,17 @@
+{
+  "unversionedId": "developer-resources/walkthroughs/valora-wc-v1",
+  "id": "developer-resources/walkthroughs/valora-wc-v1",
+  "title": "Celo Valora + WalletConnect v1",
+  "description": "How to use Wallet Connect version 1 in a DApp to connect to Valora.",
+  "source": "@site/docs/developer-resources/walkthroughs/valora-wc-v1.md",
+  "sourceDirName": "developer-resources/walkthroughs",
+  "slug": "/developer-resources/walkthroughs/valora-wc-v1",
+  "permalink": "/es/developer-resources/walkthroughs/valora-wc-v1",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Valora + WalletConnect v1",
+    "description": "How to use Wallet Connect version 1 in a DApp to connect to Valora."
+  }
+}

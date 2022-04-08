@@ -1,0 +1,27 @@
+{
+  "unversionedId": "celo-codebase/protocol/index",
+  "id": "celo-codebase/protocol/index",
+  "title": "Celo Protocol",
+  "description": "Introduction to the Celo protocol, its implementation, and its relationship to Ethereum.",
+  "source": "@site/docs/celo-codebase/protocol/index.md",
+  "sourceDirName": "celo-codebase/protocol",
+  "slug": "/celo-codebase/protocol",
+  "permalink": "/es/celo-codebase/protocol",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Protocol",
+    "description": "Introduction to the Celo protocol, its implementation, and its relationship to Ethereum.",
+    "slug": "/celo-codebase/protocol"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using RedStone oracles",
+    "permalink": "/es/celo-codebase/protocol/oracles/redstone-protocol-how-to"
+  },
+  "next": {
+    "title": "Consensus Introduction",
+    "permalink": "/es/celo-codebase/protocol/consensus"
+  }
+}

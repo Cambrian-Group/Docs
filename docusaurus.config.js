@@ -340,10 +340,6 @@ module.exports = {
               to: "/blog",
             },
             {
-              href: "https://zsc.crowdin.com/u/projects/2/files",
-              label: "Help translate",
-            },
-            {
               label: "ZSC GitHub",
               href: "https://github.com/zsc-ZTChain",
             },
@@ -371,10 +367,6 @@ module.exports = {
             {
               label: "Reddit",
               href: "https://t.me/joinchat/F8Tdpoi_71E2NTFl",
-            },
-            {
-              label: "ZSC GitHub",
-              href: "https://github.com/zsc-ZTChain",
             },
           ],
         },

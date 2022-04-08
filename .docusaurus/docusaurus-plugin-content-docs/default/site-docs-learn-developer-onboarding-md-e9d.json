@@ -1,0 +1,17 @@
+{
+  "unversionedId": "learn/developer-onboarding",
+  "id": "learn/developer-onboarding",
+  "title": "Celo Develoepr Onboarding",
+  "description": "Start your journey toward developing decentralized applications on the Celo platform.",
+  "source": "@site/docs/learn/developer-onboarding.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/developer-onboarding",
+  "permalink": "/es/learn/developer-onboarding",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Develoepr Onboarding",
+    "description": "Start your journey toward developing decentralized applications on the Celo platform."
+  }
+}

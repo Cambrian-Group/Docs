@@ -1,0 +1,14 @@
+{
+  "unversionedId": "developer-resources/contractkit/data-encryption-key",
+  "id": "developer-resources/contractkit/data-encryption-key",
+  "title": "Data Encryption Key",
+  "description": "An account may register a data encryption key (DEK) that can be used for lightweight signing or encryption operations. Some examples of DEK usage are:",
+  "source": "@site/docs/developer-resources/contractkit/data-encryption-key.md",
+  "sourceDirName": "developer-resources/contractkit",
+  "slug": "/developer-resources/contractkit/data-encryption-key",
+  "permalink": "/es/developer-resources/contractkit/data-encryption-key",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

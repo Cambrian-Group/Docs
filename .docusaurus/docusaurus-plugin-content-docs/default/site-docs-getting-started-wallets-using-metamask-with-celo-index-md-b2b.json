@@ -1,0 +1,28 @@
+{
+  "unversionedId": "getting-started/wallets/using-metamask-with-celo/index",
+  "id": "getting-started/wallets/using-metamask-with-celo/index",
+  "title": "MetaMask and Celo",
+  "description": "Overview of MetaMask and how you can get started with MetaMask on Celo.",
+  "source": "@site/docs/getting-started/wallets/using-metamask-with-celo/index.md",
+  "sourceDirName": "getting-started/wallets/using-metamask-with-celo",
+  "slug": "/getting-started/wallets/using-metamask-with-celo",
+  "permalink": "/es/getting-started/wallets/using-metamask-with-celo",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MetaMask and Celo",
+    "description": "Overview of MetaMask and how you can get started with MetaMask on Celo.",
+    "id": "index",
+    "slug": "/getting-started/wallets/using-metamask-with-celo"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ultralight Node Sync",
+    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync"
+  },
+  "next": {
+    "title": "MetaMask Manual Setup on Celo",
+    "permalink": "/es/getting-started/wallets/using-metamask-with-celo/manual-setup"
+  }
+}

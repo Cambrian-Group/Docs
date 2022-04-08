@@ -1,0 +1,18 @@
+{
+  "unversionedId": "developer-resources/start",
+  "id": "developer-resources/start",
+  "title": "Developer Code Examples",
+  "description": "List of examples and guides to help you start building on Celo.",
+  "source": "@site/docs/developer-resources/start.md",
+  "sourceDirName": "developer-resources",
+  "slug": "/developer-guide/start",
+  "permalink": "/es/developer-guide/start",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Developer Code Examples",
+    "description": "List of examples and guides to help you start building on Celo.",
+    "slug": "/developer-guide/start"
+  }
+}

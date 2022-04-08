@@ -1,0 +1,17 @@
+{
+  "unversionedId": "learn/celo-overview",
+  "id": "learn/celo-overview",
+  "title": "Welcome to ZSC",
+  "description": "Celo's mission, vision, and goals for financial prosperity for everyone.",
+  "source": "@site/docs/learn/celo-overview.md",
+  "sourceDirName": "learn",
+  "slug": "/learn/celo-overview",
+  "permalink": "/es/learn/celo-overview",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Welcome to ZSC",
+    "description": "Celo's mission, vision, and goals for financial prosperity for everyone."
+  }
+}

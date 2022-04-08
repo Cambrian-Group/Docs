@@ -1,0 +1,18 @@
+{
+  "unversionedId": "developer-resources/walkthroughs/web-dapp",
+  "id": "developer-resources/walkthroughs/web-dapp",
+  "title": "React based DApp",
+  "description": "The basics of developing a decentralised application (DApp) on Celo.",
+  "source": "@site/docs/developer-resources/walkthroughs/web-dapp.md",
+  "sourceDirName": "developer-resources/walkthroughs",
+  "slug": "/developer-guide/start/web-dapp",
+  "permalink": "/es/developer-guide/start/web-dapp",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "React based DApp",
+    "description": "The basics of developing a decentralised application (DApp) on Celo.",
+    "slug": "/developer-guide/start/web-dapp"
+  }
+}

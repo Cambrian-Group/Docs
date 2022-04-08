@@ -1,0 +1,27 @@
+{
+  "unversionedId": "validator-guide/key-management/detailed",
+  "id": "validator-guide/key-management/detailed",
+  "title": "Celo Detailed Role Descriptions",
+  "description": "Detailed description of the various account roles found in the Celo protocol with examples of how to designate an account as playing a particular role.",
+  "source": "@site/docs/validator-guide/key-management/detailed.md",
+  "sourceDirName": "validator-guide/key-management",
+  "slug": "/validator-guide/summary/detailed",
+  "permalink": "/es/validator-guide/summary/detailed",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Detailed Role Descriptions",
+    "description": "Detailed description of the various account roles found in the Celo protocol with examples of how to designate an account as playing a particular role.",
+    "slug": "/validator-guide/summary/detailed"
+  },
+  "sidebar": "validators",
+  "previous": {
+    "title": "Celo Key Management Summary",
+    "permalink": "/es/validator-guide/summary"
+  },
+  "next": {
+    "title": "Celo Validator Signer Key Rotation",
+    "permalink": "/es/validator-guide/summary/key-rotation"
+  }
+}

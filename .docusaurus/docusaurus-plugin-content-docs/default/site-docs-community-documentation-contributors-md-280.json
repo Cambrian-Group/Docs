@@ -1,0 +1,26 @@
+{
+  "unversionedId": "community/documentation-contributors",
+  "id": "community/documentation-contributors",
+  "title": "Celo Technical Writers",
+  "description": "How to contribute to the Celo community documentation.",
+  "source": "@site/docs/community/documentation-contributors.md",
+  "sourceDirName": "community",
+  "slug": "/community/documentation-contributors",
+  "permalink": "/es/community/documentation-contributors",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Technical Writers",
+    "description": "How to contribute to the Celo community documentation."
+  },
+  "sidebar": "contributors",
+  "previous": {
+    "title": "Celo Translators",
+    "permalink": "/es/community/translation-contributors"
+  },
+  "next": {
+    "title": "Community Improvement Proposals",
+    "permalink": "/es/community/CIP-contributors"
+  }
+}

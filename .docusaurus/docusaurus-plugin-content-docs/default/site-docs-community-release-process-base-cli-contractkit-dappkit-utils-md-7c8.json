@@ -1,0 +1,26 @@
+{
+  "unversionedId": "community/release-process/base-cli-contractkit-dappkit-utils",
+  "id": "community/release-process/base-cli-contractkit-dappkit-utils",
+  "title": "Celo Release Process for CeloCLI and ContractKit",
+  "description": "Details of the release process for updating CeloCLI and ContractKit on the Celo platform.",
+  "source": "@site/docs/community/release-process/base-cli-contractkit-dappkit-utils.md",
+  "sourceDirName": "community/release-process",
+  "slug": "/community/release-process/base-cli-contractkit-dappkit-utils",
+  "permalink": "/es/community/release-process/base-cli-contractkit-dappkit-utils",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Release Process for CeloCLI and ContractKit",
+    "description": "Details of the release process for updating CeloCLI and ContractKit on the Celo platform."
+  },
+  "sidebar": "contributors",
+  "previous": {
+    "title": "Celo Blockchain Client Release Process",
+    "permalink": "/es/community/release-process/blockchain-client"
+  },
+  "next": {
+    "title": "Celo Attestation Service Release Process",
+    "permalink": "/es/community/release-process/attestation-service"
+  }
+}

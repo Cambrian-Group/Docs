@@ -1,0 +1,26 @@
+{
+  "unversionedId": "celo-codebase/protocol/stability/granda-mento",
+  "id": "celo-codebase/protocol/stability/granda-mento",
+  "title": "Granda Mento",
+  "description": "Introduction to Granda Mento (CIP 38), its design, and how to manage exchange proposals.",
+  "source": "@site/docs/celo-codebase/protocol/stability/granda-mento.md",
+  "sourceDirName": "celo-codebase/protocol/stability",
+  "slug": "/celo-codebase/protocol/stability/granda-mento",
+  "permalink": "/es/celo-codebase/protocol/stability/granda-mento",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Granda Mento",
+    "description": "Introduction to Granda Mento (CIP 38), its design, and how to manage exchange proposals."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Stability Algorithm (Mento)",
+    "permalink": "/es/celo-codebase/protocol/stability/doto"
+  },
+  "next": {
+    "title": "Oracles",
+    "permalink": "/es/celo-codebase/protocol/stability/oracles"
+  }
+}

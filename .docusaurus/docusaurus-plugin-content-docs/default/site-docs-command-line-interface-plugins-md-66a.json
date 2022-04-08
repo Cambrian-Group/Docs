@@ -1,0 +1,23 @@
+{
+  "unversionedId": "command-line-interface/plugins",
+  "id": "command-line-interface/plugins",
+  "title": "celocli plugins",
+  "description": "list installed plugins",
+  "source": "@site/docs/command-line-interface/plugins.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/plugins",
+  "permalink": "/es/command-line-interface/plugins",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "celocli oracle",
+    "permalink": "/es/command-line-interface/oracle"
+  },
+  "next": {
+    "title": "celocli releasegold",
+    "permalink": "/es/command-line-interface/releasegold"
+  }
+}

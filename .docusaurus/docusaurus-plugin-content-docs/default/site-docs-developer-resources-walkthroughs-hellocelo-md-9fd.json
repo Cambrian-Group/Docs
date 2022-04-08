@@ -1,0 +1,17 @@
+{
+  "unversionedId": "developer-resources/walkthroughs/hellocelo",
+  "id": "developer-resources/walkthroughs/hellocelo",
+  "title": "Sending CELO & Stable Assets",
+  "description": "How to connect to the Celo test network and tranfer tokens using ContractKit.",
+  "source": "@site/docs/developer-resources/walkthroughs/hellocelo.md",
+  "sourceDirName": "developer-resources/walkthroughs",
+  "slug": "/developer-guide/start/hellocelo",
+  "permalink": "/es/developer-guide/start/hellocelo",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sending CELO & Stable Assets",
+    "slug": "/developer-guide/start/hellocelo"
+  }
+}

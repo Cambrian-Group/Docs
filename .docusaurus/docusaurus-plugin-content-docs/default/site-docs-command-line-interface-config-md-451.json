@@ -1,0 +1,23 @@
+{
+  "unversionedId": "command-line-interface/config",
+  "id": "command-line-interface/config",
+  "title": "celocli config",
+  "description": "Configure CLI options which persist across commands",
+  "source": "@site/docs/command-line-interface/config.md",
+  "sourceDirName": "command-line-interface",
+  "slug": "/command-line-interface/config",
+  "permalink": "/es/command-line-interface/config",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "celocli commands",
+    "permalink": "/es/command-line-interface/commands"
+  },
+  "next": {
+    "title": "celocli dkg",
+    "permalink": "/es/command-line-interface/dkg"
+  }
+}

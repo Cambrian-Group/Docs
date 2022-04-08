@@ -1,0 +1,24 @@
+{
+  "unversionedId": "welcome",
+  "id": "welcome",
+  "title": "Welcome to ZSC",
+  "description": "ZSC's mission is to build a financial system that creates the conditions for prosperity—for everyone.",
+  "source": "@site/docs/welcome.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/es/",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Welcome to ZSC",
+    "description": "ZSC's mission is to build a financial system that creates the conditions for prosperity—for everyone.",
+    "id": "welcome",
+    "slug": "/"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Why ZSC",
+    "permalink": "/es/why-celo"
+  }
+}

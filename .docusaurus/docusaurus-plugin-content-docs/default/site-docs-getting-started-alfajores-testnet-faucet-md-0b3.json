@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/alfajores-testnet/faucet",
+  "id": "getting-started/alfajores-testnet/faucet",
+  "title": "Celo Wallet Testnet Funds",
+  "description": "How to fund your Celo wallet account with testnet funds.",
+  "source": "@site/docs/getting-started/alfajores-testnet/faucet.md",
+  "sourceDirName": "getting-started/alfajores-testnet",
+  "slug": "/getting-started/alfajores-testnet/faucet",
+  "permalink": "/es/getting-started/alfajores-testnet/faucet",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Wallet Testnet Funds",
+    "description": "How to fund your Celo wallet account with testnet funds."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using the Mobile Wallet",
+    "permalink": "/es/getting-started/alfajores-testnet/using-the-mobile-wallet"
+  },
+  "next": {
+    "title": "Celo Baklava Testnet",
+    "permalink": "/es/getting-started/baklava-testnet"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "getting-started/baklava-testnet/index",
+  "id": "getting-started/baklava-testnet/index",
+  "title": "Celo Baklava Testnet",
+  "description": "Collection of resources to get started with Celo Baklava Testnet (Celo's Node Operator Testnet).",
+  "source": "@site/docs/getting-started/baklava-testnet/index.md",
+  "sourceDirName": "getting-started/baklava-testnet",
+  "slug": "/getting-started/baklava-testnet",
+  "permalink": "/es/getting-started/baklava-testnet",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo Baklava Testnet",
+    "description": "Collection of resources to get started with Celo Baklava Testnet (Celo's Node Operator Testnet).",
+    "id": "index",
+    "slug": "/getting-started/baklava-testnet"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Celo Wallet Testnet Funds",
+    "permalink": "/es/getting-started/alfajores-testnet/faucet"
+  },
+  "next": {
+    "title": "Run Baklava Testnet Validator on Celo",
+    "permalink": "/es/getting-started/baklava-testnet/running-a-validator-in-baklava"
+  }
+}

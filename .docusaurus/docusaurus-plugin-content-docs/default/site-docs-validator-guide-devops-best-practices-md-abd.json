@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator-guide/devops-best-practices",
+  "id": "validator-guide/devops-best-practices",
+  "title": "Celo DevOps Best Practices",
+  "description": "Best practices for running cloud infrastructure for Celo nodes and services.",
+  "source": "@site/docs/validator-guide/devops-best-practices.md",
+  "sourceDirName": "validator-guide",
+  "slug": "/validator-guide/devops-best-practices",
+  "permalink": "/es/validator-guide/devops-best-practices",
+  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Celo DevOps Best Practices",
+    "description": "Best practices for running cloud infrastructure for Celo nodes and services."
+  },
+  "sidebar": "validators",
+  "previous": {
+    "title": "Celo Monitoring",
+    "permalink": "/es/validator-guide/monitoring"
+  },
+  "next": {
+    "title": "Upgrade a Celo Node",
+    "permalink": "/es/validator-guide/node-upgrades"
+  }
+}
