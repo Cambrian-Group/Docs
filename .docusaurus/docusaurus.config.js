@@ -27,8 +27,8 @@ export default {
     }
   ],
   "plugins": [
-    "/Users/youth/Documents/code/docs/node_modules/docusaurus-plugin-fathom/src/index.js",
-    "/Users/youth/Documents/code/docs/src/plugins/aliases.ts",
+    "/Users/youth/Documents/code/zsc-group/docs/node_modules/docusaurus-plugin-fathom/src/index.js",
+    "/Users/youth/Documents/code/zsc-group/docs/src/plugins/aliases.ts",
     [
       "@docusaurus/plugin-client-redirects",
       {
@@ -569,7 +569,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/youth/Documents/code/docs/sidebars.js",
+          "sidebarPath": "/Users/youth/Documents/code/zsc-group/docs/sidebars.js",
           "routeBasePath": "/",
           "remarkPlugins": [
             null,
@@ -585,14 +585,14 @@ export default {
           ]
         },
         "theme": {
-          "customCss": "/Users/youth/Documents/code/docs/src/css/custom.css"
+          "customCss": "/Users/youth/Documents/code/zsc-group/docs/src/css/custom.css"
         },
         "blog": {
           "blogTitle": "Celo Blog",
           "blogSidebarTitle": "All posts",
           "blogSidebarCount": "ALL",
           "showReadingTime": true,
-          "blogListComponent": "/Users/youth/Documents/code/docs/src/components/CustomBlogListPage.module.tsx"
+          "blogListComponent": "/Users/youth/Documents/code/zsc-group/docs/src/components/CustomBlogListPage.module.tsx"
         }
       }
     ]

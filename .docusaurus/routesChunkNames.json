@@ -1,6 +1,6 @@
 {
-  "/es/blog-955": {
-    "component": "ae4e815a",
+  "/es/blog-1b0": {
+    "component": "8730274e",
     "sidebar": "814f3328",
     "items": [
       {
@@ -120,8 +120,8 @@
     "sidebar": "814f3328",
     "content": "afaf435f"
   },
-  "/es/blog/page/2-149": {
-    "component": "ae4e815a",
+  "/es/blog/page/2-52f": {
+    "component": "8730274e",
     "sidebar": "814f3328",
     "items": [
       {
@@ -575,10 +575,10 @@
     "component": "69b6db9b",
     "config": "5e9f5e1a"
   },
-  "/es/search-2cc": {
-    "component": "4b924df4"
+  "/es/search-232": {
+    "component": "dc707916"
   },
-  "/es/-b13": {
+  "/es/-8ba": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -1354,7 +1354,7 @@
     "component": "17896441",
     "content": "df26b91a"
   },
-  "/es/learn/celo-milestones-73b": {
+  "/es/learn/celo-milestones-95d": {
     "component": "17896441",
     "content": "7c3265d9"
   },
@@ -1378,7 +1378,7 @@
     "component": "17896441",
     "content": "7369845e"
   },
-  "/es/learn/celo-stack-728": {
+  "/es/learn/celo-stack-9db": {
     "component": "17896441",
     "content": "f2e6ff1d"
   },
@@ -1478,7 +1478,7 @@
     "component": "17896441",
     "content": "80169b72"
   },
-  "/es/why-celo-b82": {
+  "/es/why-celo-7c0": {
     "component": "17896441",
     "content": "b4629889"
   }

@@ -1,8 +1,8 @@
 {
   "unversionedId": "learn/celo-stack",
   "id": "learn/celo-stack",
-  "title": "Architecture",
-  "description": "Overview of the Celo Stack including it's blockchain, core contracts, and applications.",
+  "title": "celo-stack",
+  "description": "",
   "source": "@site/docs/learn/celo-stack.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-stack",
@@ -10,17 +10,5 @@
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Architecture",
-    "description": "Overview of the Celo Stack including it's blockchain, core contracts, and applications."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Key Concepts",
-    "permalink": "/es/key-concepts"
-  },
-  "next": {
-    "title": "Celo Whitepapers",
-    "permalink": "/es/learn/celo-whitepapers"
-  }
+  "frontMatter": {}
 }

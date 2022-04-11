@@ -2,7 +2,7 @@
   "unversionedId": "learn/key-concepts",
   "id": "learn/key-concepts",
   "title": "Key Concepts",
-  "description": "Celo believes in a future where everyone can prosper.",
+  "description": "Zsc believes in a future where everyone can prosper.",
   "source": "@site/docs/learn/key-concepts.md",
   "sourceDirName": "learn",
   "slug": "/key-concepts",
@@ -14,7 +14,7 @@
     "title": "Key Concepts",
     "id": "key-concepts",
     "slug": "/key-concepts",
-    "description": "Celo believes in a future where everyone can prosper."
+    "description": "Zsc believes in a future where everyone can prosper."
   },
   "sidebar": "docs",
   "previous": {
@@ -22,7 +22,7 @@
     "permalink": "/es/learn/celo-ecosystem"
   },
   "next": {
-    "title": "Architecture",
-    "permalink": "/es/learn/celo-stack"
+    "title": "ZSC Whitepapers",
+    "permalink": "/es/learn/celo-whitepapers"
   }
 }

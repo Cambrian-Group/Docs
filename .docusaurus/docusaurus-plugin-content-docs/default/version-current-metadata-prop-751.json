@@ -20,12 +20,6 @@
         "items": [
           {
             "type": "link",
-            "label": "Why ZSC",
-            "href": "/es/why-celo",
-            "docId": "learn/why-celo"
-          },
-          {
-            "type": "link",
             "label": "Highlights",
             "href": "/es/learn/celo-highlights",
             "docId": "learn/celo-highlights"
@@ -38,12 +32,6 @@
           },
           {
             "type": "link",
-            "label": "Milestones",
-            "href": "/es/learn/celo-milestones",
-            "docId": "learn/celo-milestones"
-          },
-          {
-            "type": "link",
             "label": "Ecosystem",
             "href": "/es/learn/celo-ecosystem",
             "docId": "learn/celo-ecosystem"
@@ -53,12 +41,6 @@
             "label": "Key Concepts",
             "href": "/es/key-concepts",
             "docId": "learn/key-concepts"
-          },
-          {
-            "type": "link",
-            "label": "Architecture",
-            "href": "/es/learn/celo-stack",
-            "docId": "learn/celo-stack"
           },
           {
             "type": "link",
@@ -2192,8 +2174,8 @@
     },
     "community/join-the-community": {
       "id": "community/join-the-community",
-      "title": "Join the Celo Community",
-      "description": "Find Celo on social media, contribute to the codebase, or chat with the community.",
+      "title": "Join the Zsc Community",
+      "description": "Find Zsc on social media, contribute to the codebase, or chat with the community.",
       "sidebar": "docs"
     },
     "community/release-process/attestation-service": {
@@ -2689,9 +2671,8 @@
     },
     "learn/celo-milestones": {
       "id": "learn/celo-milestones",
-      "title": "Celo Milestones",
-      "description": "Important milestones for the Celo protocol and ecosystem.",
-      "sidebar": "docs"
+      "title": "celo-milestones",
+      "description": ""
     },
     "learn/celo-onboarding": {
       "id": "learn/celo-onboarding",
@@ -2722,9 +2703,8 @@
     },
     "learn/celo-stack": {
       "id": "learn/celo-stack",
-      "title": "Architecture",
-      "description": "Overview of the Celo Stack including it's blockchain, core contracts, and applications.",
-      "sidebar": "docs"
+      "title": "celo-stack",
+      "description": ""
     },
     "learn/celo-summary": {
       "id": "learn/celo-summary",
@@ -2734,8 +2714,8 @@
     },
     "learn/celo-whitepapers": {
       "id": "learn/celo-whitepapers",
-      "title": "Celo Whitepapers",
-      "description": "Overview of Celo Whitepapers describing Celo's protocol, economics, and social impact.",
+      "title": "ZSC Whitepapers",
+      "description": "Overview of ZSC Whitepapers describing Zsc's protocol, economics, and social impact.",
       "sidebar": "docs"
     },
     "learn/developer-onboarding": {
@@ -2763,7 +2743,7 @@
     "learn/key-concepts": {
       "id": "learn/key-concepts",
       "title": "Key Concepts",
-      "description": "Celo believes in a future where everyone can prosper.",
+      "description": "Zsc believes in a future where everyone can prosper.",
       "sidebar": "docs"
     },
     "learn/platform-native-stablecoins-summary": {
@@ -2792,8 +2772,7 @@
     "learn/why-celo": {
       "id": "learn/why-celo",
       "title": "Why ZSC",
-      "description": "Celo believes in a future where everyone can prosper.",
-      "sidebar": "docs"
+      "description": "Celo believes in a future where everyone can prosper."
     },
     "overview": {
       "id": "overview",

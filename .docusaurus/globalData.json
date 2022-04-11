@@ -942,8 +942,7 @@
             },
             {
               "id": "learn/celo-milestones",
-              "path": "/es/learn/celo-milestones",
-              "sidebar": "docs"
+              "path": "/es/learn/celo-milestones"
             },
             {
               "id": "learn/celo-onboarding",
@@ -969,8 +968,7 @@
             },
             {
               "id": "learn/celo-stack",
-              "path": "/es/learn/celo-stack",
-              "sidebar": "docs"
+              "path": "/es/learn/celo-stack"
             },
             {
               "id": "learn/celo-summary",
@@ -1026,8 +1024,7 @@
             },
             {
               "id": "learn/why-celo",
-              "path": "/es/why-celo",
-              "sidebar": "docs"
+              "path": "/es/why-celo"
             },
             {
               "id": "overview",

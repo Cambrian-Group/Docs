@@ -1,8 +1,8 @@
 {
   "unversionedId": "community/join-the-community",
   "id": "community/join-the-community",
-  "title": "Join the Celo Community",
-  "description": "Find Celo on social media, contribute to the codebase, or chat with the community.",
+  "title": "Join the Zsc Community",
+  "description": "Find Zsc on social media, contribute to the codebase, or chat with the community.",
   "source": "@site/docs/community/join-the-community.md",
   "sourceDirName": "community",
   "slug": "/community/join-the-community",
@@ -11,12 +11,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Join the Celo Community",
-    "description": "Find Celo on social media, contribute to the codebase, or chat with the community."
+    "title": "Join the Zsc Community",
+    "description": "Find Zsc on social media, contribute to the codebase, or chat with the community."
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Celo Whitepapers",
+    "title": "ZSC Whitepapers",
     "permalink": "/es/learn/celo-whitepapers"
   },
   "next": {

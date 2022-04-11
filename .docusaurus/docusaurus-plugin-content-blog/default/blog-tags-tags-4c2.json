@@ -223,6 +223,13 @@
     "count": 1,
     "permalink": "/blog/tags/verification"
   },
+  "/blog/tags/observable": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/observable",
+    "name": "observable",
+    "count": 1,
+    "permalink": "/blog/tags/observable"
+  },
   "/blog/tags/the-graph": {
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/the-graph",
@@ -236,13 +243,6 @@
     "name": "DApps",
     "count": 1,
     "permalink": "/blog/tags/d-apps"
-  },
-  "/blog/tags/observable": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/observable",
-    "name": "observable",
-    "count": 1,
-    "permalink": "/blog/tags/observable"
   },
   "/blog/tags/code-playground": {
     "allTagsPath": "/blog/tags",

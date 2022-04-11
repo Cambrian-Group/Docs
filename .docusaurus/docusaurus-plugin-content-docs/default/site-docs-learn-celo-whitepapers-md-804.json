@@ -1,8 +1,8 @@
 {
   "unversionedId": "learn/celo-whitepapers",
   "id": "learn/celo-whitepapers",
-  "title": "Celo Whitepapers",
-  "description": "Overview of Celo Whitepapers describing Celo's protocol, economics, and social impact.",
+  "title": "ZSC Whitepapers",
+  "description": "Overview of ZSC Whitepapers describing Zsc's protocol, economics, and social impact.",
   "source": "@site/docs/learn/celo-whitepapers.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-whitepapers",
@@ -11,16 +11,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Whitepapers",
-    "description": "Overview of Celo Whitepapers describing Celo's protocol, economics, and social impact."
+    "title": "ZSC Whitepapers",
+    "description": "Overview of ZSC Whitepapers describing Zsc's protocol, economics, and social impact."
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Architecture",
-    "permalink": "/es/learn/celo-stack"
+    "title": "Key Concepts",
+    "permalink": "/es/key-concepts"
   },
   "next": {
-    "title": "Join the Celo Community",
+    "title": "Join the Zsc Community",
     "permalink": "/es/community/join-the-community"
   }
 }

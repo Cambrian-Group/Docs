@@ -5,7 +5,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/es/blog',
-    component: ComponentCreator('/es/blog','955'),
+    component: ComponentCreator('/es/blog','1b0'),
     exact: true
   },
   {
@@ -95,7 +95,7 @@ export default [
   },
   {
     path: '/es/blog/page/2',
-    component: ComponentCreator('/es/blog/page/2','149'),
+    component: ComponentCreator('/es/blog/page/2','52f'),
     exact: true
   },
   {
@@ -305,12 +305,12 @@ export default [
   },
   {
     path: '/es/search',
-    component: ComponentCreator('/es/search','2cc'),
+    component: ComponentCreator('/es/search','232'),
     exact: true
   },
   {
     path: '/es/',
-    component: ComponentCreator('/es/','b13'),
+    component: ComponentCreator('/es/','8ba'),
     routes: [
       {
         path: '/es/',
@@ -1447,9 +1447,8 @@ export default [
       },
       {
         path: '/es/learn/celo-milestones',
-        component: ComponentCreator('/es/learn/celo-milestones','73b'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/learn/celo-milestones','95d'),
+        exact: true
       },
       {
         path: '/es/learn/celo-onboarding',
@@ -1480,9 +1479,8 @@ export default [
       },
       {
         path: '/es/learn/celo-stack',
-        component: ComponentCreator('/es/learn/celo-stack','728'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/learn/celo-stack','9db'),
+        exact: true
       },
       {
         path: '/es/learn/celo-summary',
@@ -1626,9 +1624,8 @@ export default [
       },
       {
         path: '/es/why-celo',
-        component: ComponentCreator('/es/why-celo','b82'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/why-celo','7c0'),
+        exact: true
       }
     ]
   },

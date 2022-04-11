@@ -5,17 +5,14 @@ const sidebars = {
       type: "category",
       label: "Basics",
       items: [
-        { type: "doc", label: "Why ZSC", id: "learn/why-celo" },
         { type: "doc", label: "Highlights", id: "learn/celo-highlights" },
         {
           type: "doc",
           label: "Economic Model",
           id: "learn/celo-economic-model",
         },
-        { type: "doc", label: "Milestones", id: "learn/celo-milestones" },
         { type: "doc", label: "Ecosystem", id: "learn/celo-ecosystem" },
         { type: "doc", label: "Key Concepts", id: "learn/key-concepts" },
-        { type: "doc", label: "Architecture", id: "learn/celo-stack" },
         { type: "doc", label: "Whitepapers", id: "learn/celo-whitepapers" },
         { type: "doc", label: "Community", id: "community/join-the-community" },
         { type: "doc", label: "Glossary", id: "getting-started/glossary" },
