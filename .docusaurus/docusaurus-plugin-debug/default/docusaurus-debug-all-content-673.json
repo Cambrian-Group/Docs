@@ -1315,7 +1315,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-holder-guide/owners",
               "permalink": "/celo-holder-guide/owners",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/owners.md",
+              "editUrl": "https://github.com/ZSC-group/docs",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -4305,7 +4305,7 @@
               "sourceDirName": ".",
               "slug": "/",
               "permalink": "/",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/welcome.md",
+              "editUrl": "https://github.com/ZSC-group/docs",
               "tags": [],
               "version": "current",
               "frontMatter": {
