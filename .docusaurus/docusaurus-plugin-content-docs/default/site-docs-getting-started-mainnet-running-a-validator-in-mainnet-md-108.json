@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "Running a Celo Validator",
     "description": "How to get a Validator node running on the Celo Mainnet."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Mainnet",
-    "permalink": "/es/getting-started/mainnet"
-  },
-  "next": {
-    "title": "Run a Celo Full Node",
-    "permalink": "/es/getting-started/mainnet/running-a-full-node-in-mainnet"
   }
 }

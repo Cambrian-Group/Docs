@@ -14,14 +14,5 @@
     "title": "Recover CELO from an Ethereum Address",
     "description": "How to recover CELO (previously Celo Gold) if you accidentally transferred them to an account generated using an Ethereum wallet.",
     "slug": "/celo-owner-guide/eth-recovery"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Governance Cheat Sheet",
-    "permalink": "/es/celo-owner-guide/governance-cheat-sheet"
-  },
-  "next": {
-    "title": "Recover ETH or ERC-20 tokens from a Celo address",
-    "permalink": "/es/celo-owner-guide/celo-recovery"
   }
 }

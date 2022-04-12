@@ -310,7 +310,7 @@ export default [
   },
   {
     path: '/es/',
-    component: ComponentCreator('/es/','8ba'),
+    component: ComponentCreator('/es/','de0'),
     routes: [
       {
         path: '/es/',
@@ -344,9 +344,8 @@ export default [
       },
       {
         path: '/es/celo-codebase/protocol/bridging/migrating-to-optics-v2',
-        component: ComponentCreator('/es/celo-codebase/protocol/bridging/migrating-to-optics-v2','6e3'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/bridging/migrating-to-optics-v2','ea4'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/bridging/optics-bridge-faq',
@@ -402,21 +401,18 @@ export default [
       },
       {
         path: '/es/celo-codebase/protocol/identity',
-        component: ComponentCreator('/es/celo-codebase/protocol/identity','00d'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/identity','2a8'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/identity/metadata',
-        component: ComponentCreator('/es/celo-codebase/protocol/identity/metadata','836'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/identity/metadata','0a4'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/identity/phone-number-privacy',
-        component: ComponentCreator('/es/celo-codebase/protocol/identity/phone-number-privacy','849'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/identity/phone-number-privacy','1c8'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/identity/privacy-research',
@@ -425,21 +421,18 @@ export default [
       },
       {
         path: '/es/celo-codebase/protocol/identity/randomness',
-        component: ComponentCreator('/es/celo-codebase/protocol/identity/randomness','70e'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/identity/randomness','b21'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/identity/valora-accounts',
-        component: ComponentCreator('/es/celo-codebase/protocol/identity/valora-accounts','c6b'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/identity/valora-accounts','273'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/optics',
-        component: ComponentCreator('/es/celo-codebase/protocol/optics','af7'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/optics','1c9'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/oracles/band-protocol-how-to',
@@ -461,9 +454,8 @@ export default [
       },
       {
         path: '/es/celo-codebase/protocol/plumo',
-        component: ComponentCreator('/es/celo-codebase/protocol/plumo','b5e'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/plumo','8da'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/proof-of-stake',
@@ -477,40 +469,30 @@ export default [
         exact: true
       },
       {
+        path: '/es/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund',
+        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund','367'),
+        exact: true
+      },
+      {
+        path: '/es/celo-codebase/protocol/proof-of-stake/community-fund',
+        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/community-fund','998'),
+        exact: true
+      },
+      {
         path: '/es/celo-codebase/protocol/proof-of-stake/epoch-rewards',
-        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/epoch-rewards','340'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/carbon-offsetting-fund',
-        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/carbon-offsetting-fund','0ec'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund',
-        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund','7dc'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/locked-gold-rewards',
-        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/locked-gold-rewards','3bc'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/validator-rewards',
-        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/validator-rewards','d46'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/epoch-rewards','6bf'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/proof-of-stake/locked-gold',
         component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/locked-gold','b64'),
         exact: true,
         'sidebar': "docs"
+      },
+      {
+        path: '/es/celo-codebase/protocol/proof-of-stake/locked-gold-rewards',
+        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/locked-gold-rewards','a9b'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/proof-of-stake/penalties',
@@ -526,51 +508,48 @@ export default [
       },
       {
         path: '/es/celo-codebase/protocol/proof-of-stake/validator-groups',
-        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/validator-groups','6da'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/validator-groups','813'),
+        exact: true
+      },
+      {
+        path: '/es/celo-codebase/protocol/proof-of-stake/validator-rewards',
+        component: ComponentCreator('/es/celo-codebase/protocol/proof-of-stake/validator-rewards','bed'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/stability',
-        component: ComponentCreator('/es/celo-codebase/protocol/stability','052'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/stability','5da'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/stability/adding_stable_assets',
-        component: ComponentCreator('/es/celo-codebase/protocol/stability/adding_stable_assets','f08'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/stability/adding_stable_assets','9c2'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/stability/doto',
-        component: ComponentCreator('/es/celo-codebase/protocol/stability/doto','da2'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/stability/doto','3aa'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/stability/granda-mento',
-        component: ComponentCreator('/es/celo-codebase/protocol/stability/granda-mento','eb7'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/stability/granda-mento','e96'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/stability/oracles',
-        component: ComponentCreator('/es/celo-codebase/protocol/stability/oracles','ba0'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/stability/oracles','1ba'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/stability/stability-fees',
-        component: ComponentCreator('/es/celo-codebase/protocol/stability/stability-fees','847'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/stability/stability-fees','5d3'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/stability/tobin-tax',
-        component: ComponentCreator('/es/celo-codebase/protocol/stability/tobin-tax','912'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/stability/tobin-tax','88d'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/transactions',
@@ -586,15 +565,13 @@ export default [
       },
       {
         path: '/es/celo-codebase/protocol/transactions/escrow',
-        component: ComponentCreator('/es/celo-codebase/protocol/transactions/escrow','0a8'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/transactions/escrow','a1b'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/transactions/full-node-incentives',
-        component: ComponentCreator('/es/celo-codebase/protocol/transactions/full-node-incentives','bbb'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/transactions/full-node-incentives','d4b'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/protocol/transactions/gas-pricing',
@@ -610,9 +587,8 @@ export default [
       },
       {
         path: '/es/celo-codebase/protocol/transactions/tx-comment-encryption',
-        component: ComponentCreator('/es/celo-codebase/protocol/transactions/tx-comment-encryption','870'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/protocol/transactions/tx-comment-encryption','fad'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/style-guide/typescript',
@@ -627,33 +603,28 @@ export default [
       },
       {
         path: '/es/celo-codebase/wallet/how-the-wallet-works',
-        component: ComponentCreator('/es/celo-codebase/wallet/how-the-wallet-works','b10'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/wallet/how-the-wallet-works','efe'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/wallet/how-the-wallet-works/invitations',
-        component: ComponentCreator('/es/celo-codebase/wallet/how-the-wallet-works/invitations','526'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/wallet/how-the-wallet-works/invitations','250'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments',
-        component: ComponentCreator('/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments','083'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments','0fd'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync',
-        component: ComponentCreator('/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync','9de'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync','b3e'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/wallet/how-the-wallet-works/verification',
-        component: ComponentCreator('/es/celo-codebase/wallet/how-the-wallet-works/verification','20a'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-codebase/wallet/how-the-wallet-works/verification','ba9'),
+        exact: true
       },
       {
         path: '/es/celo-codebase/wallet/intro',
@@ -663,21 +634,18 @@ export default [
       },
       {
         path: '/es/celo-holder-guide/connecting-ledger-celo-terminal-wallet',
-        component: ComponentCreator('/es/celo-holder-guide/connecting-ledger-celo-terminal-wallet','a1d'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-holder-guide/connecting-ledger-celo-terminal-wallet','47d'),
+        exact: true
       },
       {
         path: '/es/celo-holder-guide/connecting-ledger-celo-web-wallet',
-        component: ComponentCreator('/es/celo-holder-guide/connecting-ledger-celo-web-wallet','181'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-holder-guide/connecting-ledger-celo-web-wallet','0f8'),
+        exact: true
       },
       {
         path: '/es/celo-holder-guide/connecting-ledger-celocli',
-        component: ComponentCreator('/es/celo-holder-guide/connecting-ledger-celocli','dce'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-holder-guide/connecting-ledger-celocli','742'),
+        exact: true
       },
       {
         path: '/es/celo-holder-guide/overview',
@@ -691,208 +659,54 @@ export default [
         'sidebar': "docs"
       },
       {
+        path: '/es/celo-holder-guide/voting-governance',
+        component: ComponentCreator('/es/celo-holder-guide/voting-governance','915'),
+        exact: true
+      },
+      {
+        path: '/es/celo-holder-guide/voting-validators',
+        component: ComponentCreator('/es/celo-holder-guide/voting-validators','e2d'),
+        exact: true
+      },
+      {
         path: '/es/celo-owner-guide/celo-exchange-bot',
-        component: ComponentCreator('/es/celo-owner-guide/celo-exchange-bot','192'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-owner-guide/celo-exchange-bot','620'),
+        exact: true
       },
       {
         path: '/es/celo-owner-guide/celo-recovery',
-        component: ComponentCreator('/es/celo-owner-guide/celo-recovery','8ba'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-owner-guide/celo-recovery','069'),
+        exact: true
       },
       {
         path: '/es/celo-owner-guide/cusd',
-        component: ComponentCreator('/es/celo-owner-guide/cusd','c11'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-owner-guide/cusd','9a5'),
+        exact: true
       },
       {
         path: '/es/celo-owner-guide/eth-recovery',
-        component: ComponentCreator('/es/celo-owner-guide/eth-recovery','dc1'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-owner-guide/eth-recovery','947'),
+        exact: true
       },
       {
         path: '/es/celo-owner-guide/governance-cheat-sheet',
-        component: ComponentCreator('/es/celo-owner-guide/governance-cheat-sheet','a1c'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-owner-guide/governance-cheat-sheet','e93'),
+        exact: true
       },
       {
         path: '/es/celo-owner-guide/ledger',
-        component: ComponentCreator('/es/celo-owner-guide/ledger','519'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-owner-guide/ledger','c8b'),
+        exact: true
       },
       {
         path: '/es/celo-owner-guide/quick-start',
-        component: ComponentCreator('/es/celo-owner-guide/quick-start','7d7'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-owner-guide/quick-start','2b9'),
+        exact: true
       },
       {
         path: '/es/celo-owner-guide/release-gold',
-        component: ComponentCreator('/es/celo-owner-guide/release-gold','11e'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/celo-owner-guide/voting-governance',
-        component: ComponentCreator('/es/celo-owner-guide/voting-governance','d7a'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/celo-owner-guide/voting-validators',
-        component: ComponentCreator('/es/celo-owner-guide/voting-validators','486'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/account',
-        component: ComponentCreator('/es/command-line-interface/account','95d'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/autocomplete',
-        component: ComponentCreator('/es/command-line-interface/autocomplete','2da'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/commands',
-        component: ComponentCreator('/es/command-line-interface/commands','855'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/config',
-        component: ComponentCreator('/es/command-line-interface/config','ca3'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/dkg',
-        component: ComponentCreator('/es/command-line-interface/dkg','912'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/election',
-        component: ComponentCreator('/es/command-line-interface/election','1de'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/exchange',
-        component: ComponentCreator('/es/command-line-interface/exchange','a4c'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/governance',
-        component: ComponentCreator('/es/command-line-interface/governance','15d'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/grandamento',
-        component: ComponentCreator('/es/command-line-interface/grandamento','009'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/help',
-        component: ComponentCreator('/es/command-line-interface/help','e92'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/identity',
-        component: ComponentCreator('/es/command-line-interface/identity','7cc'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/introduction',
-        component: ComponentCreator('/es/command-line-interface/introduction','a83'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/lockedgold',
-        component: ComponentCreator('/es/command-line-interface/lockedgold','108'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/multisig',
-        component: ComponentCreator('/es/command-line-interface/multisig','e66'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/network',
-        component: ComponentCreator('/es/command-line-interface/network','d6d'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/node',
-        component: ComponentCreator('/es/command-line-interface/node','622'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/oracle',
-        component: ComponentCreator('/es/command-line-interface/oracle','a59'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/plugins',
-        component: ComponentCreator('/es/command-line-interface/plugins','740'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/releasegold',
-        component: ComponentCreator('/es/command-line-interface/releasegold','8a4'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/reserve',
-        component: ComponentCreator('/es/command-line-interface/reserve','380'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/rewards',
-        component: ComponentCreator('/es/command-line-interface/rewards','8d6'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/transfer',
-        component: ComponentCreator('/es/command-line-interface/transfer','5ee'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/validator',
-        component: ComponentCreator('/es/command-line-interface/validator','bb4'),
-        exact: true,
-        'sidebar': "docs"
-      },
-      {
-        path: '/es/command-line-interface/validatorgroup',
-        component: ComponentCreator('/es/command-line-interface/validatorgroup','099'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/celo-owner-guide/release-gold','c10'),
+        exact: true
       },
       {
         path: '/es/community/CIP-contributors',
@@ -1273,45 +1087,38 @@ export default [
       },
       {
         path: '/es/getting-started/alfajores-testnet',
-        component: ComponentCreator('/es/getting-started/alfajores-testnet','166'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/alfajores-testnet','e60'),
+        exact: true
       },
       {
         path: '/es/getting-started/alfajores-testnet/faucet',
-        component: ComponentCreator('/es/getting-started/alfajores-testnet/faucet','e33'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/alfajores-testnet/faucet','0dd'),
+        exact: true
       },
       {
         path: '/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores',
-        component: ComponentCreator('/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores','668'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores','4dd'),
+        exact: true
       },
       {
         path: '/es/getting-started/alfajores-testnet/using-the-mobile-wallet',
-        component: ComponentCreator('/es/getting-started/alfajores-testnet/using-the-mobile-wallet','885'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/alfajores-testnet/using-the-mobile-wallet','744'),
+        exact: true
       },
       {
         path: '/es/getting-started/baklava-testnet',
-        component: ComponentCreator('/es/getting-started/baklava-testnet','acf'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/baklava-testnet','1ab'),
+        exact: true
       },
       {
         path: '/es/getting-started/baklava-testnet/running-a-full-node-in-baklava',
-        component: ComponentCreator('/es/getting-started/baklava-testnet/running-a-full-node-in-baklava','e06'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/baklava-testnet/running-a-full-node-in-baklava','cfa'),
+        exact: true
       },
       {
         path: '/es/getting-started/baklava-testnet/running-a-validator-in-baklava',
-        component: ComponentCreator('/es/getting-started/baklava-testnet/running-a-validator-in-baklava','6a7'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/baklava-testnet/running-a-validator-in-baklava','25e'),
+        exact: true
       },
       {
         path: '/es/getting-started/choosing-a-network',
@@ -1327,15 +1134,13 @@ export default [
       },
       {
         path: '/es/getting-started/hosted-nodes',
-        component: ComponentCreator('/es/getting-started/hosted-nodes','f7f'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/hosted-nodes','748'),
+        exact: true
       },
       {
         path: '/es/getting-started/mainnet',
-        component: ComponentCreator('/es/getting-started/mainnet','fe7'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/mainnet','78e'),
+        exact: true
       },
       {
         path: '/es/getting-started/mainnet/running-a-full-node-in-mainnet',
@@ -1345,9 +1150,8 @@ export default [
       },
       {
         path: '/es/getting-started/mainnet/running-a-validator-in-mainnet',
-        component: ComponentCreator('/es/getting-started/mainnet/running-a-validator-in-mainnet','ca8'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/mainnet/running-a-validator-in-mainnet','546'),
+        exact: true
       },
       {
         path: '/es/getting-started/using-the-wallet',
@@ -1369,33 +1173,28 @@ export default [
       },
       {
         path: '/es/getting-started/wallets/using-metamask-with-celo',
-        component: ComponentCreator('/es/getting-started/wallets/using-metamask-with-celo','22b'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/wallets/using-metamask-with-celo','a46'),
+        exact: true
       },
       {
         path: '/es/getting-started/wallets/using-metamask-with-celo/manual-setup',
-        component: ComponentCreator('/es/getting-started/wallets/using-metamask-with-celo/manual-setup','24c'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/wallets/using-metamask-with-celo/manual-setup','a03'),
+        exact: true
       },
       {
         path: '/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import',
-        component: ComponentCreator('/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import','9ee'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import','3ad'),
+        exact: true
       },
       {
         path: '/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup',
-        component: ComponentCreator('/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup','f82'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup','2ff'),
+        exact: true
       },
       {
         path: '/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask',
-        component: ComponentCreator('/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask','fd0'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask','3f6'),
+        exact: true
       },
       {
         path: '/es/important-information/alfajores-testnet-disclaimer',

@@ -2,7 +2,7 @@
   "unversionedId": "getting-started/wallets/index",
   "id": "getting-started/wallets/index",
   "title": "Digital Wallets for Celo",
-  "description": "Overview of digital wallets available to send, spend, and earn Celo assets.",
+  "description": "Overview of digital wallets available to send, spend, and earn ZSC assets.",
   "source": "@site/docs/getting-started/wallets/index.md",
   "sourceDirName": "getting-started/wallets",
   "slug": "/getting-started/wallets",
@@ -14,7 +14,7 @@
     "title": "Digital Wallets for Celo",
     "id": "index",
     "slug": "/getting-started/wallets",
-    "description": "Overview of digital wallets available to send, spend, and earn Celo assets."
+    "description": "Overview of digital wallets available to send, spend, and earn ZSC assets."
   },
   "sidebar": "docs",
   "previous": {
@@ -22,7 +22,7 @@
     "permalink": "/es/getting-started/glossary"
   },
   "next": {
-    "title": "Celo Wallet Functionality",
-    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/"
+    "title": "Get ZTB",
+    "permalink": "/es/celo-holder-guide/owners"
   }
 }

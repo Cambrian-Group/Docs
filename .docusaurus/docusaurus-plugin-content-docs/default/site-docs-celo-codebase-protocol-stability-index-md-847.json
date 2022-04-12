@@ -1,27 +1,14 @@
 {
   "unversionedId": "celo-codebase/protocol/stability/index",
   "id": "celo-codebase/protocol/stability/index",
-  "title": "Celo Stability Mechanism Overview",
-  "description": "Overview of the Celo protocol's Stability Mechanisms.",
+  "title": "index",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/stability/index.md",
   "sourceDirName": "celo-codebase/protocol/stability",
-  "slug": "/celo-codebase/protocol/stability",
-  "permalink": "/es/celo-codebase/protocol/stability",
+  "slug": "/celo-codebase/protocol/stability/",
+  "permalink": "/es/celo-codebase/protocol/stability/",
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Celo Stability Mechanism Overview",
-    "slug": "/celo-codebase/protocol/stability",
-    "description": "Overview of the Celo protocol's Stability Mechanisms."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Governance",
-    "permalink": "/es/celo-codebase/protocol/governance"
-  },
-  "next": {
-    "title": "Celo Stability Algorithm (Mento)",
-    "permalink": "/es/celo-codebase/protocol/stability/doto"
-  }
+  "frontMatter": {}
 }

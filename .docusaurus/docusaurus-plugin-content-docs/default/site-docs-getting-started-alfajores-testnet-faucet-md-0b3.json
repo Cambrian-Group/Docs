@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "Celo Wallet Testnet Funds",
     "description": "How to fund your Celo wallet account with testnet funds."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Using the Mobile Wallet",
-    "permalink": "/es/getting-started/alfajores-testnet/using-the-mobile-wallet"
-  },
-  "next": {
-    "title": "Celo Baklava Testnet",
-    "permalink": "/es/getting-started/baklava-testnet"
   }
 }

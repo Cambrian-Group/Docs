@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "Run an Alfajores Full Node on Celo",
     "description": "How to run a full node on the Alfajores Network using a prebuilt Docker image."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo's Alfajores Testnet",
-    "permalink": "/es/getting-started/alfajores-testnet"
-  },
-  "next": {
-    "title": "Using the Mobile Wallet",
-    "permalink": "/es/getting-started/alfajores-testnet/using-the-mobile-wallet"
   }
 }

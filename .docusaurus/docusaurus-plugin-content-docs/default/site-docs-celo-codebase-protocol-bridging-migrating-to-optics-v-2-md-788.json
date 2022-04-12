@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/bridging/migrating-to-optics-v2",
   "id": "celo-codebase/protocol/bridging/migrating-to-optics-v2",
-  "title": "Migrating to Optics v2",
-  "description": "How to migrate tokens from Optics v1 to v2.",
+  "title": "migrating-to-optics-v2",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/bridging/migrating-to-optics-v2.md",
   "sourceDirName": "celo-codebase/protocol/bridging",
   "slug": "/celo-codebase/protocol/bridging/migrating-to-optics-v2",
@@ -10,17 +10,5 @@
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Migrating to Optics v2",
-    "description": "How to migrate tokens from Optics v1 to v2."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Bridge Tokens with Etherscan",
-    "permalink": "/es/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan"
-  },
-  "next": {
-    "title": "Optics Bridge FAQs",
-    "permalink": "/es/celo-codebase/protocol/bridging/optics-bridge-faq"
-  }
+  "frontMatter": {}
 }

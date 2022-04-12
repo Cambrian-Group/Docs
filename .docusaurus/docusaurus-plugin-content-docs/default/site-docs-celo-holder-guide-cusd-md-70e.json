@@ -14,14 +14,5 @@
     "title": "Celo Asset Management Guide",
     "description": "Access and account management for holding, exchanging, or sending Celo Dollars (cUSD) and stablecoins.",
     "slug": "/celo-owner-guide/cusd"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Self-Custody CELO",
-    "permalink": "/es/celo-owner-guide/quick-start"
-  },
-  "next": {
-    "title": "Celo ReleaseGold",
-    "permalink": "/es/celo-owner-guide/release-gold"
   }
 }

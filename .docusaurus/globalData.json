@@ -27,8 +27,7 @@
             },
             {
               "id": "celo-codebase/protocol/bridging/migrating-to-optics-v2",
-              "path": "/es/celo-codebase/protocol/bridging/migrating-to-optics-v2",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/bridging/migrating-to-optics-v2"
             },
             {
               "id": "celo-codebase/protocol/bridging/optics-bridge-faq",
@@ -75,18 +74,15 @@
             },
             {
               "id": "celo-codebase/protocol/identity/index",
-              "path": "/es/celo-codebase/protocol/identity",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/identity/"
             },
             {
               "id": "celo-codebase/protocol/identity/metadata",
-              "path": "/es/celo-codebase/protocol/identity/metadata",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/identity/metadata"
             },
             {
               "id": "celo-codebase/protocol/identity/phone-number-privacy",
-              "path": "/es/celo-codebase/protocol/identity/phone-number-privacy",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/identity/phone-number-privacy"
             },
             {
               "id": "celo-codebase/protocol/identity/privacy-research",
@@ -94,13 +90,11 @@
             },
             {
               "id": "celo-codebase/protocol/identity/randomness",
-              "path": "/es/celo-codebase/protocol/identity/randomness",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/identity/randomness"
             },
             {
               "id": "celo-codebase/protocol/identity/valora-accounts",
-              "path": "/es/celo-codebase/protocol/identity/valora-accounts",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/identity/valora-accounts"
             },
             {
               "id": "celo-codebase/protocol/index",
@@ -109,8 +103,7 @@
             },
             {
               "id": "celo-codebase/protocol/optics",
-              "path": "/es/celo-codebase/protocol/optics",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/optics"
             },
             {
               "id": "celo-codebase/protocol/oracles/band-protocol-how-to",
@@ -129,8 +122,7 @@
             },
             {
               "id": "celo-codebase/protocol/plumo",
-              "path": "/es/celo-codebase/protocol/plumo",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/plumo"
             },
             {
               "id": "celo-codebase/protocol/proof-of-stake/becoming-a-validator",
@@ -138,18 +130,15 @@
             },
             {
               "id": "celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund",
-              "path": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/carbon-offsetting-fund",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund"
             },
             {
               "id": "celo-codebase/protocol/proof-of-stake/community-fund",
-              "path": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/proof-of-stake/community-fund"
             },
             {
               "id": "celo-codebase/protocol/proof-of-stake/epoch-rewards",
-              "path": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards"
             },
             {
               "id": "celo-codebase/protocol/proof-of-stake/index",
@@ -163,8 +152,7 @@
             },
             {
               "id": "celo-codebase/protocol/proof-of-stake/locked-gold-rewards",
-              "path": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/locked-gold-rewards",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/proof-of-stake/locked-gold-rewards"
             },
             {
               "id": "celo-codebase/protocol/proof-of-stake/penalties",
@@ -178,48 +166,39 @@
             },
             {
               "id": "celo-codebase/protocol/proof-of-stake/validator-groups",
-              "path": "/es/celo-codebase/protocol/proof-of-stake/validator-groups",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/proof-of-stake/validator-groups"
             },
             {
               "id": "celo-codebase/protocol/proof-of-stake/validator-rewards",
-              "path": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/validator-rewards",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/proof-of-stake/validator-rewards"
             },
             {
               "id": "celo-codebase/protocol/stability/adding_stable_assets",
-              "path": "/es/celo-codebase/protocol/stability/adding_stable_assets",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/stability/adding_stable_assets"
             },
             {
               "id": "celo-codebase/protocol/stability/doto",
-              "path": "/es/celo-codebase/protocol/stability/doto",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/stability/doto"
             },
             {
               "id": "celo-codebase/protocol/stability/granda-mento",
-              "path": "/es/celo-codebase/protocol/stability/granda-mento",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/stability/granda-mento"
             },
             {
               "id": "celo-codebase/protocol/stability/index",
-              "path": "/es/celo-codebase/protocol/stability",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/stability/"
             },
             {
               "id": "celo-codebase/protocol/stability/oracles",
-              "path": "/es/celo-codebase/protocol/stability/oracles",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/stability/oracles"
             },
             {
               "id": "celo-codebase/protocol/stability/stability-fees",
-              "path": "/es/celo-codebase/protocol/stability/stability-fees",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/stability/stability-fees"
             },
             {
               "id": "celo-codebase/protocol/stability/tobin-tax",
-              "path": "/es/celo-codebase/protocol/stability/tobin-tax",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/stability/tobin-tax"
             },
             {
               "id": "celo-codebase/protocol/transactions/erc20-transaction-fees",
@@ -228,13 +207,11 @@
             },
             {
               "id": "celo-codebase/protocol/transactions/escrow",
-              "path": "/es/celo-codebase/protocol/transactions/escrow",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/transactions/escrow"
             },
             {
               "id": "celo-codebase/protocol/transactions/full-node-incentives",
-              "path": "/es/celo-codebase/protocol/transactions/full-node-incentives",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/transactions/full-node-incentives"
             },
             {
               "id": "celo-codebase/protocol/transactions/gas-pricing",
@@ -253,8 +230,7 @@
             },
             {
               "id": "celo-codebase/protocol/transactions/tx-comment-encryption",
-              "path": "/es/celo-codebase/protocol/transactions/tx-comment-encryption",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/protocol/transactions/tx-comment-encryption"
             },
             {
               "id": "celo-codebase/style-guide/typescript",
@@ -262,28 +238,23 @@
             },
             {
               "id": "celo-codebase/wallet/how-the-wallet-works/invitations",
-              "path": "/es/celo-codebase/wallet/how-the-wallet-works/invitations",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/wallet/how-the-wallet-works/invitations"
             },
             {
               "id": "celo-codebase/wallet/how-the-wallet-works/README",
-              "path": "/es/celo-codebase/wallet/how-the-wallet-works/",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/wallet/how-the-wallet-works/"
             },
             {
               "id": "celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments",
-              "path": "/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments"
             },
             {
               "id": "celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync",
-              "path": "/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync"
             },
             {
               "id": "celo-codebase/wallet/how-the-wallet-works/verification",
-              "path": "/es/celo-codebase/wallet/how-the-wallet-works/verification",
-              "sidebar": "docs"
+              "path": "/es/celo-codebase/wallet/how-the-wallet-works/verification"
             },
             {
               "id": "celo-codebase/wallet/index",
@@ -297,48 +268,39 @@
             },
             {
               "id": "celo-holder-guide/celo-exchange-bot",
-              "path": "/es/celo-owner-guide/celo-exchange-bot",
-              "sidebar": "docs"
+              "path": "/es/celo-owner-guide/celo-exchange-bot"
             },
             {
               "id": "celo-holder-guide/celo-recovery",
-              "path": "/es/celo-owner-guide/celo-recovery",
-              "sidebar": "docs"
+              "path": "/es/celo-owner-guide/celo-recovery"
             },
             {
               "id": "celo-holder-guide/connecting-ledger-celo-terminal-wallet",
-              "path": "/es/celo-holder-guide/connecting-ledger-celo-terminal-wallet",
-              "sidebar": "docs"
+              "path": "/es/celo-holder-guide/connecting-ledger-celo-terminal-wallet"
             },
             {
               "id": "celo-holder-guide/connecting-ledger-celo-web-wallet",
-              "path": "/es/celo-holder-guide/connecting-ledger-celo-web-wallet",
-              "sidebar": "docs"
+              "path": "/es/celo-holder-guide/connecting-ledger-celo-web-wallet"
             },
             {
               "id": "celo-holder-guide/connecting-ledger-celocli",
-              "path": "/es/celo-holder-guide/connecting-ledger-celocli",
-              "sidebar": "docs"
+              "path": "/es/celo-holder-guide/connecting-ledger-celocli"
             },
             {
               "id": "celo-holder-guide/cusd",
-              "path": "/es/celo-owner-guide/cusd",
-              "sidebar": "docs"
+              "path": "/es/celo-owner-guide/cusd"
             },
             {
               "id": "celo-holder-guide/eth-recovery",
-              "path": "/es/celo-owner-guide/eth-recovery",
-              "sidebar": "docs"
+              "path": "/es/celo-owner-guide/eth-recovery"
             },
             {
               "id": "celo-holder-guide/governance-cheat-sheet",
-              "path": "/es/celo-owner-guide/governance-cheat-sheet",
-              "sidebar": "docs"
+              "path": "/es/celo-owner-guide/governance-cheat-sheet"
             },
             {
               "id": "celo-holder-guide/ledger",
-              "path": "/es/celo-owner-guide/ledger",
-              "sidebar": "docs"
+              "path": "/es/celo-owner-guide/ledger"
             },
             {
               "id": "celo-holder-guide/overview",
@@ -351,143 +313,19 @@
             },
             {
               "id": "celo-holder-guide/quick-start",
-              "path": "/es/celo-owner-guide/quick-start",
-              "sidebar": "docs"
+              "path": "/es/celo-owner-guide/quick-start"
             },
             {
               "id": "celo-holder-guide/release-gold",
-              "path": "/es/celo-owner-guide/release-gold",
-              "sidebar": "docs"
+              "path": "/es/celo-owner-guide/release-gold"
             },
             {
               "id": "celo-holder-guide/voting-governance",
-              "path": "/es/celo-owner-guide/voting-governance",
-              "sidebar": "docs"
+              "path": "/es/celo-holder-guide/voting-governance"
             },
             {
               "id": "celo-holder-guide/voting-validators",
-              "path": "/es/celo-owner-guide/voting-validators",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/account",
-              "path": "/es/command-line-interface/account",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/autocomplete",
-              "path": "/es/command-line-interface/autocomplete",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/commands",
-              "path": "/es/command-line-interface/commands",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/config",
-              "path": "/es/command-line-interface/config",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/dkg",
-              "path": "/es/command-line-interface/dkg",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/election",
-              "path": "/es/command-line-interface/election",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/exchange",
-              "path": "/es/command-line-interface/exchange",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/governance",
-              "path": "/es/command-line-interface/governance",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/grandamento",
-              "path": "/es/command-line-interface/grandamento",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/help",
-              "path": "/es/command-line-interface/help",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/identity",
-              "path": "/es/command-line-interface/identity",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/introduction",
-              "path": "/es/command-line-interface/introduction",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/lockedgold",
-              "path": "/es/command-line-interface/lockedgold",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/multisig",
-              "path": "/es/command-line-interface/multisig",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/network",
-              "path": "/es/command-line-interface/network",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/node",
-              "path": "/es/command-line-interface/node",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/oracle",
-              "path": "/es/command-line-interface/oracle",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/plugins",
-              "path": "/es/command-line-interface/plugins",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/releasegold",
-              "path": "/es/command-line-interface/releasegold",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/reserve",
-              "path": "/es/command-line-interface/reserve",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/rewards",
-              "path": "/es/command-line-interface/rewards",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/transfer",
-              "path": "/es/command-line-interface/transfer",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/validator",
-              "path": "/es/command-line-interface/validator",
-              "sidebar": "docs"
-            },
-            {
-              "id": "command-line-interface/validatorgroup",
-              "path": "/es/command-line-interface/validatorgroup",
-              "sidebar": "docs"
+              "path": "/es/celo-holder-guide/voting-validators"
             },
             {
               "id": "community/CIP-contributors",
@@ -802,38 +640,31 @@
             },
             {
               "id": "getting-started/alfajores-testnet/faucet",
-              "path": "/es/getting-started/alfajores-testnet/faucet",
-              "sidebar": "docs"
+              "path": "/es/getting-started/alfajores-testnet/faucet"
             },
             {
               "id": "getting-started/alfajores-testnet/index",
-              "path": "/es/getting-started/alfajores-testnet",
-              "sidebar": "docs"
+              "path": "/es/getting-started/alfajores-testnet"
             },
             {
               "id": "getting-started/alfajores-testnet/running-a-full-node-in-alfajores",
-              "path": "/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores",
-              "sidebar": "docs"
+              "path": "/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores"
             },
             {
               "id": "getting-started/alfajores-testnet/using-the-mobile-wallet",
-              "path": "/es/getting-started/alfajores-testnet/using-the-mobile-wallet",
-              "sidebar": "docs"
+              "path": "/es/getting-started/alfajores-testnet/using-the-mobile-wallet"
             },
             {
               "id": "getting-started/baklava-testnet/index",
-              "path": "/es/getting-started/baklava-testnet",
-              "sidebar": "docs"
+              "path": "/es/getting-started/baklava-testnet"
             },
             {
               "id": "getting-started/baklava-testnet/running-a-full-node-in-baklava",
-              "path": "/es/getting-started/baklava-testnet/running-a-full-node-in-baklava",
-              "sidebar": "docs"
+              "path": "/es/getting-started/baklava-testnet/running-a-full-node-in-baklava"
             },
             {
               "id": "getting-started/baklava-testnet/running-a-validator-in-baklava",
-              "path": "/es/getting-started/baklava-testnet/running-a-validator-in-baklava",
-              "sidebar": "docs"
+              "path": "/es/getting-started/baklava-testnet/running-a-validator-in-baklava"
             },
             {
               "id": "getting-started/choosing-a-network",
@@ -847,13 +678,11 @@
             },
             {
               "id": "getting-started/hosted-nodes",
-              "path": "/es/getting-started/hosted-nodes",
-              "sidebar": "docs"
+              "path": "/es/getting-started/hosted-nodes"
             },
             {
               "id": "getting-started/mainnet/index",
-              "path": "/es/getting-started/mainnet",
-              "sidebar": "docs"
+              "path": "/es/getting-started/mainnet/"
             },
             {
               "id": "getting-started/mainnet/running-a-full-node-in-mainnet",
@@ -862,8 +691,7 @@
             },
             {
               "id": "getting-started/mainnet/running-a-validator-in-mainnet",
-              "path": "/es/getting-started/mainnet/running-a-validator-in-mainnet",
-              "sidebar": "docs"
+              "path": "/es/getting-started/mainnet/running-a-validator-in-mainnet"
             },
             {
               "id": "getting-started/using-the-wallet",
@@ -882,28 +710,23 @@
             },
             {
               "id": "getting-started/wallets/using-metamask-with-celo/index",
-              "path": "/es/getting-started/wallets/using-metamask-with-celo",
-              "sidebar": "docs"
+              "path": "/es/getting-started/wallets/using-metamask-with-celo"
             },
             {
               "id": "getting-started/wallets/using-metamask-with-celo/manual-setup",
-              "path": "/es/getting-started/wallets/using-metamask-with-celo/manual-setup",
-              "sidebar": "docs"
+              "path": "/es/getting-started/wallets/using-metamask-with-celo/manual-setup"
             },
             {
               "id": "getting-started/wallets/using-metamask-with-celo/metamask-valora-import",
-              "path": "/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import",
-              "sidebar": "docs"
+              "path": "/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import"
             },
             {
               "id": "getting-started/wallets/using-metamask-with-celo/programmatic-setup",
-              "path": "/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup",
-              "sidebar": "docs"
+              "path": "/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup"
             },
             {
               "id": "getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask",
-              "path": "/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask",
-              "sidebar": "docs"
+              "path": "/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask"
             },
             {
               "id": "important-information/alfajores-testnet-disclaimer",

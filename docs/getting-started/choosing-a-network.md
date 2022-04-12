@@ -1,23 +1,62 @@
 ---
-title: Celo Networks
-description: How to choose a Celo network based on your interested and objectives.
+title: Mainnet
+description: How to choose a Zsc network based on your interested and objectives.
 id: choosing-a-network
 slug: /getting-started/choosing-a-network
 ---
-# Networks
 
-How to choose a Celo network based on your interested and objectives.
+How to choose a Zsc network based on your interested and objectives.
 
 ___
 
-## [Alfajores](/getting-started/alfajores-testnet), the Developer Testnet
+### chainid
 
-If you're a developer considering building on the Celo platform, or want to try out the [Celo Wallet](https://celo.org/build/wallet), start with [Alfajores](/getting-started/alfajores-testnet). You can [obtain a balance](https://celo.org/build/faucet) immediately and use it for experimenting with. The [SDK tutorials](/developer-guide/start) assume you are using Alfajores. The network is managed by cLabs, who operate all of its validators, and its software and deployed contracts will track mainnet.
+```
 
-## [Baklava](/getting-started/baklava-testnet), the Node Operator Testnet 
+20212
 
-If you're interested in operating one or more nodes that make up Celo's infrastructure, start with [Baklava](/getting-started/baklava-testnet). Baklava's validators and full nodes are operated by the community. It is intended to provide a venue to test new builds of the Celo Blockchain software, trial on-chain governance proposals, and for node operators to build operational best practices. Support for developers and users of the Wallet is not the primary focus.
+```
+### rpc
 
-## [Mainnet](/getting-started/mainnet) 
+```
+https://dapp.zsc.one/rpc
 
-The production Celo network, Mainnet was previously known as the Release Candidate 1 network. Deployed by the Celo community starting 4/22/20, the network is currently working towards enabling the Celo stability mechansim. Much of the activity is being driven by the validator organisations that featured on the leaderboard of [The Great Celo Stake Off](https://forum.celo.org/t/the-great-celo-stake-off-the-details/136).
+```
+or
+
+```
+https://node.zsc.one/rpc
+
+```
+or
+
+```
+https://node1.zsc.one/rpc 
+
+```
+or
+
+```
+https://node2.zsc.one/rpc
+
+```
+
+### Browser
+
+```
+https://en.zscscan.com/
+
+```
+
+### P2P node
+
+```
+admin.addPeer("enode://e28b5ffc0050c609082fd8c1344fc4dfa567d1da86ddbcb72c82ac16a5524031830afe1a9c049ba229cf71f16f0adb21412f1500c2f7b6e2915ffbd09f821efc@47.242.249.245:30301")
+   
+admin.addPeer("enode://4724cd99789d0681a628841b31e5ceb66de5d9c018d8d322552e13c3c7987d3ebaa937c290b552351073b0da159dc395be7f9e4f5227ac87441895f0c19036a9@47.242.81.113:30301")
+   
+admin.addPeer("enode://34573b2144f9379737b747e31cc35dbd94ff8b108b1789253b60cf16a1cf7cca1bc4c53d21772311e7111625ebdf873635a0c06dcb4d83ee93b04a507dc787ff@8.210.253.177:30301")
+...
+```
+
+

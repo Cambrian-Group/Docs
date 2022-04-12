@@ -13,7 +13,7 @@ ___
 
 ### Install the Celo CLI
 
-Open the terminal application on your computer and install the [Celo CLI](https://docs.celo.org/command-line-interface/introduction):
+Open the terminal application on your computer and instal
 
 ```bash
 npm install -g @celo/celocli

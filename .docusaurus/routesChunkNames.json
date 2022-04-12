@@ -578,7 +578,7 @@
   "/es/search-232": {
     "component": "dc707916"
   },
-  "/es/-8ba": {
+  "/es/-de0": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -602,7 +602,7 @@
     "component": "17896441",
     "content": "e4070ebf"
   },
-  "/es/celo-codebase/protocol/bridging/migrating-to-optics-v2-6e3": {
+  "/es/celo-codebase/protocol/bridging/migrating-to-optics-v2-ea4": {
     "component": "17896441",
     "content": "788367c7"
   },
@@ -642,15 +642,15 @@
     "component": "17896441",
     "content": "98b40e04"
   },
-  "/es/celo-codebase/protocol/identity-00d": {
+  "/es/celo-codebase/protocol/identity-2a8": {
     "component": "17896441",
     "content": "3b69266b"
   },
-  "/es/celo-codebase/protocol/identity/metadata-836": {
+  "/es/celo-codebase/protocol/identity/metadata-0a4": {
     "component": "17896441",
     "content": "cee40e90"
   },
-  "/es/celo-codebase/protocol/identity/phone-number-privacy-849": {
+  "/es/celo-codebase/protocol/identity/phone-number-privacy-1c8": {
     "component": "17896441",
     "content": "3521cf95"
   },
@@ -658,15 +658,15 @@
     "component": "17896441",
     "content": "33e651e6"
   },
-  "/es/celo-codebase/protocol/identity/randomness-70e": {
+  "/es/celo-codebase/protocol/identity/randomness-b21": {
     "component": "17896441",
     "content": "8f741ec2"
   },
-  "/es/celo-codebase/protocol/identity/valora-accounts-c6b": {
+  "/es/celo-codebase/protocol/identity/valora-accounts-273": {
     "component": "17896441",
     "content": "49d72c73"
   },
-  "/es/celo-codebase/protocol/optics-af7": {
+  "/es/celo-codebase/protocol/optics-1c9": {
     "component": "17896441",
     "content": "796bc158"
   },
@@ -682,7 +682,7 @@
     "component": "17896441",
     "content": "1cfb00a2"
   },
-  "/es/celo-codebase/protocol/plumo-b5e": {
+  "/es/celo-codebase/protocol/plumo-8da": {
     "component": "17896441",
     "content": "cec5e01b"
   },
@@ -694,29 +694,25 @@
     "component": "17896441",
     "content": "c4fe63f8"
   },
-  "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards-340": {
-    "component": "17896441",
-    "content": "4d222e50"
-  },
-  "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/carbon-offsetting-fund-0ec": {
+  "/es/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund-367": {
     "component": "17896441",
     "content": "623ebf9a"
   },
-  "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund-7dc": {
+  "/es/celo-codebase/protocol/proof-of-stake/community-fund-998": {
     "component": "17896441",
     "content": "c4a501ee"
   },
-  "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/locked-gold-rewards-3bc": {
+  "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards-6bf": {
     "component": "17896441",
-    "content": "04a0ea15"
-  },
-  "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/validator-rewards-d46": {
-    "component": "17896441",
-    "content": "003a3f95"
+    "content": "4d222e50"
   },
   "/es/celo-codebase/protocol/proof-of-stake/locked-gold-b64": {
     "component": "17896441",
     "content": "975fc330"
+  },
+  "/es/celo-codebase/protocol/proof-of-stake/locked-gold-rewards-a9b": {
+    "component": "17896441",
+    "content": "04a0ea15"
   },
   "/es/celo-codebase/protocol/proof-of-stake/penalties-e6d": {
     "component": "17896441",
@@ -726,35 +722,39 @@
     "component": "17896441",
     "content": "c8afce65"
   },
-  "/es/celo-codebase/protocol/proof-of-stake/validator-groups-6da": {
+  "/es/celo-codebase/protocol/proof-of-stake/validator-groups-813": {
     "component": "17896441",
     "content": "9f884bdc"
   },
-  "/es/celo-codebase/protocol/stability-052": {
+  "/es/celo-codebase/protocol/proof-of-stake/validator-rewards-bed": {
+    "component": "17896441",
+    "content": "003a3f95"
+  },
+  "/es/celo-codebase/protocol/stability-5da": {
     "component": "17896441",
     "content": "847047c0"
   },
-  "/es/celo-codebase/protocol/stability/adding_stable_assets-f08": {
+  "/es/celo-codebase/protocol/stability/adding_stable_assets-9c2": {
     "component": "17896441",
     "content": "78bd543c"
   },
-  "/es/celo-codebase/protocol/stability/doto-da2": {
+  "/es/celo-codebase/protocol/stability/doto-3aa": {
     "component": "17896441",
     "content": "44d2832d"
   },
-  "/es/celo-codebase/protocol/stability/granda-mento-eb7": {
+  "/es/celo-codebase/protocol/stability/granda-mento-e96": {
     "component": "17896441",
     "content": "b1655fb1"
   },
-  "/es/celo-codebase/protocol/stability/oracles-ba0": {
+  "/es/celo-codebase/protocol/stability/oracles-1ba": {
     "component": "17896441",
     "content": "073a7d60"
   },
-  "/es/celo-codebase/protocol/stability/stability-fees-847": {
+  "/es/celo-codebase/protocol/stability/stability-fees-5d3": {
     "component": "17896441",
     "content": "b60ce522"
   },
-  "/es/celo-codebase/protocol/stability/tobin-tax-912": {
+  "/es/celo-codebase/protocol/stability/tobin-tax-88d": {
     "component": "17896441",
     "content": "61029c30"
   },
@@ -766,11 +766,11 @@
     "component": "17896441",
     "content": "d2589987"
   },
-  "/es/celo-codebase/protocol/transactions/escrow-0a8": {
+  "/es/celo-codebase/protocol/transactions/escrow-a1b": {
     "component": "17896441",
     "content": "a2765a10"
   },
-  "/es/celo-codebase/protocol/transactions/full-node-incentives-bbb": {
+  "/es/celo-codebase/protocol/transactions/full-node-incentives-d4b": {
     "component": "17896441",
     "content": "9dfbc0f7"
   },
@@ -782,7 +782,7 @@
     "component": "17896441",
     "content": "39bfc5ff"
   },
-  "/es/celo-codebase/protocol/transactions/tx-comment-encryption-870": {
+  "/es/celo-codebase/protocol/transactions/tx-comment-encryption-fad": {
     "component": "17896441",
     "content": "08363e74"
   },
@@ -794,23 +794,23 @@
     "component": "17896441",
     "content": "0db6244f"
   },
-  "/es/celo-codebase/wallet/how-the-wallet-works-b10": {
+  "/es/celo-codebase/wallet/how-the-wallet-works-efe": {
     "component": "17896441",
     "content": "af61c072"
   },
-  "/es/celo-codebase/wallet/how-the-wallet-works/invitations-526": {
+  "/es/celo-codebase/wallet/how-the-wallet-works/invitations-250": {
     "component": "17896441",
     "content": "089950f5"
   },
-  "/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments-083": {
+  "/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments-0fd": {
     "component": "17896441",
     "content": "0a76f6dc"
   },
-  "/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync-9de": {
+  "/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync-b3e": {
     "component": "17896441",
     "content": "9749f30e"
   },
-  "/es/celo-codebase/wallet/how-the-wallet-works/verification-20a": {
+  "/es/celo-codebase/wallet/how-the-wallet-works/verification-ba9": {
     "component": "17896441",
     "content": "c2132320"
   },
@@ -818,15 +818,15 @@
     "component": "17896441",
     "content": "ee352737"
   },
-  "/es/celo-holder-guide/connecting-ledger-celo-terminal-wallet-a1d": {
+  "/es/celo-holder-guide/connecting-ledger-celo-terminal-wallet-47d": {
     "component": "17896441",
     "content": "5e77e489"
   },
-  "/es/celo-holder-guide/connecting-ledger-celo-web-wallet-181": {
+  "/es/celo-holder-guide/connecting-ledger-celo-web-wallet-0f8": {
     "component": "17896441",
     "content": "3a434b30"
   },
-  "/es/celo-holder-guide/connecting-ledger-celocli-dce": {
+  "/es/celo-holder-guide/connecting-ledger-celocli-742": {
     "component": "17896441",
     "content": "8381b861"
   },
@@ -838,141 +838,45 @@
     "component": "17896441",
     "content": "825869ad"
   },
-  "/es/celo-owner-guide/celo-exchange-bot-192": {
-    "component": "17896441",
-    "content": "f0934cc8"
-  },
-  "/es/celo-owner-guide/celo-recovery-8ba": {
-    "component": "17896441",
-    "content": "eb77a058"
-  },
-  "/es/celo-owner-guide/cusd-c11": {
-    "component": "17896441",
-    "content": "70e429f8"
-  },
-  "/es/celo-owner-guide/eth-recovery-dc1": {
-    "component": "17896441",
-    "content": "5d4f4557"
-  },
-  "/es/celo-owner-guide/governance-cheat-sheet-a1c": {
-    "component": "17896441",
-    "content": "45805ad3"
-  },
-  "/es/celo-owner-guide/ledger-519": {
-    "component": "17896441",
-    "content": "c02fbcc6"
-  },
-  "/es/celo-owner-guide/quick-start-7d7": {
-    "component": "17896441",
-    "content": "edf74bde"
-  },
-  "/es/celo-owner-guide/release-gold-11e": {
-    "component": "17896441",
-    "content": "1a414fd6"
-  },
-  "/es/celo-owner-guide/voting-governance-d7a": {
+  "/es/celo-holder-guide/voting-governance-915": {
     "component": "17896441",
     "content": "6b4dbf9e"
   },
-  "/es/celo-owner-guide/voting-validators-486": {
+  "/es/celo-holder-guide/voting-validators-e2d": {
     "component": "17896441",
     "content": "9c5af04a"
   },
-  "/es/command-line-interface/account-95d": {
+  "/es/celo-owner-guide/celo-exchange-bot-620": {
     "component": "17896441",
-    "content": "8f8685b9"
+    "content": "f0934cc8"
   },
-  "/es/command-line-interface/autocomplete-2da": {
+  "/es/celo-owner-guide/celo-recovery-069": {
     "component": "17896441",
-    "content": "7109fa7f"
+    "content": "eb77a058"
   },
-  "/es/command-line-interface/commands-855": {
+  "/es/celo-owner-guide/cusd-9a5": {
     "component": "17896441",
-    "content": "8703fc7f"
+    "content": "70e429f8"
   },
-  "/es/command-line-interface/config-ca3": {
+  "/es/celo-owner-guide/eth-recovery-947": {
     "component": "17896441",
-    "content": "4514743b"
+    "content": "5d4f4557"
   },
-  "/es/command-line-interface/dkg-912": {
+  "/es/celo-owner-guide/governance-cheat-sheet-e93": {
     "component": "17896441",
-    "content": "a2336831"
+    "content": "45805ad3"
   },
-  "/es/command-line-interface/election-1de": {
+  "/es/celo-owner-guide/ledger-c8b": {
     "component": "17896441",
-    "content": "e4332df7"
+    "content": "c02fbcc6"
   },
-  "/es/command-line-interface/exchange-a4c": {
+  "/es/celo-owner-guide/quick-start-2b9": {
     "component": "17896441",
-    "content": "9cea7129"
+    "content": "edf74bde"
   },
-  "/es/command-line-interface/governance-15d": {
+  "/es/celo-owner-guide/release-gold-c10": {
     "component": "17896441",
-    "content": "a1c976b0"
-  },
-  "/es/command-line-interface/grandamento-009": {
-    "component": "17896441",
-    "content": "eb9c2415"
-  },
-  "/es/command-line-interface/help-e92": {
-    "component": "17896441",
-    "content": "12f0ad65"
-  },
-  "/es/command-line-interface/identity-7cc": {
-    "component": "17896441",
-    "content": "57129363"
-  },
-  "/es/command-line-interface/introduction-a83": {
-    "component": "17896441",
-    "content": "e2d03ea4"
-  },
-  "/es/command-line-interface/lockedgold-108": {
-    "component": "17896441",
-    "content": "261d2826"
-  },
-  "/es/command-line-interface/multisig-e66": {
-    "component": "17896441",
-    "content": "b86d92f4"
-  },
-  "/es/command-line-interface/network-d6d": {
-    "component": "17896441",
-    "content": "b23a5735"
-  },
-  "/es/command-line-interface/node-622": {
-    "component": "17896441",
-    "content": "bae88047"
-  },
-  "/es/command-line-interface/oracle-a59": {
-    "component": "17896441",
-    "content": "680315f0"
-  },
-  "/es/command-line-interface/plugins-740": {
-    "component": "17896441",
-    "content": "66acc3e5"
-  },
-  "/es/command-line-interface/releasegold-8a4": {
-    "component": "17896441",
-    "content": "f1aa0579"
-  },
-  "/es/command-line-interface/reserve-380": {
-    "component": "17896441",
-    "content": "8e3a0514"
-  },
-  "/es/command-line-interface/rewards-8d6": {
-    "component": "17896441",
-    "content": "212320ee"
-  },
-  "/es/command-line-interface/transfer-5ee": {
-    "component": "17896441",
-    "content": "47ca69b6"
-  },
-  "/es/command-line-interface/validator-bb4": {
-    "component": "17896441",
-    "content": "3fb580aa"
-  },
-  "/es/command-line-interface/validatorgroup-099": {
-    "component": "17896441",
-    "content": "16834e39"
+    "content": "1a414fd6"
   },
   "/es/community/CIP-contributors-9ee": {
     "component": "17896441",
@@ -1238,31 +1142,31 @@
     "component": "17896441",
     "content": "088a4258"
   },
-  "/es/getting-started/alfajores-testnet-166": {
+  "/es/getting-started/alfajores-testnet-e60": {
     "component": "17896441",
     "content": "1d99fbc7"
   },
-  "/es/getting-started/alfajores-testnet/faucet-e33": {
+  "/es/getting-started/alfajores-testnet/faucet-0dd": {
     "component": "17896441",
     "content": "0b385e17"
   },
-  "/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores-668": {
+  "/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores-4dd": {
     "component": "17896441",
     "content": "0582cf4a"
   },
-  "/es/getting-started/alfajores-testnet/using-the-mobile-wallet-885": {
+  "/es/getting-started/alfajores-testnet/using-the-mobile-wallet-744": {
     "component": "17896441",
     "content": "2ac4a547"
   },
-  "/es/getting-started/baklava-testnet-acf": {
+  "/es/getting-started/baklava-testnet-1ab": {
     "component": "17896441",
     "content": "64954ed5"
   },
-  "/es/getting-started/baklava-testnet/running-a-full-node-in-baklava-e06": {
+  "/es/getting-started/baklava-testnet/running-a-full-node-in-baklava-cfa": {
     "component": "17896441",
     "content": "dd58aea3"
   },
-  "/es/getting-started/baklava-testnet/running-a-validator-in-baklava-6a7": {
+  "/es/getting-started/baklava-testnet/running-a-validator-in-baklava-25e": {
     "component": "17896441",
     "content": "5192c735"
   },
@@ -1274,11 +1178,11 @@
     "component": "17896441",
     "content": "dd45a7f1"
   },
-  "/es/getting-started/hosted-nodes-f7f": {
+  "/es/getting-started/hosted-nodes-748": {
     "component": "17896441",
     "content": "0168ff17"
   },
-  "/es/getting-started/mainnet-fe7": {
+  "/es/getting-started/mainnet-78e": {
     "component": "17896441",
     "content": "e706e16b"
   },
@@ -1286,7 +1190,7 @@
     "component": "17896441",
     "content": "15742eb9"
   },
-  "/es/getting-started/mainnet/running-a-validator-in-mainnet-ca8": {
+  "/es/getting-started/mainnet/running-a-validator-in-mainnet-546": {
     "component": "17896441",
     "content": "108998f4"
   },
@@ -1302,23 +1206,23 @@
     "component": "17896441",
     "content": "4a7c3be7"
   },
-  "/es/getting-started/wallets/using-metamask-with-celo-22b": {
+  "/es/getting-started/wallets/using-metamask-with-celo-a46": {
     "component": "17896441",
     "content": "b2b6dde6"
   },
-  "/es/getting-started/wallets/using-metamask-with-celo/manual-setup-24c": {
+  "/es/getting-started/wallets/using-metamask-with-celo/manual-setup-a03": {
     "component": "17896441",
     "content": "8984db02"
   },
-  "/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import-9ee": {
+  "/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import-3ad": {
     "component": "17896441",
     "content": "ffceb8c3"
   },
-  "/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup-f82": {
+  "/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup-2ff": {
     "component": "17896441",
     "content": "30e12403"
   },
-  "/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask-fd0": {
+  "/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask-3f6": {
     "component": "17896441",
     "content": "25453005"
   },

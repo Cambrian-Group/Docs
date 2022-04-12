@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "Connect Ledger to Celo Terminal",
     "description": "How to connect a ledger wallet to Celo Terminal."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Set up a Ledger Wallet with Celo",
-    "permalink": "/es/celo-owner-guide/ledger"
-  },
-  "next": {
-    "title": "Connect Ledger to Celo Web Wallet",
-    "permalink": "/es/celo-holder-guide/connecting-ledger-celo-web-wallet"
   }
 }

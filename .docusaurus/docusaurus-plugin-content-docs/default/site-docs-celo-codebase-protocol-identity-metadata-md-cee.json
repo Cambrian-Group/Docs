@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/identity/metadata",
   "id": "celo-codebase/protocol/identity/metadata",
-  "title": "Celo Metadata and Claims",
-  "description": "How the Celo protocol's metadata and claims feature makes it possible to connect on-chain with off-chain identities.",
+  "title": "metadata",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/identity/metadata.md",
   "sourceDirName": "celo-codebase/protocol/identity",
   "slug": "/celo-codebase/protocol/identity/metadata",
@@ -10,17 +10,5 @@
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Celo Metadata and Claims",
-    "description": "How the Celo protocol's metadata and claims feature makes it possible to connect on-chain with off-chain identities."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Phone Number Privacy",
-    "permalink": "/es/celo-codebase/protocol/identity/phone-number-privacy"
-  },
-  "next": {
-    "title": "Celo Randomness",
-    "permalink": "/es/celo-codebase/protocol/identity/randomness"
-  }
+  "frontMatter": {}
 }

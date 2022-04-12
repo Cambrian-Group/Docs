@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/proof-of-stake/index",
   "id": "celo-codebase/protocol/proof-of-stake/index",
-  "title": "Celo Proof of Stake Overview",
-  "description": "Overview of Celo's proof-of-stake algorithm, mechanisms, and implementation.",
+  "title": "Zsc Proof of Stake Overview",
+  "description": "Overview of Zsc's proof-of-stake algorithm, mechanisms, and implementation.",
   "source": "@site/docs/celo-codebase/protocol/proof-of-stake/index.md",
   "sourceDirName": "celo-codebase/protocol/proof-of-stake",
   "slug": "/celo-codebase/protocol/proof-of-stake",
@@ -11,9 +11,9 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Proof of Stake Overview",
+    "title": "Zsc Proof of Stake Overview",
     "slug": "/celo-codebase/protocol/proof-of-stake",
-    "description": "Overview of Celo's proof-of-stake algorithm, mechanisms, and implementation."
+    "description": "Overview of Zsc's proof-of-stake algorithm, mechanisms, and implementation."
   },
   "sidebar": "docs",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/es/celo-codebase/protocol/consensus/ultralight-sync"
   },
   "next": {
-    "title": "Celo Validator Groups",
-    "permalink": "/es/celo-codebase/protocol/proof-of-stake/validator-groups"
+    "title": "Locked ZTB and Voting",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/locked-gold"
   }
 }

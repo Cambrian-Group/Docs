@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/transactions/native-currency",
   "id": "celo-codebase/protocol/transactions/native-currency",
-  "title": "Celo Native Currency",
-  "description": "Introduction to CELO and its compliance to the ERC20 standard.",
+  "title": "Zsc Native Currency",
+  "description": "Introduction to ZTB and its compliance to the ERC20 standard.",
   "source": "@site/docs/celo-codebase/protocol/transactions/native-currency.md",
   "sourceDirName": "celo-codebase/protocol/transactions",
   "slug": "/celo-codebase/protocol/transactions/native-currency",
@@ -11,8 +11,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Native Currency",
-    "description": "Introduction to CELO and its compliance to the ERC20 standard."
+    "title": "Zsc Native Currency",
+    "description": "Introduction to ZTB and its compliance to the ERC20 standard."
   },
   "sidebar": "docs",
   "previous": {

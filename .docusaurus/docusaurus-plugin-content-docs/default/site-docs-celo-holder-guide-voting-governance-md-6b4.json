@@ -1,27 +1,14 @@
 {
   "unversionedId": "celo-holder-guide/voting-governance",
   "id": "celo-holder-guide/voting-governance",
-  "title": "Celo Voting on Governance Proposals",
-  "description": "How to use the Celo CLI to participate in Goverance and create a Governance proposal.",
+  "title": "voting-governance",
+  "description": "",
   "source": "@site/docs/celo-holder-guide/voting-governance.md",
   "sourceDirName": "celo-holder-guide",
-  "slug": "/celo-owner-guide/voting-governance",
-  "permalink": "/es/celo-owner-guide/voting-governance",
+  "slug": "/celo-holder-guide/voting-governance",
+  "permalink": "/es/celo-holder-guide/voting-governance",
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Celo Voting on Governance Proposals",
-    "description": "How to use the Celo CLI to participate in Goverance and create a Governance proposal.",
-    "slug": "/celo-owner-guide/voting-governance"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Voting for Validator Groups",
-    "permalink": "/es/celo-owner-guide/voting-validators"
-  },
-  "next": {
-    "title": "Celo Governance Cheat Sheet",
-    "permalink": "/es/celo-owner-guide/governance-cheat-sheet"
-  }
+  "frontMatter": {}
 }

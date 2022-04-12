@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-holder-guide/owners",
   "id": "celo-holder-guide/owners",
-  "title": "Get CELO",
-  "description": "Start sending, spending, and earning crypto from your mobile phone",
+  "title": "Get ZTB",
+  "description": "Start sending, spending, and earning crypto",
   "source": "@site/docs/celo-holder-guide/owners.md",
   "sourceDirName": "celo-holder-guide",
   "slug": "/celo-holder-guide/owners",
@@ -11,16 +11,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Get CELO",
-    "description": "Start sending, spending, and earning crypto from your mobile phone"
+    "title": "Get ZTB",
+    "description": "Start sending, spending, and earning crypto"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Connect Ledger to Celo CLI",
-    "permalink": "/es/celo-holder-guide/connecting-ledger-celocli"
+    "title": "Digital Wallets for Celo",
+    "permalink": "/es/getting-started/wallets"
   },
   "next": {
-    "title": "Self-Custody CELO",
-    "permalink": "/es/celo-owner-guide/quick-start"
+    "title": "Zsc Bridges",
+    "permalink": "/es/celo-codebase/protocol/bridging/bridging-to-celo"
   }
 }

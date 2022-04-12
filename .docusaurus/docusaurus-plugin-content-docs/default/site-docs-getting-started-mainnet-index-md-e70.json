@@ -1,28 +1,14 @@
 {
   "unversionedId": "getting-started/mainnet/index",
   "id": "getting-started/mainnet/index",
-  "title": "Celo Mainnet",
-  "description": "Collection of resources to get started with Celo Mainnet (Celo's production network).",
+  "title": "index",
+  "description": "",
   "source": "@site/docs/getting-started/mainnet/index.md",
   "sourceDirName": "getting-started/mainnet",
-  "slug": "/getting-started/mainnet",
-  "permalink": "/es/getting-started/mainnet",
+  "slug": "/getting-started/mainnet/",
+  "permalink": "/es/getting-started/mainnet/",
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Celo Mainnet",
-    "description": "Collection of resources to get started with Celo Mainnet (Celo's production network).",
-    "id": "index",
-    "slug": "/getting-started/mainnet"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Networks",
-    "permalink": "/es/getting-started/choosing-a-network"
-  },
-  "next": {
-    "title": "Running a Celo Validator",
-    "permalink": "/es/getting-started/mainnet/running-a-validator-in-mainnet"
-  }
+  "frontMatter": {}
 }

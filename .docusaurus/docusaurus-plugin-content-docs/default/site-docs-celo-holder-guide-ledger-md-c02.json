@@ -14,14 +14,5 @@
     "title": "Set up a Ledger Wallet with Celo",
     "description": "How to set up a Ledger Nano S or X hardware wallet with Celo.",
     "slug": "/celo-owner-guide/ledger"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Using a Ledger with MetaMask",
-    "permalink": "/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask"
-  },
-  "next": {
-    "title": "Connect Ledger to Celo Terminal",
-    "permalink": "/es/celo-holder-guide/connecting-ledger-celo-terminal-wallet"
   }
 }

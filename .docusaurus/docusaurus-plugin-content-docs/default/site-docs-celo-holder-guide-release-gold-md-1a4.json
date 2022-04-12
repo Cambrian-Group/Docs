@@ -14,14 +14,5 @@
     "title": "Celo ReleaseGold",
     "description": "Introduction to ReleaseGold including examples, use cases, and FAQ.",
     "slug": "/celo-owner-guide/release-gold"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Asset Management Guide",
-    "permalink": "/es/celo-owner-guide/cusd"
-  },
-  "next": {
-    "title": "Exchange Celo Assets",
-    "permalink": "/es/celo-owner-guide/celo-exchange-bot"
   }
 }

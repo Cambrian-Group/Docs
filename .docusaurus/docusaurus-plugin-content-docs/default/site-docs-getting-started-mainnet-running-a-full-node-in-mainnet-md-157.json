@@ -1,8 +1,8 @@
 {
   "unversionedId": "getting-started/mainnet/running-a-full-node-in-mainnet",
   "id": "getting-started/mainnet/running-a-full-node-in-mainnet",
-  "title": "Run a Celo Full Node",
-  "description": "How to run a full node on the Celo Mainnet Network using a prebuilt Docker image.",
+  "title": "Run a Zsc Full Node",
+  "description": "How to run a full node on the Zsc Mainnet Network using a prebuilt Docker image.",
   "source": "@site/docs/getting-started/mainnet/running-a-full-node-in-mainnet.md",
   "sourceDirName": "getting-started/mainnet",
   "slug": "/getting-started/mainnet/running-a-full-node-in-mainnet",
@@ -11,16 +11,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Run a Celo Full Node",
-    "description": "How to run a full node on the Celo Mainnet Network using a prebuilt Docker image."
+    "title": "Run a Zsc Full Node",
+    "description": "How to run a full node on the Zsc Mainnet Network using a prebuilt Docker image."
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Running a Celo Validator",
-    "permalink": "/es/getting-started/mainnet/running-a-validator-in-mainnet"
+    "title": "Mainnet",
+    "permalink": "/es/getting-started/choosing-a-network"
   },
   "next": {
-    "title": "Celo's Alfajores Testnet",
-    "permalink": "/es/getting-started/alfajores-testnet"
+    "title": "Zsc DApp Gallery",
+    "permalink": "/es/developer-guide/celo-dapp-gallery"
   }
 }

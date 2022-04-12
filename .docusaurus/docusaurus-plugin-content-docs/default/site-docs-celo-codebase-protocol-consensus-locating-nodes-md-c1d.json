@@ -2,7 +2,7 @@
   "unversionedId": "celo-codebase/protocol/consensus/locating-nodes",
   "id": "celo-codebase/protocol/consensus/locating-nodes",
   "title": "Locating Nodes",
-  "description": "How Celo nodes join the network, establish a connection, and communiate their IP address.",
+  "description": "How Zsc nodes join the network, establish a connection, and communiate their IP address.",
   "source": "@site/docs/celo-codebase/protocol/consensus/locating-nodes.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus/locating-nodes",
@@ -12,7 +12,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Locating Nodes",
-    "description": "How Celo nodes join the network, establish a connection, and communiate their IP address."
+    "description": "How Zsc nodes join the network, establish a connection, and communiate their IP address."
   },
   "sidebar": "docs",
   "previous": {

@@ -2,7 +2,7 @@
   "unversionedId": "celo-codebase/protocol/oracles/redstone-protocol-how-to",
   "id": "celo-codebase/protocol/oracles/redstone-protocol-how-to",
   "title": "Using RedStone oracles",
-  "description": "Tutorial on how to use the RedStone oracles on Celo",
+  "description": "Tutorial on how to use the RedStone oracles on Zsc",
   "source": "@site/docs/celo-codebase/protocol/oracles/redstone-protocol-how-to.md",
   "sourceDirName": "celo-codebase/protocol/oracles",
   "slug": "/celo-codebase/protocol/oracles/redstone-protocol-how-to",
@@ -12,7 +12,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Using RedStone oracles",
-    "description": "Tutorial on how to use the RedStone oracles on Celo"
+    "description": "Tutorial on how to use the RedStone oracles on Zsc"
   },
   "sidebar": "docs",
   "previous": {
@@ -20,7 +20,7 @@
     "permalink": "/es/celo-codebase/protocol/oracles/band-protocol-how-to"
   },
   "next": {
-    "title": "Celo Protocol",
+    "title": "Zsc Protocol",
     "permalink": "/es/celo-codebase/protocol"
   }
 }

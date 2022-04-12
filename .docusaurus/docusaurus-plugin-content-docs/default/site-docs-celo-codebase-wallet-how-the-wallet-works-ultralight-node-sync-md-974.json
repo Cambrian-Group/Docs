@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "Ultralight Node Sync",
     "description": "How Ultralight Node sync works with the Celo wallet."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Payments and Exchanging",
-    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments"
-  },
-  "next": {
-    "title": "MetaMask and Celo",
-    "permalink": "/es/getting-started/wallets/using-metamask-with-celo"
   }
 }

@@ -17,11 +17,7 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Celo DApp Gallery",
+    "title": "Zsc DApp Gallery",
     "permalink": "/es/developer-guide/celo-dapp-gallery"
-  },
-  "next": {
-    "title": "Celo CLI",
-    "permalink": "/es/command-line-interface/introduction"
   }
 }

@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/transactions/tx-comment-encryption",
   "id": "celo-codebase/protocol/transactions/tx-comment-encryption",
-  "title": "Celo Encrypted Payment Comments",
-  "description": "Overview of encrypted payment comments and its technical details related to symmetric and asymmetric encryption.",
+  "title": "tx-comment-encryption",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/transactions/tx-comment-encryption.md",
   "sourceDirName": "celo-codebase/protocol/transactions",
   "slug": "/celo-codebase/protocol/transactions/tx-comment-encryption",
@@ -10,17 +10,5 @@
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Celo Encrypted Payment Comments",
-    "description": "Overview of encrypted payment comments and its technical details related to symmetric and asymmetric encryption."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo's Escrow Contract",
-    "permalink": "/es/celo-codebase/protocol/transactions/escrow"
-  },
-  "next": {
-    "title": "Celo Full Node Incentives",
-    "permalink": "/es/celo-codebase/protocol/transactions/full-node-incentives"
-  }
+  "frontMatter": {}
 }

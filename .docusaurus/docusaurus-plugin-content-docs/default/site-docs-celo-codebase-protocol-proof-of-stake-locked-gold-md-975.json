@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/proof-of-stake/locked-gold",
   "id": "celo-codebase/protocol/proof-of-stake/locked-gold",
-  "title": "Locked CELO and Voting",
-  "description": "Introduction to locked CELO and how to use validator elections to participate in voting.",
+  "title": "Locked ZTB and Voting",
+  "description": "Introduction to locked ZTB and how to use validator elections to participate in voting.",
   "source": "@site/docs/celo-codebase/protocol/proof-of-stake/locked-gold.md",
   "sourceDirName": "celo-codebase/protocol/proof-of-stake",
   "slug": "/celo-codebase/protocol/proof-of-stake/locked-gold",
@@ -11,16 +11,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Locked CELO and Voting",
-    "description": "Introduction to locked CELO and how to use validator elections to participate in voting."
+    "title": "Locked ZTB and Voting",
+    "description": "Introduction to locked ZTB and how to use validator elections to participate in voting."
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Celo Validator Groups",
-    "permalink": "/es/celo-codebase/protocol/proof-of-stake/validator-groups"
+    "title": "Zsc Proof of Stake Overview",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake"
   },
   "next": {
-    "title": "Celo Validator Elections",
+    "title": "Zsc Validator Elections",
     "permalink": "/es/celo-codebase/protocol/proof-of-stake/validator-elections"
   }
 }

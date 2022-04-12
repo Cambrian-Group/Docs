@@ -1,7 +1,7 @@
 {
   "unversionedId": "celo-codebase/protocol/proof-of-stake/penalties",
   "id": "celo-codebase/protocol/proof-of-stake/penalties",
-  "title": "Celo Validator Penalties",
+  "title": "Zsc Validator Penalties",
   "description": "Introduction to validator penalties, enforcement mechanisms, and conditions.",
   "source": "@site/docs/celo-codebase/protocol/proof-of-stake/penalties.md",
   "sourceDirName": "celo-codebase/protocol/proof-of-stake",
@@ -11,16 +11,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Validator Penalties",
+    "title": "Zsc Validator Penalties",
     "description": "Introduction to validator penalties, enforcement mechanisms, and conditions."
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Carbon Offsetting Fund",
-    "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/carbon-offsetting-fund"
+    "title": "Zsc Validator Elections",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/validator-elections"
   },
   "next": {
-    "title": "Celo Governance",
+    "title": "Zsc Governance",
     "permalink": "/es/celo-codebase/protocol/governance"
   }
 }

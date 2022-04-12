@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/oracles/oracles-on-celo",
   "id": "celo-codebase/protocol/oracles/oracles-on-celo",
-  "title": "Oracles on Celo",
-  "description": "A list of oracles available on the Celo network.",
+  "title": "Oracles on Zsc",
+  "description": "A list of oracles available on the Zsc network.",
   "source": "@site/docs/celo-codebase/protocol/oracles/oracles-on-celo.md",
   "sourceDirName": "celo-codebase/protocol/oracles",
   "slug": "/celo-codebase/protocol/oracles/oracles-on-celo",
@@ -11,8 +11,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Oracles on Celo",
-    "description": "A list of oracles available on the Celo network."
+    "title": "Oracles on Zsc",
+    "description": "A list of oracles available on the Zsc network."
   },
   "sidebar": "docs",
   "previous": {

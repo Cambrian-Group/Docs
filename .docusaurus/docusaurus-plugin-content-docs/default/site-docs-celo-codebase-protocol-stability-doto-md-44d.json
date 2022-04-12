@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/stability/doto",
   "id": "celo-codebase/protocol/stability/doto",
-  "title": "Celo Stability Algorithm (Mento)",
-  "description": "How the supply of the Celo Dollar is achieved in the Celo protocol using the constant-product decentralized one-to-one mechanism (CP-DOTO).",
+  "title": "doto",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/stability/doto.md",
   "sourceDirName": "celo-codebase/protocol/stability",
   "slug": "/celo-codebase/protocol/stability/doto",
@@ -10,17 +10,5 @@
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Celo Stability Algorithm (Mento)",
-    "description": "How the supply of the Celo Dollar is achieved in the Celo protocol using the constant-product decentralized one-to-one mechanism (CP-DOTO)."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Stability Mechanism Overview",
-    "permalink": "/es/celo-codebase/protocol/stability"
-  },
-  "next": {
-    "title": "Granda Mento",
-    "permalink": "/es/celo-codebase/protocol/stability/granda-mento"
-  }
+  "frontMatter": {}
 }

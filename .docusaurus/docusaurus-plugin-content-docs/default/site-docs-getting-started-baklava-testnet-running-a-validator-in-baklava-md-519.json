@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "Run Baklava Testnet Validator on Celo",
     "description": "How to get a Validator node running on the Celo Mainnet (Celo's Node Operator Testnet)."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Baklava Testnet",
-    "permalink": "/es/getting-started/baklava-testnet"
-  },
-  "next": {
-    "title": "Run a Baklava Full Node",
-    "permalink": "/es/getting-started/baklava-testnet/running-a-full-node-in-baklava"
   }
 }

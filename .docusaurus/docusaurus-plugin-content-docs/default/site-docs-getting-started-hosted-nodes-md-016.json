@@ -15,14 +15,5 @@
     "description": "How to get a preconfigured Celo blockchain node running on one of the major cloud providers.",
     "id": "hosted-nodes",
     "slug": "/getting-started/hosted-nodes"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Run a Baklava Full Node",
-    "permalink": "/es/getting-started/baklava-testnet/running-a-full-node-in-baklava"
-  },
-  "next": {
-    "title": "Celo DApp Gallery",
-    "permalink": "/es/developer-guide/celo-dapp-gallery"
   }
 }

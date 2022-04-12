@@ -15,14 +15,5 @@
     "description": "Collection of resources to get started with Celo Baklava Testnet (Celo's Node Operator Testnet).",
     "id": "index",
     "slug": "/getting-started/baklava-testnet"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Wallet Testnet Funds",
-    "permalink": "/es/getting-started/alfajores-testnet/faucet"
-  },
-  "next": {
-    "title": "Run Baklava Testnet Validator on Celo",
-    "permalink": "/es/getting-started/baklava-testnet/running-a-validator-in-baklava"
   }
 }

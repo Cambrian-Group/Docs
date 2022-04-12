@@ -1,27 +1,14 @@
 {
   "unversionedId": "celo-codebase/protocol/proof-of-stake/locked-gold-rewards",
   "id": "celo-codebase/protocol/proof-of-stake/locked-gold-rewards",
-  "title": "Celo Locked CELO Rewards",
-  "description": "How to earn locked CELO rewards and adjust the rate for voting participation, target schedule, and deductions.",
+  "title": "locked-gold-rewards",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/proof-of-stake/locked-gold-rewards.md",
   "sourceDirName": "celo-codebase/protocol/proof-of-stake",
-  "slug": "/celo-codebase/protocol/proof-of-stake/epoch-rewards/locked-gold-rewards",
-  "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/locked-gold-rewards",
+  "slug": "/celo-codebase/protocol/proof-of-stake/locked-gold-rewards",
+  "permalink": "/es/celo-codebase/protocol/proof-of-stake/locked-gold-rewards",
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Celo Locked CELO Rewards",
-    "slug": "/celo-codebase/protocol/proof-of-stake/epoch-rewards/locked-gold-rewards",
-    "description": "How to earn locked CELO rewards and adjust the rate for voting participation, target schedule, and deductions."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Rewards for Validators and Validator Groups",
-    "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/validator-rewards"
-  },
-  "next": {
-    "title": "Celo Community Fund",
-    "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund"
-  }
+  "frontMatter": {}
 }

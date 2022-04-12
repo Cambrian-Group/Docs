@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/stability/adding_stable_assets",
   "id": "celo-codebase/protocol/stability/adding_stable_assets",
-  "title": "Add Stable Assets to Celo",
-  "description": "Overview of the requirements and steps to add a new stable asset to the Celo platform.",
+  "title": "adding_stable_assets",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/stability/adding_stable_assets.md",
   "sourceDirName": "celo-codebase/protocol/stability",
   "slug": "/celo-codebase/protocol/stability/adding_stable_assets",
@@ -10,17 +10,5 @@
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Add Stable Assets to Celo",
-    "description": "Overview of the requirements and steps to add a new stable asset to the Celo platform."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Stability Fees",
-    "permalink": "/es/celo-codebase/protocol/stability/stability-fees"
-  },
-  "next": {
-    "title": "Celo Tobin Tax",
-    "permalink": "/es/celo-codebase/protocol/stability/tobin-tax"
-  }
+  "frontMatter": {}
 }

@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "Celo Wallet Functionality",
     "desciption": "This section describes the technology powering key functionality of the Celo Wallet."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Digital Wallets for Celo",
-    "permalink": "/es/getting-started/wallets"
-  },
-  "next": {
-    "title": "Celo Wallet Verification",
-    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/verification"
   }
 }

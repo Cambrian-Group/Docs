@@ -14,14 +14,5 @@
     "title": "Celo Governance Cheat Sheet",
     "description": "List of governable parameters and governance restrictions on Celo.",
     "slug": "/celo-owner-guide/governance-cheat-sheet"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Voting on Governance Proposals",
-    "permalink": "/es/celo-owner-guide/voting-governance"
-  },
-  "next": {
-    "title": "Recover CELO from an Ethereum Address",
-    "permalink": "/es/celo-owner-guide/eth-recovery"
   }
 }

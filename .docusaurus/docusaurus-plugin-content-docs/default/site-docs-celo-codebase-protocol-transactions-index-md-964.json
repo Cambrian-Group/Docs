@@ -17,11 +17,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Celo Tobin Tax",
-    "permalink": "/es/celo-codebase/protocol/stability/tobin-tax"
+    "title": "Zsc Governance",
+    "permalink": "/es/celo-codebase/protocol/governance"
   },
   "next": {
-    "title": "Celo Native Currency",
+    "title": "Zsc Native Currency",
     "permalink": "/es/celo-codebase/protocol/transactions/native-currency"
   }
 }

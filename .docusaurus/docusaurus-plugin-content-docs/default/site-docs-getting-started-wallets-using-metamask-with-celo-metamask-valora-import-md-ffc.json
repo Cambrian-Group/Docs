@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "Import Valora Wallet to MetaMask",
     "description": "How to import your Celo account to MetaMask from a Valora wallet."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "MetaMask Programmatic Setup on Celo",
-    "permalink": "/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup"
-  },
-  "next": {
-    "title": "Using a Ledger with MetaMask",
-    "permalink": "/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask"
   }
 }

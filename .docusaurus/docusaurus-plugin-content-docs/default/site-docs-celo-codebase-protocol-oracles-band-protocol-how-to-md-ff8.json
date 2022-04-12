@@ -2,7 +2,7 @@
   "unversionedId": "celo-codebase/protocol/oracles/band-protocol-how-to",
   "id": "celo-codebase/protocol/oracles/band-protocol-how-to",
   "title": "Using Band Protocol",
-  "description": "Tutorial on how to use the Band Protocol on Celo",
+  "description": "Tutorial on how to use the Band Protocol on Zsc",
   "source": "@site/docs/celo-codebase/protocol/oracles/band-protocol-how-to.md",
   "sourceDirName": "celo-codebase/protocol/oracles",
   "slug": "/celo-codebase/protocol/oracles/band-protocol-how-to",
@@ -12,11 +12,11 @@
   "version": "current",
   "frontMatter": {
     "title": "Using Band Protocol",
-    "description": "Tutorial on how to use the Band Protocol on Celo"
+    "description": "Tutorial on how to use the Band Protocol on Zsc"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Oracles on Celo",
+    "title": "Oracles on Zsc",
     "permalink": "/es/celo-codebase/protocol/oracles/oracles-on-celo"
   },
   "next": {

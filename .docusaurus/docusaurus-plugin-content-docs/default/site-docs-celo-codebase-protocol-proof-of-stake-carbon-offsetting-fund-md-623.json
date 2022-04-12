@@ -1,27 +1,14 @@
 {
   "unversionedId": "celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund",
   "id": "celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund",
-  "title": "Carbon Offsetting Fund",
-  "description": "Introduction to the Carbon Offsetting fund, its purpose, and governance process.",
+  "title": "carbon-offsetting-fund",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund.md",
   "sourceDirName": "celo-codebase/protocol/proof-of-stake",
-  "slug": "/celo-codebase/protocol/proof-of-stake/epoch-rewards/carbon-offsetting-fund",
-  "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/carbon-offsetting-fund",
+  "slug": "/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund",
+  "permalink": "/es/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund",
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Carbon Offsetting Fund",
-    "slug": "/celo-codebase/protocol/proof-of-stake/epoch-rewards/carbon-offsetting-fund",
-    "description": "Introduction to the Carbon Offsetting fund, its purpose, and governance process."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Community Fund",
-    "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund"
-  },
-  "next": {
-    "title": "Celo Validator Penalties",
-    "permalink": "/es/celo-codebase/protocol/proof-of-stake/penalties"
-  }
+  "frontMatter": {}
 }

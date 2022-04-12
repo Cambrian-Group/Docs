@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/identity/phone-number-privacy",
   "id": "celo-codebase/protocol/identity/phone-number-privacy",
-  "title": "Phone Number Privacy",
-  "description": "How Celo's identity protocol allows users to associate their phone number with one or more addresses on the Celo blockchain.",
+  "title": "phone-number-privacy",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/identity/phone-number-privacy.md",
   "sourceDirName": "celo-codebase/protocol/identity",
   "slug": "/celo-codebase/protocol/identity/phone-number-privacy",
@@ -10,17 +10,5 @@
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Phone Number Privacy",
-    "description": "How Celo's identity protocol allows users to associate their phone number with one or more addresses on the Celo blockchain."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Valora Accounts",
-    "permalink": "/es/celo-codebase/protocol/identity/valora-accounts"
-  },
-  "next": {
-    "title": "Celo Metadata and Claims",
-    "permalink": "/es/celo-codebase/protocol/identity/metadata"
-  }
+  "frontMatter": {}
 }

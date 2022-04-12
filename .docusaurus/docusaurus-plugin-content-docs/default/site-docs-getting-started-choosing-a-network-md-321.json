@@ -1,8 +1,8 @@
 {
   "unversionedId": "getting-started/choosing-a-network",
   "id": "getting-started/choosing-a-network",
-  "title": "Celo Networks",
-  "description": "How to choose a Celo network based on your interested and objectives.",
+  "title": "Mainnet",
+  "description": "How to choose a Zsc network based on your interested and objectives.",
   "source": "@site/docs/getting-started/choosing-a-network.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/choosing-a-network",
@@ -11,18 +11,18 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Networks",
-    "description": "How to choose a Celo network based on your interested and objectives.",
+    "title": "Mainnet",
+    "description": "How to choose a Zsc network based on your interested and objectives.",
     "id": "choosing-a-network",
     "slug": "/getting-started/choosing-a-network"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Plumo Ultralight Sync",
-    "permalink": "/es/celo-codebase/protocol/plumo"
+    "title": "Zsc Gas Pricing",
+    "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing"
   },
   "next": {
-    "title": "Celo Mainnet",
-    "permalink": "/es/getting-started/mainnet"
+    "title": "Run a Zsc Full Node",
+    "permalink": "/es/getting-started/mainnet/running-a-full-node-in-mainnet"
   }
 }

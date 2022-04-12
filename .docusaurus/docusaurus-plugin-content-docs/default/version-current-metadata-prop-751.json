@@ -70,117 +70,9 @@
         "items": [
           {
             "type": "link",
-            "label": "Digital Wallets",
+            "label": "ZSC Wallets",
             "href": "/es/getting-started/wallets",
             "docId": "getting-started/wallets/index"
-          },
-          {
-            "type": "category",
-            "label": "Celo Wallet",
-            "items": [
-              {
-                "type": "link",
-                "label": "Functionality",
-                "href": "/es/celo-codebase/wallet/how-the-wallet-works/",
-                "docId": "celo-codebase/wallet/how-the-wallet-works/README"
-              },
-              {
-                "type": "link",
-                "label": "Verification",
-                "href": "/es/celo-codebase/wallet/how-the-wallet-works/verification",
-                "docId": "celo-codebase/wallet/how-the-wallet-works/verification"
-              },
-              {
-                "type": "link",
-                "label": "Wallet Invitations",
-                "href": "/es/celo-codebase/wallet/how-the-wallet-works/invitations",
-                "docId": "celo-codebase/wallet/how-the-wallet-works/invitations"
-              },
-              {
-                "type": "link",
-                "label": "Payments and Exchanging",
-                "href": "/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments",
-                "docId": "celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments"
-              },
-              {
-                "type": "link",
-                "label": "Ultralight Node Sync",
-                "href": "/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync",
-                "docId": "celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
-          },
-          {
-            "type": "category",
-            "label": "MetaMask",
-            "items": [
-              {
-                "type": "link",
-                "label": "MetaMask and Celo",
-                "href": "/es/getting-started/wallets/using-metamask-with-celo",
-                "docId": "getting-started/wallets/using-metamask-with-celo/index"
-              },
-              {
-                "type": "link",
-                "label": "Manual Setup",
-                "href": "/es/getting-started/wallets/using-metamask-with-celo/manual-setup",
-                "docId": "getting-started/wallets/using-metamask-with-celo/manual-setup"
-              },
-              {
-                "type": "link",
-                "label": "Programmatic Setup",
-                "href": "/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup",
-                "docId": "getting-started/wallets/using-metamask-with-celo/programmatic-setup"
-              },
-              {
-                "type": "link",
-                "label": "MetaMask and Valora",
-                "href": "/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import",
-                "docId": "getting-started/wallets/using-metamask-with-celo/metamask-valora-import"
-              },
-              {
-                "type": "link",
-                "label": "MetaMask and Ledger",
-                "href": "/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask",
-                "docId": "getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
-          },
-          {
-            "type": "category",
-            "label": "Ledger Wallet",
-            "items": [
-              {
-                "type": "link",
-                "label": "Set up a Ledger Wallet",
-                "href": "/es/celo-owner-guide/ledger",
-                "docId": "celo-holder-guide/ledger"
-              },
-              {
-                "type": "link",
-                "label": "Connect to Celo Terminal",
-                "href": "/es/celo-holder-guide/connecting-ledger-celo-terminal-wallet",
-                "docId": "celo-holder-guide/connecting-ledger-celo-terminal-wallet"
-              },
-              {
-                "type": "link",
-                "label": "Connect to Celo Web Wallet",
-                "href": "/es/celo-holder-guide/connecting-ledger-celo-web-wallet",
-                "docId": "celo-holder-guide/connecting-ledger-celo-web-wallet"
-              },
-              {
-                "type": "link",
-                "label": "Connect to Celo CLI",
-                "href": "/es/celo-holder-guide/connecting-ledger-celocli",
-                "docId": "celo-holder-guide/connecting-ledger-celocli"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
           }
         ],
         "collapsible": true,
@@ -195,84 +87,6 @@
             "label": "Overview",
             "href": "/es/celo-holder-guide/owners",
             "docId": "celo-holder-guide/owners"
-          },
-          {
-            "type": "category",
-            "label": "Manage Assets",
-            "items": [
-              {
-                "type": "link",
-                "label": "Self-Custody CELO",
-                "href": "/es/celo-owner-guide/quick-start",
-                "docId": "celo-holder-guide/quick-start"
-              },
-              {
-                "type": "link",
-                "label": "Asset Management",
-                "href": "/es/celo-owner-guide/cusd",
-                "docId": "celo-holder-guide/cusd"
-              },
-              {
-                "type": "link",
-                "label": "Release Gold",
-                "href": "/es/celo-owner-guide/release-gold",
-                "docId": "celo-holder-guide/release-gold"
-              },
-              {
-                "type": "link",
-                "label": "Exchange Celo Assets",
-                "href": "/es/celo-owner-guide/celo-exchange-bot",
-                "docId": "celo-holder-guide/celo-exchange-bot"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
-          },
-          {
-            "type": "category",
-            "label": "Voting",
-            "items": [
-              {
-                "type": "link",
-                "label": "Voting for Validators",
-                "href": "/es/celo-owner-guide/voting-validators",
-                "docId": "celo-holder-guide/voting-validators"
-              },
-              {
-                "type": "link",
-                "label": "Voting on Governance",
-                "href": "/es/celo-owner-guide/voting-governance",
-                "docId": "celo-holder-guide/voting-governance"
-              },
-              {
-                "type": "link",
-                "label": "Governance Cheat Sheet",
-                "href": "/es/celo-owner-guide/governance-cheat-sheet",
-                "docId": "celo-holder-guide/governance-cheat-sheet"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
-          },
-          {
-            "type": "category",
-            "label": "Recovery",
-            "items": [
-              {
-                "type": "link",
-                "label": "Recover from ETH Address",
-                "href": "/es/celo-owner-guide/eth-recovery",
-                "docId": "celo-holder-guide/eth-recovery"
-              },
-              {
-                "type": "link",
-                "label": "Recover from Celo Address",
-                "href": "/es/celo-owner-guide/celo-recovery",
-                "docId": "celo-holder-guide/celo-recovery"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
           }
         ],
         "collapsible": true,
@@ -284,7 +98,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Celo Bridges",
+            "label": "ZSC Bridges",
             "href": "/es/celo-codebase/protocol/bridging/bridging-to-celo",
             "docId": "celo-codebase/protocol/bridging/bridging-to-celo"
           },
@@ -296,21 +110,15 @@
           },
           {
             "type": "link",
-            "label": "Native Assets with Etherscan",
+            "label": "Native Assets with Zscscan",
             "href": "/es/celo-codebase/protocol/bridging/bridging-native-assets",
             "docId": "celo-codebase/protocol/bridging/bridging-native-assets"
           },
           {
             "type": "link",
-            "label": "Tokens with Etherscan",
+            "label": "Tokens with Zscscan",
             "href": "/es/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
             "docId": "celo-codebase/protocol/bridging/bridging-tokens-with-etherscan"
-          },
-          {
-            "type": "link",
-            "label": "Migrating to Optics v2",
-            "href": "/es/celo-codebase/protocol/bridging/migrating-to-optics-v2",
-            "docId": "celo-codebase/protocol/bridging/migrating-to-optics-v2"
           },
           {
             "type": "link",
@@ -328,7 +136,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Celo Oracles",
+            "label": "Zsc Oracles",
             "href": "/es/celo-codebase/protocol/oracles/oracles-on-celo",
             "docId": "celo-codebase/protocol/oracles/oracles-on-celo"
           },
@@ -382,7 +190,7 @@
               },
               {
                 "type": "link",
-                "label": "Ultralight Sync",
+                "label": "Archive Sync",
                 "href": "/es/celo-codebase/protocol/consensus/ultralight-sync",
                 "docId": "celo-codebase/protocol/consensus/ultralight-sync"
               }
@@ -402,13 +210,7 @@
               },
               {
                 "type": "link",
-                "label": "Validator Groups",
-                "href": "/es/celo-codebase/protocol/proof-of-stake/validator-groups",
-                "docId": "celo-codebase/protocol/proof-of-stake/validator-groups"
-              },
-              {
-                "type": "link",
-                "label": "Locked CELO",
+                "label": "Locked ZTB",
                 "href": "/es/celo-codebase/protocol/proof-of-stake/locked-gold",
                 "docId": "celo-codebase/protocol/proof-of-stake/locked-gold"
               },
@@ -417,44 +219,6 @@
                 "label": "Validator Elections",
                 "href": "/es/celo-codebase/protocol/proof-of-stake/validator-elections",
                 "docId": "celo-codebase/protocol/proof-of-stake/validator-elections"
-              },
-              {
-                "type": "category",
-                "label": "Epoch Rewards",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Overview",
-                    "href": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards",
-                    "docId": "celo-codebase/protocol/proof-of-stake/epoch-rewards"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Validator Rewards",
-                    "href": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/validator-rewards",
-                    "docId": "celo-codebase/protocol/proof-of-stake/validator-rewards"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Locked CELO Rewards",
-                    "href": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/locked-gold-rewards",
-                    "docId": "celo-codebase/protocol/proof-of-stake/locked-gold-rewards"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Community Fund",
-                    "href": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/community-fund",
-                    "docId": "celo-codebase/protocol/proof-of-stake/community-fund"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Carbon Offsetting Fund",
-                    "href": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards/carbon-offsetting-fund",
-                    "docId": "celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
               },
               {
                 "type": "link",
@@ -468,59 +232,9 @@
           },
           {
             "type": "link",
-            "label": "Celo Governance",
+            "label": "Zsc Governance",
             "href": "/es/celo-codebase/protocol/governance",
             "docId": "celo-codebase/protocol/governance"
-          },
-          {
-            "type": "category",
-            "label": "Stability Mechanism",
-            "items": [
-              {
-                "type": "link",
-                "label": "Overview",
-                "href": "/es/celo-codebase/protocol/stability",
-                "docId": "celo-codebase/protocol/stability/index"
-              },
-              {
-                "type": "link",
-                "label": "Celo Stability Algorithm (Mento)",
-                "href": "/es/celo-codebase/protocol/stability/doto",
-                "docId": "celo-codebase/protocol/stability/doto"
-              },
-              {
-                "type": "link",
-                "label": "Granda Mento",
-                "href": "/es/celo-codebase/protocol/stability/granda-mento",
-                "docId": "celo-codebase/protocol/stability/granda-mento"
-              },
-              {
-                "type": "link",
-                "label": "Oracles",
-                "href": "/es/celo-codebase/protocol/stability/oracles",
-                "docId": "celo-codebase/protocol/stability/oracles"
-              },
-              {
-                "type": "link",
-                "label": "Celo Stability Fees",
-                "href": "/es/celo-codebase/protocol/stability/stability-fees",
-                "docId": "celo-codebase/protocol/stability/stability-fees"
-              },
-              {
-                "type": "link",
-                "label": "Add Stable Assets to Celo",
-                "href": "/es/celo-codebase/protocol/stability/adding_stable_assets",
-                "docId": "celo-codebase/protocol/stability/adding_stable_assets"
-              },
-              {
-                "type": "link",
-                "label": "Celo Tobin Tax",
-                "href": "/es/celo-codebase/protocol/stability/tobin-tax",
-                "docId": "celo-codebase/protocol/stability/tobin-tax"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
           },
           {
             "type": "category",
@@ -534,7 +248,7 @@
               },
               {
                 "type": "link",
-                "label": "Celo Native Currency",
+                "label": "Zsc Native Currency",
                 "href": "/es/celo-codebase/protocol/transactions/native-currency",
                 "docId": "celo-codebase/protocol/transactions/native-currency"
               },
@@ -546,81 +260,13 @@
               },
               {
                 "type": "link",
-                "label": "Celo Gas Pricing",
+                "label": "Zsc Gas Pricing",
                 "href": "/es/celo-codebase/protocol/transactions/gas-pricing",
                 "docId": "celo-codebase/protocol/transactions/gas-pricing"
-              },
-              {
-                "type": "link",
-                "label": "Celo's Escrow Contract",
-                "href": "/es/celo-codebase/protocol/transactions/escrow",
-                "docId": "celo-codebase/protocol/transactions/escrow"
-              },
-              {
-                "type": "link",
-                "label": "Celo Encrypted Payment Comments",
-                "href": "/es/celo-codebase/protocol/transactions/tx-comment-encryption",
-                "docId": "celo-codebase/protocol/transactions/tx-comment-encryption"
-              },
-              {
-                "type": "link",
-                "label": "Celo Full Node Incentives",
-                "href": "/es/celo-codebase/protocol/transactions/full-node-incentives",
-                "docId": "celo-codebase/protocol/transactions/full-node-incentives"
               }
             ],
             "collapsible": true,
             "collapsed": true
-          },
-          {
-            "type": "category",
-            "label": "Identity",
-            "items": [
-              {
-                "type": "link",
-                "label": "Overview",
-                "href": "/es/celo-codebase/protocol/identity",
-                "docId": "celo-codebase/protocol/identity/index"
-              },
-              {
-                "type": "link",
-                "label": "Valora Accounts",
-                "href": "/es/celo-codebase/protocol/identity/valora-accounts",
-                "docId": "celo-codebase/protocol/identity/valora-accounts"
-              },
-              {
-                "type": "link",
-                "label": "Phone Number Privacy",
-                "href": "/es/celo-codebase/protocol/identity/phone-number-privacy",
-                "docId": "celo-codebase/protocol/identity/phone-number-privacy"
-              },
-              {
-                "type": "link",
-                "label": "Celo Metadata and Claims",
-                "href": "/es/celo-codebase/protocol/identity/metadata",
-                "docId": "celo-codebase/protocol/identity/metadata"
-              },
-              {
-                "type": "link",
-                "label": "Celo Randomness",
-                "href": "/es/celo-codebase/protocol/identity/randomness",
-                "docId": "celo-codebase/protocol/identity/randomness"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
-          },
-          {
-            "type": "link",
-            "label": "Optics",
-            "href": "/es/celo-codebase/protocol/optics",
-            "docId": "celo-codebase/protocol/optics"
-          },
-          {
-            "type": "link",
-            "label": "Plumo Ultralight Sync",
-            "href": "/es/celo-codebase/protocol/plumo",
-            "docId": "celo-codebase/protocol/plumo"
           }
         ],
         "collapsible": true,
@@ -632,99 +278,15 @@
         "items": [
           {
             "type": "link",
-            "label": "Networks",
+            "label": "Mainnet",
             "href": "/es/getting-started/choosing-a-network",
             "docId": "getting-started/choosing-a-network"
           },
           {
-            "type": "category",
-            "label": "Mainnet",
-            "items": [
-              {
-                "type": "link",
-                "label": "Celo Mainnet",
-                "href": "/es/getting-started/mainnet",
-                "docId": "getting-started/mainnet/index"
-              },
-              {
-                "type": "link",
-                "label": "Run Mainnet Validator",
-                "href": "/es/getting-started/mainnet/running-a-validator-in-mainnet",
-                "docId": "getting-started/mainnet/running-a-validator-in-mainnet"
-              },
-              {
-                "type": "link",
-                "label": "Run Mainnet Full Node",
-                "href": "/es/getting-started/mainnet/running-a-full-node-in-mainnet",
-                "docId": "getting-started/mainnet/running-a-full-node-in-mainnet"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
-          },
-          {
-            "type": "category",
-            "label": "Alfajores Testnet",
-            "items": [
-              {
-                "type": "link",
-                "label": "Alfajores Testnet",
-                "href": "/es/getting-started/alfajores-testnet",
-                "docId": "getting-started/alfajores-testnet/index"
-              },
-              {
-                "type": "link",
-                "label": "Run Alfajores Full Node",
-                "href": "/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores",
-                "docId": "getting-started/alfajores-testnet/running-a-full-node-in-alfajores"
-              },
-              {
-                "type": "link",
-                "label": "Mobile Wallet",
-                "href": "/es/getting-started/alfajores-testnet/using-the-mobile-wallet",
-                "docId": "getting-started/alfajores-testnet/using-the-mobile-wallet"
-              },
-              {
-                "type": "link",
-                "label": "Testnet Faucet",
-                "href": "/es/getting-started/alfajores-testnet/faucet",
-                "docId": "getting-started/alfajores-testnet/faucet"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
-          },
-          {
-            "type": "category",
-            "label": "Baklava Testnet",
-            "items": [
-              {
-                "type": "link",
-                "label": "Baklava Testnet",
-                "href": "/es/getting-started/baklava-testnet",
-                "docId": "getting-started/baklava-testnet/index"
-              },
-              {
-                "type": "link",
-                "label": "Run Baklava Validator",
-                "href": "/es/getting-started/baklava-testnet/running-a-validator-in-baklava",
-                "docId": "getting-started/baklava-testnet/running-a-validator-in-baklava"
-              },
-              {
-                "type": "link",
-                "label": "Run Baklava Full Node",
-                "href": "/es/getting-started/baklava-testnet/running-a-full-node-in-baklava",
-                "docId": "getting-started/baklava-testnet/running-a-full-node-in-baklava"
-              }
-            ],
-            "collapsible": true,
-            "collapsed": true
-          },
-          {
             "type": "link",
-            "label": "Hosted Nodes",
-            "href": "/es/getting-started/hosted-nodes",
-            "docId": "getting-started/hosted-nodes"
+            "label": "Run Mainnet Full Node",
+            "href": "/es/getting-started/mainnet/running-a-full-node-in-mainnet",
+            "docId": "getting-started/mainnet/running-a-full-node-in-mainnet"
           }
         ],
         "collapsible": true,
@@ -741,158 +303,6 @@
         "label": "FAQ",
         "href": "/es/faqs",
         "docId": "faqs"
-      },
-      {
-        "type": "category",
-        "label": "Command Line",
-        "items": [
-          {
-            "type": "link",
-            "label": "Celo CLI",
-            "href": "/es/command-line-interface/introduction",
-            "docId": "command-line-interface/introduction"
-          },
-          {
-            "type": "link",
-            "label": "celocli account",
-            "href": "/es/command-line-interface/account",
-            "docId": "command-line-interface/account"
-          },
-          {
-            "type": "link",
-            "label": "celocli autocomplete",
-            "href": "/es/command-line-interface/autocomplete",
-            "docId": "command-line-interface/autocomplete"
-          },
-          {
-            "type": "link",
-            "label": "celocli commands",
-            "href": "/es/command-line-interface/commands",
-            "docId": "command-line-interface/commands"
-          },
-          {
-            "type": "link",
-            "label": "celocli config",
-            "href": "/es/command-line-interface/config",
-            "docId": "command-line-interface/config"
-          },
-          {
-            "type": "link",
-            "label": "celocli dkg",
-            "href": "/es/command-line-interface/dkg",
-            "docId": "command-line-interface/dkg"
-          },
-          {
-            "type": "link",
-            "label": "celocli election",
-            "href": "/es/command-line-interface/election",
-            "docId": "command-line-interface/election"
-          },
-          {
-            "type": "link",
-            "label": "celocli exchange",
-            "href": "/es/command-line-interface/exchange",
-            "docId": "command-line-interface/exchange"
-          },
-          {
-            "type": "link",
-            "label": "celocli governance",
-            "href": "/es/command-line-interface/governance",
-            "docId": "command-line-interface/governance"
-          },
-          {
-            "type": "link",
-            "label": "celocli grandamento",
-            "href": "/es/command-line-interface/grandamento",
-            "docId": "command-line-interface/grandamento"
-          },
-          {
-            "type": "link",
-            "label": "celocli help",
-            "href": "/es/command-line-interface/help",
-            "docId": "command-line-interface/help"
-          },
-          {
-            "type": "link",
-            "label": "celocli identity",
-            "href": "/es/command-line-interface/identity",
-            "docId": "command-line-interface/identity"
-          },
-          {
-            "type": "link",
-            "label": "celocli lockedgold",
-            "href": "/es/command-line-interface/lockedgold",
-            "docId": "command-line-interface/lockedgold"
-          },
-          {
-            "type": "link",
-            "label": "celocli multisig",
-            "href": "/es/command-line-interface/multisig",
-            "docId": "command-line-interface/multisig"
-          },
-          {
-            "type": "link",
-            "label": "celocli network",
-            "href": "/es/command-line-interface/network",
-            "docId": "command-line-interface/network"
-          },
-          {
-            "type": "link",
-            "label": "celocli node",
-            "href": "/es/command-line-interface/node",
-            "docId": "command-line-interface/node"
-          },
-          {
-            "type": "link",
-            "label": "celocli oracle",
-            "href": "/es/command-line-interface/oracle",
-            "docId": "command-line-interface/oracle"
-          },
-          {
-            "type": "link",
-            "label": "celocli plugins",
-            "href": "/es/command-line-interface/plugins",
-            "docId": "command-line-interface/plugins"
-          },
-          {
-            "type": "link",
-            "label": "celocli releasegold",
-            "href": "/es/command-line-interface/releasegold",
-            "docId": "command-line-interface/releasegold"
-          },
-          {
-            "type": "link",
-            "label": "celocli reserve",
-            "href": "/es/command-line-interface/reserve",
-            "docId": "command-line-interface/reserve"
-          },
-          {
-            "type": "link",
-            "label": "celocli rewards",
-            "href": "/es/command-line-interface/rewards",
-            "docId": "command-line-interface/rewards"
-          },
-          {
-            "type": "link",
-            "label": "celocli transfer",
-            "href": "/es/command-line-interface/transfer",
-            "docId": "command-line-interface/transfer"
-          },
-          {
-            "type": "link",
-            "label": "celocli validator",
-            "href": "/es/command-line-interface/validator",
-            "docId": "command-line-interface/validator"
-          },
-          {
-            "type": "link",
-            "label": "celocli validatorgroup",
-            "href": "/es/command-line-interface/validatorgroup",
-            "docId": "command-line-interface/validatorgroup"
-          }
-        ],
-        "collapsible": true,
-        "collapsed": true
       }
     ],
     "validators": [
@@ -1551,26 +961,25 @@
     "celo-codebase/protocol/bridging/bridging-native-assets": {
       "id": "celo-codebase/protocol/bridging/bridging-native-assets",
       "title": "Bridge Native Assets with Etherscan",
-      "description": "How to bridge native assets from ETH and Matic to Celo with Etherscan.",
+      "description": "How to bridge native assets from ETH and Matic to Zsc with Etherscan.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/bridging/bridging-to-celo": {
       "id": "celo-codebase/protocol/bridging/bridging-to-celo",
-      "title": "Celo Bridges",
-      "description": "How to bridge from Ethereum, Polygon, and Solana to Celo.",
+      "title": "Zsc Bridges",
+      "description": "How to bridge from Ethereum, Polygon, and Solana to Zsc.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/bridging/bridging-tokens-with-etherscan": {
       "id": "celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
       "title": "Bridge Tokens with Etherscan",
-      "description": "Bridging ERC-20 tokens from Ethereum and Polygon to Celo.",
+      "description": "Bridging ERC-20 tokens from Ethereum and Polygon to Zsc.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/bridging/migrating-to-optics-v2": {
       "id": "celo-codebase/protocol/bridging/migrating-to-optics-v2",
-      "title": "Migrating to Optics v2",
-      "description": "How to migrate tokens from Optics v1 to v2.",
-      "sidebar": "docs"
+      "title": "migrating-to-optics-v2",
+      "description": ""
     },
     "celo-codebase/protocol/bridging/optics-bridge-faq": {
       "id": "celo-codebase/protocol/bridging/optics-bridge-faq",
@@ -1597,50 +1006,47 @@
     "celo-codebase/protocol/consensus/index": {
       "id": "celo-codebase/protocol/consensus/index",
       "title": "Consensus Introduction",
-      "description": "Overview of Celo's consensus protocol and network validators.",
+      "description": "Overview of Zsc's consensus protocol and network validators.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/consensus/locating-nodes": {
       "id": "celo-codebase/protocol/consensus/locating-nodes",
       "title": "Locating Nodes",
-      "description": "How Celo nodes join the network, establish a connection, and communiate their IP address.",
+      "description": "How Zsc nodes join the network, establish a connection, and communiate their IP address.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/consensus/ultralight-sync": {
       "id": "celo-codebase/protocol/consensus/ultralight-sync",
       "title": "Celo Ultralight Sync",
-      "description": "Introduction to Celo's ultralight sync mode and how it improves the speed of the Celo network.",
+      "description": "Introduction to Zsc's ultralight sync mode and how it improves the speed of the Zsc network.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/consensus/validator-set-differences": {
       "id": "celo-codebase/protocol/consensus/validator-set-differences",
       "title": "Validator Set Differences",
-      "description": "How validator sets are elected and managed with the Celo protocol.",
+      "description": "How validator sets are elected and managed with the Zsc protocol.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/governance": {
       "id": "celo-codebase/protocol/governance",
-      "title": "Celo Governance",
-      "description": "Overview of Celo governance and how the network is managed using the stakeholder proposal process.",
+      "title": "Zsc Governance",
+      "description": "Overview of Zsc governance and how the network is managed using the stakeholder proposal process.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/identity/index": {
       "id": "celo-codebase/protocol/identity/index",
-      "title": "Celo Identity Overview",
-      "description": "How Celo maps wallet addresses to phone numbers to make financial tools more accessible to mobile phone users.",
-      "sidebar": "docs"
+      "title": "index",
+      "description": ""
     },
     "celo-codebase/protocol/identity/metadata": {
       "id": "celo-codebase/protocol/identity/metadata",
-      "title": "Celo Metadata and Claims",
-      "description": "How the Celo protocol's metadata and claims feature makes it possible to connect on-chain with off-chain identities.",
-      "sidebar": "docs"
+      "title": "metadata",
+      "description": ""
     },
     "celo-codebase/protocol/identity/phone-number-privacy": {
       "id": "celo-codebase/protocol/identity/phone-number-privacy",
-      "title": "Phone Number Privacy",
-      "description": "How Celo's identity protocol allows users to associate their phone number with one or more addresses on the Celo blockchain.",
-      "sidebar": "docs"
+      "title": "phone-number-privacy",
+      "description": ""
     },
     "celo-codebase/protocol/identity/privacy-research": {
       "id": "celo-codebase/protocol/identity/privacy-research",
@@ -1649,51 +1055,47 @@
     },
     "celo-codebase/protocol/identity/randomness": {
       "id": "celo-codebase/protocol/identity/randomness",
-      "title": "Celo Randomness",
-      "description": "How unpredictable pseudo-randomness is achieved on the Celo blockchain.",
-      "sidebar": "docs"
+      "title": "randomness",
+      "description": ""
     },
     "celo-codebase/protocol/identity/valora-accounts": {
       "id": "celo-codebase/protocol/identity/valora-accounts",
-      "title": "Valora Accounts",
-      "description": "How Valora operates as a meta-transaction wallet to facilitate mobile payments.",
-      "sidebar": "docs"
+      "title": "valora-accounts",
+      "description": ""
     },
     "celo-codebase/protocol/index": {
       "id": "celo-codebase/protocol/index",
-      "title": "Celo Protocol",
-      "description": "Introduction to the Celo protocol, its implementation, and its relationship to Ethereum.",
+      "title": "Zsc Protocol",
+      "description": "Introduction to the Zsc protocol, its implementation, and its relationship to Ethereum.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/optics": {
       "id": "celo-codebase/protocol/optics",
-      "title": "Optics",
-      "description": "Introduction to Optics, it's core concepts, architecture, process, and implementation.",
-      "sidebar": "docs"
+      "title": "optics",
+      "description": ""
     },
     "celo-codebase/protocol/oracles/band-protocol-how-to": {
       "id": "celo-codebase/protocol/oracles/band-protocol-how-to",
       "title": "Using Band Protocol",
-      "description": "Tutorial on how to use the Band Protocol on Celo",
+      "description": "Tutorial on how to use the Band Protocol on Zsc",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/oracles/oracles-on-celo": {
       "id": "celo-codebase/protocol/oracles/oracles-on-celo",
-      "title": "Oracles on Celo",
-      "description": "A list of oracles available on the Celo network.",
+      "title": "Oracles on Zsc",
+      "description": "A list of oracles available on the Zsc network.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/oracles/redstone-protocol-how-to": {
       "id": "celo-codebase/protocol/oracles/redstone-protocol-how-to",
       "title": "Using RedStone oracles",
-      "description": "Tutorial on how to use the RedStone oracles on Celo",
+      "description": "Tutorial on how to use the RedStone oracles on Zsc",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/plumo": {
       "id": "celo-codebase/protocol/plumo",
-      "title": "Plumo Ultralight Sync",
-      "description": "Introduction to Plumo (Ultralight Sync), it's core concepts, architecture, process, and implementation.",
-      "sidebar": "docs"
+      "title": "plumo",
+      "description": ""
     },
     "celo-codebase/protocol/proof-of-stake/becoming-a-validator": {
       "id": "celo-codebase/protocol/proof-of-stake/becoming-a-validator",
@@ -1702,128 +1104,113 @@
     },
     "celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund": {
       "id": "celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund",
-      "title": "Carbon Offsetting Fund",
-      "description": "Introduction to the Carbon Offsetting fund, its purpose, and governance process.",
-      "sidebar": "docs"
+      "title": "carbon-offsetting-fund",
+      "description": ""
     },
     "celo-codebase/protocol/proof-of-stake/community-fund": {
       "id": "celo-codebase/protocol/proof-of-stake/community-fund",
-      "title": "Celo Community Fund",
-      "description": "Introduction to the community fund, its assets, and its relationship to the on-chain reserve.",
-      "sidebar": "docs"
+      "title": "community-fund",
+      "description": ""
     },
     "celo-codebase/protocol/proof-of-stake/epoch-rewards": {
       "id": "celo-codebase/protocol/proof-of-stake/epoch-rewards",
-      "title": "Celo Epoch Rewards Overview",
-      "description": "Introduction to Celo epoch rewards and the target reward release schedule.",
-      "sidebar": "docs"
+      "title": "epoch-rewards",
+      "description": ""
     },
     "celo-codebase/protocol/proof-of-stake/index": {
       "id": "celo-codebase/protocol/proof-of-stake/index",
-      "title": "Celo Proof of Stake Overview",
-      "description": "Overview of Celo's proof-of-stake algorithm, mechanisms, and implementation.",
+      "title": "Zsc Proof of Stake Overview",
+      "description": "Overview of Zsc's proof-of-stake algorithm, mechanisms, and implementation.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/proof-of-stake/locked-gold": {
       "id": "celo-codebase/protocol/proof-of-stake/locked-gold",
-      "title": "Locked CELO and Voting",
-      "description": "Introduction to locked CELO and how to use validator elections to participate in voting.",
+      "title": "Locked ZTB and Voting",
+      "description": "Introduction to locked ZTB and how to use validator elections to participate in voting.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/proof-of-stake/locked-gold-rewards": {
       "id": "celo-codebase/protocol/proof-of-stake/locked-gold-rewards",
-      "title": "Celo Locked CELO Rewards",
-      "description": "How to earn locked CELO rewards and adjust the rate for voting participation, target schedule, and deductions.",
-      "sidebar": "docs"
+      "title": "locked-gold-rewards",
+      "description": ""
     },
     "celo-codebase/protocol/proof-of-stake/penalties": {
       "id": "celo-codebase/protocol/proof-of-stake/penalties",
-      "title": "Celo Validator Penalties",
+      "title": "Zsc Validator Penalties",
       "description": "Introduction to validator penalties, enforcement mechanisms, and conditions.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/proof-of-stake/validator-elections": {
       "id": "celo-codebase/protocol/proof-of-stake/validator-elections",
-      "title": "Celo Validator Elections",
-      "description": "Introduction to Celo validator elections and management of groups and votes throughout the process.",
+      "title": "Zsc Validator Elections",
+      "description": "Introduction to Zsc validator elections and management of groups and votes throughout the process.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/proof-of-stake/validator-groups": {
       "id": "celo-codebase/protocol/proof-of-stake/validator-groups",
-      "title": "Celo Validator Groups",
-      "description": "Celo's proof-of-stake mechanism introduces the concept of Validator Groups as intermediaries between voters and validators.",
-      "sidebar": "docs"
+      "title": "validator-groups",
+      "description": ""
     },
     "celo-codebase/protocol/proof-of-stake/validator-rewards": {
       "id": "celo-codebase/protocol/proof-of-stake/validator-rewards",
-      "title": "Celo Rewards for Validators and Validator Groups",
-      "description": "Overview of epoch rewards for Validators and Validator Groups.",
-      "sidebar": "docs"
+      "title": "validator-rewards",
+      "description": ""
     },
     "celo-codebase/protocol/stability/adding_stable_assets": {
       "id": "celo-codebase/protocol/stability/adding_stable_assets",
-      "title": "Add Stable Assets to Celo",
-      "description": "Overview of the requirements and steps to add a new stable asset to the Celo platform.",
-      "sidebar": "docs"
+      "title": "adding_stable_assets",
+      "description": ""
     },
     "celo-codebase/protocol/stability/doto": {
       "id": "celo-codebase/protocol/stability/doto",
-      "title": "Celo Stability Algorithm (Mento)",
-      "description": "How the supply of the Celo Dollar is achieved in the Celo protocol using the constant-product decentralized one-to-one mechanism (CP-DOTO).",
-      "sidebar": "docs"
+      "title": "doto",
+      "description": ""
     },
     "celo-codebase/protocol/stability/granda-mento": {
       "id": "celo-codebase/protocol/stability/granda-mento",
-      "title": "Granda Mento",
-      "description": "Introduction to Granda Mento (CIP 38), its design, and how to manage exchange proposals.",
-      "sidebar": "docs"
+      "title": "granda-mento",
+      "description": ""
     },
     "celo-codebase/protocol/stability/index": {
       "id": "celo-codebase/protocol/stability/index",
-      "title": "Celo Stability Mechanism Overview",
-      "description": "Overview of the Celo protocol's Stability Mechanisms.",
-      "sidebar": "docs"
+      "title": "index",
+      "description": ""
     },
     "celo-codebase/protocol/stability/oracles": {
       "id": "celo-codebase/protocol/stability/oracles",
-      "title": "Oracles",
-      "description": "How the SortedOracles smart contract uses governance to collect reports and maintain the oraclized rate or the Celo dollar.",
-      "sidebar": "docs"
+      "title": "oracles",
+      "description": ""
     },
     "celo-codebase/protocol/stability/stability-fees": {
       "id": "celo-codebase/protocol/stability/stability-fees",
-      "title": "Celo Stability Fees",
-      "description": "Overview of stability fee parameters, timing, frequency, amounts, management, and updates.",
-      "sidebar": "docs"
+      "title": "stability-fees",
+      "description": ""
     },
     "celo-codebase/protocol/stability/tobin-tax": {
       "id": "celo-codebase/protocol/stability/tobin-tax",
-      "title": "Celo Tobin Tax",
-      "description": "Overview of the Tobin Tax and its effect on the Celo reserve.",
-      "sidebar": "docs"
+      "title": "tobin-tax",
+      "description": ""
     },
     "celo-codebase/protocol/transactions/erc20-transaction-fees": {
       "id": "celo-codebase/protocol/transactions/erc20-transaction-fees",
       "title": "Paying for Gas in Tokens",
-      "description": "How to pay Celo gas fees using whitelisted ERC20 tokens.",
+      "description": "How to pay Zsc gas fees using whitelisted ERC20 tokens.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/transactions/escrow": {
       "id": "celo-codebase/protocol/transactions/escrow",
-      "title": "Celo's Escrow Contract",
-      "description": "Introduction to the Celo Escrow contract and how to use it to withdraw, revoke, and reclaim funds.",
-      "sidebar": "docs"
+      "title": "escrow",
+      "description": ""
     },
     "celo-codebase/protocol/transactions/full-node-incentives": {
       "id": "celo-codebase/protocol/transactions/full-node-incentives",
-      "title": "Celo Full Node Incentives",
-      "description": "Overview of full node incentives available to node operators using gateway fees and transaction payments.",
-      "sidebar": "docs"
+      "title": "full-node-incentives",
+      "description": ""
     },
     "celo-codebase/protocol/transactions/gas-pricing": {
       "id": "celo-codebase/protocol/transactions/gas-pricing",
-      "title": "Celo Gas Pricing",
-      "description": "Introduction to gas prices, calculations, transactions, and fees on the Celo network.",
+      "title": "Zsc Gas Pricing",
+      "description": "Introduction to gas prices, calculations, transactions, and fees on the Zsc network.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/transactions/index": {
@@ -1834,15 +1221,14 @@
     },
     "celo-codebase/protocol/transactions/native-currency": {
       "id": "celo-codebase/protocol/transactions/native-currency",
-      "title": "Celo Native Currency",
-      "description": "Introduction to CELO and its compliance to the ERC20 standard.",
+      "title": "Zsc Native Currency",
+      "description": "Introduction to ZTB and its compliance to the ERC20 standard.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/transactions/tx-comment-encryption": {
       "id": "celo-codebase/protocol/transactions/tx-comment-encryption",
-      "title": "Celo Encrypted Payment Comments",
-      "description": "Overview of encrypted payment comments and its technical details related to symmetric and asymmetric encryption.",
-      "sidebar": "docs"
+      "title": "tx-comment-encryption",
+      "description": ""
     },
     "celo-codebase/style-guide/typescript": {
       "id": "celo-codebase/style-guide/typescript",
@@ -1851,33 +1237,28 @@
     },
     "celo-codebase/wallet/how-the-wallet-works/invitations": {
       "id": "celo-codebase/wallet/how-the-wallet-works/invitations",
-      "title": "Wallet Invitations",
-      "description": "How invitations allow users to create accounts in the Celo wallet.",
-      "sidebar": "docs"
+      "title": "invitations",
+      "description": ""
     },
     "celo-codebase/wallet/how-the-wallet-works/README": {
       "id": "celo-codebase/wallet/how-the-wallet-works/README",
       "title": "Celo Wallet Functionality",
-      "description": "This section describes the technology powering key functionality of the Celo Wallet.",
-      "sidebar": "docs"
+      "description": "This section describes the technology powering key functionality of the Celo Wallet."
     },
     "celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments": {
       "id": "celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments",
-      "title": "Payments and Exchanging",
-      "description": "How the Celo wallet facilitates payments and exchanges using Celo assets.",
-      "sidebar": "docs"
+      "title": "sending-and-requesting-payments",
+      "description": ""
     },
     "celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync": {
       "id": "celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync",
       "title": "Ultralight Node Sync",
-      "description": "How Ultralight Node sync works with the Celo wallet.",
-      "sidebar": "docs"
+      "description": "How Ultralight Node sync works with the Celo wallet."
     },
     "celo-codebase/wallet/how-the-wallet-works/verification": {
       "id": "celo-codebase/wallet/how-the-wallet-works/verification",
-      "title": "Celo Wallet Verification",
-      "description": "How the Celo wallet uses phone number verification to map phone number hashses to addresses.",
-      "sidebar": "docs"
+      "title": "verification",
+      "description": ""
     },
     "celo-codebase/wallet/index": {
       "id": "celo-codebase/wallet/index",
@@ -1887,63 +1268,54 @@
     },
     "celo-codebase/wallet/intro": {
       "id": "celo-codebase/wallet/intro",
-      "title": "Running the Wallet Locally",
-      "description": "How to setup the Celo Wallet locally, complete basic wallet functions, and troubleshoot common issues.",
+      "title": "intro",
+      "description": "",
       "sidebar": "developers"
     },
     "celo-holder-guide/celo-exchange-bot": {
       "id": "celo-holder-guide/celo-exchange-bot",
       "title": "Exchange Celo Assets",
-      "description": "How to use the Celo exchange bot to exchange CELO and Celo stable tokens.",
-      "sidebar": "docs"
+      "description": "How to use the Celo exchange bot to exchange CELO and Celo stable tokens."
     },
     "celo-holder-guide/celo-recovery": {
       "id": "celo-holder-guide/celo-recovery",
       "title": "Recover ETH or ERC-20 tokens from a Celo address",
-      "description": "How to recover ETH or ERC-20 tokens if you accidentally transferred them to a CELO (previously Celo Gold) address.",
-      "sidebar": "docs"
+      "description": "How to recover ETH or ERC-20 tokens if you accidentally transferred them to a CELO (previously Celo Gold) address."
     },
     "celo-holder-guide/connecting-ledger-celo-terminal-wallet": {
       "id": "celo-holder-guide/connecting-ledger-celo-terminal-wallet",
       "title": "Connect Ledger to Celo Terminal",
-      "description": "How to connect a ledger wallet to Celo Terminal.",
-      "sidebar": "docs"
+      "description": "How to connect a ledger wallet to Celo Terminal."
     },
     "celo-holder-guide/connecting-ledger-celo-web-wallet": {
       "id": "celo-holder-guide/connecting-ledger-celo-web-wallet",
       "title": "Connect Ledger to Celo Web Wallet",
-      "description": "How to connect a ledger wallet to the Celo Web Wallet.",
-      "sidebar": "docs"
+      "description": "How to connect a ledger wallet to the Celo Web Wallet."
     },
     "celo-holder-guide/connecting-ledger-celocli": {
       "id": "celo-holder-guide/connecting-ledger-celocli",
       "title": "Connect Ledger to Celo CLI",
-      "description": "How to connect a ledger wallet to the Celo CLI.",
-      "sidebar": "docs"
+      "description": "How to connect a ledger wallet to the Celo CLI."
     },
     "celo-holder-guide/cusd": {
       "id": "celo-holder-guide/cusd",
       "title": "Celo Asset Management Guide",
-      "description": "Access and account management for holding, exchanging, or sending Celo Dollars (cUSD) and stablecoins.",
-      "sidebar": "docs"
+      "description": "Access and account management for holding, exchanging, or sending Celo Dollars (cUSD) and stablecoins."
     },
     "celo-holder-guide/eth-recovery": {
       "id": "celo-holder-guide/eth-recovery",
       "title": "Recover CELO from an Ethereum Address",
-      "description": "How to recover CELO (previously Celo Gold) if you accidentally transferred them to an account generated using an Ethereum wallet.",
-      "sidebar": "docs"
+      "description": "How to recover CELO (previously Celo Gold) if you accidentally transferred them to an account generated using an Ethereum wallet."
     },
     "celo-holder-guide/governance-cheat-sheet": {
       "id": "celo-holder-guide/governance-cheat-sheet",
       "title": "Celo Governance Cheat Sheet",
-      "description": "List of governable parameters and governance restrictions on Celo.",
-      "sidebar": "docs"
+      "description": "List of governable parameters and governance restrictions on Celo."
     },
     "celo-holder-guide/ledger": {
       "id": "celo-holder-guide/ledger",
       "title": "Set up a Ledger Wallet with Celo",
-      "description": "How to set up a Ledger Nano S or X hardware wallet with Celo.",
-      "sidebar": "docs"
+      "description": "How to set up a Ledger Nano S or X hardware wallet with Celo."
     },
     "celo-holder-guide/overview": {
       "id": "celo-holder-guide/overview",
@@ -1952,177 +1324,29 @@
     },
     "celo-holder-guide/owners": {
       "id": "celo-holder-guide/owners",
-      "title": "Get CELO",
-      "description": "Start sending, spending, and earning crypto from your mobile phone",
+      "title": "Get ZTB",
+      "description": "Start sending, spending, and earning crypto",
       "sidebar": "docs"
     },
     "celo-holder-guide/quick-start": {
       "id": "celo-holder-guide/quick-start",
       "title": "Self-Custody CELO",
-      "description": "Account access and reward details for self-custodying holder of CELO on the Celo Mainnet.",
-      "sidebar": "docs"
+      "description": "Account access and reward details for self-custodying holder of CELO on the Celo Mainnet."
     },
     "celo-holder-guide/release-gold": {
       "id": "celo-holder-guide/release-gold",
       "title": "Celo ReleaseGold",
-      "description": "Introduction to ReleaseGold including examples, use cases, and FAQ.",
-      "sidebar": "docs"
+      "description": "Introduction to ReleaseGold including examples, use cases, and FAQ."
     },
     "celo-holder-guide/voting-governance": {
       "id": "celo-holder-guide/voting-governance",
-      "title": "Celo Voting on Governance Proposals",
-      "description": "How to use the Celo CLI to participate in Goverance and create a Governance proposal.",
-      "sidebar": "docs"
+      "title": "voting-governance",
+      "description": ""
     },
     "celo-holder-guide/voting-validators": {
       "id": "celo-holder-guide/voting-validators",
-      "title": "Voting for Validator Groups",
-      "description": "Overview of Validator elections for validator groups including technical details, policies, and explorers.",
-      "sidebar": "docs"
-    },
-    "command-line-interface/account": {
-      "id": "command-line-interface/account",
-      "title": "celocli account",
-      "description": "Manage your account, keys, and metadata",
-      "sidebar": "docs"
-    },
-    "command-line-interface/autocomplete": {
-      "id": "command-line-interface/autocomplete",
-      "title": "celocli autocomplete",
-      "description": "display autocomplete installation instructions",
-      "sidebar": "docs"
-    },
-    "command-line-interface/commands": {
-      "id": "command-line-interface/commands",
-      "title": "celocli commands",
-      "description": "list all the commands",
-      "sidebar": "docs"
-    },
-    "command-line-interface/config": {
-      "id": "command-line-interface/config",
-      "title": "celocli config",
-      "description": "Configure CLI options which persist across commands",
-      "sidebar": "docs"
-    },
-    "command-line-interface/dkg": {
-      "id": "command-line-interface/dkg",
-      "title": "celocli dkg",
-      "description": "Publish your locally computed DKG results to the blockchain",
-      "sidebar": "docs"
-    },
-    "command-line-interface/election": {
-      "id": "command-line-interface/election",
-      "title": "celocli election",
-      "description": "Participate in and view the state of Validator Elections",
-      "sidebar": "docs"
-    },
-    "command-line-interface/exchange": {
-      "id": "command-line-interface/exchange",
-      "title": "celocli exchange",
-      "description": "Exchange Celo Dollars and CELO via the stability mechanism",
-      "sidebar": "docs"
-    },
-    "command-line-interface/governance": {
-      "id": "command-line-interface/governance",
-      "title": "celocli governance",
-      "description": "Interact with on-chain governance proposals and hotfixes",
-      "sidebar": "docs"
-    },
-    "command-line-interface/grandamento": {
-      "id": "command-line-interface/grandamento",
-      "title": "celocli grandamento",
-      "description": "Cancels a Granda Mento exchange proposal",
-      "sidebar": "docs"
-    },
-    "command-line-interface/help": {
-      "id": "command-line-interface/help",
-      "title": "celocli help",
-      "description": "display help for celocli",
-      "sidebar": "docs"
-    },
-    "command-line-interface/identity": {
-      "id": "command-line-interface/identity",
-      "title": "celocli identity",
-      "description": "Interact with ODIS and the attestations service",
-      "sidebar": "docs"
-    },
-    "command-line-interface/introduction": {
-      "id": "command-line-interface/introduction",
-      "title": "Celo CLI",
-      "description": "The Command Line Interface allows users to interact with the Celo Protocol smart contracts.",
-      "sidebar": "docs"
-    },
-    "command-line-interface/lockedgold": {
-      "id": "command-line-interface/lockedgold",
-      "title": "celocli lockedgold",
-      "description": "View and manage locked CELO",
-      "sidebar": "docs"
-    },
-    "command-line-interface/multisig": {
-      "id": "command-line-interface/multisig",
-      "title": "celocli multisig",
-      "description": "Shows information about multi-sig contract",
-      "sidebar": "docs"
-    },
-    "command-line-interface/network": {
-      "id": "command-line-interface/network",
-      "title": "celocli network",
-      "description": "View details about the network, like contracts and parameters",
-      "sidebar": "docs"
-    },
-    "command-line-interface/node": {
-      "id": "command-line-interface/node",
-      "title": "celocli node",
-      "description": "Manage your Celo node",
-      "sidebar": "docs"
-    },
-    "command-line-interface/oracle": {
-      "id": "command-line-interface/oracle",
-      "title": "celocli oracle",
-      "description": "List oracle addresses for a given token",
-      "sidebar": "docs"
-    },
-    "command-line-interface/plugins": {
-      "id": "command-line-interface/plugins",
-      "title": "celocli plugins",
-      "description": "list installed plugins",
-      "sidebar": "docs"
-    },
-    "command-line-interface/releasegold": {
-      "id": "command-line-interface/releasegold",
-      "title": "celocli releasegold",
-      "description": "View and manage Release Gold contracts",
-      "sidebar": "docs"
-    },
-    "command-line-interface/reserve": {
-      "id": "command-line-interface/reserve",
-      "title": "celocli reserve",
-      "description": "Shows information about reserve",
-      "sidebar": "docs"
-    },
-    "command-line-interface/rewards": {
-      "id": "command-line-interface/rewards",
-      "title": "celocli rewards",
-      "description": "Show rewards information about a voter, registered Validator, or Validator Group",
-      "sidebar": "docs"
-    },
-    "command-line-interface/transfer": {
-      "id": "command-line-interface/transfer",
-      "title": "celocli transfer",
-      "description": "Transfer CELO and Celo Dollars",
-      "sidebar": "docs"
-    },
-    "command-line-interface/validator": {
-      "id": "command-line-interface/validator",
-      "title": "celocli validator",
-      "description": "View and manage Validators",
-      "sidebar": "docs"
-    },
-    "command-line-interface/validatorgroup": {
-      "id": "command-line-interface/validatorgroup",
-      "title": "celocli validatorgroup",
-      "description": "View and manage Validator Groups",
-      "sidebar": "docs"
+      "title": "voting-validators",
+      "description": ""
     },
     "community/CIP-contributors": {
       "id": "community/CIP-contributors",
@@ -2216,8 +1440,8 @@
     },
     "developer-resources/celo-dapp-gallery": {
       "id": "developer-resources/celo-dapp-gallery",
-      "title": "Celo DApp Gallery",
-      "description": "List of featured DApp examples to help you start building on Celo.",
+      "title": "Zsc DApp Gallery",
+      "description": "List of featured DApp examples to help you start building on Zsc.",
       "sidebar": "docs"
     },
     "developer-resources/celo-for-eth-devs": {
@@ -2504,49 +1728,42 @@
     "getting-started/alfajores-testnet/faucet": {
       "id": "getting-started/alfajores-testnet/faucet",
       "title": "Celo Wallet Testnet Funds",
-      "description": "How to fund your Celo wallet account with testnet funds.",
-      "sidebar": "docs"
+      "description": "How to fund your Celo wallet account with testnet funds."
     },
     "getting-started/alfajores-testnet/index": {
       "id": "getting-started/alfajores-testnet/index",
       "title": "Celo's Alfajores Testnet",
-      "description": "Collection of resources to get started with Celo Alfajores Testnet (Celo's Developer Testnet).",
-      "sidebar": "docs"
+      "description": "Collection of resources to get started with Celo Alfajores Testnet (Celo's Developer Testnet)."
     },
     "getting-started/alfajores-testnet/running-a-full-node-in-alfajores": {
       "id": "getting-started/alfajores-testnet/running-a-full-node-in-alfajores",
       "title": "Run an Alfajores Full Node on Celo",
-      "description": "How to run a full node on the Alfajores Network using a prebuilt Docker image.",
-      "sidebar": "docs"
+      "description": "How to run a full node on the Alfajores Network using a prebuilt Docker image."
     },
     "getting-started/alfajores-testnet/using-the-mobile-wallet": {
       "id": "getting-started/alfajores-testnet/using-the-mobile-wallet",
       "title": "Using the Mobile Wallet",
-      "description": "How to get started with the Alfajores Testnet using the Celo Mobile wallet.",
-      "sidebar": "docs"
+      "description": "How to get started with the Alfajores Testnet using the Celo Mobile wallet."
     },
     "getting-started/baklava-testnet/index": {
       "id": "getting-started/baklava-testnet/index",
       "title": "Celo Baklava Testnet",
-      "description": "Collection of resources to get started with Celo Baklava Testnet (Celo's Node Operator Testnet).",
-      "sidebar": "docs"
+      "description": "Collection of resources to get started with Celo Baklava Testnet (Celo's Node Operator Testnet)."
     },
     "getting-started/baklava-testnet/running-a-full-node-in-baklava": {
       "id": "getting-started/baklava-testnet/running-a-full-node-in-baklava",
       "title": "Run a Baklava Full Node",
-      "description": "How to get a full node running on the Baklava Network using a prebuilt Docker image.",
-      "sidebar": "docs"
+      "description": "How to get a full node running on the Baklava Network using a prebuilt Docker image."
     },
     "getting-started/baklava-testnet/running-a-validator-in-baklava": {
       "id": "getting-started/baklava-testnet/running-a-validator-in-baklava",
       "title": "Run Baklava Testnet Validator on Celo",
-      "description": "How to get a Validator node running on the Celo Mainnet (Celo's Node Operator Testnet).",
-      "sidebar": "docs"
+      "description": "How to get a Validator node running on the Celo Mainnet (Celo's Node Operator Testnet)."
     },
     "getting-started/choosing-a-network": {
       "id": "getting-started/choosing-a-network",
-      "title": "Celo Networks",
-      "description": "How to choose a Celo network based on your interested and objectives.",
+      "title": "Mainnet",
+      "description": "How to choose a Zsc network based on your interested and objectives.",
       "sidebar": "docs"
     },
     "getting-started/glossary": {
@@ -2558,26 +1775,23 @@
     "getting-started/hosted-nodes": {
       "id": "getting-started/hosted-nodes",
       "title": "Hosted Nodes",
-      "description": "How to get a preconfigured Celo blockchain node running on one of the major cloud providers.",
-      "sidebar": "docs"
+      "description": "How to get a preconfigured Celo blockchain node running on one of the major cloud providers."
     },
     "getting-started/mainnet/index": {
       "id": "getting-started/mainnet/index",
-      "title": "Celo Mainnet",
-      "description": "Collection of resources to get started with Celo Mainnet (Celo's production network).",
-      "sidebar": "docs"
+      "title": "index",
+      "description": ""
     },
     "getting-started/mainnet/running-a-full-node-in-mainnet": {
       "id": "getting-started/mainnet/running-a-full-node-in-mainnet",
-      "title": "Run a Celo Full Node",
-      "description": "How to run a full node on the Celo Mainnet Network using a prebuilt Docker image.",
+      "title": "Run a Zsc Full Node",
+      "description": "How to run a full node on the Zsc Mainnet Network using a prebuilt Docker image.",
       "sidebar": "docs"
     },
     "getting-started/mainnet/running-a-validator-in-mainnet": {
       "id": "getting-started/mainnet/running-a-validator-in-mainnet",
       "title": "Running a Celo Validator",
-      "description": "How to get a Validator node running on the Celo Mainnet.",
-      "sidebar": "docs"
+      "description": "How to get a Validator node running on the Celo Mainnet."
     },
     "getting-started/using-the-wallet": {
       "id": "getting-started/using-the-wallet",
@@ -2594,38 +1808,33 @@
     "getting-started/wallets/index": {
       "id": "getting-started/wallets/index",
       "title": "Digital Wallets for Celo",
-      "description": "Overview of digital wallets available to send, spend, and earn Celo assets.",
+      "description": "Overview of digital wallets available to send, spend, and earn ZSC assets.",
       "sidebar": "docs"
     },
     "getting-started/wallets/using-metamask-with-celo/index": {
       "id": "getting-started/wallets/using-metamask-with-celo/index",
       "title": "MetaMask and Celo",
-      "description": "Overview of MetaMask and how you can get started with MetaMask on Celo.",
-      "sidebar": "docs"
+      "description": "Overview of MetaMask and how you can get started with MetaMask on Celo."
     },
     "getting-started/wallets/using-metamask-with-celo/manual-setup": {
       "id": "getting-started/wallets/using-metamask-with-celo/manual-setup",
       "title": "MetaMask Manual Setup on Celo",
-      "description": "How to manually add a Celo network to your existing MetaMask wallet.",
-      "sidebar": "docs"
+      "description": "How to manually add a Celo network to your existing MetaMask wallet."
     },
     "getting-started/wallets/using-metamask-with-celo/metamask-valora-import": {
       "id": "getting-started/wallets/using-metamask-with-celo/metamask-valora-import",
       "title": "Import Valora Wallet to MetaMask",
-      "description": "How to import your Celo account to MetaMask from a Valora wallet.",
-      "sidebar": "docs"
+      "description": "How to import your Celo account to MetaMask from a Valora wallet."
     },
     "getting-started/wallets/using-metamask-with-celo/programmatic-setup": {
       "id": "getting-started/wallets/using-metamask-with-celo/programmatic-setup",
       "title": "MetaMask Programmatic Setup on Celo",
-      "description": "How dApp developers can use MetaMask to interact with the Celo network.",
-      "sidebar": "docs"
+      "description": "How dApp developers can use MetaMask to interact with the Celo network."
     },
     "getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask": {
       "id": "getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask",
       "title": "Using a Ledger with MetaMask",
-      "description": "Things to keep in mind when using a Ledger hardware wallet with MetaMask to connect to the Celo network.",
-      "sidebar": "docs"
+      "description": "Things to keep in mind when using a Ledger hardware wallet with MetaMask to connect to the Celo network."
     },
     "important-information/alfajores-testnet-disclaimer": {
       "id": "important-information/alfajores-testnet-disclaimer",

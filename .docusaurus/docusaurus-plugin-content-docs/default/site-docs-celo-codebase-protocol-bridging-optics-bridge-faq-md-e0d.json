@@ -16,11 +16,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Migrating to Optics v2",
-    "permalink": "/es/celo-codebase/protocol/bridging/migrating-to-optics-v2"
+    "title": "Bridge Tokens with Etherscan",
+    "permalink": "/es/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan"
   },
   "next": {
-    "title": "Oracles on Celo",
+    "title": "Oracles on Zsc",
     "permalink": "/es/celo-codebase/protocol/oracles/oracles-on-celo"
   }
 }

@@ -1,27 +1,14 @@
 {
   "unversionedId": "celo-codebase/protocol/identity/index",
   "id": "celo-codebase/protocol/identity/index",
-  "title": "Celo Identity Overview",
-  "description": "How Celo maps wallet addresses to phone numbers to make financial tools more accessible to mobile phone users.",
+  "title": "index",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/identity/index.md",
   "sourceDirName": "celo-codebase/protocol/identity",
-  "slug": "/celo-codebase/protocol/identity",
-  "permalink": "/es/celo-codebase/protocol/identity",
+  "slug": "/celo-codebase/protocol/identity/",
+  "permalink": "/es/celo-codebase/protocol/identity/",
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Celo Identity Overview",
-    "description": "How Celo maps wallet addresses to phone numbers to make financial tools more accessible to mobile phone users.",
-    "slug": "/celo-codebase/protocol/identity"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Full Node Incentives",
-    "permalink": "/es/celo-codebase/protocol/transactions/full-node-incentives"
-  },
-  "next": {
-    "title": "Valora Accounts",
-    "permalink": "/es/celo-codebase/protocol/identity/valora-accounts"
-  }
+  "frontMatter": {}
 }

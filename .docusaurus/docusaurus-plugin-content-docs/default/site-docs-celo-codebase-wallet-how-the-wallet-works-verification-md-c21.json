@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/wallet/how-the-wallet-works/verification",
   "id": "celo-codebase/wallet/how-the-wallet-works/verification",
-  "title": "Celo Wallet Verification",
-  "description": "How the Celo wallet uses phone number verification to map phone number hashses to addresses.",
+  "title": "verification",
+  "description": "",
   "source": "@site/docs/celo-codebase/wallet/how-the-wallet-works/verification.md",
   "sourceDirName": "celo-codebase/wallet/how-the-wallet-works",
   "slug": "/celo-codebase/wallet/how-the-wallet-works/verification",
@@ -10,17 +10,5 @@
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Celo Wallet Verification",
-    "description": "How the Celo wallet uses phone number verification to map phone number hashses to addresses."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Wallet Functionality",
-    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/"
-  },
-  "next": {
-    "title": "Wallet Invitations",
-    "permalink": "/es/celo-codebase/wallet/how-the-wallet-works/invitations"
-  }
+  "frontMatter": {}
 }

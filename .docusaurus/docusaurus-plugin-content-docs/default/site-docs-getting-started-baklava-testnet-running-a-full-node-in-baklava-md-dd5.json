@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "Run a Baklava Full Node",
     "description": "How to get a full node running on the Baklava Network using a prebuilt Docker image."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Run Baklava Testnet Validator on Celo",
-    "permalink": "/es/getting-started/baklava-testnet/running-a-validator-in-baklava"
-  },
-  "next": {
-    "title": "Hosted Nodes",
-    "permalink": "/es/getting-started/hosted-nodes"
   }
 }

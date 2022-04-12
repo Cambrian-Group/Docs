@@ -14,14 +14,5 @@
     "title": "Exchange Celo Assets",
     "description": "How to use the Celo exchange bot to exchange CELO and Celo stable tokens.",
     "slug": "/celo-owner-guide/celo-exchange-bot"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo ReleaseGold",
-    "permalink": "/es/celo-owner-guide/release-gold"
-  },
-  "next": {
-    "title": "Voting for Validator Groups",
-    "permalink": "/es/celo-owner-guide/voting-validators"
   }
 }

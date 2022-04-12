@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "MetaMask Manual Setup on Celo",
     "description": "How to manually add a Celo network to your existing MetaMask wallet."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "MetaMask and Celo",
-    "permalink": "/es/getting-started/wallets/using-metamask-with-celo"
-  },
-  "next": {
-    "title": "MetaMask Programmatic Setup on Celo",
-    "permalink": "/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup"
   }
 }

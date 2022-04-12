@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/transactions/escrow",
   "id": "celo-codebase/protocol/transactions/escrow",
-  "title": "Celo's Escrow Contract",
-  "description": "Introduction to the Celo Escrow contract and how to use it to withdraw, revoke, and reclaim funds.",
+  "title": "escrow",
+  "description": "",
   "source": "@site/docs/celo-codebase/protocol/transactions/escrow.md",
   "sourceDirName": "celo-codebase/protocol/transactions",
   "slug": "/celo-codebase/protocol/transactions/escrow",
@@ -10,17 +10,5 @@
   "editUrl": "https://celo.crowdin.com/celo-docs/es",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "Celo's Escrow Contract",
-    "description": "Introduction to the Celo Escrow contract and how to use it to withdraw, revoke, and reclaim funds."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Celo Gas Pricing",
-    "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing"
-  },
-  "next": {
-    "title": "Celo Encrypted Payment Comments",
-    "permalink": "/es/celo-codebase/protocol/transactions/tx-comment-encryption"
-  }
+  "frontMatter": {}
 }

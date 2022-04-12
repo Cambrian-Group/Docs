@@ -2,7 +2,7 @@
   "unversionedId": "celo-codebase/protocol/consensus/validator-set-differences",
   "id": "celo-codebase/protocol/consensus/validator-set-differences",
   "title": "Validator Set Differences",
-  "description": "How validator sets are elected and managed with the Celo protocol.",
+  "description": "How validator sets are elected and managed with the Zsc protocol.",
   "source": "@site/docs/celo-codebase/protocol/consensus/validator-set-differences.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus/validator-set-differences",
@@ -12,7 +12,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Validator Set Differences",
-    "description": "How validator sets are elected and managed with the Celo protocol."
+    "description": "How validator sets are elected and managed with the Zsc protocol."
   },
   "sidebar": "docs",
   "previous": {

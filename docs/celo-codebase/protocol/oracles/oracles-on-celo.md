@@ -1,14 +1,8 @@
 ---
-title: Oracles on Celo
-description: A list of oracles available on the Celo network.
+title: Oracles on Zsc
+description: A list of oracles available on the Zsc network.
 ---
 
-# Oracles on Celo
+# Oracles on Zsc
 
-This page lists Oracles running on the Celo network.
-
-Here lists all on-chain Oracles:
-
-* [Celo Reserve Oracles](/celo-codebase/protocol/stability/oracles)
-* [RedStone Oracles](redstone-protocol-how-to.md)
-* [Band Protocol](band-protocol-how-to.md)
+This page lists Oracles running on the Zsc network.

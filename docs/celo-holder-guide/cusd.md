@@ -14,7 +14,7 @@ ___
 This guide assumes:
 
 - You have read [Key Management](/validator-guide/key-management/summary.md) on Celo
-- You have installed the [Celo Command Line Interface](/command-line-interface/introduction.md) (Celo CLI)
+
 
 ## Choose a Node
 

@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/proof-of-stake/validator-elections",
   "id": "celo-codebase/protocol/proof-of-stake/validator-elections",
-  "title": "Celo Validator Elections",
-  "description": "Introduction to Celo validator elections and management of groups and votes throughout the process.",
+  "title": "Zsc Validator Elections",
+  "description": "Introduction to Zsc validator elections and management of groups and votes throughout the process.",
   "source": "@site/docs/celo-codebase/protocol/proof-of-stake/validator-elections.md",
   "sourceDirName": "celo-codebase/protocol/proof-of-stake",
   "slug": "/celo-codebase/protocol/proof-of-stake/validator-elections",
@@ -11,16 +11,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Validator Elections",
-    "description": "Introduction to Celo validator elections and management of groups and votes throughout the process."
+    "title": "Zsc Validator Elections",
+    "description": "Introduction to Zsc validator elections and management of groups and votes throughout the process."
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Locked CELO and Voting",
+    "title": "Locked ZTB and Voting",
     "permalink": "/es/celo-codebase/protocol/proof-of-stake/locked-gold"
   },
   "next": {
-    "title": "Celo Epoch Rewards Overview",
-    "permalink": "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards"
+    "title": "Zsc Validator Penalties",
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/penalties"
   }
 }

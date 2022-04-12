@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "MetaMask Programmatic Setup on Celo",
     "description": "How dApp developers can use MetaMask to interact with the Celo network."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "MetaMask Manual Setup on Celo",
-    "permalink": "/es/getting-started/wallets/using-metamask-with-celo/manual-setup"
-  },
-  "next": {
-    "title": "Import Valora Wallet to MetaMask",
-    "permalink": "/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import"
   }
 }

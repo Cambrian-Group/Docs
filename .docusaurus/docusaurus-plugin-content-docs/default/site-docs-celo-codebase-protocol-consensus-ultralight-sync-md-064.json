@@ -2,7 +2,7 @@
   "unversionedId": "celo-codebase/protocol/consensus/ultralight-sync",
   "id": "celo-codebase/protocol/consensus/ultralight-sync",
   "title": "Celo Ultralight Sync",
-  "description": "Introduction to Celo's ultralight sync mode and how it improves the speed of the Celo network.",
+  "description": "Introduction to Zsc's ultralight sync mode and how it improves the speed of the Zsc network.",
   "source": "@site/docs/celo-codebase/protocol/consensus/ultralight-sync.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus/ultralight-sync",
@@ -12,7 +12,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Celo Ultralight Sync",
-    "description": "Introduction to Celo's ultralight sync mode and how it improves the speed of the Celo network."
+    "description": "Introduction to Zsc's ultralight sync mode and how it improves the speed of the Zsc network."
   },
   "sidebar": "docs",
   "previous": {
@@ -20,7 +20,7 @@
     "permalink": "/es/celo-codebase/protocol/consensus/locating-nodes"
   },
   "next": {
-    "title": "Celo Proof of Stake Overview",
+    "title": "Zsc Proof of Stake Overview",
     "permalink": "/es/celo-codebase/protocol/proof-of-stake"
   }
 }

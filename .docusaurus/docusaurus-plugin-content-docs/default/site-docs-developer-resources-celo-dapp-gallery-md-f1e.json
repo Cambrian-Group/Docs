@@ -1,8 +1,8 @@
 {
   "unversionedId": "developer-resources/celo-dapp-gallery",
   "id": "developer-resources/celo-dapp-gallery",
-  "title": "Celo DApp Gallery",
-  "description": "List of featured DApp examples to help you start building on Celo.",
+  "title": "Zsc DApp Gallery",
+  "description": "List of featured DApp examples to help you start building on Zsc.",
   "source": "@site/docs/developer-resources/celo-dapp-gallery.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-guide/celo-dapp-gallery",
@@ -11,14 +11,14 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo DApp Gallery",
-    "description": "List of featured DApp examples to help you start building on Celo.",
+    "title": "Zsc DApp Gallery",
+    "description": "List of featured DApp examples to help you start building on Zsc.",
     "slug": "/developer-guide/celo-dapp-gallery"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Hosted Nodes",
-    "permalink": "/es/getting-started/hosted-nodes"
+    "title": "Run a Zsc Full Node",
+    "permalink": "/es/getting-started/mainnet/running-a-full-node-in-mainnet"
   },
   "next": {
     "title": "ZSC FAQ",

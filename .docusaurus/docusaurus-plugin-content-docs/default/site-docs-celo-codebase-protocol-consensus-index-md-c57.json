@@ -2,7 +2,7 @@
   "unversionedId": "celo-codebase/protocol/consensus/index",
   "id": "celo-codebase/protocol/consensus/index",
   "title": "Consensus Introduction",
-  "description": "Overview of Celo's consensus protocol and network validators.",
+  "description": "Overview of Zsc's consensus protocol and network validators.",
   "source": "@site/docs/celo-codebase/protocol/consensus/index.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus",
@@ -12,12 +12,12 @@
   "version": "current",
   "frontMatter": {
     "title": "Consensus Introduction",
-    "description": "Overview of Celo's consensus protocol and network validators.",
+    "description": "Overview of Zsc's consensus protocol and network validators.",
     "slug": "/celo-codebase/protocol/consensus"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Celo Protocol",
+    "title": "Zsc Protocol",
     "permalink": "/es/celo-codebase/protocol"
   },
   "next": {

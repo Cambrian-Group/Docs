@@ -2,7 +2,7 @@
   "unversionedId": "celo-codebase/protocol/bridging/bridging-native-assets",
   "id": "celo-codebase/protocol/bridging/bridging-native-assets",
   "title": "Bridge Native Assets with Etherscan",
-  "description": "How to bridge native assets from ETH and Matic to Celo with Etherscan.",
+  "description": "How to bridge native assets from ETH and Matic to Zsc with Etherscan.",
   "source": "@site/docs/celo-codebase/protocol/bridging/bridging-native-assets.md",
   "sourceDirName": "celo-codebase/protocol/bridging",
   "slug": "/celo-codebase/protocol/bridging/bridging-native-assets",
@@ -12,7 +12,7 @@
   "version": "current",
   "frontMatter": {
     "title": "Bridge Native Assets with Etherscan",
-    "description": "How to bridge native assets from ETH and Matic to Celo with Etherscan."
+    "description": "How to bridge native assets from ETH and Matic to Zsc with Etherscan."
   },
   "sidebar": "docs",
   "previous": {
