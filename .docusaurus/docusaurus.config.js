@@ -1,6 +1,6 @@
 export default {
-  "title": "ZSC Docs",
-  "tagline": "Documentation for the ZSC Chain",
+  "title": "LMAX Docs",
+  "tagline": "LMAX Group",
   "url": "https://docs.celo.org",
   "baseUrl": "/es/",
   "trailingSlash": false,
@@ -364,7 +364,7 @@ export default {
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/ZSC_Chain"
+              "href": "https://twitter.com/LmaxAsset"
             },
             {
               "label": "Reddit",

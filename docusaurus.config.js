@@ -6,9 +6,9 @@ const { docs, developers } = require("./sidebars");
 const DefaultLocale = "en";
 
 module.exports = {
-  title: "ZSC Docs",
-  tagline: "Documentation for the ZSC Chain",
-  url: "https://docs.celo.org",
+  title: "LMAX Docs",
+  tagline: "LMAX Group",
+  url: "https://docs.lmax.pro",
   baseUrl: "/",
   trailingSlash: false,
   onBrokenLinks: "throw",
@@ -220,19 +220,19 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "About LMAX",
           items: [
             {
-              label: "Home",
-              to: "/",
+              label: "LMAX Group",
+              to: "https://www.lmax.com/",
             },
             {
-              label: "Blog",
-              to: "/blog",
+              label: "LMAX Exchange ",
+              to: "https://www.lmax.com/exchange",
             },
             {
-              label: "ZSC GitHub",
-              href: "https://github.com/zsc-ZTChain",
+              label: "LMAX Digital",
+              href: "https://www.lmaxdigital.com/",
             },
           ],
         },
@@ -244,20 +244,24 @@ module.exports = {
               label: "Contributors",
             },
             {
-              label: "Telegram",
-              href: "https://t.me/joinchat/F8Tdpoi_71E2NTFl",
+              label: "Youtobe",
+              href: "https://www.youtube.com/@LMAXGroup",
             },
             {
               label: "Discord",
-              href: "https://t.me/joinchat/F8Tdpoi_71E2NTFl",
+              href: "https://discord.gg/EhCjWb9A",
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/ZSC_Chain",
+              href: "https://twitter.com/LmaxAsset",
             },
             {
               label: "Reddit",
               href: "https://t.me/joinchat/F8Tdpoi_71E2NTFl",
+            },
+            {
+              label: "Facebook",
+              href: "https://www.facebook.com/dmcsingular",
             },
           ],
         },
@@ -265,25 +269,25 @@ module.exports = {
           title: "Ecosystem",
           items: [
             {
-              label: "ZSC Dao",
-              href: "https://zsc.one/",
+              label: "LMAX Global",
+              href: "https://lmax.pro/",
             },
             {
-              label: "Medium Blog",
-              href: "https://zsc.one/",
+              label: "Ethereum",
+              href: "https://www.ethereum.org/",
             },
             {
-              label: "ZSC Explore",
-              href: "https://en.zscscan.com/",
+              label: "Binance Chain",
+              href: "https://www.binance.com/",
             },
             {
-              label: "ZSC Hub",
-              href: "https://zsc.one/",
+              label: "Polygon",
+              href: "https://polygon.technology/",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ZSC Dao, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} LMAX Group, Inc. Built with Docusaurus.`,
     },
     fathomAnalytics: {
       siteId: "AZMFWALB",

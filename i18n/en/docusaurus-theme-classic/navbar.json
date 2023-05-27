@@ -1,11 +1,11 @@
 {
   "title": {
-    "message": "ZSC Docs",
+    "message": "LMAX  Docs",
     "description": "The title in the navbar"
   },
   "item.label.Celo Home": {
-    "message": "ZSC Home",
-    "description": "Navbar item with label Celo Home"
+    "message": "LMAX Home",
+    "description": "Navbar item with label Lmax Home"
   },
   "item.label.Build": {
     "message": "Build",

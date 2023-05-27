@@ -24,7 +24,7 @@
     "description": "The label of footer link with label=Twitter linking to https://twitter.com/docusaurus"
   },
   "copyright": {
-    "message": "Copyright © 2021 ZSC Dao, Inc. Built with Docusaurus.",
+    "message": "Copyright © 2023 LMAX Group, Inc. Built with Docusaurus.",
     "description": "The footer copyright"
   }
 }

@@ -1,6 +1,6 @@
 const sidebars = {
   docs: [
-    { type: "doc", label: "Welcome to ZSC", id: "welcome" },
+    { type: "doc", label: "Welcome to LMAX", id: "welcome" },
     {
       type: "category",
       label: "Basics",
@@ -24,7 +24,7 @@ const sidebars = {
       items: [
         {
           type: "doc",
-          label: "ZSC Wallets",
+          label: "LMAX Wallets",
           id: "getting-started/wallets/index",
         },
       ],
@@ -42,7 +42,7 @@ const sidebars = {
       items: [
         {
           type: "doc",
-          label: "ZSC Bridges",
+          label: "LMAX Bridges",
           id: "celo-codebase/protocol/bridging/bridging-to-celo",
         },
         {
@@ -52,12 +52,12 @@ const sidebars = {
         },
         {
           type: "doc",
-          label: "Native Assets with Zscscan",
+          label: "Native Assets with LMAX",
           id: "celo-codebase/protocol/bridging/bridging-native-assets",
         },
         {
           type: "doc",
-          label: "Tokens with Zscscan",
+          label: "Tokens with LMAX",
           id: "celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
         },
         {

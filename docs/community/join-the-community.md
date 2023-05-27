@@ -15,7 +15,7 @@ Follow on Social Media to learn more about Zsc.
 
 - [Blog](https://zsc.one/)
 - [GitHub](https://github.com/zsc-ZTChain)
-- [Twitter](https://twitter.com/ZSC_Chain)
+- [Twitter](https://twitter.com/LmaxAsset)
 - [Forum](https://zsc.one/)
 - [Chat](https://zsc.one/)
 - [YouTube](https://zsc.one/)
