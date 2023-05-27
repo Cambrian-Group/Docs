@@ -10,7 +10,7 @@
     "docs": [
       {
         "type": "link",
-        "label": "Welcome to ZSC",
+        "label": "Welcome to LMAX Group",
         "href": "/es/",
         "docId": "welcome"
       },
@@ -1890,7 +1890,7 @@
     },
     "learn/celo-overview": {
       "id": "learn/celo-overview",
-      "title": "Welcome to ZSC",
+      "title": "Welcome to LMAX Group",
       "description": "Celo's mission, vision, and goals for financial prosperity for everyone."
     },
     "learn/celo-protocol": {
@@ -2068,7 +2068,7 @@
     },
     "welcome": {
       "id": "welcome",
-      "title": "Welcome to ZSC",
+      "title": "Welcome to LMAX Group",
       "description": "ZSC's mission is to build a financial system that creates the conditions for prosperity—for everyone.",
       "sidebar": "docs"
     }

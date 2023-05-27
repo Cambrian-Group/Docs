@@ -1,7 +1,7 @@
 {
   "unversionedId": "welcome",
   "id": "welcome",
-  "title": "Welcome to ZSC",
+  "title": "Welcome to LMAX Group",
   "description": "ZSC's mission is to build a financial system that creates the conditions for prosperity—for everyone.",
   "source": "@site/docs/welcome.md",
   "sourceDirName": ".",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Welcome to ZSC",
+    "title": "Welcome to LMAX Group",
     "description": "ZSC's mission is to build a financial system that creates the conditions for prosperity—for everyone.",
     "id": "welcome",
     "slug": "/"

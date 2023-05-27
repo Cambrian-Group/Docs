@@ -3527,7 +3527,7 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Welcome to ZSC",
+                "title": "Welcome to LMAX Group",
                 "permalink": "/"
               },
               "next": {
@@ -3569,7 +3569,7 @@
             {
               "unversionedId": "learn/celo-overview",
               "id": "learn/celo-overview",
-              "title": "Welcome to ZSC",
+              "title": "Welcome to LMAX Group",
               "description": "Celo's mission, vision, and goals for financial prosperity for everyone.",
               "source": "@site/docs/learn/celo-overview.md",
               "sourceDirName": "learn",
@@ -3579,7 +3579,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Welcome to ZSC",
+                "title": "Welcome to LMAX Group",
                 "description": "Celo's mission, vision, and goals for financial prosperity for everyone."
               }
             },
@@ -4299,7 +4299,7 @@
             {
               "unversionedId": "welcome",
               "id": "welcome",
-              "title": "Welcome to ZSC",
+              "title": "Welcome to LMAX Group",
               "description": "ZSC's mission is to build a financial system that creates the conditions for prosperity—for everyone.",
               "source": "@site/docs/welcome.md",
               "sourceDirName": ".",
@@ -4309,7 +4309,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Welcome to ZSC",
+                "title": "Welcome to LMAX Group",
                 "description": "ZSC's mission is to build a financial system that creates the conditions for prosperity—for everyone.",
                 "id": "welcome",
                 "slug": "/"
@@ -4325,7 +4325,7 @@
             "docs": [
               {
                 "type": "doc",
-                "label": "Welcome to ZSC",
+                "label": "Welcome to LMAX Group",
                 "id": "welcome"
               },
               {

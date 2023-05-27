@@ -1,7 +1,7 @@
 {
   "unversionedId": "learn/celo-overview",
   "id": "learn/celo-overview",
-  "title": "Welcome to ZSC",
+  "title": "Welcome to LMAX Group",
   "description": "Celo's mission, vision, and goals for financial prosperity for everyone.",
   "source": "@site/docs/learn/celo-overview.md",
   "sourceDirName": "learn",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Welcome to ZSC",
+    "title": "Welcome to LMAX Group",
     "description": "Celo's mission, vision, and goals for financial prosperity for everyone."
   }
 }

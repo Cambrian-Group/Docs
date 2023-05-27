@@ -1,5 +1,5 @@
 ---
-title: Welcome to ZSC
+title: Welcome to LMAX Group
 description: ZSC's mission is to build a financial system that creates the conditions for prosperity—for everyone.
 id: welcome
 slug: /

@@ -1,9 +1,9 @@
 ---
-title: Welcome to ZSC
+title: Welcome to LMAX Group
 description: Celo's mission, vision, and goals for financial prosperity for everyone.
 ---
 
-# Welcome to ZSC
+# Welcome to LMAX Group
 
 Celo's mission, vision, and goals for financial prosperity for everyone.
 
