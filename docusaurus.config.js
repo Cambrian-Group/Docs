@@ -149,9 +149,9 @@ module.exports = {
       defaultMode: "dark",
     },
     navbar: {
-      title: "ZSC Docs",
+      title: "LMAX Docs",
       logo: {
-        alt: "Celo Logo",
+        alt: "LMAX Logo",
         src: "img/color-logo.png",
       },
       items: [
@@ -160,14 +160,14 @@ module.exports = {
         //     "label": "Basics",
         //     "position": "left"
         // },
-        {
-          to: "developer-guide/overview",
-          label: "Build",
-          position: "left",
-        },
+//         {
+//           to: "developer-guide/overview",
+//           label: "Build",
+//           position: "left",
+//         },
         {
           to: "validator-guide/overview",
-          label: "Validate",
+          label: "Legal",
           position: "left",
         },
         {
@@ -177,7 +177,7 @@ module.exports = {
         },
         {
           to: "/blog",
-          label: "Learn",
+          label: "News",
           position: "left",
         },
         {
