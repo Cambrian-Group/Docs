@@ -6,7 +6,7 @@ id: faqs
 
 # FAQ
 
-Answers to frequently asked questions about Celo.
+Answers to frequently asked questions about LMAX Group.
 
 ---
 
@@ -41,7 +41,5 @@ Answers to frequently asked questions about Celo.
 
 ## 6. Developers
 
-### How is Zsc different from Ethereum?
 
-You can see the key differences between Zsc and Ethereum [here](./developer-guide/celo-for-eth-devs).
 

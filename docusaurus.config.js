@@ -300,14 +300,14 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/celo-org/docs/edit/main/",
+          editUrl: "",
           editUrl: ({ locale, versionDocsDirPath, docPath }) => {
             // Link to Crowdin for French docs
             if (locale !== DefaultLocale) {
-              return `https://celo.crowdin.com/celo-docs/${locale}`;
+              return ``;
             }
             // Link to Github for English docs
-            return `https://github.com/celo-org/docs/edit/main/docs/${docPath}`;
+            return ``;
           },
           routeBasePath: "/",
           remarkPlugins: [
