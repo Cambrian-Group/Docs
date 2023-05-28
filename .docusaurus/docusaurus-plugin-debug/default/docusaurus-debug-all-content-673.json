@@ -3471,8 +3471,8 @@
             {
               "unversionedId": "validator-guide/attestation-service",
               "id": "validator-guide/attestation-service",
-              "title": "Celo Attestation Service",
-              "description": "How to configure, run, and manage an attestation service as a Celo Validator.",
+              "title": "Disclaimers",
+              "description": "Last Updated: May 2023",
               "source": "@site/docs/validator-guide/attestation-service.md",
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/attestation-service",
@@ -3481,159 +3481,20 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Celo Attestation Service",
-                "descriptin": "How to configure, run, and manage an attestation service as a Celo Validator."
+                "title": "Disclaimers",
+                "descriptin": "Lmax Group Disclaimers."
               },
               "sidebar": "validators",
               "previous": {
-                "title": "Celo Validators",
+                "title": "Privacy Policy",
                 "permalink": "/validator-guide/overview"
-              }
-            },
-            {
-              "unversionedId": "validator-guide/celo-foundation-voting-policy",
-              "id": "validator-guide/celo-foundation-voting-policy",
-              "title": "Celo Foundation Voting Policy",
-              "description": "How the Celo Foundation anticipates allocating its votes to validator groups, with special attention to the first allocated groups at the Celo Mainnet release and the months thereafter.",
-              "source": "@site/docs/validator-guide/celo-foundation-voting-policy.md",
-              "sourceDirName": "validator-guide",
-              "slug": "/validator-guide/celo-foundation-voting-policy",
-              "permalink": "/validator-guide/celo-foundation-voting-policy",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Celo Foundation Voting Policy",
-                "description": "How the Celo Foundation anticipates allocating its votes to validator groups, with special attention to the first allocated groups at the Celo Mainnet release and the months thereafter."
-              }
-            },
-            {
-              "unversionedId": "validator-guide/celo-signal",
-              "id": "validator-guide/celo-signal",
-              "title": "Celo Signal",
-              "description": "How to join the mailing list for everything involving the Celo core community and owners who participate in governance.",
-              "source": "@site/docs/validator-guide/celo-signal.md",
-              "sourceDirName": "validator-guide",
-              "slug": "/validator-guide/celo-signal",
-              "permalink": "/validator-guide/celo-signal",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Celo Signal",
-                "description": "How to join the mailing list for everything involving the Celo core community and owners who participate in governance."
-              }
-            },
-            {
-              "unversionedId": "validator-guide/devops-best-practices",
-              "id": "validator-guide/devops-best-practices",
-              "title": "Celo DevOps Best Practices",
-              "description": "Best practices for running cloud infrastructure for Celo nodes and services.",
-              "source": "@site/docs/validator-guide/devops-best-practices.md",
-              "sourceDirName": "validator-guide",
-              "slug": "/validator-guide/devops-best-practices",
-              "permalink": "/validator-guide/devops-best-practices",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Celo DevOps Best Practices",
-                "description": "Best practices for running cloud infrastructure for Celo nodes and services."
-              }
-            },
-            {
-              "unversionedId": "validator-guide/key-management/detailed",
-              "id": "validator-guide/key-management/detailed",
-              "title": "Celo Detailed Role Descriptions",
-              "description": "Detailed description of the various account roles found in the Celo protocol with examples of how to designate an account as playing a particular role.",
-              "source": "@site/docs/validator-guide/key-management/detailed.md",
-              "sourceDirName": "validator-guide/key-management",
-              "slug": "/validator-guide/summary/detailed",
-              "permalink": "/validator-guide/summary/detailed",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Celo Detailed Role Descriptions",
-                "description": "Detailed description of the various account roles found in the Celo protocol with examples of how to designate an account as playing a particular role.",
-                "slug": "/validator-guide/summary/detailed"
-              }
-            },
-            {
-              "unversionedId": "validator-guide/key-management/key-rotation",
-              "id": "validator-guide/key-management/key-rotation",
-              "title": "Celo Validator Signer Key Rotation",
-              "description": "How to manage signer key rotations as a Celo Validator.",
-              "source": "@site/docs/validator-guide/key-management/key-rotation.md",
-              "sourceDirName": "validator-guide/key-management",
-              "slug": "/validator-guide/summary/key-rotation",
-              "permalink": "/validator-guide/summary/key-rotation",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Celo Validator Signer Key Rotation",
-                "description": "How to manage signer key rotations as a Celo Validator.",
-                "slug": "/validator-guide/summary/key-rotation"
-              }
-            },
-            {
-              "unversionedId": "validator-guide/key-management/summary",
-              "id": "validator-guide/key-management/summary",
-              "title": "Celo Key Management Summary",
-              "description": "Introduction to the philosophy and account roles related to key management on Celo.",
-              "source": "@site/docs/validator-guide/key-management/summary.md",
-              "sourceDirName": "validator-guide/key-management",
-              "slug": "/validator-guide/summary",
-              "permalink": "/validator-guide/summary",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Celo Key Management Summary",
-                "description": "Introduction to the philosophy and account roles related to key management on Celo.",
-                "slug": "/validator-guide/summary"
-              }
-            },
-            {
-              "unversionedId": "validator-guide/monitoring",
-              "id": "validator-guide/monitoring",
-              "title": "Celo Monitoring",
-              "description": "Commands, metrics, APIs, and services for monitoring Validators and Proxies.",
-              "source": "@site/docs/validator-guide/monitoring.md",
-              "sourceDirName": "validator-guide",
-              "slug": "/validator-guide/monitoring",
-              "permalink": "/validator-guide/monitoring",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Celo Monitoring",
-                "description": "Commands, metrics, APIs, and services for monitoring Validators and Proxies."
-              }
-            },
-            {
-              "unversionedId": "validator-guide/node-upgrades",
-              "id": "validator-guide/node-upgrades",
-              "title": "Upgrade a Celo Node",
-              "description": "How to upgrade to the newest available version of a Celo node.",
-              "source": "@site/docs/validator-guide/node-upgrades.md",
-              "sourceDirName": "validator-guide",
-              "slug": "/validator-guide/node-upgrades",
-              "permalink": "/validator-guide/node-upgrades",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Upgrade a Celo Node",
-                "description": "How to upgrade to the newest available version of a Celo node."
               }
             },
             {
               "unversionedId": "validator-guide/overview",
               "id": "validator-guide/overview",
-              "title": "Celo Validators",
-              "description": "Collection of resources to support Validators on the Celo network.",
+              "title": "Privacy Policy",
+              "description": "Lmax Group Privacy Policy.",
               "source": "@site/docs/validator-guide/overview.md",
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/overview",
@@ -3642,64 +3503,13 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Celo Validators",
-                "description": "Collection of resources to support Validators on the Celo network."
+                "title": "Privacy Policy",
+                "description": "Lmax Group Privacy Policy."
               },
               "sidebar": "validators",
               "next": {
-                "title": "Celo Attestation Service",
+                "title": "Disclaimers",
                 "permalink": "/validator-guide/attestation-service"
-              }
-            },
-            {
-              "unversionedId": "validator-guide/proxy",
-              "id": "validator-guide/proxy",
-              "title": "Running Proxies on Celo",
-              "description": "How to ensure Validator uptime by running proxy nodes.",
-              "source": "@site/docs/validator-guide/proxy.md",
-              "sourceDirName": "validator-guide",
-              "slug": "/validator-guide/proxy",
-              "permalink": "/validator-guide/proxy",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Running Proxies on Celo",
-                "description": "How to ensure Validator uptime by running proxy nodes."
-              }
-            },
-            {
-              "unversionedId": "validator-guide/securing-nodes-and-services",
-              "id": "validator-guide/securing-nodes-and-services",
-              "title": "Run Secure Celo Nodes and Services",
-              "description": "Recommendations for running secure Celo nodes and services.",
-              "source": "@site/docs/validator-guide/securing-nodes-and-services.md",
-              "sourceDirName": "validator-guide",
-              "slug": "/validator-guide/securing-nodes-and-services",
-              "permalink": "/validator-guide/securing-nodes-and-services",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Run Secure Celo Nodes and Services",
-                "description": "Recommendations for running secure Celo nodes and services."
-              }
-            },
-            {
-              "unversionedId": "validator-guide/validator-explorer",
-              "id": "validator-guide/validator-explorer",
-              "title": "Validator Explorer",
-              "description": "How to use the Validator Explorer to view Validator performance.",
-              "source": "@site/docs/validator-guide/validator-explorer.md",
-              "sourceDirName": "validator-guide",
-              "slug": "/validator-guide/validator-explorer",
-              "permalink": "/validator-guide/validator-explorer",
-              "editUrl": "",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Validator Explorer",
-                "description": "How to use the Validator Explorer to view Validator performance."
               }
             },
             {
@@ -3987,12 +3797,12 @@
             "validators": [
               {
                 "type": "doc",
-                "label": "Overview",
+                "label": "privacy Policy",
                 "id": "validator-guide/overview"
               },
               {
                 "type": "doc",
-                "label": "Attestation Service",
+                "label": "Disclaimers",
                 "id": "validator-guide/attestation-service"
               }
             ],

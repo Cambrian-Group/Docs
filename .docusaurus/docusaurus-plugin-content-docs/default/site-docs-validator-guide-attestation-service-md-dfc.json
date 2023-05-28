@@ -1,8 +1,8 @@
 {
   "unversionedId": "validator-guide/attestation-service",
   "id": "validator-guide/attestation-service",
-  "title": "Celo Attestation Service",
-  "description": "How to configure, run, and manage an attestation service as a Celo Validator.",
+  "title": "Disclaimers",
+  "description": "Last Updated: May 2023",
   "source": "@site/docs/validator-guide/attestation-service.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/attestation-service",
@@ -11,12 +11,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Attestation Service",
-    "descriptin": "How to configure, run, and manage an attestation service as a Celo Validator."
+    "title": "Disclaimers",
+    "descriptin": "Lmax Group Disclaimers."
   },
   "sidebar": "validators",
   "previous": {
-    "title": "Celo Validators",
+    "title": "Privacy Policy",
     "permalink": "/validator-guide/overview"
   }
 }

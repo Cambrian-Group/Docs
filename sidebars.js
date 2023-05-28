@@ -185,13 +185,13 @@ const sidebars = {
   ],
 
   // ######################################
-  // validate
+  // Legal
   // ######################################
   validators: [
-    { type: "doc", label: "Overview", id: "validator-guide/overview" },
+    { type: "doc", label: "privacy Policy", id: "validator-guide/overview" },
     {
       type: "doc",
-      label: "Attestation Service",
+      label: "Disclaimers",
       id: "validator-guide/attestation-service",
     },
   ],

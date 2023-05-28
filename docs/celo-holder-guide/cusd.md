@@ -9,11 +9,6 @@ Access and account management for holding, exchanging, or sending Celo Dollars (
 
 ___
 
-## Prerequisites
-
-This guide assumes:
-
-- You have read [Key Management](/validator-guide/key-management/summary.md) on Celo
 
 
 ## Choose a Node

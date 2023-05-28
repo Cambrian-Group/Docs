@@ -167,7 +167,7 @@ module.exports = {
         },
         {
           to: "validator-guide/overview",
-          label: "Validate",
+          label: "Legal",
           position: "left",
         },
         {
@@ -177,7 +177,7 @@ module.exports = {
         },
         {
           to: "/blog",
-          label: "Learn",
+          label: "News",
           position: "left",
         },
         {

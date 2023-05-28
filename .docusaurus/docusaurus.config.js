@@ -277,7 +277,7 @@ export default {
         },
         {
           "to": "validator-guide/overview",
-          "label": "Validate",
+          "label": "Legal",
           "position": "left"
         },
         {
@@ -287,7 +287,7 @@ export default {
         },
         {
           "to": "/blog",
-          "label": "Learn",
+          "label": "News",
           "position": "left"
         },
         {

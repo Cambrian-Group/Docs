@@ -127,7 +127,7 @@
   "/search-06a": {
     "component": "component---users-youth-documents-code-docs-node-modules-docusaurus-theme-search-algolia-lib-theme-search-page-index-js-955-4fc"
   },
-  "/-0a8": {
+  "/-456": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -883,53 +883,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---validator-guide-attestation-servicedfc-964"
   },
-  "/validator-guide/celo-foundation-voting-policy-1d3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-celo-foundation-voting-policyd-62-85f"
-  },
-  "/validator-guide/celo-signal-0aa": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-celo-signal-712-128"
-  },
-  "/validator-guide/devops-best-practices-2d9": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-devops-best-practicesabd-8a2"
-  },
-  "/validator-guide/monitoring-2f6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-monitoringabc-82d"
-  },
-  "/validator-guide/node-upgrades-c58": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-node-upgradesde-8-fd8"
-  },
   "/validator-guide/overview-972": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---validator-guide-overview-1-b-3-f62"
-  },
-  "/validator-guide/proxy-c1c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-proxy-641-0f4"
-  },
-  "/validator-guide/securing-nodes-and-services-823": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-securing-nodes-and-servicesc-94-f92"
-  },
-  "/validator-guide/summary-2c1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-summary-469-86c"
-  },
-  "/validator-guide/summary/detailed-b0e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-summary-detailed-807-c16"
-  },
-  "/validator-guide/summary/key-rotation-dc2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-summary-key-rotationd-99-4ae"
-  },
-  "/validator-guide/validator-explorer-c6f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---validator-guide-validator-explorer-801-040"
   },
   "/why-celo-b26": {
     "component": "component---theme-doc-item-178-a40",

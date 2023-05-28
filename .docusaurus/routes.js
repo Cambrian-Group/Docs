@@ -110,7 +110,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','0a8'),
+    component: ComponentCreator('/','456'),
     routes: [
       {
         path: '/',
@@ -1095,65 +1095,10 @@ export default [
         'sidebar': "validators"
       },
       {
-        path: '/validator-guide/celo-foundation-voting-policy',
-        component: ComponentCreator('/validator-guide/celo-foundation-voting-policy','1d3'),
-        exact: true
-      },
-      {
-        path: '/validator-guide/celo-signal',
-        component: ComponentCreator('/validator-guide/celo-signal','0aa'),
-        exact: true
-      },
-      {
-        path: '/validator-guide/devops-best-practices',
-        component: ComponentCreator('/validator-guide/devops-best-practices','2d9'),
-        exact: true
-      },
-      {
-        path: '/validator-guide/monitoring',
-        component: ComponentCreator('/validator-guide/monitoring','2f6'),
-        exact: true
-      },
-      {
-        path: '/validator-guide/node-upgrades',
-        component: ComponentCreator('/validator-guide/node-upgrades','c58'),
-        exact: true
-      },
-      {
         path: '/validator-guide/overview',
         component: ComponentCreator('/validator-guide/overview','972'),
         exact: true,
         'sidebar': "validators"
-      },
-      {
-        path: '/validator-guide/proxy',
-        component: ComponentCreator('/validator-guide/proxy','c1c'),
-        exact: true
-      },
-      {
-        path: '/validator-guide/securing-nodes-and-services',
-        component: ComponentCreator('/validator-guide/securing-nodes-and-services','823'),
-        exact: true
-      },
-      {
-        path: '/validator-guide/summary',
-        component: ComponentCreator('/validator-guide/summary','2c1'),
-        exact: true
-      },
-      {
-        path: '/validator-guide/summary/detailed',
-        component: ComponentCreator('/validator-guide/summary/detailed','b0e'),
-        exact: true
-      },
-      {
-        path: '/validator-guide/summary/key-rotation',
-        component: ComponentCreator('/validator-guide/summary/key-rotation','dc2'),
-        exact: true
-      },
-      {
-        path: '/validator-guide/validator-explorer',
-        component: ComponentCreator('/validator-guide/validator-explorer','c6f'),
-        exact: true
       },
       {
         path: '/why-celo',
