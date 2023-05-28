@@ -6,21 +6,12 @@
   "source": "@site/docs/developer-resources/testnet-wallet.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-resources/testnet-wallet",
-  "permalink": "/es/developer-resources/testnet-wallet",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-resources/testnet-wallet",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Setup Testnet Wallets",
     "description": "How to create and fund testnet wallets to use for developing Celo dApps."
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo Local Envorinment using Windows",
-    "permalink": "/es/developer-guide/start/develop-on-windows"
-  },
-  "next": {
-    "title": "Celo Wallet",
-    "permalink": "/es/celo-codebase/wallet"
   }
 }

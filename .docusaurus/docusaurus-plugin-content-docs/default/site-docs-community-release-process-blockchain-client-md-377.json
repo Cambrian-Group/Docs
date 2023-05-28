@@ -6,21 +6,12 @@
   "source": "@site/docs/community/release-process/blockchain-client.md",
   "sourceDirName": "community/release-process",
   "slug": "/community/release-process/blockchain-client",
-  "permalink": "/es/community/release-process/blockchain-client",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/community/release-process/blockchain-client",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Blockchain Client Release Process",
     "description": "Details of the release process for updating the blockchain client on the Celo platform."
-  },
-  "sidebar": "contributors",
-  "previous": {
-    "title": "Celo Smart Contracts Release Process",
-    "permalink": "/es/community/release-process/smart-contracts"
-  },
-  "next": {
-    "title": "Celo Release Process for CeloCLI and ContractKit",
-    "permalink": "/es/community/release-process/base-cli-contractkit-dappkit-utils"
   }
 }

@@ -6,21 +6,12 @@
   "source": "@site/docs/developer-resources/contractkit/usage.md",
   "sourceDirName": "developer-resources/contractkit",
   "slug": "/developer-guide/contractkit/usage",
-  "permalink": "/es/developer-guide/contractkit/usage",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/contractkit/usage",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Using the Kit",
     "slug": "/developer-guide/contractkit/usage"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo ContractKit Setup",
-    "permalink": "/es/developer-guide/contractkit/setup"
-  },
-  "next": {
-    "title": "Using Web3 from ContractKit with Celo",
-    "permalink": "/es/developer-guide/contractkit/notes-web3-with-contractkit"
   }
 }

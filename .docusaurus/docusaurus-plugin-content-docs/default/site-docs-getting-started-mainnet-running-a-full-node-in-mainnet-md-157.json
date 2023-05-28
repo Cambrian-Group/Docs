@@ -6,8 +6,8 @@
   "source": "@site/docs/getting-started/mainnet/running-a-full-node-in-mainnet.md",
   "sourceDirName": "getting-started/mainnet",
   "slug": "/getting-started/mainnet/running-a-full-node-in-mainnet",
-  "permalink": "/es/getting-started/mainnet/running-a-full-node-in-mainnet",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/getting-started/mainnet/running-a-full-node-in-mainnet",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Mainnet",
-    "permalink": "/es/getting-started/choosing-a-network"
+    "title": "支持网络",
+    "permalink": "/getting-started/choosing-a-network"
   },
   "next": {
     "title": "Zsc DApp Gallery",
-    "permalink": "/es/developer-guide/celo-dapp-gallery"
+    "permalink": "/developer-guide/celo-dapp-gallery"
   }
 }

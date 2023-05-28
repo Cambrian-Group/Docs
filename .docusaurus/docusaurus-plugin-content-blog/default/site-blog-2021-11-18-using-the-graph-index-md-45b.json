@@ -1,21 +1,21 @@
 {
-  "permalink": "/es/blog/using-the-graph",
+  "permalink": "/blog/using-the-graph",
   "source": "@site/blog/2021-11-18-using-the-graph/index.md",
   "title": "Using the Graph w/ Celo",
   "description": "Learn about what the Graph is and how to use it in your Celo DApp",
   "date": "2021-11-18T00:00:00.000Z",
-  "formattedDate": "18 de noviembre de 2021",
+  "formattedDate": "November 18, 2021",
   "tags": [
     {
       "label": "The Graph",
-      "permalink": "/es/blog/tags/the-graph"
+      "permalink": "/blog/tags/the-graph"
     },
     {
       "label": "DApps",
-      "permalink": "/es/blog/tags/d-apps"
+      "permalink": "/blog/tags/d-apps"
     }
   ],
-  "readingTime": 4.496666666666667,
+  "readingTime": 0.6833333333333333,
   "truncated": true,
   "authors": [
     {
@@ -27,11 +27,11 @@
     }
   ],
   "prevItem": {
-    "title": "Demos with ObservableHQ",
-    "permalink": "/es/blog/observable-intro"
+    "title": "Verifying Contracts with Hardhat",
+    "permalink": "/blog/hardhat-deploy-verify"
   },
   "nextItem": {
-    "title": "Code Playground -- Metamask",
-    "permalink": "/es/blog/code-metamask"
+    "title": "Demos with ObservableHQ",
+    "permalink": "/blog/observable-intro"
   }
 }

@@ -6,21 +6,12 @@
   "source": "@site/docs/community/code-contributors.md",
   "sourceDirName": "community",
   "slug": "/community/code-contributors",
-  "permalink": "/es/community/code-contributors",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/community/code-contributors",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Code Contributors",
     "description": "How to contribute to the Celo ecosystem as a member of the community."
-  },
-  "sidebar": "contributors",
-  "previous": {
-    "title": "Celo Contributor Guidelines",
-    "permalink": "/es/community/guidelines"
-  },
-  "next": {
-    "title": "Celo Translators",
-    "permalink": "/es/community/translation-contributors"
   }
 }

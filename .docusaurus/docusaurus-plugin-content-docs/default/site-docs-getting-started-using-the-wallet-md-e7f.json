@@ -6,8 +6,8 @@
   "source": "@site/docs/getting-started/using-the-wallet.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/using-the-wallet",
-  "permalink": "/es/getting-started/using-the-wallet",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/getting-started/using-the-wallet",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -15,14 +15,5 @@
     "description": "How to set up and use the Alfajores Testnet Celo Wallet.",
     "id": "using-the-wallet",
     "slug": "/getting-started/using-the-wallet"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "intro",
-    "permalink": "/es/celo-codebase/wallet/intro"
-  },
-  "next": {
-    "title": "Celo Developer Tools",
-    "permalink": "/es/learn/developer-tools"
   }
 }

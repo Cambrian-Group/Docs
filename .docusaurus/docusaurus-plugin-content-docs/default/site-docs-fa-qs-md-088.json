@@ -6,8 +6,8 @@
   "source": "@site/docs/FAQs.md",
   "sourceDirName": ".",
   "slug": "/faqs",
-  "permalink": "/es/faqs",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/faqs",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,6 +18,6 @@
   "sidebar": "docs",
   "previous": {
     "title": "Zsc DApp Gallery",
-    "permalink": "/es/developer-guide/celo-dapp-gallery"
+    "permalink": "/developer-guide/celo-dapp-gallery"
   }
 }

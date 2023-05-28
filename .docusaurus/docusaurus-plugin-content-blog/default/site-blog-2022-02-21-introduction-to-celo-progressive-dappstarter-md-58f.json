@@ -1,33 +1,33 @@
 {
-  "permalink": "/es/blog/2022/02/21/introduction-to-celo-progressive-dappstarter",
+  "permalink": "/blog/2022/02/21/introduction-to-celo-progressive-dappstarter",
   "source": "@site/blog/2022-02-21-introduction-to-celo-progressive-dappstarter.md",
   "title": "Introduction to Celo Progressive DAppstarter",
   "description": "Quickly develop full-stack progressive web applications on Celo.",
   "date": "2022-02-21T00:00:00.000Z",
-  "formattedDate": "21 de febrero de 2022",
+  "formattedDate": "February 21, 2022",
   "tags": [
     {
       "label": "react",
-      "permalink": "/es/blog/tags/react"
+      "permalink": "/blog/tags/react"
     },
     {
       "label": "material-ui",
-      "permalink": "/es/blog/tags/material-ui"
+      "permalink": "/blog/tags/material-ui"
     },
     {
       "label": "dappstarter",
-      "permalink": "/es/blog/tags/dappstarter"
+      "permalink": "/blog/tags/dappstarter"
     },
     {
       "label": "progressive",
-      "permalink": "/es/blog/tags/progressive"
+      "permalink": "/blog/tags/progressive"
     }
   ],
-  "readingTime": 2.9466666666666668,
-  "truncated": true,
+  "readingTime": 0.06333333333333334,
+  "truncated": false,
   "authors": [],
   "nextItem": {
     "title": "Celo Valora + WalletConnect v1",
-    "permalink": "/es/blog/2022/01/08/valora-wc-v1"
+    "permalink": "/blog/2022/01/08/valora-wc-v1"
   }
 }

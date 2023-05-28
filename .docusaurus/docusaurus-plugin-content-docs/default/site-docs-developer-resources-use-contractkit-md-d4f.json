@@ -6,21 +6,12 @@
   "source": "@site/docs/developer-resources/use-contractkit.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-resources/use-contractkit",
-  "permalink": "/es/developer-resources/use-contractkit",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-resources/use-contractkit",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "use-contractkit",
     "description": "The easiest way to access [ContractKit](https://www.npmjs.com/package/@celo/contractkit) in your React applications."
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Migrating to ContractKit v1.0",
-    "permalink": "/es/developer-guide/contractkit/migrating-to-contractkit-v1"
-  },
-  "next": {
-    "title": "Celo Ethers.js Wrapper",
-    "permalink": "/es/developer-resources/ethers-js-wrapper"
   }
 }

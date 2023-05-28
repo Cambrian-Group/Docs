@@ -6,21 +6,12 @@
   "source": "@site/docs/developer-resources/deploy-dapp.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-resources/deploy-dapp",
-  "permalink": "/es/developer-resources/deploy-dapp",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-resources/deploy-dapp",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Deploy on Celo",
     "description": "How to deploy a dApp on Celo."
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo EVM Compatible Tooling",
-    "permalink": "/es/learn/evm-compatible-tooling"
-  },
-  "next": {
-    "title": "Deploy with Remix",
-    "permalink": "/es/developer-resources/deploy-remix"
   }
 }

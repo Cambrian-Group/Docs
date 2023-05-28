@@ -6,8 +6,8 @@
   "source": "@site/docs/celo-holder-guide/owners.md",
   "sourceDirName": "celo-holder-guide",
   "slug": "/celo-holder-guide/owners",
-  "permalink": "/es/celo-holder-guide/owners",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/celo-holder-guide/owners",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Digital Wallets for Celo",
-    "permalink": "/es/getting-started/wallets"
+    "permalink": "/getting-started/wallets"
   },
   "next": {
     "title": "Zsc Bridges",
-    "permalink": "/es/celo-codebase/protocol/bridging/bridging-to-celo"
+    "permalink": "/celo-codebase/protocol/bridging/bridging-to-celo"
   }
 }

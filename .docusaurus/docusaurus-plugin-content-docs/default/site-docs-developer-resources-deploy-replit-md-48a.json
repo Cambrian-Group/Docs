@@ -6,21 +6,12 @@
   "source": "@site/docs/developer-resources/deploy-replit.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-resources/deploy-replit",
-  "permalink": "/es/developer-resources/deploy-replit",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-resources/deploy-replit",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Deploy with Replit",
     "description": "How to deploy a smart contract to Celo testnet, mainnet, or a local network using Replit."
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Deploy with Hardhat",
-    "permalink": "/es/developer-resources/deploy-hardhat"
-  },
-  "next": {
-    "title": "Integrate with Celo",
-    "permalink": "/es/developer-guide/integrations"
   }
 }

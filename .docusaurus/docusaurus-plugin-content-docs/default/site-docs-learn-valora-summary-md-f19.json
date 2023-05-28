@@ -6,21 +6,12 @@
   "source": "@site/docs/learn/valora-summary.md",
   "sourceDirName": "learn",
   "slug": "/learn/valora-summary",
-  "permalink": "/es/learn/valora-summary",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/valora-summary",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Valora",
     "description": "Summary of Valora and the value it provides to the community."
-  },
-  "sidebar": "contributors",
-  "previous": {
-    "title": "Celo Protocol",
-    "permalink": "/es/learn/celo-protocol-summary"
-  },
-  "next": {
-    "title": "Celo",
-    "permalink": "/es/learn/CELO-coin-summary"
   }
 }

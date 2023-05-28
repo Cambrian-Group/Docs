@@ -6,17 +6,12 @@
   "source": "@site/docs/learn/celo-resources.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-resources",
-  "permalink": "/es/learn/celo-resources",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/celo-resources",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Resources",
     "description": "Curated collection of Celo resources for developers, designers, dreamers, and doers."
-  },
-  "sidebar": "contributors",
-  "previous": {
-    "title": "Platform-Native Stablecoins (cUSD, cEUR)",
-    "permalink": "/es/learn/platform-native-stablecoins-summary"
   }
 }

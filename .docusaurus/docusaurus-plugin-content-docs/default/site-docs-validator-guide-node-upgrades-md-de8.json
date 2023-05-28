@@ -6,21 +6,12 @@
   "source": "@site/docs/validator-guide/node-upgrades.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/node-upgrades",
-  "permalink": "/es/validator-guide/node-upgrades",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/validator-guide/node-upgrades",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Upgrade a Celo Node",
     "description": "How to upgrade to the newest available version of a Celo node."
-  },
-  "sidebar": "validators",
-  "previous": {
-    "title": "Celo DevOps Best Practices",
-    "permalink": "/es/validator-guide/devops-best-practices"
-  },
-  "next": {
-    "title": "Running Proxies on Celo",
-    "permalink": "/es/validator-guide/proxy"
   }
 }

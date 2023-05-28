@@ -1,25 +1,25 @@
 {
-  "permalink": "/es/blog/developer-guide/start/hello-contract-remote-node",
+  "permalink": "/blog/developer-guide/start/hello-contract-remote-node",
   "source": "@site/blog/2022-01-03-hello-contract-remote-node.md",
   "title": "Deploy and Interact with Contracts (Remotely)",
   "description": "How to deploy and interact your own smart contracts using a remote node.",
   "date": "2022-01-03T00:00:00.000Z",
-  "formattedDate": "3 de enero de 2022",
+  "formattedDate": "January 3, 2022",
   "tags": [
     {
       "label": "smart contract",
-      "permalink": "/es/blog/tags/smart-contract"
+      "permalink": "/blog/tags/smart-contract"
     },
     {
       "label": "remote",
-      "permalink": "/es/blog/tags/remote"
+      "permalink": "/blog/tags/remote"
     },
     {
       "label": "deploy",
-      "permalink": "/es/blog/tags/deploy"
+      "permalink": "/blog/tags/deploy"
     }
   ],
-  "readingTime": 5.1,
+  "readingTime": 0.29,
   "truncated": true,
   "authors": [
     {
@@ -32,10 +32,10 @@
   ],
   "prevItem": {
     "title": "Deploy & Mint a Token",
-    "permalink": "/es/blog/2022/01/04/no-code-erc20"
+    "permalink": "/blog/2022/01/04/no-code-erc20"
   },
   "nextItem": {
     "title": "Deploy a Contract on Celo (local node)",
-    "permalink": "/es/blog/developer-guide/start/hellocontracts"
+    "permalink": "/blog/developer-guide/start/hellocontracts"
   }
 }

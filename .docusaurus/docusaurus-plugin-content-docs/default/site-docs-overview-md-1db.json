@@ -6,8 +6,8 @@
   "source": "@site/docs/overview.md",
   "sourceDirName": ".",
   "slug": "/overview",
-  "permalink": "/es/overview",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/overview",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {

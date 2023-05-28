@@ -6,8 +6,8 @@
   "source": "@site/docs/developer-resources/start.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-guide/start",
-  "permalink": "/es/developer-guide/start",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/start",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {

@@ -6,8 +6,8 @@
   "source": "@site/docs/developer-resources/using-mac.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-resources/using-mac",
-  "permalink": "/es/developer-resources/using-mac",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-resources/using-mac",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "developers",
   "previous": {
     "title": "Celo Developers Overview",
-    "permalink": "/es/developer-guide/overview"
+    "permalink": "/developer-guide/overview"
   },
   "next": {
     "title": "Celo Local Envorinment using Windows",
-    "permalink": "/es/developer-guide/start/develop-on-windows"
+    "permalink": "/developer-guide/start/develop-on-windows"
   }
 }

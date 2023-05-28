@@ -6,22 +6,13 @@
   "source": "@site/docs/developer-resources/dappkit/index.md",
   "sourceDirName": "developer-resources/dappkit",
   "slug": "/developer-guide/dappkit",
-  "permalink": "/es/developer-guide/dappkit",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/dappkit",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo DAppKit",
     "description": "Introduction to DAppKit and resources to help you gets started.",
     "slug": "/developer-guide/dappkit"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "WalletConnect",
-    "permalink": "/es/learn/walletconnect"
-  },
-  "next": {
-    "title": "Celo DAppKit Setup",
-    "permalink": "/es/developer-guide/dappkit/setup"
   }
 }

@@ -6,21 +6,12 @@
   "source": "@site/docs/learn/celo-protocol-summary.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-protocol-summary",
-  "permalink": "/es/learn/celo-protocol-summary",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/celo-protocol-summary",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Protocol",
     "description": "Summary of the Celo Protocol and the value it provides to the community."
-  },
-  "sidebar": "contributors",
-  "previous": {
-    "title": "Celo",
-    "permalink": "/es/learn/celo-summary"
-  },
-  "next": {
-    "title": "Valora",
-    "permalink": "/es/learn/valora-summary"
   }
 }

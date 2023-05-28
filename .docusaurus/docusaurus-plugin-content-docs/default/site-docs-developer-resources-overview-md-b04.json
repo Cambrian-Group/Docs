@@ -6,8 +6,8 @@
   "source": "@site/docs/developer-resources/overview.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-guide/overview",
-  "permalink": "/es/developer-guide/overview",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/overview",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,6 +18,6 @@
   "sidebar": "developers",
   "next": {
     "title": "Celo Local Development Environment Using Mac",
-    "permalink": "/es/developer-resources/using-mac"
+    "permalink": "/developer-resources/using-mac"
   }
 }

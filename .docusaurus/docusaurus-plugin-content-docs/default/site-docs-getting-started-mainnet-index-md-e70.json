@@ -6,8 +6,8 @@
   "source": "@site/docs/getting-started/mainnet/index.md",
   "sourceDirName": "getting-started/mainnet",
   "slug": "/getting-started/mainnet/",
-  "permalink": "/es/getting-started/mainnet/",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/getting-started/mainnet/",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {}

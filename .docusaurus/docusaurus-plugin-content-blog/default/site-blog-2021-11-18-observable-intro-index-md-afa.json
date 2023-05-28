@@ -1,18 +1,18 @@
 {
-  "permalink": "/es/blog/observable-intro",
+  "permalink": "/blog/observable-intro",
   "source": "@site/blog/2021-11-18-observable-intro/index.md",
   "title": "Demos with ObservableHQ",
   "description": "Learn more about Observable notebooks and how they can be used in a blog",
   "date": "2021-11-18T00:00:00.000Z",
-  "formattedDate": "18 de noviembre de 2021",
+  "formattedDate": "November 18, 2021",
   "tags": [
     {
       "label": "observable",
-      "permalink": "/es/blog/tags/observable"
+      "permalink": "/blog/tags/observable"
     }
   ],
-  "readingTime": 1.98,
-  "truncated": true,
+  "readingTime": 0.27666666666666667,
+  "truncated": false,
   "authors": [
     {
       "name": "Josh Crites",
@@ -23,11 +23,11 @@
     }
   ],
   "prevItem": {
-    "title": "Verifying Contracts with Hardhat",
-    "permalink": "/es/blog/hardhat-deploy-verify"
+    "title": "Using the Graph w/ Celo",
+    "permalink": "/blog/using-the-graph"
   },
   "nextItem": {
-    "title": "Using the Graph w/ Celo",
-    "permalink": "/es/blog/using-the-graph"
+    "title": "Code Playground -- Metamask",
+    "permalink": "/blog/code-metamask"
   }
 }

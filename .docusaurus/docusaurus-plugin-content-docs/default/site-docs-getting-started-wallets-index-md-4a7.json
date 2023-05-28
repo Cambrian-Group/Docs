@@ -6,8 +6,8 @@
   "source": "@site/docs/getting-started/wallets/index.md",
   "sourceDirName": "getting-started/wallets",
   "slug": "/getting-started/wallets",
-  "permalink": "/es/getting-started/wallets",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/getting-started/wallets",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Glossary",
-    "permalink": "/es/getting-started/glossary"
+    "permalink": "/getting-started/glossary"
   },
   "next": {
     "title": "Get ZTB",
-    "permalink": "/es/celo-holder-guide/owners"
+    "permalink": "/celo-holder-guide/owners"
   }
 }

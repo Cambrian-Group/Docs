@@ -6,8 +6,8 @@
   "source": "@site/docs/developer-resources/walkthroughs/web-dapp.md",
   "sourceDirName": "developer-resources/walkthroughs",
   "slug": "/developer-guide/start/web-dapp",
-  "permalink": "/es/developer-guide/start/web-dapp",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/start/web-dapp",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {

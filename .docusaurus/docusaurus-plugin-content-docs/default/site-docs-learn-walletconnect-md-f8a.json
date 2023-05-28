@@ -6,20 +6,11 @@
   "source": "@site/docs/learn/walletconnect.md",
   "sourceDirName": "learn",
   "slug": "/learn/walletconnect",
-  "permalink": "/es/learn/walletconnect",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/walletconnect",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "WalletConnect"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo Ethers.js Wrapper",
-    "permalink": "/es/developer-resources/ethers-js-wrapper"
-  },
-  "next": {
-    "title": "Celo DAppKit",
-    "permalink": "/es/developer-guide/dappkit"
   }
 }

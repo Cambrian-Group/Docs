@@ -181,26 +181,26 @@ module.exports = {
           position: "left",
         },
         {
-          to: "https://medium.com/celoorg",
+          to: "https://www.lmax.com/press-centre",
           label: "Blog",
           position: "right",
         },
-        {
-          type: "localeDropdown",
-          position: "right",
-          dropdownItemsAfter: [
-            {
-              to: "https://celo.crowdin.com/",
-              label: "Help us translate",
-            },
-          ],
-        },
-        {
-          href: "https://github.com/celo-org",
-          position: "right",
-          className: "header-github-link",
-          "aria-label": "GitHub repository",
-        },
+        // {
+        //   type: "localeDropdown",
+        //   position: "right",
+        //   dropdownItemsAfter: [
+        //     {
+        //       to: "https://celo.crowdin.com/",
+        //       label: "Help us translate",
+        //     },
+        //   ],
+        // },
+        // {
+        //   href: "https://github.com/celo-org",
+        //   position: "right",
+        //   className: "header-github-link",
+        //   "aria-label": "GitHub repository",
+        // },
       ],
     },
     gtag: {

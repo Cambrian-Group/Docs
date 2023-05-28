@@ -6,21 +6,12 @@
   "source": "@site/docs/learn/CELO-coin-summary.md",
   "sourceDirName": "learn",
   "slug": "/learn/CELO-coin-summary",
-  "permalink": "/es/learn/CELO-coin-summary",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/CELO-coin-summary",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo",
     "description": "Summary of CELO and the value it provides to the community."
-  },
-  "sidebar": "contributors",
-  "previous": {
-    "title": "Valora",
-    "permalink": "/es/learn/valora-summary"
-  },
-  "next": {
-    "title": "Platform-Native Stablecoins (cUSD, cEUR)",
-    "permalink": "/es/learn/platform-native-stablecoins-summary"
   }
 }

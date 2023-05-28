@@ -6,21 +6,12 @@
   "source": "@site/docs/community/CIP-contributors.md",
   "sourceDirName": "community",
   "slug": "/community/CIP-contributors",
-  "permalink": "/es/community/CIP-contributors",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/community/CIP-contributors",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Community Improvement Proposals",
     "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone."
-  },
-  "sidebar": "contributors",
-  "previous": {
-    "title": "Celo Technical Writers",
-    "permalink": "/es/community/documentation-contributors"
-  },
-  "next": {
-    "title": "Code of Conduct",
-    "permalink": "/es/community/code-of-conduct"
   }
 }

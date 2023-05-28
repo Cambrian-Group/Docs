@@ -6,8 +6,8 @@
   "source": "@site/docs/validator-guide/attestation-service.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/attestation-service",
-  "permalink": "/es/validator-guide/attestation-service",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/validator-guide/attestation-service",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,6 @@
   "sidebar": "validators",
   "previous": {
     "title": "Celo Validators",
-    "permalink": "/es/validator-guide/overview"
-  },
-  "next": {
-    "title": "Celo Key Management Summary",
-    "permalink": "/es/validator-guide/summary"
+    "permalink": "/validator-guide/overview"
   }
 }

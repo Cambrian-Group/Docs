@@ -6,8 +6,8 @@
   "source": "@site/docs/celo-codebase/protocol/consensus/index.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus",
-  "permalink": "/es/celo-codebase/protocol/consensus",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/celo-codebase/protocol/consensus",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Zsc Protocol",
-    "permalink": "/es/celo-codebase/protocol"
+    "permalink": "/celo-codebase/protocol"
   },
   "next": {
     "title": "Validator Set Differences",
-    "permalink": "/es/celo-codebase/protocol/consensus/validator-set-differences"
+    "permalink": "/celo-codebase/protocol/consensus/validator-set-differences"
   }
 }

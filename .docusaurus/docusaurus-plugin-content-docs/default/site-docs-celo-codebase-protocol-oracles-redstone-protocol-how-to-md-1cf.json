@@ -6,8 +6,8 @@
   "source": "@site/docs/celo-codebase/protocol/oracles/redstone-protocol-how-to.md",
   "sourceDirName": "celo-codebase/protocol/oracles",
   "slug": "/celo-codebase/protocol/oracles/redstone-protocol-how-to",
-  "permalink": "/es/celo-codebase/protocol/oracles/redstone-protocol-how-to",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/celo-codebase/protocol/oracles/redstone-protocol-how-to",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Using Band Protocol",
-    "permalink": "/es/celo-codebase/protocol/oracles/band-protocol-how-to"
+    "permalink": "/celo-codebase/protocol/oracles/band-protocol-how-to"
   },
   "next": {
     "title": "Zsc Protocol",
-    "permalink": "/es/celo-codebase/protocol"
+    "permalink": "/celo-codebase/protocol"
   }
 }

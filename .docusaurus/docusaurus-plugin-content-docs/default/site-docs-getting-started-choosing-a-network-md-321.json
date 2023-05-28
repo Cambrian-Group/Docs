@@ -1,28 +1,28 @@
 {
   "unversionedId": "getting-started/choosing-a-network",
   "id": "getting-started/choosing-a-network",
-  "title": "Mainnet",
-  "description": "How to choose a Zsc network based on your interested and objectives.",
+  "title": "支持网络",
+  "description": "LMAX Group平台公链网络合作伙伴.",
   "source": "@site/docs/getting-started/choosing-a-network.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/choosing-a-network",
-  "permalink": "/es/getting-started/choosing-a-network",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/getting-started/choosing-a-network",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Mainnet",
-    "description": "How to choose a Zsc network based on your interested and objectives.",
+    "title": "支持网络",
+    "description": "LMAX Group平台公链网络合作伙伴.",
     "id": "choosing-a-network",
     "slug": "/getting-started/choosing-a-network"
   },
   "sidebar": "docs",
   "previous": {
     "title": "Zsc Gas Pricing",
-    "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing"
+    "permalink": "/celo-codebase/protocol/transactions/gas-pricing"
   },
   "next": {
     "title": "Run a Zsc Full Node",
-    "permalink": "/es/getting-started/mainnet/running-a-full-node-in-mainnet"
+    "permalink": "/getting-started/mainnet/running-a-full-node-in-mainnet"
   }
 }

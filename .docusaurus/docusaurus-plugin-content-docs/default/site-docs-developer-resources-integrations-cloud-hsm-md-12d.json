@@ -6,22 +6,13 @@
   "source": "@site/docs/developer-resources/integrations/cloud-hsm.md",
   "sourceDirName": "developer-resources/integrations",
   "slug": "/developer-guide/integrations/cloud-hsm",
-  "permalink": "/es/developer-guide/integrations/cloud-hsm",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/integrations/cloud-hsm",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Using a Cloud HSM with Celo",
     "description": "How to create a cloud HSM in Azure and connect it to celocli.",
     "slug": "/developer-guide/integrations/cloud-hsm"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo Listing Integrations",
-    "permalink": "/es/developer-guide/integrations/listings"
-  },
-  "next": {
-    "title": "Celo for Ethereum Developers",
-    "permalink": "/es/developer-guide/celo-for-eth-devs"
   }
 }

@@ -1,21 +1,21 @@
 {
-  "permalink": "/es/blog/add-token-celo-wallet",
+  "permalink": "/blog/add-token-celo-wallet",
   "source": "@site/blog/2021-12-06-addtokentocelowallet.md",
   "title": "Add Your ERC20 Token to Your Celo Wallet",
   "description": "Learn How to Add Your ERC20 Token to Your Celo Wallet",
   "date": "2021-12-06T00:00:00.000Z",
-  "formattedDate": "6 de diciembre de 2021",
+  "formattedDate": "December 6, 2021",
   "tags": [
     {
       "label": "tokens",
-      "permalink": "/es/blog/tags/tokens"
+      "permalink": "/blog/tags/tokens"
     },
     {
       "label": "celo wallet",
-      "permalink": "/es/blog/tags/celo-wallet"
+      "permalink": "/blog/tags/celo-wallet"
     }
   ],
-  "readingTime": 1.18,
+  "readingTime": 0.2833333333333333,
   "truncated": true,
   "authors": [
     {
@@ -27,10 +27,10 @@
   ],
   "prevItem": {
     "title": "Using Keystores Library for Local Key Management",
-    "permalink": "/es/blog/developer-guide/start/using-js-keystores"
+    "permalink": "/blog/developer-guide/start/using-js-keystores"
   },
   "nextItem": {
     "title": "Verifying Contracts with Hardhat",
-    "permalink": "/es/blog/hardhat-deploy-verify"
+    "permalink": "/blog/hardhat-deploy-verify"
   }
 }

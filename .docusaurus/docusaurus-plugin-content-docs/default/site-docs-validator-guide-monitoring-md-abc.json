@@ -6,21 +6,12 @@
   "source": "@site/docs/validator-guide/monitoring.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/monitoring",
-  "permalink": "/es/validator-guide/monitoring",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/validator-guide/monitoring",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Monitoring",
     "description": "Commands, metrics, APIs, and services for monitoring Validators and Proxies."
-  },
-  "sidebar": "validators",
-  "previous": {
-    "title": "Run Secure Celo Nodes and Services",
-    "permalink": "/es/validator-guide/securing-nodes-and-services"
-  },
-  "next": {
-    "title": "Celo DevOps Best Practices",
-    "permalink": "/es/validator-guide/devops-best-practices"
   }
 }

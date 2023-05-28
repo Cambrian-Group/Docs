@@ -6,21 +6,12 @@
   "source": "@site/docs/community/release-process/README.md",
   "sourceDirName": "community/release-process",
   "slug": "/community/release-process/",
-  "permalink": "/es/community/release-process/",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/community/release-process/",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Release Process",
     "description": "Overview of the release process for updates to the Celo platform."
-  },
-  "sidebar": "contributors",
-  "previous": {
-    "title": "Celo Grant Playbook",
-    "permalink": "/es/community/grant-playbook"
-  },
-  "next": {
-    "title": "Celo Smart Contracts Release Process",
-    "permalink": "/es/community/release-process/smart-contracts"
   }
 }

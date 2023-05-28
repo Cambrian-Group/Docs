@@ -6,22 +6,13 @@
   "source": "@site/docs/developer-resources/integrations/custody.md",
   "sourceDirName": "developer-resources/integrations",
   "slug": "/developer-guide/integrations/custody",
-  "permalink": "/es/developer-guide/integrations/custody",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/integrations/custody",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Custody Integrations",
     "description": "Details for custodians, exchanges, and other services that intend to custody Celo assets such as Celo Dollar and CELO on behalf of a user.",
     "slug": "/developer-guide/integrations/custody"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo Integration Checklist",
-    "permalink": "/es/developer-guide/integrations/checklist"
-  },
-  "next": {
-    "title": "Celo Listing Integrations",
-    "permalink": "/es/developer-guide/integrations/listings"
   }
 }

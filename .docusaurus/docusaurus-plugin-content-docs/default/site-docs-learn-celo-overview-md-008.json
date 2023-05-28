@@ -6,8 +6,8 @@
   "source": "@site/docs/learn/celo-overview.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-overview",
-  "permalink": "/es/learn/celo-overview",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/celo-overview",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {

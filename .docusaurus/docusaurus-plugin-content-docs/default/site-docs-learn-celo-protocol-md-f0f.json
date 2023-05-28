@@ -6,8 +6,8 @@
   "source": "@site/docs/learn/celo-protocol.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-protocol",
-  "permalink": "/es/learn/celo-protocol",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/celo-protocol",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {

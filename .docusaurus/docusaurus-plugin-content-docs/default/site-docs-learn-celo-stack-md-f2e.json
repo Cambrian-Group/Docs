@@ -6,8 +6,8 @@
   "source": "@site/docs/learn/celo-stack.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-stack",
-  "permalink": "/es/learn/celo-stack",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/celo-stack",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {}
