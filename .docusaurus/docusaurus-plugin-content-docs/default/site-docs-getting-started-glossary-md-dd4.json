@@ -6,8 +6,8 @@
   "source": "@site/docs/getting-started/glossary.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/glossary",
-  "permalink": "/es/getting-started/glossary",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/getting-started/glossary",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Join the Zsc Community",
-    "permalink": "/es/community/join-the-community"
+    "permalink": "/community/join-the-community"
   },
   "next": {
     "title": "Digital Wallets for Celo",
-    "permalink": "/es/getting-started/wallets"
+    "permalink": "/getting-started/wallets"
   }
 }

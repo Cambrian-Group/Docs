@@ -6,21 +6,12 @@
   "source": "@site/docs/learn/developer-tools.md",
   "sourceDirName": "learn",
   "slug": "/learn/developer-tools",
-  "permalink": "/es/learn/developer-tools",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/developer-tools",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Developer Tools",
     "description": "Overview of Celo tools and the value they provide to developers."
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Using the Celo Wallet",
-    "permalink": "/es/getting-started/using-the-wallet"
-  },
-  "next": {
-    "title": "Celo ContractKit",
-    "permalink": "/es/developer-guide/contractkit"
   }
 }

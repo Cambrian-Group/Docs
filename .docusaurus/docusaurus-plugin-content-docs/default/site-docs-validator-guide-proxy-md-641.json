@@ -6,21 +6,12 @@
   "source": "@site/docs/validator-guide/proxy.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/proxy",
-  "permalink": "/es/validator-guide/proxy",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/validator-guide/proxy",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Running Proxies on Celo",
     "description": "How to ensure Validator uptime by running proxy nodes."
-  },
-  "sidebar": "validators",
-  "previous": {
-    "title": "Upgrade a Celo Node",
-    "permalink": "/es/validator-guide/node-upgrades"
-  },
-  "next": {
-    "title": "Validator Explorer",
-    "permalink": "/es/validator-guide/validator-explorer"
   }
 }

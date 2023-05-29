@@ -6,22 +6,13 @@
   "source": "@site/docs/developer-resources/integrations/listings.md",
   "sourceDirName": "developer-resources/integrations",
   "slug": "/developer-guide/integrations/listings",
-  "permalink": "/es/developer-guide/integrations/listings",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/integrations/listings",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Listing Integrations",
     "description": "Support for digital asset exchanges or ranking sites that would like to run a Celo node and audit your setup.",
     "slug": "/developer-guide/integrations/listings"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo Custody Integrations",
-    "permalink": "/es/developer-guide/integrations/custody"
-  },
-  "next": {
-    "title": "Using a Cloud HSM with Celo",
-    "permalink": "/es/developer-guide/integrations/cloud-hsm"
   }
 }

@@ -6,22 +6,13 @@
   "source": "@site/docs/developer-resources/contractkit/index.md",
   "sourceDirName": "developer-resources/contractkit",
   "slug": "/developer-guide/contractkit",
-  "permalink": "/es/developer-guide/contractkit",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/contractkit",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo ContractKit",
     "description": "Overview of ContractKit, its features, purpose, and resources to help you get started.",
     "slug": "/developer-guide/contractkit"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo Developer Tools",
-    "permalink": "/es/learn/developer-tools"
-  },
-  "next": {
-    "title": "Celo ContractKit Setup",
-    "permalink": "/es/developer-guide/contractkit/setup"
   }
 }

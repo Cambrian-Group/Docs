@@ -6,8 +6,8 @@
   "source": "@site/docs/welcome.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/es/",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -19,6 +19,6 @@
   "sidebar": "docs",
   "next": {
     "title": "Key Concepts",
-    "permalink": "/es/learn/celo-highlights"
+    "permalink": "/learn/celo-highlights"
   }
 }

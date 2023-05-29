@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[6719],{19922:function(e){e.exports=JSON.parse('{"permalink":"/es/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":17,"previousPage":"/es/blog","nextPage":null,"blogDescription":"Blog","blogTitle":"Celo Blog"}')}}]);

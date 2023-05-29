@@ -6,21 +6,12 @@
   "source": "@site/docs/learn/evm-compatible-tooling.md",
   "sourceDirName": "learn",
   "slug": "/learn/evm-compatible-tooling",
-  "permalink": "/es/learn/evm-compatible-tooling",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/evm-compatible-tooling",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo EVM Compatible Tooling",
     "description": "Overview of Celo EVM compatible tools and the value they provide to developers."
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo Local Development Chain with Protocol Contracts",
-    "permalink": "/es/developer-guide/development-chain"
-  },
-  "next": {
-    "title": "Deploy on Celo",
-    "permalink": "/es/developer-resources/deploy-dapp"
   }
 }

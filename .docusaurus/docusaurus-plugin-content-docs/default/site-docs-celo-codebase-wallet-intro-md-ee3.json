@@ -6,18 +6,9 @@
   "source": "@site/docs/celo-codebase/wallet/intro.md",
   "sourceDirName": "celo-codebase/wallet",
   "slug": "/celo-codebase/wallet/intro",
-  "permalink": "/es/celo-codebase/wallet/intro",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/celo-codebase/wallet/intro",
+  "editUrl": "",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo Wallet",
-    "permalink": "/es/celo-codebase/wallet"
-  },
-  "next": {
-    "title": "Using the Celo Wallet",
-    "permalink": "/es/getting-started/using-the-wallet"
-  }
+  "frontMatter": {}
 }

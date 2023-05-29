@@ -6,22 +6,13 @@
   "source": "@site/docs/developer-resources/contractkit/migrating-to-contractkit-v1.md",
   "sourceDirName": "developer-resources/contractkit",
   "slug": "/developer-guide/contractkit/migrating-to-contractkit-v1",
-  "permalink": "/es/developer-guide/contractkit/migrating-to-contractkit-v1",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/contractkit/migrating-to-contractkit-v1",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Migrating to ContractKit v1.0",
     "description": "How to migrate to the newest version of ContractKit and make use of its latest features.",
     "slug": "/developer-guide/contractkit/migrating-to-contractkit-v1"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Querying on-chain identifiers with ODIS",
-    "permalink": "/es/developer-guide/contractkit/odis"
-  },
-  "next": {
-    "title": "use-contractkit",
-    "permalink": "/es/developer-resources/use-contractkit"
   }
 }

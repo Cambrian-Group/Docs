@@ -12,9 +12,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/youth/Documents/code/zsc-group/docs/sidebars.js",
-          "contentPath": "/Users/youth/Documents/code/zsc-group/docs/docs",
-          "contentPathLocalized": "/Users/youth/Documents/code/zsc-group/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/youth/Documents/code/Docs/sidebars.js",
+          "contentPath": "/Users/youth/Documents/code/Docs/docs",
+          "contentPathLocalized": "/Users/youth/Documents/code/Docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "celo-codebase/protocol/bridging/bridging-native-assets",
@@ -25,7 +25,7 @@
               "sourceDirName": "celo-codebase/protocol/bridging",
               "slug": "/celo-codebase/protocol/bridging/bridging-native-assets",
               "permalink": "/celo-codebase/protocol/bridging/bridging-native-assets",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/bridging/bridging-native-assets.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -51,7 +51,7 @@
               "sourceDirName": "celo-codebase/protocol/bridging",
               "slug": "/celo-codebase/protocol/bridging/bridging-to-celo",
               "permalink": "/celo-codebase/protocol/bridging/bridging-to-celo",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/bridging/bridging-to-celo.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -77,7 +77,7 @@
               "sourceDirName": "celo-codebase/protocol/bridging",
               "slug": "/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
               "permalink": "/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -103,7 +103,7 @@
               "sourceDirName": "celo-codebase/protocol/bridging",
               "slug": "/celo-codebase/protocol/bridging/migrating-to-optics-v2",
               "permalink": "/celo-codebase/protocol/bridging/migrating-to-optics-v2",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/bridging/migrating-to-optics-v2.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -117,7 +117,7 @@
               "sourceDirName": "celo-codebase/protocol/bridging",
               "slug": "/celo-codebase/protocol/bridging/optics-bridge-faq",
               "permalink": "/celo-codebase/protocol/bridging/optics-bridge-faq",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/bridging/optics-bridge-faq.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -143,7 +143,7 @@
               "sourceDirName": "celo-codebase/protocol/bridging",
               "slug": "/celo-codebase/protocol/bridging/optics-gui",
               "permalink": "/celo-codebase/protocol/bridging/optics-gui",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/bridging/optics-gui.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -169,7 +169,7 @@
               "sourceDirName": "celo-codebase/protocol/bridging",
               "slug": "/celo-codebase/protocol/bridging/optics-gui-kr",
               "permalink": "/celo-codebase/protocol/bridging/optics-gui-kr",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/bridging/optics-gui-kr.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -186,7 +186,7 @@
               "sourceDirName": "celo-codebase/protocol/bridging",
               "slug": "/celo-codebase/protocol/bridging/optics-gui-zh_cn",
               "permalink": "/celo-codebase/protocol/bridging/optics-gui-zh_cn",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/bridging/optics-gui-zh_cn.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -203,7 +203,7 @@
               "sourceDirName": "celo-codebase/protocol/consensus",
               "slug": "/celo-codebase/protocol/consensus",
               "permalink": "/celo-codebase/protocol/consensus",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/consensus/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -230,7 +230,7 @@
               "sourceDirName": "celo-codebase/protocol/consensus",
               "slug": "/celo-codebase/protocol/consensus/locating-nodes",
               "permalink": "/celo-codebase/protocol/consensus/locating-nodes",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/consensus/locating-nodes.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -256,7 +256,7 @@
               "sourceDirName": "celo-codebase/protocol/consensus",
               "slug": "/celo-codebase/protocol/consensus/ultralight-sync",
               "permalink": "/celo-codebase/protocol/consensus/ultralight-sync",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/consensus/ultralight-sync.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -282,7 +282,7 @@
               "sourceDirName": "celo-codebase/protocol/consensus",
               "slug": "/celo-codebase/protocol/consensus/validator-set-differences",
               "permalink": "/celo-codebase/protocol/consensus/validator-set-differences",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/consensus/validator-set-differences.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -308,7 +308,7 @@
               "sourceDirName": "celo-codebase/protocol",
               "slug": "/celo-codebase/protocol/governance",
               "permalink": "/celo-codebase/protocol/governance",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/governance.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -334,7 +334,7 @@
               "sourceDirName": "celo-codebase/protocol/identity",
               "slug": "/celo-codebase/protocol/identity/",
               "permalink": "/celo-codebase/protocol/identity/",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/identity/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -348,7 +348,7 @@
               "sourceDirName": "celo-codebase/protocol/identity",
               "slug": "/celo-codebase/protocol/identity/metadata",
               "permalink": "/celo-codebase/protocol/identity/metadata",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/identity/metadata.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -362,7 +362,7 @@
               "sourceDirName": "celo-codebase/protocol/identity",
               "slug": "/celo-codebase/protocol/identity/phone-number-privacy",
               "permalink": "/celo-codebase/protocol/identity/phone-number-privacy",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/identity/phone-number-privacy.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -376,7 +376,7 @@
               "sourceDirName": "celo-codebase/protocol/identity",
               "slug": "/celo-codebase/protocol/identity/privacy-research",
               "permalink": "/celo-codebase/protocol/identity/privacy-research",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/identity/privacy-research.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -390,7 +390,7 @@
               "sourceDirName": "celo-codebase/protocol/identity",
               "slug": "/celo-codebase/protocol/identity/randomness",
               "permalink": "/celo-codebase/protocol/identity/randomness",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/identity/randomness.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -404,7 +404,7 @@
               "sourceDirName": "celo-codebase/protocol/identity",
               "slug": "/celo-codebase/protocol/identity/valora-accounts",
               "permalink": "/celo-codebase/protocol/identity/valora-accounts",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/identity/valora-accounts.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -418,7 +418,7 @@
               "sourceDirName": "celo-codebase/protocol",
               "slug": "/celo-codebase/protocol",
               "permalink": "/celo-codebase/protocol",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -445,7 +445,7 @@
               "sourceDirName": "celo-codebase/protocol",
               "slug": "/celo-codebase/protocol/optics",
               "permalink": "/celo-codebase/protocol/optics",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/optics.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -459,7 +459,7 @@
               "sourceDirName": "celo-codebase/protocol/oracles",
               "slug": "/celo-codebase/protocol/oracles/band-protocol-how-to",
               "permalink": "/celo-codebase/protocol/oracles/band-protocol-how-to",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/oracles/band-protocol-how-to.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -485,7 +485,7 @@
               "sourceDirName": "celo-codebase/protocol/oracles",
               "slug": "/celo-codebase/protocol/oracles/oracles-on-celo",
               "permalink": "/celo-codebase/protocol/oracles/oracles-on-celo",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/oracles/oracles-on-celo.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -511,7 +511,7 @@
               "sourceDirName": "celo-codebase/protocol/oracles",
               "slug": "/celo-codebase/protocol/oracles/redstone-protocol-how-to",
               "permalink": "/celo-codebase/protocol/oracles/redstone-protocol-how-to",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/oracles/redstone-protocol-how-to.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -537,7 +537,7 @@
               "sourceDirName": "celo-codebase/protocol",
               "slug": "/celo-codebase/protocol/plumo",
               "permalink": "/celo-codebase/protocol/plumo",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/plumo.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -551,7 +551,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake/becoming-a-validator",
               "permalink": "/celo-codebase/protocol/proof-of-stake/becoming-a-validator",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/becoming-a-validator.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -565,7 +565,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund",
               "permalink": "/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -579,7 +579,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake/community-fund",
               "permalink": "/celo-codebase/protocol/proof-of-stake/community-fund",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/community-fund.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -593,7 +593,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake/epoch-rewards",
               "permalink": "/celo-codebase/protocol/proof-of-stake/epoch-rewards",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/epoch-rewards.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -607,7 +607,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake",
               "permalink": "/celo-codebase/protocol/proof-of-stake",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -634,7 +634,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake/locked-gold",
               "permalink": "/celo-codebase/protocol/proof-of-stake/locked-gold",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/locked-gold.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -660,7 +660,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake/locked-gold-rewards",
               "permalink": "/celo-codebase/protocol/proof-of-stake/locked-gold-rewards",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/locked-gold-rewards.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -674,7 +674,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake/penalties",
               "permalink": "/celo-codebase/protocol/proof-of-stake/penalties",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/penalties.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -700,7 +700,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake/validator-elections",
               "permalink": "/celo-codebase/protocol/proof-of-stake/validator-elections",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/validator-elections.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -726,7 +726,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake/validator-groups",
               "permalink": "/celo-codebase/protocol/proof-of-stake/validator-groups",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/validator-groups.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -740,7 +740,7 @@
               "sourceDirName": "celo-codebase/protocol/proof-of-stake",
               "slug": "/celo-codebase/protocol/proof-of-stake/validator-rewards",
               "permalink": "/celo-codebase/protocol/proof-of-stake/validator-rewards",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/proof-of-stake/validator-rewards.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -754,7 +754,7 @@
               "sourceDirName": "celo-codebase/protocol/stability",
               "slug": "/celo-codebase/protocol/stability/adding_stable_assets",
               "permalink": "/celo-codebase/protocol/stability/adding_stable_assets",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/stability/adding_stable_assets.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -768,7 +768,7 @@
               "sourceDirName": "celo-codebase/protocol/stability",
               "slug": "/celo-codebase/protocol/stability/doto",
               "permalink": "/celo-codebase/protocol/stability/doto",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/stability/doto.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -782,7 +782,7 @@
               "sourceDirName": "celo-codebase/protocol/stability",
               "slug": "/celo-codebase/protocol/stability/granda-mento",
               "permalink": "/celo-codebase/protocol/stability/granda-mento",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/stability/granda-mento.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -796,7 +796,7 @@
               "sourceDirName": "celo-codebase/protocol/stability",
               "slug": "/celo-codebase/protocol/stability/",
               "permalink": "/celo-codebase/protocol/stability/",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/stability/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -810,7 +810,7 @@
               "sourceDirName": "celo-codebase/protocol/stability",
               "slug": "/celo-codebase/protocol/stability/oracles",
               "permalink": "/celo-codebase/protocol/stability/oracles",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/stability/oracles.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -824,7 +824,7 @@
               "sourceDirName": "celo-codebase/protocol/stability",
               "slug": "/celo-codebase/protocol/stability/stability-fees",
               "permalink": "/celo-codebase/protocol/stability/stability-fees",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/stability/stability-fees.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -838,7 +838,7 @@
               "sourceDirName": "celo-codebase/protocol/stability",
               "slug": "/celo-codebase/protocol/stability/tobin-tax",
               "permalink": "/celo-codebase/protocol/stability/tobin-tax",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/stability/tobin-tax.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -852,7 +852,7 @@
               "sourceDirName": "celo-codebase/protocol/transactions",
               "slug": "/celo-codebase/protocol/transactions/erc20-transaction-fees",
               "permalink": "/celo-codebase/protocol/transactions/erc20-transaction-fees",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/transactions/erc20-transaction-fees.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -878,7 +878,7 @@
               "sourceDirName": "celo-codebase/protocol/transactions",
               "slug": "/celo-codebase/protocol/transactions/escrow",
               "permalink": "/celo-codebase/protocol/transactions/escrow",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/transactions/escrow.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -892,7 +892,7 @@
               "sourceDirName": "celo-codebase/protocol/transactions",
               "slug": "/celo-codebase/protocol/transactions/full-node-incentives",
               "permalink": "/celo-codebase/protocol/transactions/full-node-incentives",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/transactions/full-node-incentives.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -906,7 +906,7 @@
               "sourceDirName": "celo-codebase/protocol/transactions",
               "slug": "/celo-codebase/protocol/transactions/gas-pricing",
               "permalink": "/celo-codebase/protocol/transactions/gas-pricing",
-              "editUrl": "https://github.com/ZSC-group/docs",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -932,7 +932,7 @@
               "sourceDirName": "celo-codebase/protocol/transactions",
               "slug": "/celo-codebase/protocol/transactions",
               "permalink": "/celo-codebase/protocol/transactions",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/transactions/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -959,7 +959,7 @@
               "sourceDirName": "celo-codebase/protocol/transactions",
               "slug": "/celo-codebase/protocol/transactions/native-currency",
               "permalink": "/celo-codebase/protocol/transactions/native-currency",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/transactions/native-currency.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -985,7 +985,7 @@
               "sourceDirName": "celo-codebase/protocol/transactions",
               "slug": "/celo-codebase/protocol/transactions/tx-comment-encryption",
               "permalink": "/celo-codebase/protocol/transactions/tx-comment-encryption",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/protocol/transactions/tx-comment-encryption.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -999,7 +999,7 @@
               "sourceDirName": "celo-codebase/style-guide",
               "slug": "/celo-codebase/style-guide/typescript",
               "permalink": "/celo-codebase/style-guide/typescript",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/style-guide/typescript.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -1013,7 +1013,7 @@
               "sourceDirName": "celo-codebase/wallet/how-the-wallet-works",
               "slug": "/celo-codebase/wallet/how-the-wallet-works/invitations",
               "permalink": "/celo-codebase/wallet/how-the-wallet-works/invitations",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/wallet/how-the-wallet-works/invitations.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -1027,7 +1027,7 @@
               "sourceDirName": "celo-codebase/wallet/how-the-wallet-works",
               "slug": "/celo-codebase/wallet/how-the-wallet-works/",
               "permalink": "/celo-codebase/wallet/how-the-wallet-works/",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/wallet/how-the-wallet-works/README.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1044,7 +1044,7 @@
               "sourceDirName": "celo-codebase/wallet/how-the-wallet-works",
               "slug": "/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments",
               "permalink": "/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -1058,7 +1058,7 @@
               "sourceDirName": "celo-codebase/wallet/how-the-wallet-works",
               "slug": "/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync",
               "permalink": "/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1075,7 +1075,7 @@
               "sourceDirName": "celo-codebase/wallet/how-the-wallet-works",
               "slug": "/celo-codebase/wallet/how-the-wallet-works/verification",
               "permalink": "/celo-codebase/wallet/how-the-wallet-works/verification",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/wallet/how-the-wallet-works/verification.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -1089,22 +1089,13 @@
               "sourceDirName": "celo-codebase/wallet",
               "slug": "/celo-codebase/wallet",
               "permalink": "/celo-codebase/wallet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/wallet/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Wallet",
                 "description": "How to use the Celo wallet to manage Celo assets.",
                 "slug": "/celo-codebase/wallet"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Setup Testnet Wallets",
-                "permalink": "/developer-resources/testnet-wallet"
-              },
-              "next": {
-                "title": "intro",
-                "permalink": "/celo-codebase/wallet/intro"
               }
             },
             {
@@ -1116,19 +1107,10 @@
               "sourceDirName": "celo-codebase/wallet",
               "slug": "/celo-codebase/wallet/intro",
               "permalink": "/celo-codebase/wallet/intro",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-codebase/wallet/intro.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo Wallet",
-                "permalink": "/celo-codebase/wallet"
-              },
-              "next": {
-                "title": "Using the Celo Wallet",
-                "permalink": "/getting-started/using-the-wallet"
-              }
+              "frontMatter": {}
             },
             {
               "unversionedId": "celo-holder-guide/celo-exchange-bot",
@@ -1139,7 +1121,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-owner-guide/celo-exchange-bot",
               "permalink": "/celo-owner-guide/celo-exchange-bot",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/celo-exchange-bot.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1157,7 +1139,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-owner-guide/celo-recovery",
               "permalink": "/celo-owner-guide/celo-recovery",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/celo-recovery.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1175,7 +1157,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-holder-guide/connecting-ledger-celo-terminal-wallet",
               "permalink": "/celo-holder-guide/connecting-ledger-celo-terminal-wallet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/connecting-ledger-celo-terminal-wallet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1192,7 +1174,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-holder-guide/connecting-ledger-celo-web-wallet",
               "permalink": "/celo-holder-guide/connecting-ledger-celo-web-wallet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/connecting-ledger-celo-web-wallet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1209,7 +1191,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-holder-guide/connecting-ledger-celocli",
               "permalink": "/celo-holder-guide/connecting-ledger-celocli",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/connecting-ledger-celocli.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1226,7 +1208,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-owner-guide/cusd",
               "permalink": "/celo-owner-guide/cusd",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/cusd.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1244,7 +1226,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-owner-guide/eth-recovery",
               "permalink": "/celo-owner-guide/eth-recovery",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/eth-recovery.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1262,7 +1244,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-owner-guide/governance-cheat-sheet",
               "permalink": "/celo-owner-guide/governance-cheat-sheet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/governance-cheat-sheet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1280,7 +1262,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-owner-guide/ledger",
               "permalink": "/celo-owner-guide/ledger",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/ledger.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1298,7 +1280,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-holder-guide/overview",
               "permalink": "/celo-holder-guide/overview",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/overview.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1315,7 +1297,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-holder-guide/owners",
               "permalink": "/celo-holder-guide/owners",
-              "editUrl": "https://github.com/ZSC-group/docs",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1341,7 +1323,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-owner-guide/quick-start",
               "permalink": "/celo-owner-guide/quick-start",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/quick-start.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1359,7 +1341,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-owner-guide/release-gold",
               "permalink": "/celo-owner-guide/release-gold",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/release-gold.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1377,7 +1359,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-holder-guide/voting-governance",
               "permalink": "/celo-holder-guide/voting-governance",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/voting-governance.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -1391,7 +1373,7 @@
               "sourceDirName": "celo-holder-guide",
               "slug": "/celo-holder-guide/voting-validators",
               "permalink": "/celo-holder-guide/voting-validators",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/celo-holder-guide/voting-validators.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -1405,21 +1387,12 @@
               "sourceDirName": "community",
               "slug": "/community/CIP-contributors",
               "permalink": "/community/CIP-contributors",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/CIP-contributors.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Community Improvement Proposals",
                 "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Technical Writers",
-                "permalink": "/community/documentation-contributors"
-              },
-              "next": {
-                "title": "Code of Conduct",
-                "permalink": "/community/code-of-conduct"
               }
             },
             {
@@ -1431,21 +1404,12 @@
               "sourceDirName": "community",
               "slug": "/community/code-contributors",
               "permalink": "/community/code-contributors",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/code-contributors.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Code Contributors",
                 "description": "How to contribute to the Celo ecosystem as a member of the community."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Contributor Guidelines",
-                "permalink": "/community/guidelines"
-              },
-              "next": {
-                "title": "Celo Translators",
-                "permalink": "/community/translation-contributors"
               }
             },
             {
@@ -1457,20 +1421,11 @@
               "sourceDirName": "community",
               "slug": "/community/code-of-conduct",
               "permalink": "/community/code-of-conduct",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/code-of-conduct.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Code of Conduct"
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Community Improvement Proposals",
-                "permalink": "/community/CIP-contributors"
-              },
-              "next": {
-                "title": "Celo Grant Playbook",
-                "permalink": "/community/grant-playbook"
               }
             },
             {
@@ -1482,7 +1437,7 @@
               "sourceDirName": "community",
               "slug": "/community/contributing",
               "permalink": "/community/contributing",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/contributing.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1504,7 +1459,7 @@
               "sourceDirName": "community",
               "slug": "/community/developer-events",
               "permalink": "/community/developer-events",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/developer-events.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1515,10 +1470,6 @@
               "previous": {
                 "title": "Celo Community",
                 "permalink": "/community/contributing"
-              },
-              "next": {
-                "title": "Celo Contributor Guidelines",
-                "permalink": "/community/guidelines"
               }
             },
             {
@@ -1530,21 +1481,12 @@
               "sourceDirName": "community",
               "slug": "/community/documentation-contributors",
               "permalink": "/community/documentation-contributors",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/documentation-contributors.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Technical Writers",
                 "description": "How to contribute to the Celo community documentation."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Translators",
-                "permalink": "/community/translation-contributors"
-              },
-              "next": {
-                "title": "Community Improvement Proposals",
-                "permalink": "/community/CIP-contributors"
               }
             },
             {
@@ -1556,21 +1498,12 @@
               "sourceDirName": "community",
               "slug": "/community/grant-playbook",
               "permalink": "/community/grant-playbook",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/grant-playbook.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Grant Playbook",
                 "description": "Summary of best practices that grantees are encouraged to follow to further the Celo mission."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Code of Conduct",
-                "permalink": "/community/code-of-conduct"
-              },
-              "next": {
-                "title": "Celo Release Process",
-                "permalink": "/community/release-process/"
               }
             },
             {
@@ -1582,21 +1515,12 @@
               "sourceDirName": "community",
               "slug": "/community/guidelines",
               "permalink": "/community/guidelines",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/guidelines.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Contributor Guidelines",
                 "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Developer Events",
-                "permalink": "/community/developer-events"
-              },
-              "next": {
-                "title": "Celo Code Contributors",
-                "permalink": "/community/code-contributors"
               }
             },
             {
@@ -1608,7 +1532,7 @@
               "sourceDirName": "community",
               "slug": "/community/join-the-community",
               "permalink": "/community/join-the-community",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/join-the-community.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1634,21 +1558,12 @@
               "sourceDirName": "community/release-process",
               "slug": "/community/release-process/attestation-service",
               "permalink": "/community/release-process/attestation-service",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/release-process/attestation-service.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Attestation Service Release Process",
                 "description": "Details of the release process for updating the attestation service on the Celo platform."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Release Process for CeloCLI and ContractKit",
-                "permalink": "/community/release-process/base-cli-contractkit-dappkit-utils"
-              },
-              "next": {
-                "title": "Celo Alfajores Testnet Disclaimer",
-                "permalink": "/important-information/alfajores-testnet-disclaimer"
               }
             },
             {
@@ -1660,21 +1575,12 @@
               "sourceDirName": "community/release-process",
               "slug": "/community/release-process/base-cli-contractkit-dappkit-utils",
               "permalink": "/community/release-process/base-cli-contractkit-dappkit-utils",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/release-process/base-cli-contractkit-dappkit-utils.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Release Process for CeloCLI and ContractKit",
                 "description": "Details of the release process for updating CeloCLI and ContractKit on the Celo platform."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Blockchain Client Release Process",
-                "permalink": "/community/release-process/blockchain-client"
-              },
-              "next": {
-                "title": "Celo Attestation Service Release Process",
-                "permalink": "/community/release-process/attestation-service"
               }
             },
             {
@@ -1686,21 +1592,12 @@
               "sourceDirName": "community/release-process",
               "slug": "/community/release-process/blockchain-client",
               "permalink": "/community/release-process/blockchain-client",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/release-process/blockchain-client.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Blockchain Client Release Process",
                 "description": "Details of the release process for updating the blockchain client on the Celo platform."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Smart Contracts Release Process",
-                "permalink": "/community/release-process/smart-contracts"
-              },
-              "next": {
-                "title": "Celo Release Process for CeloCLI and ContractKit",
-                "permalink": "/community/release-process/base-cli-contractkit-dappkit-utils"
               }
             },
             {
@@ -1712,21 +1609,12 @@
               "sourceDirName": "community/release-process",
               "slug": "/community/release-process/",
               "permalink": "/community/release-process/",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/release-process/README.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Release Process",
                 "description": "Overview of the release process for updates to the Celo platform."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Grant Playbook",
-                "permalink": "/community/grant-playbook"
-              },
-              "next": {
-                "title": "Celo Smart Contracts Release Process",
-                "permalink": "/community/release-process/smart-contracts"
               }
             },
             {
@@ -1738,21 +1626,12 @@
               "sourceDirName": "community/release-process",
               "slug": "/community/release-process/smart-contracts",
               "permalink": "/community/release-process/smart-contracts",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/release-process/smart-contracts.mdx",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Smart Contracts Release Process",
                 "description": "Details of the release process for updating smart contracts on the Celo platform."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Release Process",
-                "permalink": "/community/release-process/"
-              },
-              "next": {
-                "title": "Celo Blockchain Client Release Process",
-                "permalink": "/community/release-process/blockchain-client"
               }
             },
             {
@@ -1764,21 +1643,12 @@
               "sourceDirName": "community",
               "slug": "/community/translation-contributors",
               "permalink": "/community/translation-contributors",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/community/translation-contributors.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Translators",
                 "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Code Contributors",
-                "permalink": "/community/code-contributors"
-              },
-              "next": {
-                "title": "Celo Technical Writers",
-                "permalink": "/community/documentation-contributors"
               }
             },
             {
@@ -1790,7 +1660,7 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-guide/celo-dapp-gallery",
               "permalink": "/developer-guide/celo-dapp-gallery",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/celo-dapp-gallery.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -1817,18 +1687,13 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-guide/celo-for-eth-devs",
               "permalink": "/developer-guide/celo-for-eth-devs",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/celo-for-eth-devs.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo for Ethereum Developers",
                 "description": "Overview of the similarities and differences between the Celo and Ethereum blockchains.",
                 "slug": "/developer-guide/celo-for-eth-devs"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Using a Cloud HSM with Celo",
-                "permalink": "/developer-guide/integrations/cloud-hsm"
               }
             },
             {
@@ -1840,22 +1705,13 @@
               "sourceDirName": "developer-resources/contractkit",
               "slug": "/developer-guide/contractkit/contracts-wrappers-registry",
               "permalink": "/developer-guide/contractkit/contracts-wrappers-registry",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/contractkit/contracts-wrappers-registry.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Core Contracts (Wrapper/Registry)",
                 "description": "How to interact with CELO assets using the wrapper and registry Celo Core Contracts.",
                 "slug": "/developer-guide/contractkit/contracts-wrappers-registry"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Using Web3 from ContractKit with Celo",
-                "permalink": "/developer-guide/contractkit/notes-web3-with-contractkit"
-              },
-              "next": {
-                "title": "Querying on-chain identifiers with ODIS",
-                "permalink": "/developer-guide/contractkit/odis"
               }
             },
             {
@@ -1867,7 +1723,7 @@
               "sourceDirName": "developer-resources/contractkit",
               "slug": "/developer-resources/contractkit/data-encryption-key",
               "permalink": "/developer-resources/contractkit/data-encryption-key",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/contractkit/data-encryption-key.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -1881,22 +1737,13 @@
               "sourceDirName": "developer-resources/contractkit",
               "slug": "/developer-guide/contractkit",
               "permalink": "/developer-guide/contractkit",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/contractkit/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo ContractKit",
                 "description": "Overview of ContractKit, its features, purpose, and resources to help you get started.",
                 "slug": "/developer-guide/contractkit"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo Developer Tools",
-                "permalink": "/learn/developer-tools"
-              },
-              "next": {
-                "title": "Celo ContractKit Setup",
-                "permalink": "/developer-guide/contractkit/setup"
               }
             },
             {
@@ -1908,22 +1755,13 @@
               "sourceDirName": "developer-resources/contractkit",
               "slug": "/developer-guide/contractkit/migrating-to-contractkit-v1",
               "permalink": "/developer-guide/contractkit/migrating-to-contractkit-v1",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/contractkit/migrating-to-contractkit-v1.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Migrating to ContractKit v1.0",
                 "description": "How to migrate to the newest version of ContractKit and make use of its latest features.",
                 "slug": "/developer-guide/contractkit/migrating-to-contractkit-v1"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Querying on-chain identifiers with ODIS",
-                "permalink": "/developer-guide/contractkit/odis"
-              },
-              "next": {
-                "title": "use-contractkit",
-                "permalink": "/developer-resources/use-contractkit"
               }
             },
             {
@@ -1935,22 +1773,13 @@
               "sourceDirName": "developer-resources/contractkit",
               "slug": "/developer-guide/contractkit/notes-web3-with-contractkit",
               "permalink": "/developer-guide/contractkit/notes-web3-with-contractkit",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/contractkit/notes-web3-with-contractkit.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Using Web3 from ContractKit with Celo",
                 "description": "How to use Web3 from ContractKit to read data from the Celo blockchain.",
                 "slug": "/developer-guide/contractkit/notes-web3-with-contractkit"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Using the Kit",
-                "permalink": "/developer-guide/contractkit/usage"
-              },
-              "next": {
-                "title": "Celo Core Contracts (Wrapper/Registry)",
-                "permalink": "/developer-guide/contractkit/contracts-wrappers-registry"
               }
             },
             {
@@ -1962,22 +1791,13 @@
               "sourceDirName": "developer-resources/contractkit",
               "slug": "/developer-guide/contractkit/odis",
               "permalink": "/developer-guide/contractkit/odis",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/contractkit/odis.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Querying on-chain identifiers with ODIS",
                 "description": "How to use ODIS to query the on-chain identifier given a phone number.",
                 "slug": "/developer-guide/contractkit/odis"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo Core Contracts (Wrapper/Registry)",
-                "permalink": "/developer-guide/contractkit/contracts-wrappers-registry"
-              },
-              "next": {
-                "title": "Migrating to ContractKit v1.0",
-                "permalink": "/developer-guide/contractkit/migrating-to-contractkit-v1"
               }
             },
             {
@@ -1989,22 +1809,13 @@
               "sourceDirName": "developer-resources/contractkit",
               "slug": "/developer-guide/contractkit/setup",
               "permalink": "/developer-guide/contractkit/setup",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/contractkit/setup.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo ContractKit Setup",
                 "description": "ContractKit requirements, installation, and initialization.",
                 "slug": "/developer-guide/contractkit/setup"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo ContractKit",
-                "permalink": "/developer-guide/contractkit"
-              },
-              "next": {
-                "title": "Using the Kit",
-                "permalink": "/developer-guide/contractkit/usage"
               }
             },
             {
@@ -2016,21 +1827,12 @@
               "sourceDirName": "developer-resources/contractkit",
               "slug": "/developer-guide/contractkit/usage",
               "permalink": "/developer-guide/contractkit/usage",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/contractkit/usage.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Using the Kit",
                 "slug": "/developer-guide/contractkit/usage"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo ContractKit Setup",
-                "permalink": "/developer-guide/contractkit/setup"
-              },
-              "next": {
-                "title": "Using Web3 from ContractKit with Celo",
-                "permalink": "/developer-guide/contractkit/notes-web3-with-contractkit"
               }
             },
             {
@@ -2042,22 +1844,13 @@
               "sourceDirName": "developer-resources/dappkit",
               "slug": "/developer-guide/dappkit",
               "permalink": "/developer-guide/dappkit",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/dappkit/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo DAppKit",
                 "description": "Introduction to DAppKit and resources to help you gets started.",
                 "slug": "/developer-guide/dappkit"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "WalletConnect",
-                "permalink": "/learn/walletconnect"
-              },
-              "next": {
-                "title": "Celo DAppKit Setup",
-                "permalink": "/developer-guide/dappkit/setup"
               }
             },
             {
@@ -2069,22 +1862,13 @@
               "sourceDirName": "developer-resources/dappkit",
               "slug": "/developer-guide/dappkit/setup",
               "permalink": "/developer-guide/dappkit/setup",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/dappkit/setup.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo DAppKit Setup",
                 "description": "How to configure and install DAppKit to begin building on Celo.",
                 "slug": "/developer-guide/dappkit/setup"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo DAppKit",
-                "permalink": "/developer-guide/dappkit"
-              },
-              "next": {
-                "title": "Celo DAppKit Usage",
-                "permalink": "/developer-guide/dappkit/usage"
               }
             },
             {
@@ -2096,22 +1880,13 @@
               "sourceDirName": "developer-resources/dappkit",
               "slug": "/developer-guide/dappkit/usage",
               "permalink": "/developer-guide/dappkit/usage",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/dappkit/usage.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo DAppKit Usage",
                 "description": "How to use DAppKit and make use of its features while building DApps on Celo.",
                 "slug": "/developer-guide/dappkit/usage"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo DAppKit Setup",
-                "permalink": "/developer-guide/dappkit/setup"
-              },
-              "next": {
-                "title": "Celo Forno",
-                "permalink": "/developer-guide/forno"
               }
             },
             {
@@ -2123,21 +1898,12 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-resources/deploy-dapp",
               "permalink": "/developer-resources/deploy-dapp",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/deploy-dapp.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Deploy on Celo",
                 "description": "How to deploy a dApp on Celo."
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo EVM Compatible Tooling",
-                "permalink": "/learn/evm-compatible-tooling"
-              },
-              "next": {
-                "title": "Deploy with Remix",
-                "permalink": "/developer-resources/deploy-remix"
               }
             },
             {
@@ -2149,21 +1915,12 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-resources/deploy-hardhat",
               "permalink": "/developer-resources/deploy-hardhat",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/deploy-hardhat.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Deploy with Hardhat",
                 "description": "How to deploy a Smart Contract to Celo using Hardhat"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Deploy with Truffle",
-                "permalink": "/developer-resources/deploy-truffle"
-              },
-              "next": {
-                "title": "Deploy with Replit",
-                "permalink": "/developer-resources/deploy-replit"
               }
             },
             {
@@ -2175,21 +1932,12 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-resources/deploy-remix",
               "permalink": "/developer-resources/deploy-remix",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/deploy-remix.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Deploy with Remix",
                 "description": "How to deploy a Smart Contract to Celo using remix.ethereum.org."
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Deploy on Celo",
-                "permalink": "/developer-resources/deploy-dapp"
-              },
-              "next": {
-                "title": "Deploy with Truffle",
-                "permalink": "/developer-resources/deploy-truffle"
               }
             },
             {
@@ -2201,21 +1949,12 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-resources/deploy-replit",
               "permalink": "/developer-resources/deploy-replit",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/deploy-replit.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Deploy with Replit",
                 "description": "How to deploy a smart contract to Celo testnet, mainnet, or a local network using Replit."
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Deploy with Hardhat",
-                "permalink": "/developer-resources/deploy-hardhat"
-              },
-              "next": {
-                "title": "Integrate with Celo",
-                "permalink": "/developer-guide/integrations"
               }
             },
             {
@@ -2227,21 +1966,12 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-resources/deploy-truffle",
               "permalink": "/developer-resources/deploy-truffle",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/deploy-truffle.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Deploy with Truffle",
                 "description": "How to deploy a Smart Contract to Celo using Truffle"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Deploy with Remix",
-                "permalink": "/developer-resources/deploy-remix"
-              },
-              "next": {
-                "title": "Deploy with Hardhat",
-                "permalink": "/developer-resources/deploy-hardhat"
               }
             },
             {
@@ -2253,7 +1983,7 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-guide/start/develop-on-windows",
               "permalink": "/developer-guide/start/develop-on-windows",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/develop-on-windows.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2265,10 +1995,6 @@
               "previous": {
                 "title": "Celo Local Development Environment Using Mac",
                 "permalink": "/developer-resources/using-mac"
-              },
-              "next": {
-                "title": "Setup Testnet Wallets",
-                "permalink": "/developer-resources/testnet-wallet"
               }
             },
             {
@@ -2280,21 +2006,12 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-resources/ethers-js-wrapper",
               "permalink": "/developer-resources/ethers-js-wrapper",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/ethers-js-wrapper.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Ethers.js Wrapper",
                 "description": "A minimal wrapper to make Ethers.JS compatible with the Celo network."
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "use-contractkit",
-                "permalink": "/developer-resources/use-contractkit"
-              },
-              "next": {
-                "title": "WalletConnect",
-                "permalink": "/learn/walletconnect"
               }
             },
             {
@@ -2306,22 +2023,13 @@
               "sourceDirName": "developer-resources/forno",
               "slug": "/developer-guide/forno",
               "permalink": "/developer-guide/forno",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/forno/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Forno",
                 "description": "How to connect to Celo without running a full node using Forno.",
                 "slug": "/developer-guide/forno"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo DAppKit Usage",
-                "permalink": "/developer-guide/dappkit/usage"
-              },
-              "next": {
-                "title": "Celo Local Development Chain with Protocol Contracts",
-                "permalink": "/developer-guide/development-chain"
               }
             },
             {
@@ -2333,22 +2041,13 @@
               "sourceDirName": "developer-resources/integrations",
               "slug": "/developer-guide/integrations/checklist",
               "permalink": "/developer-guide/integrations/checklist",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/integrations/checklist.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Integration Checklist",
                 "slug": "/developer-guide/integrations/checklist",
                 "description": "Checklist for applications building and integrating on Celo."
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo General Integration Information",
-                "permalink": "/developer-guide/integrations/general"
-              },
-              "next": {
-                "title": "Celo Custody Integrations",
-                "permalink": "/developer-guide/integrations/custody"
               }
             },
             {
@@ -2360,22 +2059,13 @@
               "sourceDirName": "developer-resources/integrations",
               "slug": "/developer-guide/integrations/cloud-hsm",
               "permalink": "/developer-guide/integrations/cloud-hsm",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/integrations/cloud-hsm.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Using a Cloud HSM with Celo",
                 "description": "How to create a cloud HSM in Azure and connect it to celocli.",
                 "slug": "/developer-guide/integrations/cloud-hsm"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo Listing Integrations",
-                "permalink": "/developer-guide/integrations/listings"
-              },
-              "next": {
-                "title": "Celo for Ethereum Developers",
-                "permalink": "/developer-guide/celo-for-eth-devs"
               }
             },
             {
@@ -2387,22 +2077,13 @@
               "sourceDirName": "developer-resources/integrations",
               "slug": "/developer-guide/integrations/custody",
               "permalink": "/developer-guide/integrations/custody",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/integrations/custody.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Custody Integrations",
                 "description": "Details for custodians, exchanges, and other services that intend to custody Celo assets such as Celo Dollar and CELO on behalf of a user.",
                 "slug": "/developer-guide/integrations/custody"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo Integration Checklist",
-                "permalink": "/developer-guide/integrations/checklist"
-              },
-              "next": {
-                "title": "Celo Listing Integrations",
-                "permalink": "/developer-guide/integrations/listings"
               }
             },
             {
@@ -2414,22 +2095,13 @@
               "sourceDirName": "developer-resources/integrations",
               "slug": "/developer-guide/integrations/general",
               "permalink": "/developer-guide/integrations/general",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/integrations/general.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo General Integration Information",
                 "slug": "/developer-guide/integrations/general",
                 "description": "General information about integrations regardless of your service or use case."
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Integrate with Celo",
-                "permalink": "/developer-guide/integrations"
-              },
-              "next": {
-                "title": "Celo Integration Checklist",
-                "permalink": "/developer-guide/integrations/checklist"
               }
             },
             {
@@ -2441,22 +2113,13 @@
               "sourceDirName": "developer-resources/integrations",
               "slug": "/developer-guide/integrations",
               "permalink": "/developer-guide/integrations",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/integrations/integrations.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Integrate with Celo",
                 "description": "Collection of resources to help integrate Celo with your service.",
                 "slug": "/developer-guide/integrations"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Deploy with Replit",
-                "permalink": "/developer-resources/deploy-replit"
-              },
-              "next": {
-                "title": "Celo General Integration Information",
-                "permalink": "/developer-guide/integrations/general"
               }
             },
             {
@@ -2468,22 +2131,13 @@
               "sourceDirName": "developer-resources/integrations",
               "slug": "/developer-guide/integrations/listings",
               "permalink": "/developer-guide/integrations/listings",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/integrations/listings.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Listing Integrations",
                 "description": "Support for digital asset exchanges or ranking sites that would like to run a Celo node and audit your setup.",
                 "slug": "/developer-guide/integrations/listings"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo Custody Integrations",
-                "permalink": "/developer-guide/integrations/custody"
-              },
-              "next": {
-                "title": "Using a Cloud HSM with Celo",
-                "permalink": "/developer-guide/integrations/cloud-hsm"
               }
             },
             {
@@ -2495,7 +2149,7 @@
               "sourceDirName": "developer-resources/networks",
               "slug": "/developer-resources/networks/alfajores-testnet",
               "permalink": "/developer-resources/networks/alfajores-testnet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/networks/alfajores-testnet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2511,7 +2165,7 @@
               "sourceDirName": "developer-resources/networks",
               "slug": "/developer-resources/networks/baklava-testnet",
               "permalink": "/developer-resources/networks/baklava-testnet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/networks/baklava-testnet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2527,7 +2181,7 @@
               "sourceDirName": "developer-resources/networks",
               "slug": "/developer-resources/networks/celo-mainnet",
               "permalink": "/developer-resources/networks/celo-mainnet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/networks/celo-mainnet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2543,7 +2197,7 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-guide/overview",
               "permalink": "/developer-guide/overview",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/overview.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2566,7 +2220,7 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-resources/reference",
               "permalink": "/developer-resources/reference",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/reference.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -2580,7 +2234,7 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-guide/start",
               "permalink": "/developer-guide/start",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/start.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2598,7 +2252,7 @@
               "sourceDirName": "developer-resources/style-guide",
               "slug": "/developer-resources/style-guide/typescript",
               "permalink": "/developer-resources/style-guide/typescript",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/style-guide/typescript.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -2612,21 +2266,12 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-resources/testnet-wallet",
               "permalink": "/developer-resources/testnet-wallet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/testnet-wallet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Setup Testnet Wallets",
                 "description": "How to create and fund testnet wallets to use for developing Celo dApps."
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo Local Envorinment using Windows",
-                "permalink": "/developer-guide/start/develop-on-windows"
-              },
-              "next": {
-                "title": "Celo Wallet",
-                "permalink": "/celo-codebase/wallet"
               }
             },
             {
@@ -2638,21 +2283,12 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-resources/use-contractkit",
               "permalink": "/developer-resources/use-contractkit",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/use-contractkit.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "use-contractkit",
                 "description": "The easiest way to access [ContractKit](https://www.npmjs.com/package/@celo/contractkit) in your React applications."
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Migrating to ContractKit v1.0",
-                "permalink": "/developer-guide/contractkit/migrating-to-contractkit-v1"
-              },
-              "next": {
-                "title": "Celo Ethers.js Wrapper",
-                "permalink": "/developer-resources/ethers-js-wrapper"
               }
             },
             {
@@ -2664,7 +2300,7 @@
               "sourceDirName": "developer-resources",
               "slug": "/developer-resources/using-mac",
               "permalink": "/developer-resources/using-mac",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/using-mac.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2690,22 +2326,13 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-guide/development-chain",
               "permalink": "/developer-guide/development-chain",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/development-chain.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Local Development Chain with Protocol Contracts",
                 "description": "How to set up a Celo development blockchain that includes all of the core protocol contracts including identity and stability contracts.",
                 "slug": "/developer-guide/development-chain"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo Forno",
-                "permalink": "/developer-guide/forno"
-              },
-              "next": {
-                "title": "Celo EVM Compatible Tooling",
-                "permalink": "/learn/evm-compatible-tooling"
               }
             },
             {
@@ -2717,7 +2344,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-guide/start/hello-contract-remote-node",
               "permalink": "/developer-guide/start/hello-contract-remote-node",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/hello-contract-remote-node.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2735,7 +2362,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-guide/start/hellocelo",
               "permalink": "/developer-guide/start/hellocelo",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/hellocelo.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2752,7 +2379,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-guide/start/hellocontracts",
               "permalink": "/developer-guide/start/hellocontracts",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/hellocontracts.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2770,7 +2397,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-resources/walkthroughs/hellodapp",
               "permalink": "/developer-resources/walkthroughs/hellodapp",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/hellodapp.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -2784,7 +2411,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-resources/walkthroughs/hellodeploy",
               "permalink": "/developer-resources/walkthroughs/hellodeploy",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/hellodeploy.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -2798,7 +2425,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-resources/walkthroughs/no-code-erc20",
               "permalink": "/developer-resources/walkthroughs/no-code-erc20",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/no-code-erc20.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2815,7 +2442,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-resources/walkthroughs/no-code-erc721",
               "permalink": "/developer-resources/walkthroughs/no-code-erc721",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/no-code-erc721.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2832,7 +2459,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-guide/start/randomness",
               "permalink": "/developer-guide/start/randomness",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/randomness.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2850,7 +2477,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-resources/walkthroughs/",
               "permalink": "/developer-resources/walkthroughs/",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/README.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -2864,7 +2491,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-guide/start/using-js-keystores",
               "permalink": "/developer-guide/start/using-js-keystores",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/using-js-keystores.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2882,7 +2509,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-resources/walkthroughs/valora-wc-v1",
               "permalink": "/developer-resources/walkthroughs/valora-wc-v1",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/valora-wc-v1.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2899,7 +2526,7 @@
               "sourceDirName": "developer-resources/walkthroughs",
               "slug": "/developer-guide/start/web-dapp",
               "permalink": "/developer-guide/start/web-dapp",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/developer-resources/walkthroughs/web-dapp.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2917,7 +2544,7 @@
               "sourceDirName": ".",
               "slug": "/faqs",
               "permalink": "/faqs",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/FAQs.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2940,7 +2567,7 @@
               "sourceDirName": "getting-started/alfajores-testnet",
               "slug": "/getting-started/alfajores-testnet/faucet",
               "permalink": "/getting-started/alfajores-testnet/faucet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/alfajores-testnet/faucet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2957,7 +2584,7 @@
               "sourceDirName": "getting-started/alfajores-testnet",
               "slug": "/getting-started/alfajores-testnet",
               "permalink": "/getting-started/alfajores-testnet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/alfajores-testnet/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2976,7 +2603,7 @@
               "sourceDirName": "getting-started/alfajores-testnet",
               "slug": "/getting-started/alfajores-testnet/running-a-full-node-in-alfajores",
               "permalink": "/getting-started/alfajores-testnet/running-a-full-node-in-alfajores",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/alfajores-testnet/running-a-full-node-in-alfajores.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -2993,7 +2620,7 @@
               "sourceDirName": "getting-started/alfajores-testnet",
               "slug": "/getting-started/alfajores-testnet/using-the-mobile-wallet",
               "permalink": "/getting-started/alfajores-testnet/using-the-mobile-wallet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/alfajores-testnet/using-the-mobile-wallet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3010,7 +2637,7 @@
               "sourceDirName": "getting-started/baklava-testnet",
               "slug": "/getting-started/baklava-testnet",
               "permalink": "/getting-started/baklava-testnet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/baklava-testnet/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3029,7 +2656,7 @@
               "sourceDirName": "getting-started/baklava-testnet",
               "slug": "/getting-started/baklava-testnet/running-a-full-node-in-baklava",
               "permalink": "/getting-started/baklava-testnet/running-a-full-node-in-baklava",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/baklava-testnet/running-a-full-node-in-baklava.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3046,7 +2673,7 @@
               "sourceDirName": "getting-started/baklava-testnet",
               "slug": "/getting-started/baklava-testnet/running-a-validator-in-baklava",
               "permalink": "/getting-started/baklava-testnet/running-a-validator-in-baklava",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/baklava-testnet/running-a-validator-in-baklava.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3063,7 +2690,7 @@
               "sourceDirName": "getting-started",
               "slug": "/getting-started/choosing-a-network",
               "permalink": "/getting-started/choosing-a-network",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/choosing-a-network.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3091,7 +2718,7 @@
               "sourceDirName": "getting-started",
               "slug": "/getting-started/glossary",
               "permalink": "/getting-started/glossary",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/glossary.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3119,7 +2746,7 @@
               "sourceDirName": "getting-started",
               "slug": "/getting-started/hosted-nodes",
               "permalink": "/getting-started/hosted-nodes",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/hosted-nodes.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3138,7 +2765,7 @@
               "sourceDirName": "getting-started/mainnet",
               "slug": "/getting-started/mainnet/",
               "permalink": "/getting-started/mainnet/",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/mainnet/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -3152,7 +2779,7 @@
               "sourceDirName": "getting-started/mainnet",
               "slug": "/getting-started/mainnet/running-a-full-node-in-mainnet",
               "permalink": "/getting-started/mainnet/running-a-full-node-in-mainnet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/mainnet/running-a-full-node-in-mainnet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3178,7 +2805,7 @@
               "sourceDirName": "getting-started/mainnet",
               "slug": "/getting-started/mainnet/running-a-validator-in-mainnet",
               "permalink": "/getting-started/mainnet/running-a-validator-in-mainnet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/mainnet/running-a-validator-in-mainnet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3195,7 +2822,7 @@
               "sourceDirName": "getting-started",
               "slug": "/getting-started/using-the-wallet",
               "permalink": "/getting-started/using-the-wallet",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/using-the-wallet.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3203,15 +2830,6 @@
                 "description": "How to set up and use the Alfajores Testnet Celo Wallet.",
                 "id": "using-the-wallet",
                 "slug": "/getting-started/using-the-wallet"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "intro",
-                "permalink": "/celo-codebase/wallet/intro"
-              },
-              "next": {
-                "title": "Celo Developer Tools",
-                "permalink": "/learn/developer-tools"
               }
             },
             {
@@ -3223,7 +2841,7 @@
               "sourceDirName": "getting-started",
               "slug": "/getting-started/validator-troubleshooting-faq",
               "permalink": "/getting-started/validator-troubleshooting-faq",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/validator-troubleshooting-faq.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3231,11 +2849,6 @@
                 "description": "Answers to frequently asked questions while troubleshooting isses as a Validator.",
                 "id": "validator-troubleshooting-faq",
                 "slug": "/getting-started/validator-troubleshooting-faq"
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Celo Signal",
-                "permalink": "/validator-guide/celo-signal"
               }
             },
             {
@@ -3247,7 +2860,7 @@
               "sourceDirName": "getting-started/wallets",
               "slug": "/getting-started/wallets",
               "permalink": "/getting-started/wallets",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/wallets/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3275,7 +2888,7 @@
               "sourceDirName": "getting-started/wallets/using-metamask-with-celo",
               "slug": "/getting-started/wallets/using-metamask-with-celo",
               "permalink": "/getting-started/wallets/using-metamask-with-celo",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/wallets/using-metamask-with-celo/index.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3294,7 +2907,7 @@
               "sourceDirName": "getting-started/wallets/using-metamask-with-celo",
               "slug": "/getting-started/wallets/using-metamask-with-celo/manual-setup",
               "permalink": "/getting-started/wallets/using-metamask-with-celo/manual-setup",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/wallets/using-metamask-with-celo/manual-setup.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3311,7 +2924,7 @@
               "sourceDirName": "getting-started/wallets/using-metamask-with-celo",
               "slug": "/getting-started/wallets/using-metamask-with-celo/metamask-valora-import",
               "permalink": "/getting-started/wallets/using-metamask-with-celo/metamask-valora-import",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/wallets/using-metamask-with-celo/metamask-valora-import.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3328,7 +2941,7 @@
               "sourceDirName": "getting-started/wallets/using-metamask-with-celo",
               "slug": "/getting-started/wallets/using-metamask-with-celo/programmatic-setup",
               "permalink": "/getting-started/wallets/using-metamask-with-celo/programmatic-setup",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/wallets/using-metamask-with-celo/programmatic-setup.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3345,7 +2958,7 @@
               "sourceDirName": "getting-started/wallets/using-metamask-with-celo",
               "slug": "/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask",
               "permalink": "/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3362,21 +2975,12 @@
               "sourceDirName": "important-information",
               "slug": "/important-information/alfajores-testnet-disclaimer",
               "permalink": "/important-information/alfajores-testnet-disclaimer",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/important-information/alfajores-testnet-disclaimer.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Alfajores Testnet Disclaimer",
                 "description": "Important considerations, warnings, and legal regulations for users of the Alfajores Testnet."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Attestation Service Release Process",
-                "permalink": "/community/release-process/attestation-service"
-              },
-              "next": {
-                "title": "Celo Baklava Testnet Disclaimer",
-                "permalink": "/important-information/baklava-testnet-disclaimer"
               }
             },
             {
@@ -3388,21 +2992,12 @@
               "sourceDirName": "important-information",
               "slug": "/important-information/baklava-testnet-disclaimer",
               "permalink": "/important-information/baklava-testnet-disclaimer",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/important-information/baklava-testnet-disclaimer.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Baklava Testnet Disclaimer",
                 "description": "Important considerations, warnings, and legal regulations for users of the Baklava Testnet."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Alfajores Testnet Disclaimer",
-                "permalink": "/important-information/alfajores-testnet-disclaimer"
-              },
-              "next": {
-                "title": "Celo Mainnet Disclaimer",
-                "permalink": "/important-information/mainnet-network-disclaimer"
               }
             },
             {
@@ -3414,21 +3009,12 @@
               "sourceDirName": "important-information",
               "slug": "/important-information/mainnet-network-disclaimer",
               "permalink": "/important-information/mainnet-network-disclaimer",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/important-information/mainnet-network-disclaimer.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Mainnet Disclaimer",
                 "description": "Important considerations, warnings, and legal regulations for users of the Celo Mainnet."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Baklava Testnet Disclaimer",
-                "permalink": "/important-information/baklava-testnet-disclaimer"
-              },
-              "next": {
-                "title": "Celo",
-                "permalink": "/learn/celo-summary"
               }
             },
             {
@@ -3440,21 +3026,12 @@
               "sourceDirName": "learn",
               "slug": "/learn/CELO-coin-summary",
               "permalink": "/learn/CELO-coin-summary",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/CELO-coin-summary.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo",
                 "description": "Summary of CELO and the value it provides to the community."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Valora",
-                "permalink": "/learn/valora-summary"
-              },
-              "next": {
-                "title": "Platform-Native Stablecoins (cUSD, cEUR)",
-                "permalink": "/learn/platform-native-stablecoins-summary"
               }
             },
             {
@@ -3466,7 +3043,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-economic-model",
               "permalink": "/learn/celo-economic-model",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-economic-model.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3492,7 +3069,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-ecosystem",
               "permalink": "/learn/celo-ecosystem",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-ecosystem.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3518,7 +3095,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-highlights",
               "permalink": "/learn/celo-highlights",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-highlights.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3544,7 +3121,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-milestones",
               "permalink": "/learn/celo-milestones",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-milestones.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -3558,7 +3135,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-onboarding",
               "permalink": "/learn/celo-onboarding",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-onboarding.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3575,7 +3152,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-overview",
               "permalink": "/learn/celo-overview",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-overview.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3592,7 +3169,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-protocol",
               "permalink": "/learn/celo-protocol",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-protocol.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3609,21 +3186,12 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-protocol-summary",
               "permalink": "/learn/celo-protocol-summary",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-protocol-summary.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Protocol",
                 "description": "Summary of the Celo Protocol and the value it provides to the community."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo",
-                "permalink": "/learn/celo-summary"
-              },
-              "next": {
-                "title": "Valora",
-                "permalink": "/learn/valora-summary"
               }
             },
             {
@@ -3635,17 +3203,12 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-resources",
               "permalink": "/learn/celo-resources",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-resources.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Resources",
                 "description": "Curated collection of Celo resources for developers, designers, dreamers, and doers."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Platform-Native Stablecoins (cUSD, cEUR)",
-                "permalink": "/learn/platform-native-stablecoins-summary"
               }
             },
             {
@@ -3657,7 +3220,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-stack",
               "permalink": "/learn/celo-stack",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-stack.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {}
@@ -3671,21 +3234,12 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-summary",
               "permalink": "/learn/celo-summary",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-summary.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo",
                 "description": "Summary of Celo and the value it provides to the community."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Mainnet Disclaimer",
-                "permalink": "/important-information/mainnet-network-disclaimer"
-              },
-              "next": {
-                "title": "Celo Protocol",
-                "permalink": "/learn/celo-protocol-summary"
               }
             },
             {
@@ -3697,7 +3251,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/celo-whitepapers",
               "permalink": "/learn/celo-whitepapers",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/celo-whitepapers.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3723,7 +3277,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/developer-onboarding",
               "permalink": "/learn/developer-onboarding",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/developer-onboarding.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3740,21 +3294,12 @@
               "sourceDirName": "learn",
               "slug": "/learn/developer-tools",
               "permalink": "/learn/developer-tools",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/developer-tools.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Developer Tools",
                 "description": "Overview of Celo tools and the value they provide to developers."
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Using the Celo Wallet",
-                "permalink": "/getting-started/using-the-wallet"
-              },
-              "next": {
-                "title": "Celo ContractKit",
-                "permalink": "/developer-guide/contractkit"
               }
             },
             {
@@ -3766,21 +3311,12 @@
               "sourceDirName": "learn",
               "slug": "/learn/evm-compatible-tooling",
               "permalink": "/learn/evm-compatible-tooling",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/evm-compatible-tooling.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo EVM Compatible Tooling",
                 "description": "Overview of Celo EVM compatible tools and the value they provide to developers."
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo Local Development Chain with Protocol Contracts",
-                "permalink": "/developer-guide/development-chain"
-              },
-              "next": {
-                "title": "Deploy on Celo",
-                "permalink": "/developer-resources/deploy-dapp"
               }
             },
             {
@@ -3792,7 +3328,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/figment-learn",
               "permalink": "/learn/figment-learn",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/figment-learn.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3809,7 +3345,7 @@
               "sourceDirName": "learn",
               "slug": "/key-concepts",
               "permalink": "/key-concepts",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/key-concepts.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3837,21 +3373,12 @@
               "sourceDirName": "learn",
               "slug": "/learn/platform-native-stablecoins-summary",
               "permalink": "/learn/platform-native-stablecoins-summary",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/platform-native-stablecoins-summary.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Platform-Native Stablecoins (cUSD, cEUR)",
                 "description": "Summary of Celo Platform-Native Stablecoins and the value they provide to the community."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo",
-                "permalink": "/learn/CELO-coin-summary"
-              },
-              "next": {
-                "title": "Celo Resources",
-                "permalink": "/learn/celo-resources"
               }
             },
             {
@@ -3863,7 +3390,7 @@
               "sourceDirName": "learn",
               "slug": "/learn/topology-of-a-celo-network",
               "permalink": "/learn/topology-of-a-celo-network",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/topology-of-a-celo-network.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3880,21 +3407,12 @@
               "sourceDirName": "learn",
               "slug": "/learn/valora-summary",
               "permalink": "/learn/valora-summary",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/valora-summary.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Valora",
                 "description": "Summary of Valora and the value it provides to the community."
-              },
-              "sidebar": "contributors",
-              "previous": {
-                "title": "Celo Protocol",
-                "permalink": "/learn/celo-protocol-summary"
-              },
-              "next": {
-                "title": "Celo",
-                "permalink": "/learn/CELO-coin-summary"
               }
             },
             {
@@ -3906,20 +3424,11 @@
               "sourceDirName": "learn",
               "slug": "/learn/walletconnect",
               "permalink": "/learn/walletconnect",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/walletconnect.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "WalletConnect"
-              },
-              "sidebar": "developers",
-              "previous": {
-                "title": "Celo Ethers.js Wrapper",
-                "permalink": "/developer-resources/ethers-js-wrapper"
-              },
-              "next": {
-                "title": "Celo DAppKit",
-                "permalink": "/developer-guide/dappkit"
               }
             },
             {
@@ -3931,7 +3440,7 @@
               "sourceDirName": "learn",
               "slug": "/why-celo",
               "permalink": "/why-celo",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/learn/why-celo.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -3944,45 +3453,40 @@
             {
               "unversionedId": "overview",
               "id": "overview",
-              "title": "ZSC Chain",
-              "description": "Overview of the ZSC Chain and it's relationship to the Ethereum blockchain.",
+              "title": "Privacy Policy",
+              "description": "Lmax Group Privacy Policy.",
               "source": "@site/docs/overview.md",
               "sourceDirName": ".",
               "slug": "/overview",
               "permalink": "/overview",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/overview.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "ZSC Chain",
-                "description": "Overview of the ZSC Chain and it's relationship to the Ethereum blockchain.",
-                "id": "overview"
+                "title": "Privacy Policy",
+                "description": "Lmax Group Privacy Policy."
               }
             },
             {
               "unversionedId": "validator-guide/attestation-service",
               "id": "validator-guide/attestation-service",
-              "title": "Celo Attestation Service",
-              "description": "How to configure, run, and manage an attestation service as a Celo Validator.",
+              "title": "Disclaimers",
+              "description": "Last Updated: May 2023",
               "source": "@site/docs/validator-guide/attestation-service.md",
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/attestation-service",
               "permalink": "/validator-guide/attestation-service",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/attestation-service.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Celo Attestation Service",
-                "descriptin": "How to configure, run, and manage an attestation service as a Celo Validator."
+                "title": "Disclaimers",
+                "descriptin": "Lmax Group Disclaimers."
               },
               "sidebar": "validators",
               "previous": {
-                "title": "Celo Validators",
+                "title": "Privacy Policy",
                 "permalink": "/validator-guide/overview"
-              },
-              "next": {
-                "title": "Celo Key Management Summary",
-                "permalink": "/validator-guide/summary"
               }
             },
             {
@@ -3994,21 +3498,12 @@
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/celo-foundation-voting-policy",
               "permalink": "/validator-guide/celo-foundation-voting-policy",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/celo-foundation-voting-policy.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Foundation Voting Policy",
                 "description": "How the Celo Foundation anticipates allocating its votes to validator groups, with special attention to the first allocated groups at the Celo Mainnet release and the months thereafter."
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Validator Explorer",
-                "permalink": "/validator-guide/validator-explorer"
-              },
-              "next": {
-                "title": "Celo Signal",
-                "permalink": "/validator-guide/celo-signal"
               }
             },
             {
@@ -4020,21 +3515,12 @@
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/celo-signal",
               "permalink": "/validator-guide/celo-signal",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/celo-signal.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Signal",
                 "description": "How to join the mailing list for everything involving the Celo core community and owners who participate in governance."
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Celo Foundation Voting Policy",
-                "permalink": "/validator-guide/celo-foundation-voting-policy"
-              },
-              "next": {
-                "title": "Celo Validator Troubleshooting FAQ",
-                "permalink": "/getting-started/validator-troubleshooting-faq"
               }
             },
             {
@@ -4046,21 +3532,12 @@
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/devops-best-practices",
               "permalink": "/validator-guide/devops-best-practices",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/devops-best-practices.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo DevOps Best Practices",
                 "description": "Best practices for running cloud infrastructure for Celo nodes and services."
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Celo Monitoring",
-                "permalink": "/validator-guide/monitoring"
-              },
-              "next": {
-                "title": "Upgrade a Celo Node",
-                "permalink": "/validator-guide/node-upgrades"
               }
             },
             {
@@ -4072,22 +3549,13 @@
               "sourceDirName": "validator-guide/key-management",
               "slug": "/validator-guide/summary/detailed",
               "permalink": "/validator-guide/summary/detailed",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/key-management/detailed.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Detailed Role Descriptions",
                 "description": "Detailed description of the various account roles found in the Celo protocol with examples of how to designate an account as playing a particular role.",
                 "slug": "/validator-guide/summary/detailed"
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Celo Key Management Summary",
-                "permalink": "/validator-guide/summary"
-              },
-              "next": {
-                "title": "Celo Validator Signer Key Rotation",
-                "permalink": "/validator-guide/summary/key-rotation"
               }
             },
             {
@@ -4099,22 +3567,13 @@
               "sourceDirName": "validator-guide/key-management",
               "slug": "/validator-guide/summary/key-rotation",
               "permalink": "/validator-guide/summary/key-rotation",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/key-management/key-rotation.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Validator Signer Key Rotation",
                 "description": "How to manage signer key rotations as a Celo Validator.",
                 "slug": "/validator-guide/summary/key-rotation"
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Celo Detailed Role Descriptions",
-                "permalink": "/validator-guide/summary/detailed"
-              },
-              "next": {
-                "title": "Run Secure Celo Nodes and Services",
-                "permalink": "/validator-guide/securing-nodes-and-services"
               }
             },
             {
@@ -4126,22 +3585,13 @@
               "sourceDirName": "validator-guide/key-management",
               "slug": "/validator-guide/summary",
               "permalink": "/validator-guide/summary",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/key-management/summary.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Key Management Summary",
                 "description": "Introduction to the philosophy and account roles related to key management on Celo.",
                 "slug": "/validator-guide/summary"
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Celo Attestation Service",
-                "permalink": "/validator-guide/attestation-service"
-              },
-              "next": {
-                "title": "Celo Detailed Role Descriptions",
-                "permalink": "/validator-guide/summary/detailed"
               }
             },
             {
@@ -4153,21 +3603,12 @@
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/monitoring",
               "permalink": "/validator-guide/monitoring",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/monitoring.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Celo Monitoring",
                 "description": "Commands, metrics, APIs, and services for monitoring Validators and Proxies."
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Run Secure Celo Nodes and Services",
-                "permalink": "/validator-guide/securing-nodes-and-services"
-              },
-              "next": {
-                "title": "Celo DevOps Best Practices",
-                "permalink": "/validator-guide/devops-best-practices"
               }
             },
             {
@@ -4179,42 +3620,33 @@
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/node-upgrades",
               "permalink": "/validator-guide/node-upgrades",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/node-upgrades.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Upgrade a Celo Node",
                 "description": "How to upgrade to the newest available version of a Celo node."
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Celo DevOps Best Practices",
-                "permalink": "/validator-guide/devops-best-practices"
-              },
-              "next": {
-                "title": "Running Proxies on Celo",
-                "permalink": "/validator-guide/proxy"
               }
             },
             {
               "unversionedId": "validator-guide/overview",
               "id": "validator-guide/overview",
-              "title": "Celo Validators",
-              "description": "Collection of resources to support Validators on the Celo network.",
+              "title": "Privacy Policy",
+              "description": "Lmax Group Privacy Policy.",
               "source": "@site/docs/validator-guide/overview.md",
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/overview",
               "permalink": "/validator-guide/overview",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/overview.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Celo Validators",
-                "description": "Collection of resources to support Validators on the Celo network."
+                "title": "Privacy Policy",
+                "description": "Lmax Group Privacy Policy."
               },
               "sidebar": "validators",
               "next": {
-                "title": "Celo Attestation Service",
+                "title": "Disclaimers",
                 "permalink": "/validator-guide/attestation-service"
               }
             },
@@ -4227,21 +3659,12 @@
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/proxy",
               "permalink": "/validator-guide/proxy",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/proxy.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Running Proxies on Celo",
                 "description": "How to ensure Validator uptime by running proxy nodes."
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Upgrade a Celo Node",
-                "permalink": "/validator-guide/node-upgrades"
-              },
-              "next": {
-                "title": "Validator Explorer",
-                "permalink": "/validator-guide/validator-explorer"
               }
             },
             {
@@ -4253,21 +3676,12 @@
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/securing-nodes-and-services",
               "permalink": "/validator-guide/securing-nodes-and-services",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/securing-nodes-and-services.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Run Secure Celo Nodes and Services",
                 "description": "Recommendations for running secure Celo nodes and services."
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Celo Validator Signer Key Rotation",
-                "permalink": "/validator-guide/summary/key-rotation"
-              },
-              "next": {
-                "title": "Celo Monitoring",
-                "permalink": "/validator-guide/monitoring"
               }
             },
             {
@@ -4279,21 +3693,12 @@
               "sourceDirName": "validator-guide",
               "slug": "/validator-guide/validator-explorer",
               "permalink": "/validator-guide/validator-explorer",
-              "editUrl": "https://github.com/celo-org/docs/edit/main/docs/validator-guide/validator-explorer.md",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "Validator Explorer",
                 "description": "How to use the Validator Explorer to view Validator performance."
-              },
-              "sidebar": "validators",
-              "previous": {
-                "title": "Running Proxies on Celo",
-                "permalink": "/validator-guide/proxy"
-              },
-              "next": {
-                "title": "Celo Foundation Voting Policy",
-                "permalink": "/validator-guide/celo-foundation-voting-policy"
               }
             },
             {
@@ -4305,7 +3710,7 @@
               "sourceDirName": ".",
               "slug": "/",
               "permalink": "/",
-              "editUrl": "https://github.com/ZSC-group/docs",
+              "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -4325,7 +3730,7 @@
             "docs": [
               {
                 "type": "doc",
-                "label": "Welcome to LMAX Group",
+                "label": "Welcome to LMAX",
                 "id": "welcome"
               },
               {
@@ -4377,7 +3782,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "label": "ZSC Wallets",
+                    "label": "LMAX Wallets",
                     "id": "getting-started/wallets/index"
                   }
                 ],
@@ -4403,7 +3808,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "label": "ZSC Bridges",
+                    "label": "LMAX Bridges",
                     "id": "celo-codebase/protocol/bridging/bridging-to-celo"
                   },
                   {
@@ -4413,12 +3818,12 @@
                   },
                   {
                     "type": "doc",
-                    "label": "Native Assets with Zscscan",
+                    "label": "Native Assets with LMAX",
                     "id": "celo-codebase/protocol/bridging/bridging-native-assets"
                   },
                   {
                     "type": "doc",
-                    "label": "Tokens with Zscscan",
+                    "label": "Tokens with LMAX",
                     "id": "celo-codebase/protocol/bridging/bridging-tokens-with-etherscan"
                   },
                   {
@@ -4581,81 +3986,13 @@
             "validators": [
               {
                 "type": "doc",
-                "label": "Overview",
+                "label": "privacy Policy",
                 "id": "validator-guide/overview"
               },
               {
                 "type": "doc",
-                "label": "Attestation Service",
+                "label": "Disclaimers",
                 "id": "validator-guide/attestation-service"
-              },
-              {
-                "type": "category",
-                "label": "Key Management",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Summary",
-                    "id": "validator-guide/key-management/summary"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Key Management",
-                    "id": "validator-guide/key-management/detailed"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Key Rotation",
-                    "id": "validator-guide/key-management/key-rotation"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "doc",
-                "label": "Run Secure Nodes and Services",
-                "id": "validator-guide/securing-nodes-and-services"
-              },
-              {
-                "type": "doc",
-                "label": "Monitoring",
-                "id": "validator-guide/monitoring"
-              },
-              {
-                "type": "doc",
-                "label": "DevOps Best Practices",
-                "id": "validator-guide/devops-best-practices"
-              },
-              {
-                "type": "doc",
-                "label": "Node Upgrades",
-                "id": "validator-guide/node-upgrades"
-              },
-              {
-                "type": "doc",
-                "label": "Running Proxies",
-                "id": "validator-guide/proxy"
-              },
-              {
-                "type": "doc",
-                "label": "Validator Explorer",
-                "id": "validator-guide/validator-explorer"
-              },
-              {
-                "type": "doc",
-                "label": "Voting Policy",
-                "id": "validator-guide/celo-foundation-voting-policy"
-              },
-              {
-                "type": "doc",
-                "label": "Celo Signal",
-                "id": "validator-guide/celo-signal"
-              },
-              {
-                "type": "doc",
-                "label": "Validator FAQ",
-                "id": "getting-started/validator-troubleshooting-faq"
               }
             ],
             "developers": [
@@ -4681,322 +4018,6 @@
                 ],
                 "collapsible": true,
                 "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Wallet",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "MetaMask",
-                    "id": "developer-resources/testnet-wallet"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Celo Wallet",
-                    "items": [
-                      {
-                        "type": "doc",
-                        "label": "Celo Wallet",
-                        "id": "celo-codebase/wallet/index"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Running the wallet locally",
-                        "id": "celo-codebase/wallet/intro"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Using the Wallet",
-                        "id": "getting-started/using-the-wallet"
-                      }
-                    ],
-                    "collapsible": true,
-                    "collapsed": true
-                  },
-                  {
-                    "type": "link",
-                    "label": "Faucet",
-                    "href": "https://celo.org/developers/faucet"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Tools",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Overview",
-                    "id": "learn/developer-tools"
-                  },
-                  {
-                    "type": "category",
-                    "label": "SDKs",
-                    "items": [
-                      {
-                        "type": "category",
-                        "label": "ContractKit",
-                        "items": [
-                          {
-                            "type": "doc",
-                            "label": "Overview",
-                            "id": "developer-resources/contractkit/index"
-                          },
-                          {
-                            "type": "doc",
-                            "label": "Setup",
-                            "id": "developer-resources/contractkit/setup"
-                          },
-                          {
-                            "type": "doc",
-                            "label": "Usage",
-                            "id": "developer-resources/contractkit/usage"
-                          },
-                          {
-                            "type": "doc",
-                            "label": "Use Web3 from ContracKit",
-                            "id": "developer-resources/contractkit/notes-web3-with-contractkit"
-                          },
-                          {
-                            "type": "doc",
-                            "label": "Wrappers & Registry Contracts",
-                            "id": "developer-resources/contractkit/contracts-wrappers-registry"
-                          },
-                          {
-                            "type": "doc",
-                            "label": "Query On-Chain Identifiers with ODIS",
-                            "id": "developer-resources/contractkit/odis"
-                          },
-                          {
-                            "type": "doc",
-                            "label": "Migrate to ContractKit v1",
-                            "id": "developer-resources/contractkit/migrating-to-contractkit-v1"
-                          }
-                        ],
-                        "collapsible": true,
-                        "collapsed": true
-                      },
-                      {
-                        "type": "doc",
-                        "label": "use-contractkit",
-                        "id": "developer-resources/use-contractkit"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Ethers.JS Wrapper",
-                        "id": "developer-resources/ethers-js-wrapper"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "WalletConnect",
-                        "id": "learn/walletconnect"
-                      },
-                      {
-                        "type": "category",
-                        "label": "DAppKit",
-                        "items": [
-                          {
-                            "type": "doc",
-                            "label": "Overview",
-                            "id": "developer-resources/dappkit/index"
-                          },
-                          {
-                            "type": "doc",
-                            "label": "Setup",
-                            "id": "developer-resources/dappkit/setup"
-                          },
-                          {
-                            "type": "doc",
-                            "label": "Usage",
-                            "id": "developer-resources/dappkit/usage"
-                          }
-                        ],
-                        "collapsible": true,
-                        "collapsed": true
-                      },
-                      {
-                        "type": "link",
-                        "label": "Command Line",
-                        "href": "https://docs.celo.org/command-line-interface/introduction"
-                      }
-                    ],
-                    "collapsible": true,
-                    "collapsed": true
-                  },
-                  {
-                    "type": "category",
-                    "label": "Infrastructure",
-                    "items": [
-                      {
-                        "type": "link",
-                        "label": "BlockScout",
-                        "href": "https://explorer.celo.org/"
-                      },
-                      {
-                        "type": "link",
-                        "label": "ODIS",
-                        "href": "https://docs.celo.org/command-line-interface/introduction"
-                      },
-                      {
-                        "type": "link",
-                        "label": "The Graph",
-                        "href": "https://thegraph.com/en/"
-                      },
-                      {
-                        "type": "link",
-                        "label": "DappLooker",
-                        "href": "https://dapplooker.com/integration/celo"
-                      },
-                      {
-                        "type": "link",
-                        "label": "stats.celo.org",
-                        "href": "https://stats.celo.org/"
-                      }
-                    ],
-                    "collapsible": true,
-                    "collapsed": true
-                  },
-                  {
-                    "type": "category",
-                    "label": "Hosted Nodes",
-                    "items": [
-                      {
-                        "type": "doc",
-                        "label": "Forno",
-                        "id": "developer-resources/forno/index"
-                      }
-                    ],
-                    "collapsible": true,
-                    "collapsed": true
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Development Chain",
-                    "id": "developer-resources/walkthroughs/development-chain"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Ethereum Tools",
-                    "id": "learn/evm-compatible-tooling"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Deploy",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Overview",
-                    "id": "developer-resources/deploy-dapp"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Remix",
-                    "id": "developer-resources/deploy-remix"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Truffle",
-                    "id": "developer-resources/deploy-truffle"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Hardhat",
-                    "id": "developer-resources/deploy-hardhat"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Replit",
-                    "id": "developer-resources/deploy-replit"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Integrate",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Overview",
-                    "id": "developer-resources/integrations/integrations"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "General",
-                    "id": "developer-resources/integrations/general"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Checklist",
-                    "id": "developer-resources/integrations/checklist"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Custody",
-                    "id": "developer-resources/integrations/custody"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Listings",
-                    "id": "developer-resources/integrations/listings"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Cloud HSM",
-                    "id": "developer-resources/integrations/cloud-hsm"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Tutorials",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Celo Tutorials",
-                    "href": "https://docs.celo.org/blog"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Figment | Celo 101",
-                    "href": "https://learn.figment.io/protocols/celo/"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Dacade | Celo 101",
-                    "href": "https://dacade.org/communities/celo-development-101"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "From another platform?",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Ethereum Developers",
-                    "id": "developer-resources/celo-for-eth-devs"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "link",
-                "label": "SDK Code Reference",
-                "href": "https://celo-sdk-docs.readthedocs.io/"
               }
             ],
             "contributors": [
@@ -5009,151 +4030,6 @@
                 "type": "doc",
                 "label": "Developer Events",
                 "id": "community/developer-events"
-              },
-              {
-                "type": "category",
-                "label": "Ambassadors",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Guidelines",
-                    "id": "community/guidelines"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Code",
-                    "id": "community/code-contributors"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Translation",
-                    "id": "community/translation-contributors"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Documentation ",
-                    "id": "community/documentation-contributors"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Community Improvements",
-                    "id": "community/CIP-contributors"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "doc",
-                "label": "Code of Conduct",
-                "id": "community/code-of-conduct"
-              },
-              {
-                "type": "doc",
-                "label": "Grant Playbook",
-                "id": "community/grant-playbook"
-              },
-              {
-                "type": "category",
-                "label": " Release Process",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Overview",
-                    "id": "community/release-process/README"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Smart Contracts",
-                    "id": "community/release-process/smart-contracts"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Blockchain Client",
-                    "id": "community/release-process/blockchain-client"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "CeloCLI and ContractKit",
-                    "id": "community/release-process/base-cli-contractkit-dappkit-utils"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Attestation Service",
-                    "id": "community/release-process/attestation-service"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Important Information",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Alfajores Testnet Disclaimer",
-                    "id": "important-information/alfajores-testnet-disclaimer"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Baklava Testnet Disclaimer",
-                    "id": "important-information/baklava-testnet-disclaimer"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Mainnet Disclaimer",
-                    "id": "important-information/mainnet-network-disclaimer"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Resources",
-                "items": [
-                  {
-                    "type": "category",
-                    "label": "Quick Guides",
-                    "items": [
-                      {
-                        "type": "doc",
-                        "label": "Celo",
-                        "id": "learn/celo-summary"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Celo Protocol",
-                        "id": "learn/celo-protocol-summary"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Valora",
-                        "id": "learn/valora-summary"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "CELO",
-                        "id": "learn/CELO-coin-summary"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Celo Stablecoins",
-                        "id": "learn/platform-native-stablecoins-summary"
-                      }
-                    ],
-                    "collapsible": true,
-                    "collapsed": true
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Celo Resources",
-                    "id": "learn/celo-resources"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
               }
             ]
           },
@@ -5325,7 +4201,7 @@
                 "permalink": "/blog/tags/sdk"
               }
             ],
-            "readingTime": 6.54,
+            "readingTime": 6.506666666666667,
             "truncated": true,
             "authors": [
               {
@@ -5345,7 +4221,7 @@
               "permalink": "/blog/2022/01/05/no-code-erc721"
             }
           },
-          "content": "The basics of developing a decentralised application (DApp) on Celo.\n\n<!--truncate-->\n\n## Getting Started\n\nThis example will develop using one of the core Celo contracts, [Governance.sol](https://github.com/celo-org/celo-monorepo/blob/master/packages/protocol/contracts/governance/Governance.sol), and allowing users of our DApp to vote on active [Celo Governance proposals](https://docs.celo.org/celo-owner-guide/voting-governance).\n\n## Foreword\n\nThis guide requires an understanding of a few popular web technologies. Our application will be written in [React](https://reactjs.org/), utilising [hooks](https://reactjs.org/docs/hooks-intro.html) for state management and built with [Next.js](https://nextjs.org/), a popular static site generation framework.\n\nIf you find this tutorial lacking in any way or want to dive into the code more thoroughly, checkout the [Celo Tools](https://github.com/alexbharley/celo-tools) GitHub repository where much of this tutorial has been ported from.\n\n## Getting started\n\nStep one of developing our application is scaffolding it out with `create-next-app` and adding TypeScript compilation so we can develop more confidently.\n\n```bash\nyarn create next-app voting-dapp\ncd voting-dapp\ntouch tsconfig.json\nyarn add --dev typescript @types/react @types/node\n```\n\nNow running `yarn dev` should open up our new Next.js website on `localhost:3000`.\n\nNext we'll need to add a few Celo specific dependencies so we can work with our core contracts.\n\n```bash\nyarn add @celo/contractkit @celo-tools/use-contractkit bignumber.js\n```\n\nHere's what we'll be using each of these packages for:\n\n- [@celo/contractkit](https://github.com/celo-org/celo-monorepo/tree/master/packages/sdk/contractkit) is a lightweight wrapper around the [Web3](https://web3js.readthedocs.io/) object you may already be familiar with. It contains typed interfaces for the core contracts (generated from the Contract ABIs) and helper functions to make common operations on Celo easier\n- [@celo-tools/use-contractkit](https://github.com/celo-tools/use-contractkit) is a community provided library to ease establishing the connection with a user's wallet, whether that is a hardware, mobile, or web wallet. When developing with this library, your users can hold Celo via [Valora](https://valoraapp.com), a Ledger, Metamask and more\n- [bignumber.js](https://github.com/MikeMcl/bignumber.js/) is a library for expressing large numbers in JavaScript. When interacting with a blockchain we often need to handle arbitrary-precision decimal and non-decimal arithmetic.\n\nWe'll also need to add some Next.js config to work with these packages. Update next.config.js with the following:\n\n```javascript title=\"next.config.js\"\nmodule.exports = {\n  webpack: (config) => {\n    config.resolve.fallback = {\n      ...config.resolve.fallback,\n      fs: false,\n      net: false,\n      child_process: false,\n      readline: false,\n    };\n    return config;\n  },\n};\n```\n\nWe'll need to restart the server for the config changes to take effect.\n\n## Developing the application\n\nAfter all our boilerplate has been setup, we're ready to start developing our application.\n\n### Connecting to the user's wallet\n\nWhen a user wants to interact with your DApp we need to somehow allow them to connect their wallet. Interaction with on chain smart contracts is impossible without this step.\n\nLeveraging our previously added [@celo-tools/use-contractkit](https://github.com/celo-tools/use-contractkit) library we can provide a button that prompts the user to connect their wallet.\n\nUpdate pages/index.js with the following:\n\n```javascript title=\"pages/index.js\"\nimport React from \"react\";\nimport { useContractKit } from \"@celo-tools/use-contractkit\";\nimport { ContractKitProvider } from \"@celo-tools/use-contractkit\";\nimport \"@celo-tools/use-contractkit/lib/styles.css\";\n\nfunction App() {\n  const { address, connect } = useContractKit();\n\n  return (\n    <main>\n      <h1>Celo Voting DApp</h1>\n      <p>{address}</p>\n      <button onClick={connect}>Click here to connect your wallet</button>\n    </main>\n  );\n}\n\nfunction WrappedApp() {\n  return (\n    <ContractKitProvider\n      dapp={{\n        name: \"My awesome dApp\",\n        description: \"My awesome description\",\n        url: \"https://example.com\",\n      }}\n    >\n      <App />\n    </ContractKitProvider>\n  );\n}\nexport default WrappedApp;\n```\n\nClicking this button will show the `use-contractkit` modal and allow the user to connect with their wallet of choice. Once the modal has been dismissed, the `address` property exposed by `use-contractkit` will be filled with the users primary account.\n\n### Accessing contracts\n\nAfter that we've connected to the user's wallet we can show interesting information based on their address. In the context of a governance voting DApp it may make sense to show past proposals they've voted on. If we were creating a simple banking interface, we could imagine wanting to show transfers into and out of the users account.\n\n:::info\n\nOn the Celo blockchain, only queued and dequeued proposals are kept in the Governance state. That means to access old proposals we'd need to access an indexed history of the blockchain. This is out of scope for our tutorial however there's many resources online you can find that will help you accessing indexed blockchain state.\n\nFor a comprehensive look at how to interpret this on chain state, take a look at the implementation for the [celocli governance:list](https://github.com/celo-org/celo-monorepo/blob/master/packages/cli/src/commands/governance/list.ts) command.\n\nFor the purposes of this tutorial, we'll only be looking at dequeued proposals, or proposals we can currently vote on.\n\n:::\n\nHere's how it looks using a combination of the `useEffect` and `useCallback` hooks to request and display all dequeued proposals from the blockchain.\n\n```javascript title=\"pages/index.js\"\nimport React, { useCallback, useEffect, useState } from \"react\";\nimport { useContractKit } from \"@celo-tools/use-contractkit\";\n\nfunction GovernanceApp() {\n  const { address, connect, kit, getConnectedKit } = useContractKit();\n  const [proposals, setProposals] = useState([]);\n\n  const fetchProposals = useCallback(async () => {\n    const governance = await kit.contracts.getGovernance();\n    const dequeue = await governance.getDequeue();\n\n    const fetchedProposals = await Promise.all(\n      dequeue.map(async (id) => ({\n        id,\n        ...(await governance.getProposalRecord(id)),\n      }))\n    );\n    setProposals(fetchedProposals);\n  }, [kit]);\n\n  useEffect(() => {\n    fetchProposals();\n  }, [fetchProposals]);\n\n  return (\n    <div>\n      <h1>Celo Voting DApp</h1>\n      <p>{address}</p>\n      <button onClick={connect}>Click here to connect your wallet</button>\n      <table>\n        <thead>\n          <tr>\n            <th>ID</th>\n            <th>Status</th>\n            <th>Description URL</th>\n          </tr>\n        </thead>\n        <tbody>\n          {proposals.map((proposal) => (\n            <tr>\n              <td>{proposal.id.toString()}</td>\n              <td>\n                {proposal.passed\n                  ? \"Passed\"\n                  : proposal.approved\n                  ? \"Approved\"\n                  : \"Not approved\"}\n              </td>\n              <td>\n                <a\n                  href={proposal.metadata.descriptionURL}\n                  target=\"_blank\"\n                  style={{ color: \"blue\", textDecoration: \"underline\" }}\n                >\n                  Link\n                </a>\n              </td>\n            </tr>\n          ))}\n        </tbody>\n      </table>\n    </div>\n  );\n}\n```\n\nBe sure to add this new `GovernanceApp` component to your `WrappedApp` component.\n\n```js title=\"pages/index.js\"\nfunction WrappedApp() {\n  return (\n    <ContractKitProvider\n      dapp={{\n        name: \"My awesome dApp\",\n        description: \"My awesome description\",\n        url: \"https://example.com\",\n      }}\n    >\n      <GovernanceApp />\n    </ContractKitProvider>\n  );\n}\n```\n\nThis works pretty well however it makes sense to additionally show whether the user has voted on any given dequeued governance proposal. To show that information, we can amend our `fetchProposals` function as follows\n\n```js title=\"pages/index.js\"\nconst fetchProposals = useCallback(async () => {\n  if (!address) {\n    return;\n  }\n\n  const governance = await kit.contracts.getGovernance();\n  const dequeue = await governance.getDequeue();\n\n  const fetchedProposals = await Promise.all(\n    dequeue.map(async (id) => {\n      const [record, voteRecord] = await Promise.all([\n        governance.getProposalRecord(id),\n        governance.getVoteRecord(address, id),\n      ]);\n\n      return {\n        id,\n        ...record,\n        vote: voteRecord ? voteRecord.value : undefined,\n      };\n    })\n  );\n  setProposals(fetchedProposals);\n}, [kit, address]);\n```\n\nNow we have access to whether the user voted on this proposal, we can render that information in our table.\n\n```js title=\"pages/index.js\"\nreturn (\n  <table>\n    <thead>\n      <tr>\n        <th>ID</th>\n        <th>Status</th>\n        <th>Description URL</th>\n        <th>Voted</th>\n      </tr>\n    </thead>\n    <tbody>\n      {proposals.map((proposal) => (\n        <tr>\n          <td>{proposal.id.toString()}</td>\n          <td>\n            {proposal.passed\n              ? \"Passed\"\n              : proposal.approved\n              ? \"Approved\"\n              : \"Not approved\"}\n          </td>\n          <td>\n            <a\n              style={{ color: \"blue\", textDecoration: \"underline\" }}\n              href={proposal.metadata.descriptionURL}\n              target=\"_blank\"\n            >\n              Link\n            </a>\n          </td>\n          <td>{proposal.vote ?? \"No vote yet\"}</td>\n        </tr>\n      ))}\n    </tbody>\n  </table>\n);\n```\n\n### Locking Celo (optional)\n\nA prerequisite to [voting on Celo governance proposals](/celo-owner-guide/voting-governance) is having locked Celo to vote with. We won't cover the various flows for locking, unlocking and relocking Celo in this tutorial but you can check the implementation in [Celo Tools](https://github.com/alexbharley/celo-tools) or take inspiration from the following script:\n\n```javascript\nconst lockValue = new BigNumber(res.flags.value);\n\nconst lockedGold = await this.kit.contracts.getLockedGold();\nconst pendingWithdrawalsValue =\n  await lockedGold.getPendingWithdrawalsTotalValue(address);\nconst relockValue = BigNumber.minimum(pendingWithdrawalsValue, value);\nconst lockValue = value.minus(relockValue);\n\nconst txos = await lockedGold.relock(address, relockValue);\nfor (const txo of txos) {\n  await kit.sendAndWaitForReceipt({ from: address });\n}\n```\n\nAll you need to take care of in your React application is handling user input to select the amount to lock and handling errors in case the user tries to lock more CELO than they hold.\n\nIt's also possible that users of your DApp already have locked CELO, so you might not need to worry about the complexity of permitting that operation.\n\n### Voting on a proposal\n\nTo actually vote on a proposal we need to again interact with the [Governance.sol](https://github.com/celo-org/celo-monorepo/blob/master/packages/protocol/contracts/governance/Governance.sol) smart contract. Our logic for handling a vote looks as follows:\n\n```typescript title=\"pages/index.js\"\nconst vote = useCallback(\n  async (id: string, value: VoteValue) => {\n    const kit = await getConnectedKit();\n    const governance = await kit.contracts.getGovernance();\n    await (await governance.vote(id, value)).sendAndWaitForReceipt();\n    fetchProposals();\n  },\n  [kit, fetchProposals]\n);\n```\n\nHow you handle calling that function is up to you. With [Celo Tools](https://github.com/alexbharley/celo-tools) we opted for simple upwards and downwards facing arrows to handle voting on proposals, however the data can be rendered however you'd prefer.\n\nHere's a simple example showing buttons for `Yes` or `No` votes when no vote has been cast.\n\n```javascript title=\"pages/index.js\"\nimport { VoteValue } from \"@celo/contractkit/lib/wrappers/Governance\";\n\nreturn (\n  <tr>\n    <td>{proposal.id.toString()}</td>\n    <td>\n      {proposal.passed\n        ? \"Passed\"\n        : proposal.approved\n        ? \"Approved\"\n        : \"Not approved\"}\n    </td>\n    <td>\n      <a href={proposal.descriptionURL} target=\"_blank\">\n        Description link\n      </a>\n    </td>\n    <td>\n      {proposal.vote ? (\n        <span>{proposal.vote}</span>\n      ) : (\n        <div>\n          <button onClick={() => vote(proposal.id, VoteValue.Yes)}>Yes</button>\n          <button onClick={() => vote(proposal.id, VoteValue.No)}>No</button>\n        </div>\n      )}\n    </td>\n  </tr>\n);\n```\n\n## Best practices\n\nWe've compiled a short list on best practices to follow when developing DApps. Following these will improve the end user experience and keep them more engaged with the Celo ecosystem. If you have any questions around these, feel free to [reach out on Discord](https://chat.celo.org), we're always there and happy to chat.\n\n### Last used address\n\n[@celo-tools/use-contractkit](https://github.com/celo-tools/use-contractkit) will remember the address a user last logged in with (via [browser LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)). Use this to your advantage and allow your DApp to display the same data whether or not the user has connected their wallet. A good test is to refresh your DApp after connecting and see if anything changes. At the very most, buttons for interaction could be disabled, however it's preferable to prompt to connect the wallet on button click.\n\nKeeping the UI consistent by using the last connected address is a quick win we can have with DApps that make the experience using them closer to Web2, an experience more users will be familiar with.\n\n### Loading states\n\nLoading times are often the give away that an application is a Web3 DApp. Be liberal with loading screens and prioritise making animations smooth.\n\nNothing is worse than a perpetually hanging screen that takes multiple seconds to become interactive. By showing a spinner it communicates to the user that things are happening, however slow they may be.\n\nThis is often offset by the ability to index a blockchain and provide the data in a more accessible format (maybe a SQL database or behind a GraphQL API). As mentioned earlier we haven't covered that in this tutorial, however there's a lot of content on the web around DApp optimisation through prior state indexing.\n\n### Prerender what you can\n\nWith modern static site generators we have amazing leverage over what gets computed server side and what the browser has to request and compute before rendering. If you're unable to index the blockchain before a client requests access to a page, consider loading the relevant data server side with a cache invalidated every hour or so.\n\nNext.js [getStaticProps](https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation) comes to mind here as a great way to offload heavy computation to the server.\n\n### Showing numbers in wei vs. Celo vs. local currency\n\nTake this advice with a grain of salt as it really depends on how familiar with cryptocurrencies and blockchain your users are. At some point in most DApp users are going to need to deal with large numbers. It's up to you whether you display these in wei (1e18) CELO or converted to a currency the user prefers (BTC, USD or EUR for example).\n\nThe sweeping generalisation would be to allow entering values in CELO or their preferred currency and never expose the raw wei amounts to end users.\n\n## Wrapping up\n\nHopefully you have a better grasp on developing DApps against the Celo core contracts now. In this tutorial we covered:\n\n- Connecting to user wallets ([use-contractkit](https://github.com/celo-tools/use-contractkit))\n- Fetching on-chain data\n- Calling simple functions on the core contracts\n- A brief word on best practices with regard to DApp development.\n\nThis is not a comprehensive tutorial for Celo's features and capabilities, keep exploring the docs to learn more and please [connect with us on Discord](https://chat.celo.org) if you need any help (or just want to chat)!"
+          "content": "The basics of developing a decentralised application (DApp) on Celo.\n\n<!--truncate-->\n\n## Getting Started\n\nThis example will develop using one of the core Celo contracts, [Governance.sol](https://github.com/celo-org/celo-monorepo/blob/master/packages/protocol/contracts/governance/Governance.sol), and allowing users of our DApp to vote on active \n\n## Foreword\n\nThis guide requires an understanding of a few popular web technologies. Our application will be written in [React](https://reactjs.org/), utilising [hooks](https://reactjs.org/docs/hooks-intro.html) for state management and built with [Next.js](https://nextjs.org/), a popular static site generation framework.\n\nIf you find this tutorial lacking in any way or want to dive into the code more thoroughly, checkout the [Celo Tools](https://github.com/alexbharley/celo-tools) GitHub repository where much of this tutorial has been ported from.\n\n## Getting started\n\nStep one of developing our application is scaffolding it out with `create-next-app` and adding TypeScript compilation so we can develop more confidently.\n\n```bash\nyarn create next-app voting-dapp\ncd voting-dapp\ntouch tsconfig.json\nyarn add --dev typescript @types/react @types/node\n```\n\nNow running `yarn dev` should open up our new Next.js website on `localhost:3000`.\n\nNext we'll need to add a few Celo specific dependencies so we can work with our core contracts.\n\n```bash\nyarn add @celo/contractkit @celo-tools/use-contractkit bignumber.js\n```\n\nHere's what we'll be using each of these packages for:\n\n- [@celo/contractkit](https://github.com/celo-org/celo-monorepo/tree/master/packages/sdk/contractkit) is a lightweight wrapper around the [Web3](https://web3js.readthedocs.io/) object you may already be familiar with. It contains typed interfaces for the core contracts (generated from the Contract ABIs) and helper functions to make common operations on Celo easier\n- [@celo-tools/use-contractkit](https://github.com/celo-tools/use-contractkit) is a community provided library to ease establishing the connection with a user's wallet, whether that is a hardware, mobile, or web wallet. When developing with this library, your users can hold Celo via [Valora](https://valoraapp.com), a Ledger, Metamask and more\n- [bignumber.js](https://github.com/MikeMcl/bignumber.js/) is a library for expressing large numbers in JavaScript. When interacting with a blockchain we often need to handle arbitrary-precision decimal and non-decimal arithmetic.\n\nWe'll also need to add some Next.js config to work with these packages. Update next.config.js with the following:\n\n```javascript title=\"next.config.js\"\nmodule.exports = {\n  webpack: (config) => {\n    config.resolve.fallback = {\n      ...config.resolve.fallback,\n      fs: false,\n      net: false,\n      child_process: false,\n      readline: false,\n    };\n    return config;\n  },\n};\n```\n\nWe'll need to restart the server for the config changes to take effect.\n\n## Developing the application\n\nAfter all our boilerplate has been setup, we're ready to start developing our application.\n\n### Connecting to the user's wallet\n\nWhen a user wants to interact with your DApp we need to somehow allow them to connect their wallet. Interaction with on chain smart contracts is impossible without this step.\n\nLeveraging our previously added [@celo-tools/use-contractkit](https://github.com/celo-tools/use-contractkit) library we can provide a button that prompts the user to connect their wallet.\n\nUpdate pages/index.js with the following:\n\n```javascript title=\"pages/index.js\"\nimport React from \"react\";\nimport { useContractKit } from \"@celo-tools/use-contractkit\";\nimport { ContractKitProvider } from \"@celo-tools/use-contractkit\";\nimport \"@celo-tools/use-contractkit/lib/styles.css\";\n\nfunction App() {\n  const { address, connect } = useContractKit();\n\n  return (\n    <main>\n      <h1>Celo Voting DApp</h1>\n      <p>{address}</p>\n      <button onClick={connect}>Click here to connect your wallet</button>\n    </main>\n  );\n}\n\nfunction WrappedApp() {\n  return (\n    <ContractKitProvider\n      dapp={{\n        name: \"My awesome dApp\",\n        description: \"My awesome description\",\n        url: \"https://example.com\",\n      }}\n    >\n      <App />\n    </ContractKitProvider>\n  );\n}\nexport default WrappedApp;\n```\n\nClicking this button will show the `use-contractkit` modal and allow the user to connect with their wallet of choice. Once the modal has been dismissed, the `address` property exposed by `use-contractkit` will be filled with the users primary account.\n\n### Accessing contracts\n\nAfter that we've connected to the user's wallet we can show interesting information based on their address. In the context of a governance voting DApp it may make sense to show past proposals they've voted on. If we were creating a simple banking interface, we could imagine wanting to show transfers into and out of the users account.\n\n:::info\n\nOn the Celo blockchain, only queued and dequeued proposals are kept in the Governance state. That means to access old proposals we'd need to access an indexed history of the blockchain. This is out of scope for our tutorial however there's many resources online you can find that will help you accessing indexed blockchain state.\n\nFor a comprehensive look at how to interpret this on chain state, take a look at the implementation for the [celocli governance:list](https://github.com/celo-org/celo-monorepo/blob/master/packages/cli/src/commands/governance/list.ts) command.\n\nFor the purposes of this tutorial, we'll only be looking at dequeued proposals, or proposals we can currently vote on.\n\n:::\n\nHere's how it looks using a combination of the `useEffect` and `useCallback` hooks to request and display all dequeued proposals from the blockchain.\n\n```javascript title=\"pages/index.js\"\nimport React, { useCallback, useEffect, useState } from \"react\";\nimport { useContractKit } from \"@celo-tools/use-contractkit\";\n\nfunction GovernanceApp() {\n  const { address, connect, kit, getConnectedKit } = useContractKit();\n  const [proposals, setProposals] = useState([]);\n\n  const fetchProposals = useCallback(async () => {\n    const governance = await kit.contracts.getGovernance();\n    const dequeue = await governance.getDequeue();\n\n    const fetchedProposals = await Promise.all(\n      dequeue.map(async (id) => ({\n        id,\n        ...(await governance.getProposalRecord(id)),\n      }))\n    );\n    setProposals(fetchedProposals);\n  }, [kit]);\n\n  useEffect(() => {\n    fetchProposals();\n  }, [fetchProposals]);\n\n  return (\n    <div>\n      <h1>Celo Voting DApp</h1>\n      <p>{address}</p>\n      <button onClick={connect}>Click here to connect your wallet</button>\n      <table>\n        <thead>\n          <tr>\n            <th>ID</th>\n            <th>Status</th>\n            <th>Description URL</th>\n          </tr>\n        </thead>\n        <tbody>\n          {proposals.map((proposal) => (\n            <tr>\n              <td>{proposal.id.toString()}</td>\n              <td>\n                {proposal.passed\n                  ? \"Passed\"\n                  : proposal.approved\n                  ? \"Approved\"\n                  : \"Not approved\"}\n              </td>\n              <td>\n                <a\n                  href={proposal.metadata.descriptionURL}\n                  target=\"_blank\"\n                  style={{ color: \"blue\", textDecoration: \"underline\" }}\n                >\n                  Link\n                </a>\n              </td>\n            </tr>\n          ))}\n        </tbody>\n      </table>\n    </div>\n  );\n}\n```\n\nBe sure to add this new `GovernanceApp` component to your `WrappedApp` component.\n\n```js title=\"pages/index.js\"\nfunction WrappedApp() {\n  return (\n    <ContractKitProvider\n      dapp={{\n        name: \"My awesome dApp\",\n        description: \"My awesome description\",\n        url: \"https://example.com\",\n      }}\n    >\n      <GovernanceApp />\n    </ContractKitProvider>\n  );\n}\n```\n\nThis works pretty well however it makes sense to additionally show whether the user has voted on any given dequeued governance proposal. To show that information, we can amend our `fetchProposals` function as follows\n\n```js title=\"pages/index.js\"\nconst fetchProposals = useCallback(async () => {\n  if (!address) {\n    return;\n  }\n\n  const governance = await kit.contracts.getGovernance();\n  const dequeue = await governance.getDequeue();\n\n  const fetchedProposals = await Promise.all(\n    dequeue.map(async (id) => {\n      const [record, voteRecord] = await Promise.all([\n        governance.getProposalRecord(id),\n        governance.getVoteRecord(address, id),\n      ]);\n\n      return {\n        id,\n        ...record,\n        vote: voteRecord ? voteRecord.value : undefined,\n      };\n    })\n  );\n  setProposals(fetchedProposals);\n}, [kit, address]);\n```\n\nNow we have access to whether the user voted on this proposal, we can render that information in our table.\n\n```js title=\"pages/index.js\"\nreturn (\n  <table>\n    <thead>\n      <tr>\n        <th>ID</th>\n        <th>Status</th>\n        <th>Description URL</th>\n        <th>Voted</th>\n      </tr>\n    </thead>\n    <tbody>\n      {proposals.map((proposal) => (\n        <tr>\n          <td>{proposal.id.toString()}</td>\n          <td>\n            {proposal.passed\n              ? \"Passed\"\n              : proposal.approved\n              ? \"Approved\"\n              : \"Not approved\"}\n          </td>\n          <td>\n            <a\n              style={{ color: \"blue\", textDecoration: \"underline\" }}\n              href={proposal.metadata.descriptionURL}\n              target=\"_blank\"\n            >\n              Link\n            </a>\n          </td>\n          <td>{proposal.vote ?? \"No vote yet\"}</td>\n        </tr>\n      ))}\n    </tbody>\n  </table>\n);\n```\n\n### Locking Celo (optional)\n\nA prerequisite  having locked Celo to vote with. We won't cover the various flows for locking, unlocking and relocking Celo in this tutorial but you can check the implementation in [Celo Tools](https://github.com/alexbharley/celo-tools) or take inspiration from the following script:\n\n```javascript\nconst lockValue = new BigNumber(res.flags.value);\n\nconst lockedGold = await this.kit.contracts.getLockedGold();\nconst pendingWithdrawalsValue =\n  await lockedGold.getPendingWithdrawalsTotalValue(address);\nconst relockValue = BigNumber.minimum(pendingWithdrawalsValue, value);\nconst lockValue = value.minus(relockValue);\n\nconst txos = await lockedGold.relock(address, relockValue);\nfor (const txo of txos) {\n  await kit.sendAndWaitForReceipt({ from: address });\n}\n```\n\nAll you need to take care of in your React application is handling user input to select the amount to lock and handling errors in case the user tries to lock more CELO than they hold.\n\nIt's also possible that users of your DApp already have locked CELO, so you might not need to worry about the complexity of permitting that operation.\n\n### Voting on a proposal\n\nTo actually vote on a proposal we need to again interact with the [Governance.sol](https://github.com/celo-org/celo-monorepo/blob/master/packages/protocol/contracts/governance/Governance.sol) smart contract. Our logic for handling a vote looks as follows:\n\n```typescript title=\"pages/index.js\"\nconst vote = useCallback(\n  async (id: string, value: VoteValue) => {\n    const kit = await getConnectedKit();\n    const governance = await kit.contracts.getGovernance();\n    await (await governance.vote(id, value)).sendAndWaitForReceipt();\n    fetchProposals();\n  },\n  [kit, fetchProposals]\n);\n```\n\nHow you handle calling that function is up to you. With [Celo Tools](https://github.com/alexbharley/celo-tools) we opted for simple upwards and downwards facing arrows to handle voting on proposals, however the data can be rendered however you'd prefer.\n\nHere's a simple example showing buttons for `Yes` or `No` votes when no vote has been cast.\n\n```javascript title=\"pages/index.js\"\nimport { VoteValue } from \"@celo/contractkit/lib/wrappers/Governance\";\n\nreturn (\n  <tr>\n    <td>{proposal.id.toString()}</td>\n    <td>\n      {proposal.passed\n        ? \"Passed\"\n        : proposal.approved\n        ? \"Approved\"\n        : \"Not approved\"}\n    </td>\n    <td>\n      <a href={proposal.descriptionURL} target=\"_blank\">\n        Description link\n      </a>\n    </td>\n    <td>\n      {proposal.vote ? (\n        <span>{proposal.vote}</span>\n      ) : (\n        <div>\n          <button onClick={() => vote(proposal.id, VoteValue.Yes)}>Yes</button>\n          <button onClick={() => vote(proposal.id, VoteValue.No)}>No</button>\n        </div>\n      )}\n    </td>\n  </tr>\n);\n```\n\n## Best practices\n\nWe've compiled a short list on best practices to follow when developing DApps. Following these will improve the end user experience and keep them more engaged with the Celo ecosystem. If you have any questions around these, feel free to [reach out on Discord](https://chat.celo.org), we're always there and happy to chat.\n\n### Last used address\n\n[@celo-tools/use-contractkit](https://github.com/celo-tools/use-contractkit) will remember the address a user last logged in with (via [browser LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)). Use this to your advantage and allow your DApp to display the same data whether or not the user has connected their wallet. A good test is to refresh your DApp after connecting and see if anything changes. At the very most, buttons for interaction could be disabled, however it's preferable to prompt to connect the wallet on button click.\n\nKeeping the UI consistent by using the last connected address is a quick win we can have with DApps that make the experience using them closer to Web2, an experience more users will be familiar with.\n\n### Loading states\n\nLoading times are often the give away that an application is a Web3 DApp. Be liberal with loading screens and prioritise making animations smooth.\n\nNothing is worse than a perpetually hanging screen that takes multiple seconds to become interactive. By showing a spinner it communicates to the user that things are happening, however slow they may be.\n\nThis is often offset by the ability to index a blockchain and provide the data in a more accessible format (maybe a SQL database or behind a GraphQL API). As mentioned earlier we haven't covered that in this tutorial, however there's a lot of content on the web around DApp optimisation through prior state indexing.\n\n### Prerender what you can\n\nWith modern static site generators we have amazing leverage over what gets computed server side and what the browser has to request and compute before rendering. If you're unable to index the blockchain before a client requests access to a page, consider loading the relevant data server side with a cache invalidated every hour or so.\n\nNext.js [getStaticProps](https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation) comes to mind here as a great way to offload heavy computation to the server.\n\n### Showing numbers in wei vs. Celo vs. local currency\n\nTake this advice with a grain of salt as it really depends on how familiar with cryptocurrencies and blockchain your users are. At some point in most DApp users are going to need to deal with large numbers. It's up to you whether you display these in wei (1e18) CELO or converted to a currency the user prefers (BTC, USD or EUR for example).\n\nThe sweeping generalisation would be to allow entering values in CELO or their preferred currency and never expose the raw wei amounts to end users.\n\n## Wrapping up\n\nHopefully you have a better grasp on developing DApps against the Celo core contracts now. In this tutorial we covered:\n\n- Connecting to user wallets ([use-contractkit](https://github.com/celo-tools/use-contractkit))\n- Fetching on-chain data\n- Calling simple functions on the core contracts\n- A brief word on best practices with regard to DApp development.\n\nThis is not a comprehensive tutorial for Celo's features and capabilities, keep exploring the docs to learn more and please [connect with us on Discord](https://chat.celo.org) if you need any help (or just want to chat)!"
         },
         {
           "id": "/2022/01/05/no-code-erc721",
@@ -5923,7 +4799,7 @@
             "previousPage": null,
             "nextPage": "/blog/page/2",
             "blogDescription": "Blog",
-            "blogTitle": "Celo Blog"
+            "blogTitle": "Lmax Blog"
           },
           "items": [
             "/2022/02/21/introduction-to-celo-progressive-dappstarter",
@@ -5948,7 +4824,7 @@
             "previousPage": "/blog",
             "nextPage": null,
             "blogDescription": "Blog",
-            "blogTitle": "Celo Blog"
+            "blogTitle": "Lmax Blog"
           },
           "items": [
             "add-token-celo-wallet",

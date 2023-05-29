@@ -6,21 +6,12 @@
   "source": "@site/docs/developer-resources/deploy-truffle.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-resources/deploy-truffle",
-  "permalink": "/es/developer-resources/deploy-truffle",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-resources/deploy-truffle",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Deploy with Truffle",
     "description": "How to deploy a Smart Contract to Celo using Truffle"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Deploy with Remix",
-    "permalink": "/es/developer-resources/deploy-remix"
-  },
-  "next": {
-    "title": "Deploy with Hardhat",
-    "permalink": "/es/developer-resources/deploy-hardhat"
   }
 }

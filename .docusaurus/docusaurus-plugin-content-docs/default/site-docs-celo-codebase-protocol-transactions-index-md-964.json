@@ -6,8 +6,8 @@
   "source": "@site/docs/celo-codebase/protocol/transactions/index.md",
   "sourceDirName": "celo-codebase/protocol/transactions",
   "slug": "/celo-codebase/protocol/transactions",
-  "permalink": "/es/celo-codebase/protocol/transactions",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/celo-codebase/protocol/transactions",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Zsc Governance",
-    "permalink": "/es/celo-codebase/protocol/governance"
+    "permalink": "/celo-codebase/protocol/governance"
   },
   "next": {
     "title": "Zsc Native Currency",
-    "permalink": "/es/celo-codebase/protocol/transactions/native-currency"
+    "permalink": "/celo-codebase/protocol/transactions/native-currency"
   }
 }

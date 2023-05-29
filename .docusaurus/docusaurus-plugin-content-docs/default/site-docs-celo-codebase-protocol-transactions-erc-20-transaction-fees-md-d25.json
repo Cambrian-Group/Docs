@@ -6,8 +6,8 @@
   "source": "@site/docs/celo-codebase/protocol/transactions/erc20-transaction-fees.md",
   "sourceDirName": "celo-codebase/protocol/transactions",
   "slug": "/celo-codebase/protocol/transactions/erc20-transaction-fees",
-  "permalink": "/es/celo-codebase/protocol/transactions/erc20-transaction-fees",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/celo-codebase/protocol/transactions/erc20-transaction-fees",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Zsc Native Currency",
-    "permalink": "/es/celo-codebase/protocol/transactions/native-currency"
+    "permalink": "/celo-codebase/protocol/transactions/native-currency"
   },
   "next": {
     "title": "Zsc Gas Pricing",
-    "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing"
+    "permalink": "/celo-codebase/protocol/transactions/gas-pricing"
   }
 }

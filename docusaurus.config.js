@@ -14,7 +14,7 @@ module.exports = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/color-favicon.png",
-  organizationName: "celo-org", // Usually your GitHub org/user name.
+  organizationName: "Lmax Group", // Usually your GitHub org/user name.
   projectName: "docs", // Usually your repo name.
   i18n: {
     defaultLocale: "en",
@@ -175,13 +175,13 @@ module.exports = {
           label: "Community",
           position: "left",
         },
+        // {
+        //   to: "/blog",
+        //   label: "News",
+        //   position: "left",
+        // },
         {
-          to: "/blog",
-          label: "News",
-          position: "left",
-        },
-        {
-          to: "https://medium.com/celoorg",
+          to: "https://www.lmax.com/blog/",
           label: "Blog",
           position: "right",
         },
@@ -189,18 +189,18 @@ module.exports = {
           type: "localeDropdown",
           position: "right",
           dropdownItemsAfter: [
-            {
-              to: "https://celo.crowdin.com/",
-              label: "Help us translate",
-            },
+            // {
+            //   to: "https://celo.crowdin.com/",
+            //   label: "Help us translate",
+            // },
           ],
         },
-        {
-          href: "https://github.com/celo-org",
-          position: "right",
-          className: "header-github-link",
-          "aria-label": "GitHub repository",
-        },
+        // {
+        //   href: "https://github.com/celo-org",
+        //   position: "right",
+        //   className: "header-github-link",
+        //   "aria-label": "GitHub repository",
+        // },
       ],
     },
     gtag: {
@@ -320,7 +320,7 @@ module.exports = {
           customCss: require.resolve("./src/css/custom.css"),
         },
         blog: {
-          blogTitle: "Celo Blog",
+          blogTitle: "Lmax Blog",
           blogSidebarTitle: "All posts",
           blogSidebarCount: "ALL",
           showReadingTime: true,

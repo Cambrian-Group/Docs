@@ -1,13 +1,13 @@
 export default {
   "title": "LMAX Docs",
   "tagline": "LMAX Group",
-  "url": "https://docs.celo.org",
-  "baseUrl": "/es/",
+  "url": "https://docs.lmax.pro",
+  "baseUrl": "/",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/color-favicon.png",
-  "organizationName": "celo-org",
+  "organizationName": "Lmax Group",
   "projectName": "docs",
   "i18n": {
     "defaultLocale": "en",
@@ -27,8 +27,8 @@ export default {
     }
   ],
   "plugins": [
-    "/Users/youth/Documents/code/zsc-group/docs/node_modules/docusaurus-plugin-fathom/src/index.js",
-    "/Users/youth/Documents/code/zsc-group/docs/src/plugins/aliases.ts",
+    "/Users/youth/Documents/code/Docs/node_modules/docusaurus-plugin-fathom/src/index.js",
+    "/Users/youth/Documents/code/Docs/src/plugins/aliases.ts",
     [
       "@docusaurus/plugin-client-redirects",
       {
@@ -264,20 +264,15 @@ export default {
       }
     },
     "navbar": {
-      "title": "ZSC Docs",
+      "title": "LMAX  Docs",
       "logo": {
-        "alt": "Celo Logo",
+        "alt": "LMAX Logo",
         "src": "img/color-logo.png"
       },
       "items": [
         {
-          "to": "developer-guide/overview",
-          "label": "Build",
-          "position": "left"
-        },
-        {
           "to": "validator-guide/overview",
-          "label": "Validate",
+          "label": "Legal",
           "position": "left"
         },
         {
@@ -286,31 +281,15 @@ export default {
           "position": "left"
         },
         {
-          "to": "/blog",
-          "label": "Learn",
-          "position": "left"
-        },
-        {
-          "to": "https://medium.com/celoorg",
+          "to": "https://www.lmax.com/blog/",
           "label": "Blog",
           "position": "right"
         },
         {
           "type": "localeDropdown",
           "position": "right",
-          "dropdownItemsAfter": [
-            {
-              "to": "https://celo.crowdin.com/",
-              "label": "Help us translate"
-            }
-          ],
+          "dropdownItemsAfter": [],
           "dropdownItemsBefore": []
-        },
-        {
-          "href": "https://github.com/celo-org",
-          "position": "right",
-          "className": "header-github-link",
-          "aria-label": "GitHub repository"
         }
       ],
       "hideOnScroll": false
@@ -331,19 +310,19 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "About LMAX",
           "items": [
             {
-              "label": "Home",
-              "to": "/"
+              "label": "LMAX Group",
+              "to": "https://www.lmax.com/"
             },
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "LMAX Exchange ",
+              "to": "https://www.lmax.com/exchange"
             },
             {
-              "label": "ZSC GitHub",
-              "href": "https://github.com/zsc-ZTChain"
+              "label": "LMAX Digital",
+              "href": "https://www.lmaxdigital.com/"
             }
           ]
         },
@@ -355,12 +334,12 @@ export default {
               "label": "Contributors"
             },
             {
-              "label": "Telegram",
-              "href": "https://t.me/joinchat/F8Tdpoi_71E2NTFl"
+              "label": "Youtobe",
+              "href": "https://www.youtube.com/@LMAXGroup"
             },
             {
               "label": "Discord",
-              "href": "https://t.me/joinchat/F8Tdpoi_71E2NTFl"
+              "href": "https://discord.gg/EhCjWb9A"
             },
             {
               "label": "Twitter",
@@ -369,6 +348,10 @@ export default {
             {
               "label": "Reddit",
               "href": "https://t.me/joinchat/F8Tdpoi_71E2NTFl"
+            },
+            {
+              "label": "Facebook",
+              "href": "https://www.facebook.com/dmcsingular"
             }
           ]
         },
@@ -376,25 +359,25 @@ export default {
           "title": "Ecosystem",
           "items": [
             {
-              "label": "ZSC Dao",
-              "href": "https://zsc.one/"
+              "label": "LMAX Global",
+              "href": "https://lmax.pro/"
             },
             {
-              "label": "Medium Blog",
-              "href": "https://zsc.one/"
+              "label": "Ethereum",
+              "href": "https://www.ethereum.org/"
             },
             {
-              "label": "ZSC Explore",
-              "href": "https://en.zscscan.com/"
+              "label": "Binance Chain",
+              "href": "https://www.binance.com/"
             },
             {
-              "label": "ZSC Hub",
-              "href": "https://zsc.one/"
+              "label": "Polygon",
+              "href": "https://polygon.technology/"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2022 ZSC Dao, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 LMAX Group, Inc. Built with Docusaurus."
     },
     "fathomAnalytics": {
       "siteId": "AZMFWALB"
@@ -416,7 +399,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/youth/Documents/code/zsc-group/docs/sidebars.js",
+          "sidebarPath": "/Users/youth/Documents/code/Docs/sidebars.js",
           "routeBasePath": "/",
           "remarkPlugins": [
             null,
@@ -432,14 +415,14 @@ export default {
           ]
         },
         "theme": {
-          "customCss": "/Users/youth/Documents/code/zsc-group/docs/src/css/custom.css"
+          "customCss": "/Users/youth/Documents/code/Docs/src/css/custom.css"
         },
         "blog": {
-          "blogTitle": "Celo Blog",
+          "blogTitle": "Lmax Blog",
           "blogSidebarTitle": "All posts",
           "blogSidebarCount": "ALL",
           "showReadingTime": true,
-          "blogListComponent": "/Users/youth/Documents/code/zsc-group/docs/src/components/CustomBlogListPage.module.tsx"
+          "blogListComponent": "/Users/youth/Documents/code/Docs/src/components/CustomBlogListPage.module.tsx"
         }
       }
     ]

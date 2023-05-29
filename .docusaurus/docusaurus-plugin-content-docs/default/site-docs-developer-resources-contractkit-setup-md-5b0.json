@@ -6,22 +6,13 @@
   "source": "@site/docs/developer-resources/contractkit/setup.md",
   "sourceDirName": "developer-resources/contractkit",
   "slug": "/developer-guide/contractkit/setup",
-  "permalink": "/es/developer-guide/contractkit/setup",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/contractkit/setup",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo ContractKit Setup",
     "description": "ContractKit requirements, installation, and initialization.",
     "slug": "/developer-guide/contractkit/setup"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo ContractKit",
-    "permalink": "/es/developer-guide/contractkit"
-  },
-  "next": {
-    "title": "Using the Kit",
-    "permalink": "/es/developer-guide/contractkit/usage"
   }
 }

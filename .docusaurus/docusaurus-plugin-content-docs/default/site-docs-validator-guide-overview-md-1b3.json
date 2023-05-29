@@ -1,22 +1,22 @@
 {
   "unversionedId": "validator-guide/overview",
   "id": "validator-guide/overview",
-  "title": "Celo Validators",
-  "description": "Collection of resources to support Validators on the Celo network.",
+  "title": "Privacy Policy",
+  "description": "Lmax Group Privacy Policy.",
   "source": "@site/docs/validator-guide/overview.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/overview",
-  "permalink": "/es/validator-guide/overview",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/validator-guide/overview",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Validators",
-    "description": "Collection of resources to support Validators on the Celo network."
+    "title": "Privacy Policy",
+    "description": "Lmax Group Privacy Policy."
   },
   "sidebar": "validators",
   "next": {
-    "title": "Celo Attestation Service",
-    "permalink": "/es/validator-guide/attestation-service"
+    "title": "Disclaimers",
+    "permalink": "/validator-guide/attestation-service"
   }
 }

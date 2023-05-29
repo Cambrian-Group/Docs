@@ -6,18 +6,13 @@
   "source": "@site/docs/developer-resources/celo-for-eth-devs.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-guide/celo-for-eth-devs",
-  "permalink": "/es/developer-guide/celo-for-eth-devs",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/celo-for-eth-devs",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo for Ethereum Developers",
     "description": "Overview of the similarities and differences between the Celo and Ethereum blockchains.",
     "slug": "/developer-guide/celo-for-eth-devs"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Using a Cloud HSM with Celo",
-    "permalink": "/es/developer-guide/integrations/cloud-hsm"
   }
 }

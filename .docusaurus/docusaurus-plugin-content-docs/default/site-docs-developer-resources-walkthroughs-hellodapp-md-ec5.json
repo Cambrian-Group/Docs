@@ -6,8 +6,8 @@
   "source": "@site/docs/developer-resources/walkthroughs/hellodapp.md",
   "sourceDirName": "developer-resources/walkthroughs",
   "slug": "/developer-resources/walkthroughs/hellodapp",
-  "permalink": "/es/developer-resources/walkthroughs/hellodapp",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-resources/walkthroughs/hellodapp",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {}

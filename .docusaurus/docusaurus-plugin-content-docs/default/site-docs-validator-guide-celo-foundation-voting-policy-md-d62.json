@@ -6,21 +6,12 @@
   "source": "@site/docs/validator-guide/celo-foundation-voting-policy.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/celo-foundation-voting-policy",
-  "permalink": "/es/validator-guide/celo-foundation-voting-policy",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/validator-guide/celo-foundation-voting-policy",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Foundation Voting Policy",
     "description": "How the Celo Foundation anticipates allocating its votes to validator groups, with special attention to the first allocated groups at the Celo Mainnet release and the months thereafter."
-  },
-  "sidebar": "validators",
-  "previous": {
-    "title": "Validator Explorer",
-    "permalink": "/es/validator-guide/validator-explorer"
-  },
-  "next": {
-    "title": "Celo Signal",
-    "permalink": "/es/validator-guide/celo-signal"
   }
 }

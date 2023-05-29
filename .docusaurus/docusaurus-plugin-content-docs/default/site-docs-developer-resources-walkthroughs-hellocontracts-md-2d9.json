@@ -6,8 +6,8 @@
   "source": "@site/docs/developer-resources/walkthroughs/hellocontracts.md",
   "sourceDirName": "developer-resources/walkthroughs",
   "slug": "/developer-guide/start/hellocontracts",
-  "permalink": "/es/developer-guide/start/hellocontracts",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/start/hellocontracts",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {

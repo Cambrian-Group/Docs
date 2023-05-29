@@ -6,22 +6,13 @@
   "source": "@site/docs/developer-resources/contractkit/odis.md",
   "sourceDirName": "developer-resources/contractkit",
   "slug": "/developer-guide/contractkit/odis",
-  "permalink": "/es/developer-guide/contractkit/odis",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/contractkit/odis",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Querying on-chain identifiers with ODIS",
     "description": "How to use ODIS to query the on-chain identifier given a phone number.",
     "slug": "/developer-guide/contractkit/odis"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Celo Core Contracts (Wrapper/Registry)",
-    "permalink": "/es/developer-guide/contractkit/contracts-wrappers-registry"
-  },
-  "next": {
-    "title": "Migrating to ContractKit v1.0",
-    "permalink": "/es/developer-guide/contractkit/migrating-to-contractkit-v1"
   }
 }

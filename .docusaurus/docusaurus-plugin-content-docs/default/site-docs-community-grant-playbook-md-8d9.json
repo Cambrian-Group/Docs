@@ -6,21 +6,12 @@
   "source": "@site/docs/community/grant-playbook.md",
   "sourceDirName": "community",
   "slug": "/community/grant-playbook",
-  "permalink": "/es/community/grant-playbook",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/community/grant-playbook",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Grant Playbook",
     "description": "Summary of best practices that grantees are encouraged to follow to further the Celo mission."
-  },
-  "sidebar": "contributors",
-  "previous": {
-    "title": "Code of Conduct",
-    "permalink": "/es/community/code-of-conduct"
-  },
-  "next": {
-    "title": "Celo Release Process",
-    "permalink": "/es/community/release-process/"
   }
 }

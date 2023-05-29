@@ -6,22 +6,13 @@
   "source": "@site/docs/celo-codebase/wallet/index.md",
   "sourceDirName": "celo-codebase/wallet",
   "slug": "/celo-codebase/wallet",
-  "permalink": "/es/celo-codebase/wallet",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/celo-codebase/wallet",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Wallet",
     "description": "How to use the Celo wallet to manage Celo assets.",
     "slug": "/celo-codebase/wallet"
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Setup Testnet Wallets",
-    "permalink": "/es/developer-resources/testnet-wallet"
-  },
-  "next": {
-    "title": "intro",
-    "permalink": "/es/celo-codebase/wallet/intro"
   }
 }

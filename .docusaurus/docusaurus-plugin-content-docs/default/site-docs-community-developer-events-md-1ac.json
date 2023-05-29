@@ -6,8 +6,8 @@
   "source": "@site/docs/community/developer-events.md",
   "sourceDirName": "community",
   "slug": "/community/developer-events",
-  "permalink": "/es/community/developer-events",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/community/developer-events",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,6 @@
   "sidebar": "contributors",
   "previous": {
     "title": "Celo Community",
-    "permalink": "/es/community/contributing"
-  },
-  "next": {
-    "title": "Celo Contributor Guidelines",
-    "permalink": "/es/community/guidelines"
+    "permalink": "/community/contributing"
   }
 }

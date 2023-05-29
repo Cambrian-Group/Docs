@@ -1,18 +1,17 @@
 {
   "unversionedId": "overview",
   "id": "overview",
-  "title": "ZSC Chain",
-  "description": "Overview of the ZSC Chain and it's relationship to the Ethereum blockchain.",
+  "title": "Privacy Policy",
+  "description": "Lmax Group Privacy Policy.",
   "source": "@site/docs/overview.md",
   "sourceDirName": ".",
   "slug": "/overview",
-  "permalink": "/es/overview",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/overview",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "ZSC Chain",
-    "description": "Overview of the ZSC Chain and it's relationship to the Ethereum blockchain.",
-    "id": "overview"
+    "title": "Privacy Policy",
+    "description": "Lmax Group Privacy Policy."
   }
 }

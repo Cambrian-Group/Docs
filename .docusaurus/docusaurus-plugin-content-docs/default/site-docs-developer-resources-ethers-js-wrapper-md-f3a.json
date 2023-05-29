@@ -6,21 +6,12 @@
   "source": "@site/docs/developer-resources/ethers-js-wrapper.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-resources/ethers-js-wrapper",
-  "permalink": "/es/developer-resources/ethers-js-wrapper",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-resources/ethers-js-wrapper",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Celo Ethers.js Wrapper",
     "description": "A minimal wrapper to make Ethers.JS compatible with the Celo network."
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "use-contractkit",
-    "permalink": "/es/developer-resources/use-contractkit"
-  },
-  "next": {
-    "title": "WalletConnect",
-    "permalink": "/es/learn/walletconnect"
   }
 }

@@ -6,8 +6,8 @@
   "source": "@site/docs/celo-codebase/protocol/consensus/locating-nodes.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus/locating-nodes",
-  "permalink": "/es/celo-codebase/protocol/consensus/locating-nodes",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/celo-codebase/protocol/consensus/locating-nodes",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Validator Set Differences",
-    "permalink": "/es/celo-codebase/protocol/consensus/validator-set-differences"
+    "permalink": "/celo-codebase/protocol/consensus/validator-set-differences"
   },
   "next": {
     "title": "Celo Ultralight Sync",
-    "permalink": "/es/celo-codebase/protocol/consensus/ultralight-sync"
+    "permalink": "/celo-codebase/protocol/consensus/ultralight-sync"
   }
 }

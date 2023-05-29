@@ -1,14 +1,14 @@
 {
-  "permalink": "/es/blog/code-metamask",
+  "permalink": "/blog/code-metamask",
   "source": "@site/blog/2021-11-16-connect-to-metamask.md",
   "title": "Code Playground -- Metamask",
   "description": "Playing with Metamask",
   "date": "2021-11-16T00:00:00.000Z",
-  "formattedDate": "16 de noviembre de 2021",
+  "formattedDate": "November 16, 2021",
   "tags": [
     {
       "label": "code playground",
-      "permalink": "/es/blog/tags/code-playground"
+      "permalink": "/blog/tags/code-playground"
     }
   ],
   "readingTime": 1.69,
@@ -24,10 +24,10 @@
   ],
   "prevItem": {
     "title": "Using the Graph w/ Celo",
-    "permalink": "/es/blog/using-the-graph"
+    "permalink": "/blog/using-the-graph"
   },
   "nextItem": {
     "title": "Intro to the Code Playground",
-    "permalink": "/es/blog/code-playground"
+    "permalink": "/blog/code-playground"
   }
 }

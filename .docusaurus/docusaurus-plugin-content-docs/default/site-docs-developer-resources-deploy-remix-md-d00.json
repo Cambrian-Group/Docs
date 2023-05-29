@@ -6,21 +6,12 @@
   "source": "@site/docs/developer-resources/deploy-remix.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-resources/deploy-remix",
-  "permalink": "/es/developer-resources/deploy-remix",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-resources/deploy-remix",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Deploy with Remix",
     "description": "How to deploy a Smart Contract to Celo using remix.ethereum.org."
-  },
-  "sidebar": "developers",
-  "previous": {
-    "title": "Deploy on Celo",
-    "permalink": "/es/developer-resources/deploy-dapp"
-  },
-  "next": {
-    "title": "Deploy with Truffle",
-    "permalink": "/es/developer-resources/deploy-truffle"
   }
 }

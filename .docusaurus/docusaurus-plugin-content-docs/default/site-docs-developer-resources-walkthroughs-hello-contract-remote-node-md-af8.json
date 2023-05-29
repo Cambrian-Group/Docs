@@ -6,8 +6,8 @@
   "source": "@site/docs/developer-resources/walkthroughs/hello-contract-remote-node.md",
   "sourceDirName": "developer-resources/walkthroughs",
   "slug": "/developer-guide/start/hello-contract-remote-node",
-  "permalink": "/es/developer-guide/start/hello-contract-remote-node",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/developer-guide/start/hello-contract-remote-node",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {

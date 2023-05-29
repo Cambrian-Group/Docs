@@ -6,8 +6,8 @@
   "source": "@site/docs/learn/celo-economic-model.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-economic-model",
-  "permalink": "/es/learn/celo-economic-model",
-  "editUrl": "https://celo.crowdin.com/celo-docs/es",
+  "permalink": "/learn/celo-economic-model",
+  "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Key Concepts",
-    "permalink": "/es/learn/celo-highlights"
+    "permalink": "/learn/celo-highlights"
   },
   "next": {
     "title": "Celo Ecosystem",
-    "permalink": "/es/learn/celo-ecosystem"
+    "permalink": "/learn/celo-ecosystem"
   }
 }
