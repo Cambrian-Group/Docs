@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[2768],{54300:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/randomness","name":"randomness","count":1,"permalink":"/blog/tags/randomness"}')}}]);

@@ -1,16 +1,29 @@
 {
-  "permalink": "/blog/2021/11/08/contributing",
+  "permalink": "/es/blog/blog-contributions",
   "source": "@site/blog/2021-11-08-contributing.md",
-  "title": "contributing",
-  "description": "",
+  "title": "Contributing to the Blog",
+  "description": "How to contribute to the blog",
   "date": "2021-11-08T00:00:00.000Z",
-  "formattedDate": "November 8, 2021",
-  "tags": [],
-  "readingTime": 0,
-  "truncated": false,
-  "authors": [],
+  "formattedDate": "8 de noviembre de 2021",
+  "tags": [
+    {
+      "label": "contribute",
+      "permalink": "/es/blog/tags/contribute"
+    }
+  ],
+  "readingTime": 1.4666666666666666,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Josh Crites",
+      "title": "Developer Relations, cLabs",
+      "url": "https://github.com/critesjosh",
+      "image_url": "https://github.com/critesjosh.png",
+      "imageURL": "https://github.com/critesjosh.png"
+    }
+  ],
   "prevItem": {
-    "title": "code-playground",
-    "permalink": "/blog/2021/11/15/code-playground"
+    "title": "Intro to the Code Playground",
+    "permalink": "/es/blog/code-playground"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/getting-started/choosing-a-network.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/choosing-a-network",
-  "permalink": "/getting-started/choosing-a-network",
+  "permalink": "/es/getting-started/choosing-a-network",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Zsc Gas Pricing",
-    "permalink": "/celo-codebase/protocol/transactions/gas-pricing"
+    "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing"
   },
   "next": {
     "title": "审计",
-    "permalink": "/developer-guide/celo-dapp-gallery"
+    "permalink": "/es/developer-guide/celo-dapp-gallery"
   }
 }

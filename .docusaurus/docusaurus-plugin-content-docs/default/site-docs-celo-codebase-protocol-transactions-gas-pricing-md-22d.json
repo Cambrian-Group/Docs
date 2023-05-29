@@ -6,7 +6,7 @@
   "source": "@site/docs/celo-codebase/protocol/transactions/gas-pricing.md",
   "sourceDirName": "celo-codebase/protocol/transactions",
   "slug": "/celo-codebase/protocol/transactions/gas-pricing",
-  "permalink": "/celo-codebase/protocol/transactions/gas-pricing",
+  "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Paying for Gas in Tokens",
-    "permalink": "/celo-codebase/protocol/transactions/erc20-transaction-fees"
+    "permalink": "/es/celo-codebase/protocol/transactions/erc20-transaction-fees"
   },
   "next": {
     "title": "链上网络",
-    "permalink": "/getting-started/choosing-a-network"
+    "permalink": "/es/getting-started/choosing-a-network"
   }
 }

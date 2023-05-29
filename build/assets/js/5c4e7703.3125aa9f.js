@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[7943],{73710:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/d-app","name":"DApp","count":1,"permalink":"/blog/tags/d-app"}')}}]);

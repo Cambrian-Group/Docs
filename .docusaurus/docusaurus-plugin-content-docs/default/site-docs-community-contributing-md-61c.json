@@ -6,7 +6,7 @@
   "source": "@site/docs/community/contributing.md",
   "sourceDirName": "community",
   "slug": "/community/contributing",
-  "permalink": "/community/contributing",
+  "permalink": "/es/community/contributing",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "contributors",
   "next": {
     "title": "Developer Events",
-    "permalink": "/community/developer-events"
+    "permalink": "/es/community/developer-events"
   }
 }

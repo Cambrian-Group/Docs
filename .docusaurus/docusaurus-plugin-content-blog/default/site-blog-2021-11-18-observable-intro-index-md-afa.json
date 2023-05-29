@@ -1,20 +1,33 @@
 {
-  "permalink": "/blog/2021/11/18/observable-intro",
+  "permalink": "/es/blog/observable-intro",
   "source": "@site/blog/2021-11-18-observable-intro/index.md",
-  "title": "observable-intro",
-  "description": "",
+  "title": "Demos with ObservableHQ",
+  "description": "Learn more about Observable notebooks and how they can be used in a blog",
   "date": "2021-11-18T00:00:00.000Z",
-  "formattedDate": "November 18, 2021",
-  "tags": [],
-  "readingTime": 0,
-  "truncated": false,
-  "authors": [],
+  "formattedDate": "18 de noviembre de 2021",
+  "tags": [
+    {
+      "label": "observable",
+      "permalink": "/es/blog/tags/observable"
+    }
+  ],
+  "readingTime": 1.98,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Josh Crites",
+      "title": "Developer Relations, cLabs",
+      "url": "https://github.com/critesjosh",
+      "imageURL": "https://github.com/critesjosh.png",
+      "key": "josh"
+    }
+  ],
   "prevItem": {
-    "title": "using-the-graph",
-    "permalink": "/blog/2021/11/18/using-the-graph"
+    "title": "Using the Graph w/ Celo",
+    "permalink": "/es/blog/using-the-graph"
   },
   "nextItem": {
-    "title": "connect-to-metamask",
-    "permalink": "/blog/2021/11/16/connect-to-metamask"
+    "title": "Code Playground -- Metamask",
+    "permalink": "/es/blog/code-metamask"
   }
 }

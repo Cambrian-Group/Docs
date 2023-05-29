@@ -1,20 +1,33 @@
 {
-  "permalink": "/blog/2021/11/16/connect-to-metamask",
+  "permalink": "/es/blog/code-metamask",
   "source": "@site/blog/2021-11-16-connect-to-metamask.md",
-  "title": "connect-to-metamask",
-  "description": "",
+  "title": "Code Playground -- Metamask",
+  "description": "Playing with Metamask",
   "date": "2021-11-16T00:00:00.000Z",
-  "formattedDate": "November 16, 2021",
-  "tags": [],
-  "readingTime": 0,
-  "truncated": false,
-  "authors": [],
+  "formattedDate": "16 de noviembre de 2021",
+  "tags": [
+    {
+      "label": "code playground",
+      "permalink": "/es/blog/tags/code-playground"
+    }
+  ],
+  "readingTime": 1.69,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Josh Crites",
+      "title": "Developer Relations, cLabs",
+      "url": "https://github.com/critesjosh",
+      "image_url": "https://github.com/critesjosh.png",
+      "imageURL": "https://github.com/critesjosh.png"
+    }
+  ],
   "prevItem": {
-    "title": "observable-intro",
-    "permalink": "/blog/2021/11/18/observable-intro"
+    "title": "Demos with ObservableHQ",
+    "permalink": "/es/blog/observable-intro"
   },
   "nextItem": {
-    "title": "code-playground",
-    "permalink": "/blog/2021/11/15/code-playground"
+    "title": "Intro to the Code Playground",
+    "permalink": "/es/blog/code-playground"
   }
 }

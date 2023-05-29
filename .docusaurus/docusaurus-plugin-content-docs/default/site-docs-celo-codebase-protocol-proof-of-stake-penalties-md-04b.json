@@ -6,7 +6,7 @@
   "source": "@site/docs/celo-codebase/protocol/proof-of-stake/penalties.md",
   "sourceDirName": "celo-codebase/protocol/proof-of-stake",
   "slug": "/celo-codebase/protocol/proof-of-stake/penalties",
-  "permalink": "/celo-codebase/protocol/proof-of-stake/penalties",
+  "permalink": "/es/celo-codebase/protocol/proof-of-stake/penalties",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Zsc Validator Elections",
-    "permalink": "/celo-codebase/protocol/proof-of-stake/validator-elections"
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/validator-elections"
   },
   "next": {
     "title": "Zsc Governance",
-    "permalink": "/celo-codebase/protocol/governance"
+    "permalink": "/es/celo-codebase/protocol/governance"
   }
 }

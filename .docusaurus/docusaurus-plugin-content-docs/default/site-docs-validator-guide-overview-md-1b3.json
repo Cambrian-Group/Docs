@@ -6,7 +6,7 @@
   "source": "@site/docs/validator-guide/overview.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/overview",
-  "permalink": "/validator-guide/overview",
+  "permalink": "/es/validator-guide/overview",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "validators",
   "next": {
     "title": "Disclaimers",
-    "permalink": "/validator-guide/attestation-service"
+    "permalink": "/es/validator-guide/attestation-service"
   }
 }

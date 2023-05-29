@@ -1,5 +1,5 @@
 {
-  "/blog-d4c": {
+  "/es/blog-f4f": {
     "component": "c02e0be2",
     "sidebar": "814f3328",
     "items": [
@@ -34,98 +34,93 @@
         "content": "554caeee"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "8fd5e00a"
   },
-  "/blog/2021/11/08/contributing-e17": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "74ec33b1"
-  },
-  "/blog/2021/11/15/code-playground-620": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "897f65dd"
-  },
-  "/blog/2021/11/16/connect-to-metamask-613": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "76fed571"
-  },
-  "/blog/2021/11/18/observable-intro-a2c": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "afaf435f"
-  },
-  "/blog/2021/11/18/using-the-graph-ef9": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "45bfc5d0"
-  },
-  "/blog/2021/11/30/hardhat-deploy-verify-dc6": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "97828bc6"
-  },
-  "/blog/2021/12/06/addtokentocelowallet-167": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "10f781d0"
-  },
-  "/blog/2021/12/31/using-js-keystores-407": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "7e3b38ba"
-  },
-  "/blog/2022/01/01/hellocelo-9e0": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "53e3b3d5"
-  },
-  "/blog/2022/01/02/hellocontracts-b43": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "941bbc97"
-  },
-  "/blog/2022/01/03/hello-contract-remote-node-766": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "3b6cbb1c"
-  },
-  "/blog/2022/01/04/no-code-erc20-6d8": {
+  "/es/blog/2022/01/04/no-code-erc20-4eb": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "b97c9694"
   },
-  "/blog/2022/01/05/no-code-erc721-048": {
+  "/es/blog/2022/01/05/no-code-erc721-59b": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "016478ca"
   },
-  "/blog/2022/01/06/web-dapp-9e5": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "38e228b5"
-  },
-  "/blog/2022/01/07/on-chain-randomness-af9": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "cba497b7"
-  },
-  "/blog/2022/01/08/valora-wc-v1-7b2": {
+  "/es/blog/2022/01/08/valora-wc-v1-f90": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "d6b45fbf"
   },
-  "/blog/2022/02/21/introduction-to-celo-progressive-dappstarter-9f3": {
+  "/es/blog/2022/02/21/introduction-to-celo-progressive-dappstarter-bad": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "58f81b67"
   },
-  "/blog/archive-f4c": {
-    "component": "9e4087bc",
-    "archive": "b2f554cd"
+  "/es/blog/add-token-celo-wallet-c99": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "10f781d0"
   },
-  "/blog/page/2-8a7": {
+  "/es/blog/archive-544": {
+    "component": "9e4087bc",
+    "archive": "95c68178"
+  },
+  "/es/blog/blog-contributions-5f4": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "74ec33b1"
+  },
+  "/es/blog/code-metamask-752": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "76fed571"
+  },
+  "/es/blog/code-playground-9d0": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "897f65dd"
+  },
+  "/es/blog/developer-guide/start/hello-contract-remote-node-faf": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "3b6cbb1c"
+  },
+  "/es/blog/developer-guide/start/hellocelo-c2b": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "53e3b3d5"
+  },
+  "/es/blog/developer-guide/start/hellocontracts-738": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "941bbc97"
+  },
+  "/es/blog/developer-guide/start/randomness-2a8": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "cba497b7"
+  },
+  "/es/blog/developer-guide/start/using-js-keystores-f5e": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "7e3b38ba"
+  },
+  "/es/blog/developer-guide/start/web-dapp-199": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "38e228b5"
+  },
+  "/es/blog/hardhat-deploy-verify-d0e": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "97828bc6"
+  },
+  "/es/blog/observable-intro-176": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "afaf435f"
+  },
+  "/es/blog/page/2-7bf": {
     "component": "c02e0be2",
     "sidebar": "814f3328",
     "items": [
@@ -151,824 +146,1243 @@
         "content": "571eb55d"
       }
     ],
-    "metadata": "8eb4e46b"
+    "metadata": "26a00d26"
   },
-  "/markdown-page-be1": {
+  "/es/blog/tags-372": {
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "8df6de9b"
+  },
+  "/es/blog/tags/celo-wallet-62e": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c782ec7a"
+      },
+      {
+        "content": "9c12f65f"
+      }
+    ],
+    "metadata": "e56ce44b"
+  },
+  "/es/blog/tags/code-playground-520": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ac72d61f"
+      },
+      {
+        "content": "7421fddd"
+      }
+    ],
+    "metadata": "852fe58a"
+  },
+  "/es/blog/tags/contractkit-71b": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c782ec7a"
+      }
+    ],
+    "metadata": "2ed17066"
+  },
+  "/es/blog/tags/contribute-740": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "571eb55d"
+      }
+    ],
+    "metadata": "b6992768"
+  },
+  "/es/blog/tags/d-app-041": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "80fee2df"
+      }
+    ],
+    "metadata": "a7976ecd"
+  },
+  "/es/blog/tags/d-apps-4f7": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "353669db"
+      }
+    ],
+    "metadata": "f3c517f4"
+  },
+  "/es/blog/tags/dappstarter-526": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "54c1fc2d"
+      }
+    ],
+    "metadata": "2e039064"
+  },
+  "/es/blog/tags/deploy-a93": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "bbdfb077"
+      }
+    ],
+    "metadata": "dea2a520"
+  },
+  "/es/blog/tags/erc-20-3af": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "05d4a174"
+      }
+    ],
+    "metadata": "2b70af2c"
+  },
+  "/es/blog/tags/erc-721-f38": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "cc20ce5e"
+      }
+    ],
+    "metadata": "1b2db9e5"
+  },
+  "/es/blog/tags/hardhat-842": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "b0296eb6"
+      }
+    ],
+    "metadata": "c6941181"
+  },
+  "/es/blog/tags/ipfs-250": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "cc20ce5e"
+      }
+    ],
+    "metadata": "648bd162"
+  },
+  "/es/blog/tags/keystores-9a3": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "554caeee"
+      }
+    ],
+    "metadata": "da940191"
+  },
+  "/es/blog/tags/ledger-57b": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c782ec7a"
+      }
+    ],
+    "metadata": "705db668"
+  },
+  "/es/blog/tags/material-ui-8a3": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "54c1fc2d"
+      }
+    ],
+    "metadata": "e81696ff"
+  },
+  "/es/blog/tags/mint-15d": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "cc20ce5e"
+      },
+      {
+        "content": "05d4a174"
+      }
+    ],
+    "metadata": "74cfe163"
+  },
+  "/es/blog/tags/nextjs-63a": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "80fee2df"
+      }
+    ],
+    "metadata": "ad81f329"
+  },
+  "/es/blog/tags/nft-721": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "cc20ce5e"
+      }
+    ],
+    "metadata": "a1dbf2e8"
+  },
+  "/es/blog/tags/observable-1e7": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "24ab0ea9"
+      }
+    ],
+    "metadata": "ed7fb25c"
+  },
+  "/es/blog/tags/open-zeppelin-09d": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "05d4a174"
+      }
+    ],
+    "metadata": "10204d3d"
+  },
+  "/es/blog/tags/oracle-17b": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "e68c299e"
+      }
+    ],
+    "metadata": "fe8253c6"
+  },
+  "/es/blog/tags/pinata-468": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "cc20ce5e"
+      }
+    ],
+    "metadata": "6ed2680c"
+  },
+  "/es/blog/tags/progressive-c75": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "54c1fc2d"
+      }
+    ],
+    "metadata": "ed3bf64b"
+  },
+  "/es/blog/tags/randomness-9db": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "e68c299e"
+      }
+    ],
+    "metadata": "3badf5db"
+  },
+  "/es/blog/tags/react-158": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "54c1fc2d"
+      },
+      {
+        "content": "b44ccdd4"
+      },
+      {
+        "content": "80fee2df"
+      }
+    ],
+    "metadata": "35a9cfca"
+  },
+  "/es/blog/tags/remix-a78": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "cc20ce5e"
+      },
+      {
+        "content": "05d4a174"
+      }
+    ],
+    "metadata": "d86c49ac"
+  },
+  "/es/blog/tags/remote-cbe": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "bbdfb077"
+      }
+    ],
+    "metadata": "227038b2"
+  },
+  "/es/blog/tags/sdk-688": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "80fee2df"
+      },
+      {
+        "content": "c782ec7a"
+      }
+    ],
+    "metadata": "42282cbb"
+  },
+  "/es/blog/tags/smart-contract-a1b": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "bbdfb077"
+      },
+      {
+        "content": "c188a8f9"
+      }
+    ],
+    "metadata": "a3ac1a29"
+  },
+  "/es/blog/tags/solidity-3b2": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "e68c299e"
+      },
+      {
+        "content": "cc20ce5e"
+      },
+      {
+        "content": "05d4a174"
+      }
+    ],
+    "metadata": "4672b075"
+  },
+  "/es/blog/tags/sourcify-f24": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "b0296eb6"
+      }
+    ],
+    "metadata": "1670203f"
+  },
+  "/es/blog/tags/the-graph-6ad": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "353669db"
+      }
+    ],
+    "metadata": "4ac1fb87"
+  },
+  "/es/blog/tags/tokens-1d5": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "cc20ce5e"
+      },
+      {
+        "content": "05d4a174"
+      },
+      {
+        "content": "c782ec7a"
+      },
+      {
+        "content": "9c12f65f"
+      }
+    ],
+    "metadata": "adc535d2"
+  },
+  "/es/blog/tags/use-contractkit-13b": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "80fee2df"
+      }
+    ],
+    "metadata": "a944f6e5"
+  },
+  "/es/blog/tags/valora-0d7": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "b44ccdd4"
+      }
+    ],
+    "metadata": "fc49597a"
+  },
+  "/es/blog/tags/verification-1c7": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "b0296eb6"
+      }
+    ],
+    "metadata": "45210c31"
+  },
+  "/es/blog/tags/wallet-connect-0a3": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "b44ccdd4"
+      }
+    ],
+    "metadata": "0d985dc7"
+  },
+  "/es/blog/using-the-graph-8e1": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "45bfc5d0"
+  },
+  "/es/markdown-page-fbe": {
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/remove-index-df1": {
+  "/es/remove-index-a87": {
     "component": "69b6db9b",
     "config": "5e9f5e1a"
   },
-  "/search-06a": {
+  "/es/search-94a": {
     "component": "955513a9"
   },
-  "/-632": {
+  "/es/-0aa": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
-  "/-35d": {
+  "/es/-d54": {
     "component": "17896441",
     "content": "ebfee794"
   },
-  "/celo-codebase/protocol-6c8": {
+  "/es/celo-codebase/protocol-30f": {
     "component": "17896441",
     "content": "78234a5c"
   },
-  "/celo-codebase/protocol/bridging/bridging-native-assets-411": {
+  "/es/celo-codebase/protocol/bridging/bridging-native-assets-977": {
     "component": "17896441",
     "content": "40187461"
   },
-  "/celo-codebase/protocol/bridging/bridging-to-celo-52b": {
+  "/es/celo-codebase/protocol/bridging/bridging-to-celo-854": {
     "component": "17896441",
     "content": "f39935be"
   },
-  "/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan-f7b": {
+  "/es/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan-436": {
     "component": "17896441",
     "content": "e4070ebf"
   },
-  "/celo-codebase/protocol/bridging/migrating-to-optics-v2-3d9": {
+  "/es/celo-codebase/protocol/bridging/migrating-to-optics-v2-ea4": {
     "component": "17896441",
     "content": "788367c7"
   },
-  "/celo-codebase/protocol/bridging/optics-bridge-faq-8ba": {
+  "/es/celo-codebase/protocol/bridging/optics-bridge-faq-268": {
     "component": "17896441",
     "content": "e0de97ce"
   },
-  "/celo-codebase/protocol/bridging/optics-gui-da6": {
+  "/es/celo-codebase/protocol/bridging/optics-gui-8fd": {
     "component": "17896441",
     "content": "725c1aeb"
   },
-  "/celo-codebase/protocol/bridging/optics-gui-kr-181": {
+  "/es/celo-codebase/protocol/bridging/optics-gui-kr-190": {
     "component": "17896441",
     "content": "b412e0f1"
   },
-  "/celo-codebase/protocol/bridging/optics-gui-zh_cn-0a9": {
+  "/es/celo-codebase/protocol/bridging/optics-gui-zh_cn-66b": {
     "component": "17896441",
     "content": "8f233c57"
   },
-  "/celo-codebase/protocol/consensus-458": {
+  "/es/celo-codebase/protocol/consensus-a28": {
     "component": "17896441",
     "content": "c5784b97"
   },
-  "/celo-codebase/protocol/consensus/locating-nodes-1b7": {
+  "/es/celo-codebase/protocol/consensus/locating-nodes-f26": {
     "component": "17896441",
     "content": "c1dd0a60"
   },
-  "/celo-codebase/protocol/consensus/ultralight-sync-002": {
+  "/es/celo-codebase/protocol/consensus/ultralight-sync-82d": {
     "component": "17896441",
     "content": "064424db"
   },
-  "/celo-codebase/protocol/consensus/validator-set-differences-e3f": {
+  "/es/celo-codebase/protocol/consensus/validator-set-differences-a8e": {
     "component": "17896441",
     "content": "d3f43879"
   },
-  "/celo-codebase/protocol/governance-c2e": {
+  "/es/celo-codebase/protocol/governance-d32": {
     "component": "17896441",
     "content": "98b40e04"
   },
-  "/celo-codebase/protocol/identity-321": {
+  "/es/celo-codebase/protocol/identity-2a8": {
     "component": "17896441",
     "content": "3b69266b"
   },
-  "/celo-codebase/protocol/identity/metadata-b25": {
+  "/es/celo-codebase/protocol/identity/metadata-0a4": {
     "component": "17896441",
     "content": "cee40e90"
   },
-  "/celo-codebase/protocol/identity/phone-number-privacy-c4d": {
+  "/es/celo-codebase/protocol/identity/phone-number-privacy-1c8": {
     "component": "17896441",
     "content": "3521cf95"
   },
-  "/celo-codebase/protocol/identity/privacy-research-e78": {
+  "/es/celo-codebase/protocol/identity/privacy-research-928": {
     "component": "17896441",
     "content": "33e651e6"
   },
-  "/celo-codebase/protocol/identity/randomness-63b": {
+  "/es/celo-codebase/protocol/identity/randomness-b21": {
     "component": "17896441",
     "content": "8f741ec2"
   },
-  "/celo-codebase/protocol/identity/valora-accounts-280": {
+  "/es/celo-codebase/protocol/identity/valora-accounts-273": {
     "component": "17896441",
     "content": "49d72c73"
   },
-  "/celo-codebase/protocol/optics-4bd": {
+  "/es/celo-codebase/protocol/optics-1c9": {
     "component": "17896441",
     "content": "796bc158"
   },
-  "/celo-codebase/protocol/oracles/band-protocol-how-to-ea9": {
+  "/es/celo-codebase/protocol/oracles/band-protocol-how-to-ef5": {
     "component": "17896441",
     "content": "ff87d7da"
   },
-  "/celo-codebase/protocol/oracles/oracles-on-celo-7ef": {
+  "/es/celo-codebase/protocol/oracles/oracles-on-celo-d08": {
     "component": "17896441",
     "content": "531927a7"
   },
-  "/celo-codebase/protocol/oracles/redstone-protocol-how-to-376": {
+  "/es/celo-codebase/protocol/oracles/redstone-protocol-how-to-469": {
     "component": "17896441",
     "content": "1cfb00a2"
   },
-  "/celo-codebase/protocol/plumo-874": {
+  "/es/celo-codebase/protocol/plumo-8da": {
     "component": "17896441",
     "content": "cec5e01b"
   },
-  "/celo-codebase/protocol/proof-of-stake-d33": {
+  "/es/celo-codebase/protocol/proof-of-stake-a24": {
     "component": "17896441",
     "content": "d4a6f38b"
   },
-  "/celo-codebase/protocol/proof-of-stake/becoming-a-validator-463": {
+  "/es/celo-codebase/protocol/proof-of-stake/becoming-a-validator-90e": {
     "component": "17896441",
     "content": "c4fe63f8"
   },
-  "/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund-ee3": {
+  "/es/celo-codebase/protocol/proof-of-stake/carbon-offsetting-fund-367": {
     "component": "17896441",
     "content": "623ebf9a"
   },
-  "/celo-codebase/protocol/proof-of-stake/community-fund-c79": {
+  "/es/celo-codebase/protocol/proof-of-stake/community-fund-998": {
     "component": "17896441",
     "content": "c4a501ee"
   },
-  "/celo-codebase/protocol/proof-of-stake/epoch-rewards-12c": {
+  "/es/celo-codebase/protocol/proof-of-stake/epoch-rewards-6bf": {
     "component": "17896441",
     "content": "4d222e50"
   },
-  "/celo-codebase/protocol/proof-of-stake/locked-gold-f01": {
+  "/es/celo-codebase/protocol/proof-of-stake/locked-gold-b64": {
     "component": "17896441",
     "content": "975fc330"
   },
-  "/celo-codebase/protocol/proof-of-stake/locked-gold-rewards-aab": {
+  "/es/celo-codebase/protocol/proof-of-stake/locked-gold-rewards-a9b": {
     "component": "17896441",
     "content": "04a0ea15"
   },
-  "/celo-codebase/protocol/proof-of-stake/penalties-9c5": {
+  "/es/celo-codebase/protocol/proof-of-stake/penalties-e6d": {
     "component": "17896441",
     "content": "04b125a4"
   },
-  "/celo-codebase/protocol/proof-of-stake/validator-elections-6db": {
+  "/es/celo-codebase/protocol/proof-of-stake/validator-elections-471": {
     "component": "17896441",
     "content": "c8afce65"
   },
-  "/celo-codebase/protocol/proof-of-stake/validator-groups-909": {
+  "/es/celo-codebase/protocol/proof-of-stake/validator-groups-813": {
     "component": "17896441",
     "content": "9f884bdc"
   },
-  "/celo-codebase/protocol/proof-of-stake/validator-rewards-730": {
+  "/es/celo-codebase/protocol/proof-of-stake/validator-rewards-bed": {
     "component": "17896441",
     "content": "003a3f95"
   },
-  "/celo-codebase/protocol/stability-b41": {
+  "/es/celo-codebase/protocol/stability-5da": {
     "component": "17896441",
     "content": "847047c0"
   },
-  "/celo-codebase/protocol/stability/adding_stable_assets-6e5": {
+  "/es/celo-codebase/protocol/stability/adding_stable_assets-9c2": {
     "component": "17896441",
     "content": "78bd543c"
   },
-  "/celo-codebase/protocol/stability/doto-c08": {
+  "/es/celo-codebase/protocol/stability/doto-3aa": {
     "component": "17896441",
     "content": "44d2832d"
   },
-  "/celo-codebase/protocol/stability/granda-mento-d32": {
+  "/es/celo-codebase/protocol/stability/granda-mento-e96": {
     "component": "17896441",
     "content": "b1655fb1"
   },
-  "/celo-codebase/protocol/stability/oracles-2a0": {
+  "/es/celo-codebase/protocol/stability/oracles-1ba": {
     "component": "17896441",
     "content": "073a7d60"
   },
-  "/celo-codebase/protocol/stability/stability-fees-343": {
+  "/es/celo-codebase/protocol/stability/stability-fees-5d3": {
     "component": "17896441",
     "content": "b60ce522"
   },
-  "/celo-codebase/protocol/stability/tobin-tax-89d": {
+  "/es/celo-codebase/protocol/stability/tobin-tax-88d": {
     "component": "17896441",
     "content": "61029c30"
   },
-  "/celo-codebase/protocol/transactions-970": {
+  "/es/celo-codebase/protocol/transactions-5f4": {
     "component": "17896441",
     "content": "9645faaf"
   },
-  "/celo-codebase/protocol/transactions/erc20-transaction-fees-108": {
+  "/es/celo-codebase/protocol/transactions/erc20-transaction-fees-79f": {
     "component": "17896441",
     "content": "d2589987"
   },
-  "/celo-codebase/protocol/transactions/escrow-cf8": {
+  "/es/celo-codebase/protocol/transactions/escrow-a1b": {
     "component": "17896441",
     "content": "a2765a10"
   },
-  "/celo-codebase/protocol/transactions/full-node-incentives-dae": {
+  "/es/celo-codebase/protocol/transactions/full-node-incentives-d4b": {
     "component": "17896441",
     "content": "9dfbc0f7"
   },
-  "/celo-codebase/protocol/transactions/gas-pricing-e70": {
+  "/es/celo-codebase/protocol/transactions/gas-pricing-46a": {
     "component": "17896441",
     "content": "22d96d74"
   },
-  "/celo-codebase/protocol/transactions/native-currency-911": {
+  "/es/celo-codebase/protocol/transactions/native-currency-643": {
     "component": "17896441",
     "content": "39bfc5ff"
   },
-  "/celo-codebase/protocol/transactions/tx-comment-encryption-b3d": {
+  "/es/celo-codebase/protocol/transactions/tx-comment-encryption-fad": {
     "component": "17896441",
     "content": "08363e74"
   },
-  "/celo-codebase/style-guide/typescript-a52": {
+  "/es/celo-codebase/style-guide/typescript-550": {
     "component": "17896441",
     "content": "c60a1602"
   },
-  "/celo-codebase/wallet-a8b": {
+  "/es/celo-codebase/wallet-9c9": {
     "component": "17896441",
     "content": "0db6244f"
   },
-  "/celo-codebase/wallet/how-the-wallet-works-80c": {
+  "/es/celo-codebase/wallet/how-the-wallet-works-efe": {
     "component": "17896441",
     "content": "af61c072"
   },
-  "/celo-codebase/wallet/how-the-wallet-works/invitations-6cc": {
+  "/es/celo-codebase/wallet/how-the-wallet-works/invitations-250": {
     "component": "17896441",
     "content": "089950f5"
   },
-  "/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments-4f9": {
+  "/es/celo-codebase/wallet/how-the-wallet-works/sending-and-requesting-payments-0fd": {
     "component": "17896441",
     "content": "0a76f6dc"
   },
-  "/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync-d44": {
+  "/es/celo-codebase/wallet/how-the-wallet-works/ultralight-node-sync-b3e": {
     "component": "17896441",
     "content": "9749f30e"
   },
-  "/celo-codebase/wallet/how-the-wallet-works/verification-42c": {
+  "/es/celo-codebase/wallet/how-the-wallet-works/verification-ba9": {
     "component": "17896441",
     "content": "c2132320"
   },
-  "/celo-codebase/wallet/intro-8c9": {
+  "/es/celo-codebase/wallet/intro-5e9": {
     "component": "17896441",
     "content": "ee352737"
   },
-  "/celo-holder-guide/connecting-ledger-celo-terminal-wallet-17e": {
+  "/es/celo-holder-guide/connecting-ledger-celo-terminal-wallet-47d": {
     "component": "17896441",
     "content": "5e77e489"
   },
-  "/celo-holder-guide/connecting-ledger-celo-web-wallet-839": {
+  "/es/celo-holder-guide/connecting-ledger-celo-web-wallet-0f8": {
     "component": "17896441",
     "content": "3a434b30"
   },
-  "/celo-holder-guide/connecting-ledger-celocli-cee": {
+  "/es/celo-holder-guide/connecting-ledger-celocli-742": {
     "component": "17896441",
     "content": "8381b861"
   },
-  "/celo-holder-guide/overview-128": {
+  "/es/celo-holder-guide/overview-313": {
     "component": "17896441",
     "content": "a381f15c"
   },
-  "/celo-holder-guide/owners-fb8": {
+  "/es/celo-holder-guide/owners-990": {
     "component": "17896441",
     "content": "825869ad"
   },
-  "/celo-holder-guide/voting-governance-124": {
+  "/es/celo-holder-guide/voting-governance-915": {
     "component": "17896441",
     "content": "6b4dbf9e"
   },
-  "/celo-holder-guide/voting-validators-56b": {
+  "/es/celo-holder-guide/voting-validators-e2d": {
     "component": "17896441",
     "content": "9c5af04a"
   },
-  "/celo-owner-guide/celo-exchange-bot-e31": {
+  "/es/celo-owner-guide/celo-exchange-bot-620": {
     "component": "17896441",
     "content": "f0934cc8"
   },
-  "/celo-owner-guide/celo-recovery-9ad": {
+  "/es/celo-owner-guide/celo-recovery-069": {
     "component": "17896441",
     "content": "eb77a058"
   },
-  "/celo-owner-guide/cusd-764": {
+  "/es/celo-owner-guide/cusd-9a5": {
     "component": "17896441",
     "content": "70e429f8"
   },
-  "/celo-owner-guide/eth-recovery-bac": {
+  "/es/celo-owner-guide/eth-recovery-947": {
     "component": "17896441",
     "content": "5d4f4557"
   },
-  "/celo-owner-guide/governance-cheat-sheet-f22": {
+  "/es/celo-owner-guide/governance-cheat-sheet-e93": {
     "component": "17896441",
     "content": "45805ad3"
   },
-  "/celo-owner-guide/ledger-d47": {
+  "/es/celo-owner-guide/ledger-c8b": {
     "component": "17896441",
     "content": "c02fbcc6"
   },
-  "/celo-owner-guide/quick-start-26a": {
+  "/es/celo-owner-guide/quick-start-2b9": {
     "component": "17896441",
     "content": "edf74bde"
   },
-  "/celo-owner-guide/release-gold-9b1": {
+  "/es/celo-owner-guide/release-gold-c10": {
     "component": "17896441",
     "content": "1a414fd6"
   },
-  "/community/CIP-contributors-6de": {
+  "/es/community/CIP-contributors-331": {
     "component": "17896441",
     "content": "80d759da"
   },
-  "/community/code-contributors-d3a": {
+  "/es/community/code-contributors-0b8": {
     "component": "17896441",
     "content": "7844cf5d"
   },
-  "/community/code-of-conduct-fe0": {
+  "/es/community/code-of-conduct-d28": {
     "component": "17896441",
     "content": "5c208b63"
   },
-  "/community/contributing-16c": {
+  "/es/community/contributing-d73": {
     "component": "17896441",
     "content": "61cc1a3d"
   },
-  "/community/developer-events-a7d": {
+  "/es/community/developer-events-157": {
     "component": "17896441",
     "content": "1acc585b"
   },
-  "/community/documentation-contributors-53b": {
+  "/es/community/documentation-contributors-044": {
     "component": "17896441",
     "content": "2801995c"
   },
-  "/community/grant-playbook-0bd": {
+  "/es/community/grant-playbook-789": {
     "component": "17896441",
     "content": "8d97ae4c"
   },
-  "/community/guidelines-c51": {
+  "/es/community/guidelines-dbc": {
     "component": "17896441",
     "content": "6c64cb65"
   },
-  "/community/join-the-community-4a1": {
+  "/es/community/join-the-community-dca": {
     "component": "17896441",
     "content": "6ab3adf1"
   },
-  "/community/release-process-de0": {
+  "/es/community/release-process-51c": {
     "component": "17896441",
     "content": "043c9203"
   },
-  "/community/release-process/attestation-service-93a": {
+  "/es/community/release-process/attestation-service-1ca": {
     "component": "17896441",
     "content": "a897b61f"
   },
-  "/community/release-process/base-cli-contractkit-dappkit-utils-2a0": {
+  "/es/community/release-process/base-cli-contractkit-dappkit-utils-f82": {
     "component": "17896441",
     "content": "7c8486a2"
   },
-  "/community/release-process/blockchain-client-2be": {
+  "/es/community/release-process/blockchain-client-5f8": {
     "component": "17896441",
     "content": "37789af5"
   },
-  "/community/release-process/smart-contracts-10b": {
+  "/es/community/release-process/smart-contracts-253": {
     "component": "17896441",
     "content": "2800629f"
   },
-  "/community/translation-contributors-96b": {
+  "/es/community/translation-contributors-6ce": {
     "component": "17896441",
     "content": "ec98eb24"
   },
-  "/developer-guide/celo-dapp-gallery-17d": {
+  "/es/developer-guide/celo-dapp-gallery-6a8": {
     "component": "17896441",
     "content": "f1ed58a8"
   },
-  "/developer-guide/celo-for-eth-devs-467": {
+  "/es/developer-guide/celo-for-eth-devs-d8f": {
     "component": "17896441",
     "content": "3f102e68"
   },
-  "/developer-guide/contractkit-eb9": {
+  "/es/developer-guide/contractkit-8ea": {
     "component": "17896441",
     "content": "15699808"
   },
-  "/developer-guide/contractkit/contracts-wrappers-registry-be8": {
+  "/es/developer-guide/contractkit/contracts-wrappers-registry-438": {
     "component": "17896441",
     "content": "d8233125"
   },
-  "/developer-guide/contractkit/migrating-to-contractkit-v1-4e0": {
+  "/es/developer-guide/contractkit/migrating-to-contractkit-v1-7ea": {
     "component": "17896441",
     "content": "cef2853f"
   },
-  "/developer-guide/contractkit/notes-web3-with-contractkit-027": {
+  "/es/developer-guide/contractkit/notes-web3-with-contractkit-325": {
     "component": "17896441",
     "content": "b441c7c9"
   },
-  "/developer-guide/contractkit/odis-1a7": {
+  "/es/developer-guide/contractkit/odis-ae7": {
     "component": "17896441",
     "content": "3b01d368"
   },
-  "/developer-guide/contractkit/setup-e21": {
+  "/es/developer-guide/contractkit/setup-a88": {
     "component": "17896441",
     "content": "5b01ed2d"
   },
-  "/developer-guide/contractkit/usage-489": {
+  "/es/developer-guide/contractkit/usage-e18": {
     "component": "17896441",
     "content": "1fec5be7"
   },
-  "/developer-guide/dappkit-00f": {
+  "/es/developer-guide/dappkit-70e": {
     "component": "17896441",
     "content": "9615a01f"
   },
-  "/developer-guide/dappkit/setup-a6e": {
+  "/es/developer-guide/dappkit/setup-438": {
     "component": "17896441",
     "content": "82b83f6d"
   },
-  "/developer-guide/dappkit/usage-ff7": {
+  "/es/developer-guide/dappkit/usage-089": {
     "component": "17896441",
     "content": "17f41915"
   },
-  "/developer-guide/development-chain-f02": {
+  "/es/developer-guide/development-chain-9ab": {
     "component": "17896441",
     "content": "8d94cfda"
   },
-  "/developer-guide/forno-258": {
+  "/es/developer-guide/forno-b23": {
     "component": "17896441",
     "content": "4a73e536"
   },
-  "/developer-guide/integrations-595": {
+  "/es/developer-guide/integrations-f83": {
     "component": "17896441",
     "content": "a38ef92b"
   },
-  "/developer-guide/integrations/checklist-8af": {
+  "/es/developer-guide/integrations/checklist-7ba": {
     "component": "17896441",
     "content": "4033a1b5"
   },
-  "/developer-guide/integrations/cloud-hsm-542": {
+  "/es/developer-guide/integrations/cloud-hsm-917": {
     "component": "17896441",
     "content": "12d6eb68"
   },
-  "/developer-guide/integrations/custody-72b": {
+  "/es/developer-guide/integrations/custody-a22": {
     "component": "17896441",
     "content": "e2b99bf0"
   },
-  "/developer-guide/integrations/general-82d": {
+  "/es/developer-guide/integrations/general-43d": {
     "component": "17896441",
     "content": "bbdb2d60"
   },
-  "/developer-guide/integrations/listings-6c7": {
+  "/es/developer-guide/integrations/listings-6ff": {
     "component": "17896441",
     "content": "28b6fca3"
   },
-  "/developer-guide/overview-c74": {
+  "/es/developer-guide/overview-a09": {
     "component": "17896441",
     "content": "b041608f"
   },
-  "/developer-guide/start-3aa": {
+  "/es/developer-guide/start-133": {
     "component": "17896441",
     "content": "56453a72"
   },
-  "/developer-guide/start/develop-on-windows-07d": {
+  "/es/developer-guide/start/develop-on-windows-72a": {
     "component": "17896441",
     "content": "1e9fbb35"
   },
-  "/developer-guide/start/hello-contract-remote-node-439": {
+  "/es/developer-guide/start/hello-contract-remote-node-ac4": {
     "component": "17896441",
     "content": "af878324"
   },
-  "/developer-guide/start/hellocelo-2ac": {
+  "/es/developer-guide/start/hellocelo-344": {
     "component": "17896441",
     "content": "9fd76a65"
   },
-  "/developer-guide/start/hellocontracts-3eb": {
+  "/es/developer-guide/start/hellocontracts-5e9": {
     "component": "17896441",
     "content": "2d9ee938"
   },
-  "/developer-guide/start/randomness-42e": {
+  "/es/developer-guide/start/randomness-94c": {
     "component": "17896441",
     "content": "b4a1a1fb"
   },
-  "/developer-guide/start/using-js-keystores-8f2": {
+  "/es/developer-guide/start/using-js-keystores-03b": {
     "component": "17896441",
     "content": "1853c4ba"
   },
-  "/developer-guide/start/web-dapp-e02": {
+  "/es/developer-guide/start/web-dapp-170": {
     "component": "17896441",
     "content": "3a152d33"
   },
-  "/developer-resources/contractkit/data-encryption-key-448": {
+  "/es/developer-resources/contractkit/data-encryption-key-2ab": {
     "component": "17896441",
     "content": "a513ace9"
   },
-  "/developer-resources/deploy-dapp-2ae": {
+  "/es/developer-resources/deploy-dapp-5d6": {
     "component": "17896441",
     "content": "3b1bfe3c"
   },
-  "/developer-resources/deploy-hardhat-fab": {
+  "/es/developer-resources/deploy-hardhat-73d": {
     "component": "17896441",
     "content": "40684030"
   },
-  "/developer-resources/deploy-remix-487": {
+  "/es/developer-resources/deploy-remix-0db": {
     "component": "17896441",
     "content": "d004bef5"
   },
-  "/developer-resources/deploy-replit-ee9": {
+  "/es/developer-resources/deploy-replit-421": {
     "component": "17896441",
     "content": "48adf76d"
   },
-  "/developer-resources/deploy-truffle-872": {
+  "/es/developer-resources/deploy-truffle-196": {
     "component": "17896441",
     "content": "e62531f5"
   },
-  "/developer-resources/ethers-js-wrapper-e78": {
+  "/es/developer-resources/ethers-js-wrapper-c68": {
     "component": "17896441",
     "content": "f3ab750c"
   },
-  "/developer-resources/networks/alfajores-testnet-ff5": {
+  "/es/developer-resources/networks/alfajores-testnet-52d": {
     "component": "17896441",
     "content": "62873b78"
   },
-  "/developer-resources/networks/baklava-testnet-1ce": {
+  "/es/developer-resources/networks/baklava-testnet-d0b": {
     "component": "17896441",
     "content": "504696a6"
   },
-  "/developer-resources/networks/celo-mainnet-821": {
+  "/es/developer-resources/networks/celo-mainnet-a95": {
     "component": "17896441",
     "content": "933c015b"
   },
-  "/developer-resources/reference-28a": {
+  "/es/developer-resources/reference-b9e": {
     "component": "17896441",
     "content": "2208ef95"
   },
-  "/developer-resources/style-guide/typescript-0c2": {
+  "/es/developer-resources/style-guide/typescript-381": {
     "component": "17896441",
     "content": "432f5186"
   },
-  "/developer-resources/testnet-wallet-a44": {
+  "/es/developer-resources/testnet-wallet-e2f": {
     "component": "17896441",
     "content": "17786f7b"
   },
-  "/developer-resources/use-contractkit-0a8": {
+  "/es/developer-resources/use-contractkit-f87": {
     "component": "17896441",
     "content": "d4fe7ca9"
   },
-  "/developer-resources/using-mac-1e2": {
+  "/es/developer-resources/using-mac-239": {
     "component": "17896441",
     "content": "c0e93e71"
   },
-  "/developer-resources/walkthroughs-b56": {
+  "/es/developer-resources/walkthroughs-02b": {
     "component": "17896441",
     "content": "7c8d56e9"
   },
-  "/developer-resources/walkthroughs/hellodapp-c1a": {
+  "/es/developer-resources/walkthroughs/hellodapp-d73": {
     "component": "17896441",
     "content": "ec5d9c0f"
   },
-  "/developer-resources/walkthroughs/hellodeploy-397": {
+  "/es/developer-resources/walkthroughs/hellodeploy-7d3": {
     "component": "17896441",
     "content": "8e829008"
   },
-  "/developer-resources/walkthroughs/no-code-erc20-4d9": {
+  "/es/developer-resources/walkthroughs/no-code-erc20-f9b": {
     "component": "17896441",
     "content": "7674e468"
   },
-  "/developer-resources/walkthroughs/no-code-erc721-939": {
+  "/es/developer-resources/walkthroughs/no-code-erc721-385": {
     "component": "17896441",
     "content": "c26e9be4"
   },
-  "/developer-resources/walkthroughs/valora-wc-v1-4da": {
+  "/es/developer-resources/walkthroughs/valora-wc-v1-ecf": {
     "component": "17896441",
     "content": "6e431476"
   },
-  "/faqs-4fa": {
+  "/es/faqs-a5e": {
     "component": "17896441",
     "content": "088a4258"
   },
-  "/getting-started/alfajores-testnet-17e": {
+  "/es/getting-started/alfajores-testnet-e60": {
     "component": "17896441",
     "content": "1d99fbc7"
   },
-  "/getting-started/alfajores-testnet/faucet-1e2": {
+  "/es/getting-started/alfajores-testnet/faucet-0dd": {
     "component": "17896441",
     "content": "0b385e17"
   },
-  "/getting-started/alfajores-testnet/running-a-full-node-in-alfajores-c78": {
+  "/es/getting-started/alfajores-testnet/running-a-full-node-in-alfajores-4dd": {
     "component": "17896441",
     "content": "0582cf4a"
   },
-  "/getting-started/alfajores-testnet/using-the-mobile-wallet-8e5": {
+  "/es/getting-started/alfajores-testnet/using-the-mobile-wallet-744": {
     "component": "17896441",
     "content": "2ac4a547"
   },
-  "/getting-started/baklava-testnet-c34": {
+  "/es/getting-started/baklava-testnet-1ab": {
     "component": "17896441",
     "content": "64954ed5"
   },
-  "/getting-started/baklava-testnet/running-a-full-node-in-baklava-969": {
+  "/es/getting-started/baklava-testnet/running-a-full-node-in-baklava-cfa": {
     "component": "17896441",
     "content": "dd58aea3"
   },
-  "/getting-started/baklava-testnet/running-a-validator-in-baklava-3f2": {
+  "/es/getting-started/baklava-testnet/running-a-validator-in-baklava-25e": {
     "component": "17896441",
     "content": "5192c735"
   },
-  "/getting-started/choosing-a-network-f80": {
+  "/es/getting-started/choosing-a-network-d8b": {
     "component": "17896441",
     "content": "3218be8f"
   },
-  "/getting-started/glossary-390": {
+  "/es/getting-started/glossary-96e": {
     "component": "17896441",
     "content": "dd45a7f1"
   },
-  "/getting-started/hosted-nodes-786": {
+  "/es/getting-started/hosted-nodes-748": {
     "component": "17896441",
     "content": "0168ff17"
   },
-  "/getting-started/mainnet-bed": {
+  "/es/getting-started/mainnet-78e": {
     "component": "17896441",
     "content": "e706e16b"
   },
-  "/getting-started/mainnet/running-a-full-node-in-mainnet-935": {
+  "/es/getting-started/mainnet/running-a-full-node-in-mainnet-3a0": {
     "component": "17896441",
     "content": "15742eb9"
   },
-  "/getting-started/mainnet/running-a-validator-in-mainnet-ef6": {
+  "/es/getting-started/mainnet/running-a-validator-in-mainnet-546": {
     "component": "17896441",
     "content": "108998f4"
   },
-  "/getting-started/using-the-wallet-d74": {
+  "/es/getting-started/using-the-wallet-f48": {
     "component": "17896441",
     "content": "e7fe6243"
   },
-  "/getting-started/validator-troubleshooting-faq-614": {
+  "/es/getting-started/validator-troubleshooting-faq-93e": {
     "component": "17896441",
     "content": "ce592ea4"
   },
-  "/getting-started/wallets-4d6": {
+  "/es/getting-started/wallets-202": {
     "component": "17896441",
     "content": "4a7c3be7"
   },
-  "/getting-started/wallets/using-metamask-with-celo-fdc": {
+  "/es/getting-started/wallets/using-metamask-with-celo-a46": {
     "component": "17896441",
     "content": "b2b6dde6"
   },
-  "/getting-started/wallets/using-metamask-with-celo/manual-setup-0e4": {
+  "/es/getting-started/wallets/using-metamask-with-celo/manual-setup-a03": {
     "component": "17896441",
     "content": "8984db02"
   },
-  "/getting-started/wallets/using-metamask-with-celo/metamask-valora-import-020": {
+  "/es/getting-started/wallets/using-metamask-with-celo/metamask-valora-import-3ad": {
     "component": "17896441",
     "content": "ffceb8c3"
   },
-  "/getting-started/wallets/using-metamask-with-celo/programmatic-setup-1d4": {
+  "/es/getting-started/wallets/using-metamask-with-celo/programmatic-setup-2ff": {
     "component": "17896441",
     "content": "30e12403"
   },
-  "/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask-571": {
+  "/es/getting-started/wallets/using-metamask-with-celo/using-a-ledger-with-metamask-3f6": {
     "component": "17896441",
     "content": "25453005"
   },
-  "/important-information/alfajores-testnet-disclaimer-9f4": {
+  "/es/important-information/alfajores-testnet-disclaimer-2a0": {
     "component": "17896441",
     "content": "77699d68"
   },
-  "/important-information/baklava-testnet-disclaimer-46b": {
+  "/es/important-information/baklava-testnet-disclaimer-04f": {
     "component": "17896441",
     "content": "3d873ad1"
   },
-  "/important-information/mainnet-network-disclaimer-438": {
+  "/es/important-information/mainnet-network-disclaimer-5bb": {
     "component": "17896441",
     "content": "dbea8aa3"
   },
-  "/key-concepts-81d": {
+  "/es/key-concepts-50a": {
     "component": "17896441",
     "content": "e4950d84"
   },
-  "/learn/CELO-coin-summary-03c": {
+  "/es/learn/CELO-coin-summary-ddc": {
     "component": "17896441",
     "content": "2f68a31b"
   },
-  "/learn/celo-economic-model-d6a": {
+  "/es/learn/celo-economic-model-7a0": {
     "component": "17896441",
     "content": "d95fc1ad"
   },
-  "/learn/celo-ecosystem-b3d": {
+  "/es/learn/celo-ecosystem-2fb": {
     "component": "17896441",
     "content": "7cf6ac50"
   },
-  "/learn/celo-highlights-742": {
+  "/es/learn/celo-highlights-6f1": {
     "component": "17896441",
     "content": "df26b91a"
   },
-  "/learn/celo-milestones-216": {
+  "/es/learn/celo-milestones-95d": {
     "component": "17896441",
     "content": "7c3265d9"
   },
-  "/learn/celo-onboarding-a8f": {
+  "/es/learn/celo-onboarding-3bf": {
     "component": "17896441",
     "content": "08738162"
   },
-  "/learn/celo-overview-b4e": {
+  "/es/learn/celo-overview-31e": {
     "component": "17896441",
     "content": "008b21ff"
   },
-  "/learn/celo-protocol-529": {
+  "/es/learn/celo-protocol-782": {
     "component": "17896441",
     "content": "f0fdc0b4"
   },
-  "/learn/celo-protocol-summary-4f8": {
+  "/es/learn/celo-protocol-summary-84b": {
     "component": "17896441",
     "content": "d811e7a2"
   },
-  "/learn/celo-resources-c73": {
+  "/es/learn/celo-resources-a39": {
     "component": "17896441",
     "content": "7369845e"
   },
-  "/learn/celo-stack-8c0": {
+  "/es/learn/celo-stack-9db": {
     "component": "17896441",
     "content": "f2e6ff1d"
   },
-  "/learn/celo-summary-166": {
+  "/es/learn/celo-summary-bae": {
     "component": "17896441",
     "content": "bf55a1ab"
   },
-  "/learn/celo-whitepapers-832": {
+  "/es/learn/celo-whitepapers-0ee": {
     "component": "17896441",
     "content": "804f554a"
   },
-  "/learn/developer-onboarding-c51": {
+  "/es/learn/developer-onboarding-a51": {
     "component": "17896441",
     "content": "e9d7df6d"
   },
-  "/learn/developer-tools-f83": {
+  "/es/learn/developer-tools-a69": {
     "component": "17896441",
     "content": "1026c1fc"
   },
-  "/learn/evm-compatible-tooling-05e": {
+  "/es/learn/evm-compatible-tooling-9fa": {
     "component": "17896441",
     "content": "e0ec59f8"
   },
-  "/learn/figment-learn-789": {
+  "/es/learn/figment-learn-98d": {
     "component": "17896441",
     "content": "d18ad758"
   },
-  "/learn/platform-native-stablecoins-summary-679": {
+  "/es/learn/platform-native-stablecoins-summary-efe": {
     "component": "17896441",
     "content": "1c2318b6"
   },
-  "/learn/topology-of-a-celo-network-12e": {
+  "/es/learn/topology-of-a-celo-network-df1": {
     "component": "17896441",
     "content": "6cbc2b71"
   },
-  "/learn/valora-summary-c5c": {
+  "/es/learn/valora-summary-02e": {
     "component": "17896441",
     "content": "f19fdfce"
   },
-  "/learn/walletconnect-b49": {
+  "/es/learn/walletconnect-ff9": {
     "component": "17896441",
     "content": "f8a7d4a4"
   },
-  "/overview-224": {
+  "/es/overview-524": {
     "component": "17896441",
     "content": "1db64337"
   },
-  "/validator-guide/attestation-service-b6b": {
+  "/es/validator-guide/attestation-service-a42": {
     "component": "17896441",
     "content": "dfcfa1c0"
   },
-  "/validator-guide/celo-foundation-voting-policy-1d3": {
+  "/es/validator-guide/celo-foundation-voting-policy-298": {
     "component": "17896441",
     "content": "d622a05b"
   },
-  "/validator-guide/celo-signal-0aa": {
+  "/es/validator-guide/celo-signal-531": {
     "component": "17896441",
     "content": "71248f03"
   },
-  "/validator-guide/devops-best-practices-2d9": {
+  "/es/validator-guide/devops-best-practices-773": {
     "component": "17896441",
     "content": "abd2bcd0"
   },
-  "/validator-guide/monitoring-2f6": {
+  "/es/validator-guide/monitoring-152": {
     "component": "17896441",
     "content": "abcddd3e"
   },
-  "/validator-guide/node-upgrades-c58": {
+  "/es/validator-guide/node-upgrades-5ab": {
     "component": "17896441",
     "content": "de888f2c"
   },
-  "/validator-guide/overview-972": {
+  "/es/validator-guide/overview-f53": {
     "component": "17896441",
     "content": "1b333a21"
   },
-  "/validator-guide/proxy-c1c": {
+  "/es/validator-guide/proxy-bea": {
     "component": "17896441",
     "content": "64142be9"
   },
-  "/validator-guide/securing-nodes-and-services-823": {
+  "/es/validator-guide/securing-nodes-and-services-bd6": {
     "component": "17896441",
     "content": "c94f5fff"
   },
-  "/validator-guide/summary-2c1": {
+  "/es/validator-guide/summary-1b2": {
     "component": "17896441",
     "content": "469626cc"
   },
-  "/validator-guide/summary/detailed-b0e": {
+  "/es/validator-guide/summary/detailed-6b4": {
     "component": "17896441",
     "content": "807251af"
   },
-  "/validator-guide/summary/key-rotation-dc2": {
+  "/es/validator-guide/summary/key-rotation-c54": {
     "component": "17896441",
     "content": "d993942e"
   },
-  "/validator-guide/validator-explorer-c6f": {
+  "/es/validator-guide/validator-explorer-f00": {
     "component": "17896441",
     "content": "80169b72"
   },
-  "/why-celo-b26": {
+  "/es/why-celo-7c0": {
     "component": "17896441",
     "content": "b4629889"
   }

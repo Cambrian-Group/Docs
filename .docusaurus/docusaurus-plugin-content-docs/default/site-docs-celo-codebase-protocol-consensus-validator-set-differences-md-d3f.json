@@ -6,7 +6,7 @@
   "source": "@site/docs/celo-codebase/protocol/consensus/validator-set-differences.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus/validator-set-differences",
-  "permalink": "/celo-codebase/protocol/consensus/validator-set-differences",
+  "permalink": "/es/celo-codebase/protocol/consensus/validator-set-differences",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Consensus Introduction",
-    "permalink": "/celo-codebase/protocol/consensus"
+    "permalink": "/es/celo-codebase/protocol/consensus"
   },
   "next": {
     "title": "Locating Nodes",
-    "permalink": "/celo-codebase/protocol/consensus/locating-nodes"
+    "permalink": "/es/celo-codebase/protocol/consensus/locating-nodes"
   }
 }

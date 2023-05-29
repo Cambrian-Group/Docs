@@ -6,7 +6,7 @@
   "source": "@site/docs/celo-codebase/protocol/proof-of-stake/index.md",
   "sourceDirName": "celo-codebase/protocol/proof-of-stake",
   "slug": "/celo-codebase/protocol/proof-of-stake",
-  "permalink": "/celo-codebase/protocol/proof-of-stake",
+  "permalink": "/es/celo-codebase/protocol/proof-of-stake",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Celo Ultralight Sync",
-    "permalink": "/celo-codebase/protocol/consensus/ultralight-sync"
+    "permalink": "/es/celo-codebase/protocol/consensus/ultralight-sync"
   },
   "next": {
     "title": "Locked ZTB and Voting",
-    "permalink": "/celo-codebase/protocol/proof-of-stake/locked-gold"
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/locked-gold"
   }
 }

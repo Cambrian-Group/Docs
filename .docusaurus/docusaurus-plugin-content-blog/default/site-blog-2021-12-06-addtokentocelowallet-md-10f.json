@@ -1,20 +1,36 @@
 {
-  "permalink": "/blog/2021/12/06/addtokentocelowallet",
+  "permalink": "/es/blog/add-token-celo-wallet",
   "source": "@site/blog/2021-12-06-addtokentocelowallet.md",
-  "title": "addtokentocelowallet",
-  "description": "",
+  "title": "Add Your ERC20 Token to Your Celo Wallet",
+  "description": "Learn How to Add Your ERC20 Token to Your Celo Wallet",
   "date": "2021-12-06T00:00:00.000Z",
-  "formattedDate": "December 6, 2021",
-  "tags": [],
-  "readingTime": 0,
-  "truncated": false,
-  "authors": [],
+  "formattedDate": "6 de diciembre de 2021",
+  "tags": [
+    {
+      "label": "tokens",
+      "permalink": "/es/blog/tags/tokens"
+    },
+    {
+      "label": "celo wallet",
+      "permalink": "/es/blog/tags/celo-wallet"
+    }
+  ],
+  "readingTime": 1.18,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Connor Fabiano",
+      "url": "https://github.com/vissequ",
+      "image_url": "https://github.com/vissequ.png",
+      "imageURL": "https://github.com/vissequ.png"
+    }
+  ],
   "prevItem": {
-    "title": "using-js-keystores",
-    "permalink": "/blog/2021/12/31/using-js-keystores"
+    "title": "Using Keystores Library for Local Key Management",
+    "permalink": "/es/blog/developer-guide/start/using-js-keystores"
   },
   "nextItem": {
-    "title": "hardhat-deploy-verify",
-    "permalink": "/blog/2021/11/30/hardhat-deploy-verify"
+    "title": "Verifying Contracts with Hardhat",
+    "permalink": "/es/blog/hardhat-deploy-verify"
   }
 }

@@ -1,20 +1,33 @@
 {
-  "permalink": "/blog/2022/01/02/hellocontracts",
+  "permalink": "/es/blog/developer-guide/start/hellocontracts",
   "source": "@site/blog/2022-01-02-hellocontracts.md",
-  "title": "hellocontracts",
-  "description": "",
+  "title": "Deploy a Contract on Celo (local node)",
+  "description": "How to deploy your own smart contracts onto Celo from a local node.",
   "date": "2022-01-02T00:00:00.000Z",
-  "formattedDate": "January 2, 2022",
-  "tags": [],
-  "readingTime": 0,
-  "truncated": false,
-  "authors": [],
+  "formattedDate": "2 de enero de 2022",
+  "tags": [
+    {
+      "label": "smart contract",
+      "permalink": "/es/blog/tags/smart-contract"
+    }
+  ],
+  "readingTime": 2.776666666666667,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "Josh Crites",
+      "title": "Developer Relations, cLabs",
+      "url": "https://github.com/critesjosh",
+      "image_url": "https://github.com/critesjosh.png",
+      "imageURL": "https://github.com/critesjosh.png"
+    }
+  ],
   "prevItem": {
-    "title": "hello-contract-remote-node",
-    "permalink": "/blog/2022/01/03/hello-contract-remote-node"
+    "title": "Deploy and Interact with Contracts (Remotely)",
+    "permalink": "/es/blog/developer-guide/start/hello-contract-remote-node"
   },
   "nextItem": {
-    "title": "hellocelo",
-    "permalink": "/blog/2022/01/01/hellocelo"
+    "title": "Sending CELO & Stable Assets",
+    "permalink": "/es/blog/developer-guide/start/hellocelo"
   }
 }

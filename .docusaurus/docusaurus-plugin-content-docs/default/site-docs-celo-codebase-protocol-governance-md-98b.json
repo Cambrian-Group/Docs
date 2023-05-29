@@ -6,7 +6,7 @@
   "source": "@site/docs/celo-codebase/protocol/governance.md",
   "sourceDirName": "celo-codebase/protocol",
   "slug": "/celo-codebase/protocol/governance",
-  "permalink": "/celo-codebase/protocol/governance",
+  "permalink": "/es/celo-codebase/protocol/governance",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Zsc Validator Penalties",
-    "permalink": "/celo-codebase/protocol/proof-of-stake/penalties"
+    "permalink": "/es/celo-codebase/protocol/proof-of-stake/penalties"
   },
   "next": {
     "title": "Celo Transactions Overview",
-    "permalink": "/celo-codebase/protocol/transactions"
+    "permalink": "/es/celo-codebase/protocol/transactions"
   }
 }

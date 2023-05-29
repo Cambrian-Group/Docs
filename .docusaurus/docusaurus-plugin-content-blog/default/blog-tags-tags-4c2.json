@@ -45,7 +45,7 @@
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/solidity",
     "name": "solidity",
-    "count": 2,
+    "count": 3,
     "permalink": "/blog/tags/solidity"
   },
   "/blog/tags/randomness": {
@@ -94,8 +94,50 @@
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/tokens",
     "name": "tokens",
-    "count": 3,
+    "count": 4,
     "permalink": "/blog/tags/tokens"
+  },
+  "/blog/tags/erc-721": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/erc-721",
+    "name": "ERC721",
+    "count": 1,
+    "permalink": "/blog/tags/erc-721"
+  },
+  "/blog/tags/mint": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/mint",
+    "name": "mint",
+    "count": 2,
+    "permalink": "/blog/tags/mint"
+  },
+  "/blog/tags/nft": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/nft",
+    "name": "NFT",
+    "count": 1,
+    "permalink": "/blog/tags/nft"
+  },
+  "/blog/tags/ipfs": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/ipfs",
+    "name": "ipfs",
+    "count": 1,
+    "permalink": "/blog/tags/ipfs"
+  },
+  "/blog/tags/pinata": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/pinata",
+    "name": "pinata",
+    "count": 1,
+    "permalink": "/blog/tags/pinata"
+  },
+  "/blog/tags/remix": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/remix",
+    "name": "remix",
+    "count": 2,
+    "permalink": "/blog/tags/remix"
   },
   "/blog/tags/erc-20": {
     "allTagsPath": "/blog/tags",
@@ -104,26 +146,12 @@
     "count": 1,
     "permalink": "/blog/tags/erc-20"
   },
-  "/blog/tags/mint": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/mint",
-    "name": "mint",
-    "count": 1,
-    "permalink": "/blog/tags/mint"
-  },
   "/blog/tags/open-zeppelin": {
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/open-zeppelin",
     "name": "open zeppelin",
     "count": 1,
     "permalink": "/blog/tags/open-zeppelin"
-  },
-  "/blog/tags/remix": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/remix",
-    "name": "remix",
-    "count": 1,
-    "permalink": "/blog/tags/remix"
   },
   "/blog/tags/smart-contract": {
     "allTagsPath": "/blog/tags",
@@ -195,6 +223,13 @@
     "count": 1,
     "permalink": "/blog/tags/verification"
   },
+  "/blog/tags/observable": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/observable",
+    "name": "observable",
+    "count": 1,
+    "permalink": "/blog/tags/observable"
+  },
   "/blog/tags/the-graph": {
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/the-graph",
@@ -208,13 +243,6 @@
     "name": "DApps",
     "count": 1,
     "permalink": "/blog/tags/d-apps"
-  },
-  "/blog/tags/observable": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/observable",
-    "name": "observable",
-    "count": 1,
-    "permalink": "/blog/tags/observable"
   },
   "/blog/tags/code-playground": {
     "allTagsPath": "/blog/tags",

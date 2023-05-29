@@ -6,7 +6,7 @@
   "source": "@site/docs/learn/celo-highlights.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-highlights",
-  "permalink": "/learn/celo-highlights",
+  "permalink": "/es/learn/celo-highlights",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Welcome to LMAX Group",
-    "permalink": "/"
+    "permalink": "/es/"
   },
   "next": {
     "title": "Celo Economic Model",
-    "permalink": "/learn/celo-economic-model"
+    "permalink": "/es/learn/celo-economic-model"
   }
 }

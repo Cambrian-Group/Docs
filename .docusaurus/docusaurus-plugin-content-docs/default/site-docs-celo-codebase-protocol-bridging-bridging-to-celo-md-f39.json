@@ -6,7 +6,7 @@
   "source": "@site/docs/celo-codebase/protocol/bridging/bridging-to-celo.md",
   "sourceDirName": "celo-codebase/protocol/bridging",
   "slug": "/celo-codebase/protocol/bridging/bridging-to-celo",
-  "permalink": "/celo-codebase/protocol/bridging/bridging-to-celo",
+  "permalink": "/es/celo-codebase/protocol/bridging/bridging-to-celo",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Get ZTB",
-    "permalink": "/celo-holder-guide/owners"
+    "permalink": "/es/celo-holder-guide/owners"
   },
   "next": {
     "title": "Optics Bridge GUI",
-    "permalink": "/celo-codebase/protocol/bridging/optics-gui"
+    "permalink": "/es/celo-codebase/protocol/bridging/optics-gui"
   }
 }

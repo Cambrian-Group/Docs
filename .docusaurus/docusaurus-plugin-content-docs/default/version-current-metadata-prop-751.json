@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "Welcome to LMAX",
-        "href": "/",
+        "href": "/es/",
         "docId": "welcome"
       },
       {
@@ -21,43 +21,43 @@
           {
             "type": "link",
             "label": "Highlights",
-            "href": "/learn/celo-highlights",
+            "href": "/es/learn/celo-highlights",
             "docId": "learn/celo-highlights"
           },
           {
             "type": "link",
             "label": "Economic Model",
-            "href": "/learn/celo-economic-model",
+            "href": "/es/learn/celo-economic-model",
             "docId": "learn/celo-economic-model"
           },
           {
             "type": "link",
             "label": "Ecosystem",
-            "href": "/learn/celo-ecosystem",
+            "href": "/es/learn/celo-ecosystem",
             "docId": "learn/celo-ecosystem"
           },
           {
             "type": "link",
             "label": "Key Concepts",
-            "href": "/key-concepts",
+            "href": "/es/key-concepts",
             "docId": "learn/key-concepts"
           },
           {
             "type": "link",
             "label": "Whitepapers",
-            "href": "/learn/celo-whitepapers",
+            "href": "/es/learn/celo-whitepapers",
             "docId": "learn/celo-whitepapers"
           },
           {
             "type": "link",
             "label": "Community",
-            "href": "/community/join-the-community",
+            "href": "/es/community/join-the-community",
             "docId": "community/join-the-community"
           },
           {
             "type": "link",
             "label": "Glossary",
-            "href": "/getting-started/glossary",
+            "href": "/es/getting-started/glossary",
             "docId": "getting-started/glossary"
           }
         ],
@@ -71,7 +71,7 @@
           {
             "type": "link",
             "label": "LMAX Wallets",
-            "href": "/getting-started/wallets",
+            "href": "/es/getting-started/wallets",
             "docId": "getting-started/wallets/index"
           }
         ],
@@ -85,7 +85,7 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/celo-holder-guide/owners",
+            "href": "/es/celo-holder-guide/owners",
             "docId": "celo-holder-guide/owners"
           }
         ],
@@ -99,31 +99,31 @@
           {
             "type": "link",
             "label": "LMAX Bridges",
-            "href": "/celo-codebase/protocol/bridging/bridging-to-celo",
+            "href": "/es/celo-codebase/protocol/bridging/bridging-to-celo",
             "docId": "celo-codebase/protocol/bridging/bridging-to-celo"
           },
           {
             "type": "link",
             "label": "Optics Bridge GUI",
-            "href": "/celo-codebase/protocol/bridging/optics-gui",
+            "href": "/es/celo-codebase/protocol/bridging/optics-gui",
             "docId": "celo-codebase/protocol/bridging/optics-gui"
           },
           {
             "type": "link",
             "label": "Native Assets with LMAX",
-            "href": "/celo-codebase/protocol/bridging/bridging-native-assets",
+            "href": "/es/celo-codebase/protocol/bridging/bridging-native-assets",
             "docId": "celo-codebase/protocol/bridging/bridging-native-assets"
           },
           {
             "type": "link",
             "label": "Tokens with LMAX",
-            "href": "/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
+            "href": "/es/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
             "docId": "celo-codebase/protocol/bridging/bridging-tokens-with-etherscan"
           },
           {
             "type": "link",
             "label": "Optics Bridge FAQ",
-            "href": "/celo-codebase/protocol/bridging/optics-bridge-faq",
+            "href": "/es/celo-codebase/protocol/bridging/optics-bridge-faq",
             "docId": "celo-codebase/protocol/bridging/optics-bridge-faq"
           }
         ],
@@ -137,19 +137,19 @@
           {
             "type": "link",
             "label": "Zsc Oracles",
-            "href": "/celo-codebase/protocol/oracles/oracles-on-celo",
+            "href": "/es/celo-codebase/protocol/oracles/oracles-on-celo",
             "docId": "celo-codebase/protocol/oracles/oracles-on-celo"
           },
           {
             "type": "link",
             "label": "Using Band Protocol",
-            "href": "/celo-codebase/protocol/oracles/band-protocol-how-to",
+            "href": "/es/celo-codebase/protocol/oracles/band-protocol-how-to",
             "docId": "celo-codebase/protocol/oracles/band-protocol-how-to"
           },
           {
             "type": "link",
             "label": "Using RedStone oracles",
-            "href": "/celo-codebase/protocol/oracles/redstone-protocol-how-to",
+            "href": "/es/celo-codebase/protocol/oracles/redstone-protocol-how-to",
             "docId": "celo-codebase/protocol/oracles/redstone-protocol-how-to"
           }
         ],
@@ -163,7 +163,7 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/celo-codebase/protocol",
+            "href": "/es/celo-codebase/protocol",
             "docId": "celo-codebase/protocol/index"
           },
           {
@@ -173,25 +173,25 @@
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/celo-codebase/protocol/consensus",
+                "href": "/es/celo-codebase/protocol/consensus",
                 "docId": "celo-codebase/protocol/consensus/index"
               },
               {
                 "type": "link",
                 "label": "Validator Set Differences",
-                "href": "/celo-codebase/protocol/consensus/validator-set-differences",
+                "href": "/es/celo-codebase/protocol/consensus/validator-set-differences",
                 "docId": "celo-codebase/protocol/consensus/validator-set-differences"
               },
               {
                 "type": "link",
                 "label": "Locating Nodes",
-                "href": "/celo-codebase/protocol/consensus/locating-nodes",
+                "href": "/es/celo-codebase/protocol/consensus/locating-nodes",
                 "docId": "celo-codebase/protocol/consensus/locating-nodes"
               },
               {
                 "type": "link",
                 "label": "Archive Sync",
-                "href": "/celo-codebase/protocol/consensus/ultralight-sync",
+                "href": "/es/celo-codebase/protocol/consensus/ultralight-sync",
                 "docId": "celo-codebase/protocol/consensus/ultralight-sync"
               }
             ],
@@ -205,25 +205,25 @@
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/celo-codebase/protocol/proof-of-stake",
+                "href": "/es/celo-codebase/protocol/proof-of-stake",
                 "docId": "celo-codebase/protocol/proof-of-stake/index"
               },
               {
                 "type": "link",
                 "label": "Locked ZTB",
-                "href": "/celo-codebase/protocol/proof-of-stake/locked-gold",
+                "href": "/es/celo-codebase/protocol/proof-of-stake/locked-gold",
                 "docId": "celo-codebase/protocol/proof-of-stake/locked-gold"
               },
               {
                 "type": "link",
                 "label": "Validator Elections",
-                "href": "/celo-codebase/protocol/proof-of-stake/validator-elections",
+                "href": "/es/celo-codebase/protocol/proof-of-stake/validator-elections",
                 "docId": "celo-codebase/protocol/proof-of-stake/validator-elections"
               },
               {
                 "type": "link",
                 "label": "Penalties",
-                "href": "/celo-codebase/protocol/proof-of-stake/penalties",
+                "href": "/es/celo-codebase/protocol/proof-of-stake/penalties",
                 "docId": "celo-codebase/protocol/proof-of-stake/penalties"
               }
             ],
@@ -233,7 +233,7 @@
           {
             "type": "link",
             "label": "Zsc Governance",
-            "href": "/celo-codebase/protocol/governance",
+            "href": "/es/celo-codebase/protocol/governance",
             "docId": "celo-codebase/protocol/governance"
           },
           {
@@ -243,25 +243,25 @@
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/celo-codebase/protocol/transactions",
+                "href": "/es/celo-codebase/protocol/transactions",
                 "docId": "celo-codebase/protocol/transactions/index"
               },
               {
                 "type": "link",
                 "label": "Zsc Native Currency",
-                "href": "/celo-codebase/protocol/transactions/native-currency",
+                "href": "/es/celo-codebase/protocol/transactions/native-currency",
                 "docId": "celo-codebase/protocol/transactions/native-currency"
               },
               {
                 "type": "link",
                 "label": "Paying for Gas in Tokens",
-                "href": "/celo-codebase/protocol/transactions/erc20-transaction-fees",
+                "href": "/es/celo-codebase/protocol/transactions/erc20-transaction-fees",
                 "docId": "celo-codebase/protocol/transactions/erc20-transaction-fees"
               },
               {
                 "type": "link",
                 "label": "Zsc Gas Pricing",
-                "href": "/celo-codebase/protocol/transactions/gas-pricing",
+                "href": "/es/celo-codebase/protocol/transactions/gas-pricing",
                 "docId": "celo-codebase/protocol/transactions/gas-pricing"
               }
             ],
@@ -275,19 +275,19 @@
       {
         "type": "link",
         "label": "网络",
-        "href": "/getting-started/choosing-a-network",
+        "href": "/es/getting-started/choosing-a-network",
         "docId": "getting-started/choosing-a-network"
       },
       {
         "type": "link",
         "label": "审计",
-        "href": "/developer-guide/celo-dapp-gallery",
+        "href": "/es/developer-guide/celo-dapp-gallery",
         "docId": "developer-resources/celo-dapp-gallery"
       },
       {
         "type": "link",
         "label": "FAQ",
-        "href": "/faqs",
+        "href": "/es/faqs",
         "docId": "faqs"
       }
     ],
@@ -295,13 +295,13 @@
       {
         "type": "link",
         "label": "privacy Policy",
-        "href": "/validator-guide/overview",
+        "href": "/es/validator-guide/overview",
         "docId": "validator-guide/overview"
       },
       {
         "type": "link",
         "label": "Disclaimers",
-        "href": "/validator-guide/attestation-service",
+        "href": "/es/validator-guide/attestation-service",
         "docId": "validator-guide/attestation-service"
       }
     ],
@@ -309,7 +309,7 @@
       {
         "type": "link",
         "label": "Overview",
-        "href": "/developer-guide/overview",
+        "href": "/es/developer-guide/overview",
         "docId": "developer-resources/overview"
       },
       {
@@ -319,13 +319,13 @@
           {
             "type": "link",
             "label": "Using Mac",
-            "href": "/developer-resources/using-mac",
+            "href": "/es/developer-resources/using-mac",
             "docId": "developer-resources/using-mac"
           },
           {
             "type": "link",
             "label": "Using Windows",
-            "href": "/developer-guide/start/develop-on-windows",
+            "href": "/es/developer-guide/start/develop-on-windows",
             "docId": "developer-resources/develop-on-windows"
           }
         ],
@@ -337,13 +337,13 @@
       {
         "type": "link",
         "label": "视频直播",
-        "href": "/community/contributing",
+        "href": "/es/community/contributing",
         "docId": "community/contributing"
       },
       {
         "type": "link",
         "label": "媒体报道",
-        "href": "/community/developer-events",
+        "href": "/es/community/developer-events",
         "docId": "community/developer-events"
       }
     ]

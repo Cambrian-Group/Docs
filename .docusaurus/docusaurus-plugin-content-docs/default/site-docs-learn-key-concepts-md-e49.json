@@ -6,7 +6,7 @@
   "source": "@site/docs/learn/key-concepts.md",
   "sourceDirName": "learn",
   "slug": "/key-concepts",
-  "permalink": "/key-concepts",
+  "permalink": "/es/key-concepts",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Celo Ecosystem",
-    "permalink": "/learn/celo-ecosystem"
+    "permalink": "/es/learn/celo-ecosystem"
   },
   "next": {
     "title": "ZSC Whitepapers",
-    "permalink": "/learn/celo-whitepapers"
+    "permalink": "/es/learn/celo-whitepapers"
   }
 }

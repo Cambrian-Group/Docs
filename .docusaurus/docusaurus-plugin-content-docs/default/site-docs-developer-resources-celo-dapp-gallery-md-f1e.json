@@ -6,7 +6,7 @@
   "source": "@site/docs/developer-resources/celo-dapp-gallery.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-guide/celo-dapp-gallery",
-  "permalink": "/developer-guide/celo-dapp-gallery",
+  "permalink": "/es/developer-guide/celo-dapp-gallery",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "链上网络",
-    "permalink": "/getting-started/choosing-a-network"
+    "permalink": "/es/getting-started/choosing-a-network"
   },
   "next": {
     "title": "Lmax Group FAQ",
-    "permalink": "/faqs"
+    "permalink": "/es/faqs"
   }
 }

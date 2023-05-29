@@ -2,7 +2,7 @@ export default {
   "title": "LMAX Docs",
   "tagline": "LMAX Group",
   "url": "https://docs.lmax.pro",
-  "baseUrl": "/",
+  "baseUrl": "/es/",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -264,7 +264,7 @@ export default {
       }
     },
     "navbar": {
-      "title": "LMAX  Docs",
+      "title": "LMAX Docs",
       "logo": {
         "alt": "LMAX Logo",
         "src": "img/color-logo.png"

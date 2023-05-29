@@ -6,7 +6,7 @@
   "source": "@site/docs/learn/celo-whitepapers.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-whitepapers",
-  "permalink": "/learn/celo-whitepapers",
+  "permalink": "/es/learn/celo-whitepapers",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Key Concepts",
-    "permalink": "/key-concepts"
+    "permalink": "/es/key-concepts"
   },
   "next": {
     "title": "Join the Zsc Community",
-    "permalink": "/community/join-the-community"
+    "permalink": "/es/community/join-the-community"
   }
 }

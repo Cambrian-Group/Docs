@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[4803],{94906:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/erc-721","name":"ERC721","count":1,"permalink":"/blog/tags/erc-721"}')}}]);

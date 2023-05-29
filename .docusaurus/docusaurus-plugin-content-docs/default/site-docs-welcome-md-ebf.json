@@ -6,7 +6,7 @@
   "source": "@site/docs/welcome.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/",
+  "permalink": "/es/",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -19,6 +19,6 @@
   "sidebar": "docs",
   "next": {
     "title": "Key Concepts",
-    "permalink": "/learn/celo-highlights"
+    "permalink": "/es/learn/celo-highlights"
   }
 }
