@@ -1,8 +1,8 @@
 {
   "unversionedId": "community/developer-events",
   "id": "community/developer-events",
-  "title": "Developer Events",
-  "description": "Find Celo events focused on the developer community.",
+  "title": "媒体报道",
+  "description": "全球媒体资讯汇总.",
   "source": "@site/docs/community/developer-events.md",
   "sourceDirName": "community",
   "slug": "/community/developer-events",
@@ -11,12 +11,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Developer Events",
-    "description": "Find Celo events focused on the developer community."
+    "title": "媒体报道",
+    "description": "全球媒体资讯汇总."
   },
   "sidebar": "contributors",
   "previous": {
-    "title": "Celo Community",
+    "title": "视频直播",
     "permalink": "/es/community/contributing"
   }
 }

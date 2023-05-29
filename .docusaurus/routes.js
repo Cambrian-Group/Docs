@@ -95,7 +95,7 @@ export default [
   },
   {
     path: '/es/blog/page/2',
-    component: ComponentCreator('/es/blog/page/2','7bf'),
+    component: ComponentCreator('/es/blog/page/2','d73'),
     exact: true
   },
   {

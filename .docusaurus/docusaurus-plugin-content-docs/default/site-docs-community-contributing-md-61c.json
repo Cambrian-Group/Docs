@@ -1,8 +1,8 @@
 {
   "unversionedId": "community/contributing",
   "id": "community/contributing",
-  "title": "Celo Community",
-  "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone.",
+  "title": "视频直播",
+  "description": "LMAX Group相关视频信息.",
   "source": "@site/docs/community/contributing.md",
   "sourceDirName": "community",
   "slug": "/community/contributing",
@@ -11,12 +11,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Community",
-    "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone."
+    "title": "视频直播",
+    "description": "LMAX Group相关视频信息."
   },
   "sidebar": "contributors",
   "next": {
-    "title": "Developer Events",
+    "title": "媒体报道",
     "permalink": "/es/community/developer-events"
   }
 }
