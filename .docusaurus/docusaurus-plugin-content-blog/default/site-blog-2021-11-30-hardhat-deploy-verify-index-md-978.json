@@ -1,41 +1,20 @@
 {
-  "permalink": "/blog/hardhat-deploy-verify",
+  "permalink": "/blog/2021/11/30/hardhat-deploy-verify",
   "source": "@site/blog/2021-11-30-hardhat-deploy-verify/index.md",
-  "title": "Verifying Contracts with Hardhat",
-  "description": "Learn to verify contracts on Sourcify using the hardhat-deploy plugin",
+  "title": "hardhat-deploy-verify",
+  "description": "",
   "date": "2021-11-30T00:00:00.000Z",
   "formattedDate": "November 30, 2021",
-  "tags": [
-    {
-      "label": "hardhat",
-      "permalink": "/blog/tags/hardhat"
-    },
-    {
-      "label": "sourcify",
-      "permalink": "/blog/tags/sourcify"
-    },
-    {
-      "label": "verification",
-      "permalink": "/blog/tags/verification"
-    }
-  ],
-  "readingTime": 1.9633333333333334,
-  "truncated": true,
-  "authors": [
-    {
-      "name": "Josh Crites",
-      "title": "Developer Relations, cLabs",
-      "url": "https://github.com/critesjosh",
-      "imageURL": "https://github.com/critesjosh.png",
-      "key": "josh"
-    }
-  ],
+  "tags": [],
+  "readingTime": 0,
+  "truncated": false,
+  "authors": [],
   "prevItem": {
-    "title": "Add Your ERC20 Token to Your Celo Wallet",
-    "permalink": "/blog/add-token-celo-wallet"
+    "title": "addtokentocelowallet",
+    "permalink": "/blog/2021/12/06/addtokentocelowallet"
   },
   "nextItem": {
-    "title": "Demos with ObservableHQ",
-    "permalink": "/blog/observable-intro"
+    "title": "using-the-graph",
+    "permalink": "/blog/2021/11/18/using-the-graph"
   }
 }

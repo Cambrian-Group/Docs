@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[9816],{35504:function(s){s.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/nextjs","name":"nextjs","count":1,"permalink":"/es/blog/tags/nextjs"}')}}]);

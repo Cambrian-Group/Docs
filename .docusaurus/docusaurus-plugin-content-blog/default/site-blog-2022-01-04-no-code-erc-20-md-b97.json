@@ -1,53 +1,20 @@
 {
   "permalink": "/blog/2022/01/04/no-code-erc20",
   "source": "@site/blog/2022-01-04-no-code-erc20.md",
-  "title": "Deploy & Mint a Token",
-  "description": "How to deploy an ERC20 token contract to Celo.",
+  "title": "no-code-erc20",
+  "description": "",
   "date": "2022-01-04T00:00:00.000Z",
   "formattedDate": "January 4, 2022",
-  "tags": [
-    {
-      "label": "tokens",
-      "permalink": "/blog/tags/tokens"
-    },
-    {
-      "label": "ERC20",
-      "permalink": "/blog/tags/erc-20"
-    },
-    {
-      "label": "mint",
-      "permalink": "/blog/tags/mint"
-    },
-    {
-      "label": "solidity",
-      "permalink": "/blog/tags/solidity"
-    },
-    {
-      "label": "open zeppelin",
-      "permalink": "/blog/tags/open-zeppelin"
-    },
-    {
-      "label": "remix",
-      "permalink": "/blog/tags/remix"
-    }
-  ],
-  "readingTime": 2.5033333333333334,
-  "truncated": true,
-  "authors": [
-    {
-      "name": "Josh Crites",
-      "title": "Developer Relations, cLabs",
-      "url": "https://github.com/critesjosh",
-      "image_url": "https://github.com/critesjosh.png",
-      "imageURL": "https://github.com/critesjosh.png"
-    }
-  ],
+  "tags": [],
+  "readingTime": 0,
+  "truncated": false,
+  "authors": [],
   "prevItem": {
-    "title": "Deploy an NFT to Celo",
+    "title": "no-code-erc721",
     "permalink": "/blog/2022/01/05/no-code-erc721"
   },
   "nextItem": {
-    "title": "Deploy and Interact with Contracts (Remotely)",
-    "permalink": "/blog/developer-guide/start/hello-contract-remote-node"
+    "title": "hello-contract-remote-node",
+    "permalink": "/blog/2022/01/03/hello-contract-remote-node"
   }
 }

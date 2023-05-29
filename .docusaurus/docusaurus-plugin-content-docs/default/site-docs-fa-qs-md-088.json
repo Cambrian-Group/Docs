@@ -1,7 +1,7 @@
 {
   "unversionedId": "faqs",
   "id": "faqs",
-  "title": "ZSC FAQ",
+  "title": "Lmax Group FAQ",
   "description": "Answers to frequently asked questions about ZSC.",
   "source": "@site/docs/FAQs.md",
   "sourceDirName": ".",
@@ -11,13 +11,13 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "ZSC FAQ",
+    "title": "Lmax Group FAQ",
     "description": "Answers to frequently asked questions about ZSC.",
     "id": "faqs"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Zsc DApp Gallery",
+    "title": "审计",
     "permalink": "/developer-guide/celo-dapp-gallery"
   }
 }

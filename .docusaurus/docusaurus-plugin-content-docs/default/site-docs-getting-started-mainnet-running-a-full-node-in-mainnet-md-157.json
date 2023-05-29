@@ -13,14 +13,5 @@
   "frontMatter": {
     "title": "Run a Zsc Full Node",
     "description": "How to run a full node on the Zsc Mainnet Network using a prebuilt Docker image."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Mainnet",
-    "permalink": "/getting-started/choosing-a-network"
-  },
-  "next": {
-    "title": "Zsc DApp Gallery",
-    "permalink": "/developer-guide/celo-dapp-gallery"
   }
 }

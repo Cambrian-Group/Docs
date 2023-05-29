@@ -1,41 +1,20 @@
 {
-  "permalink": "/blog/developer-guide/start/randomness",
+  "permalink": "/blog/2022/01/07/on-chain-randomness",
   "source": "@site/blog/2022-01-07-on-chain-randomness.md",
-  "title": "Use onchain randomness",
-  "description": "How to use onchain randomness in your smart contracts.",
+  "title": "on-chain-randomness",
+  "description": "",
   "date": "2022-01-07T00:00:00.000Z",
   "formattedDate": "January 7, 2022",
-  "tags": [
-    {
-      "label": "solidity",
-      "permalink": "/blog/tags/solidity"
-    },
-    {
-      "label": "randomness",
-      "permalink": "/blog/tags/randomness"
-    },
-    {
-      "label": "oracle",
-      "permalink": "/blog/tags/oracle"
-    }
-  ],
-  "readingTime": 0.33,
-  "truncated": true,
-  "authors": [
-    {
-      "name": "Josh Crites",
-      "title": "Developer Relations, cLabs",
-      "url": "https://github.com/critesjosh",
-      "image_url": "https://github.com/critesjosh.png",
-      "imageURL": "https://github.com/critesjosh.png"
-    }
-  ],
+  "tags": [],
+  "readingTime": 0,
+  "truncated": false,
+  "authors": [],
   "prevItem": {
-    "title": "Celo Valora + WalletConnect v1",
+    "title": "valora-wc-v1",
     "permalink": "/blog/2022/01/08/valora-wc-v1"
   },
   "nextItem": {
-    "title": "React based DApp",
-    "permalink": "/blog/developer-guide/start/web-dapp"
+    "title": "web-dapp",
+    "permalink": "/blog/2022/01/06/web-dapp"
   }
 }

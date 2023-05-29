@@ -1,33 +1,20 @@
 {
-  "permalink": "/blog/code-metamask",
+  "permalink": "/blog/2021/11/16/connect-to-metamask",
   "source": "@site/blog/2021-11-16-connect-to-metamask.md",
-  "title": "Code Playground -- Metamask",
-  "description": "Playing with Metamask",
+  "title": "connect-to-metamask",
+  "description": "",
   "date": "2021-11-16T00:00:00.000Z",
   "formattedDate": "November 16, 2021",
-  "tags": [
-    {
-      "label": "code playground",
-      "permalink": "/blog/tags/code-playground"
-    }
-  ],
-  "readingTime": 1.69,
-  "truncated": true,
-  "authors": [
-    {
-      "name": "Josh Crites",
-      "title": "Developer Relations, cLabs",
-      "url": "https://github.com/critesjosh",
-      "image_url": "https://github.com/critesjosh.png",
-      "imageURL": "https://github.com/critesjosh.png"
-    }
-  ],
+  "tags": [],
+  "readingTime": 0,
+  "truncated": false,
+  "authors": [],
   "prevItem": {
-    "title": "Using the Graph w/ Celo",
-    "permalink": "/blog/using-the-graph"
+    "title": "observable-intro",
+    "permalink": "/blog/2021/11/18/observable-intro"
   },
   "nextItem": {
-    "title": "Intro to the Code Playground",
-    "permalink": "/blog/code-playground"
+    "title": "code-playground",
+    "permalink": "/blog/2021/11/15/code-playground"
   }
 }

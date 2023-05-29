@@ -2,72 +2,72 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Introduction to Celo Progressive DAppstarter",
+      "title": "introduction-to-celo-progressive-dappstarter",
       "permalink": "/blog/2022/02/21/introduction-to-celo-progressive-dappstarter"
     },
     {
-      "title": "Celo Valora + WalletConnect v1",
+      "title": "valora-wc-v1",
       "permalink": "/blog/2022/01/08/valora-wc-v1"
     },
     {
-      "title": "Use onchain randomness",
-      "permalink": "/blog/developer-guide/start/randomness"
+      "title": "on-chain-randomness",
+      "permalink": "/blog/2022/01/07/on-chain-randomness"
     },
     {
-      "title": "React based DApp",
-      "permalink": "/blog/developer-guide/start/web-dapp"
+      "title": "web-dapp",
+      "permalink": "/blog/2022/01/06/web-dapp"
     },
     {
-      "title": "Deploy an NFT to Celo",
+      "title": "no-code-erc721",
       "permalink": "/blog/2022/01/05/no-code-erc721"
     },
     {
-      "title": "Deploy & Mint a Token",
+      "title": "no-code-erc20",
       "permalink": "/blog/2022/01/04/no-code-erc20"
     },
     {
-      "title": "Deploy and Interact with Contracts (Remotely)",
-      "permalink": "/blog/developer-guide/start/hello-contract-remote-node"
+      "title": "hello-contract-remote-node",
+      "permalink": "/blog/2022/01/03/hello-contract-remote-node"
     },
     {
-      "title": "Deploy a Contract on Celo (local node)",
-      "permalink": "/blog/developer-guide/start/hellocontracts"
+      "title": "hellocontracts",
+      "permalink": "/blog/2022/01/02/hellocontracts"
     },
     {
-      "title": "Sending CELO & Stable Assets",
-      "permalink": "/blog/developer-guide/start/hellocelo"
+      "title": "hellocelo",
+      "permalink": "/blog/2022/01/01/hellocelo"
     },
     {
-      "title": "Using Keystores Library for Local Key Management",
-      "permalink": "/blog/developer-guide/start/using-js-keystores"
+      "title": "using-js-keystores",
+      "permalink": "/blog/2021/12/31/using-js-keystores"
     },
     {
-      "title": "Add Your ERC20 Token to Your Celo Wallet",
-      "permalink": "/blog/add-token-celo-wallet"
+      "title": "addtokentocelowallet",
+      "permalink": "/blog/2021/12/06/addtokentocelowallet"
     },
     {
-      "title": "Verifying Contracts with Hardhat",
-      "permalink": "/blog/hardhat-deploy-verify"
+      "title": "hardhat-deploy-verify",
+      "permalink": "/blog/2021/11/30/hardhat-deploy-verify"
     },
     {
-      "title": "Demos with ObservableHQ",
-      "permalink": "/blog/observable-intro"
+      "title": "using-the-graph",
+      "permalink": "/blog/2021/11/18/using-the-graph"
     },
     {
-      "title": "Using the Graph w/ Celo",
-      "permalink": "/blog/using-the-graph"
+      "title": "observable-intro",
+      "permalink": "/blog/2021/11/18/observable-intro"
     },
     {
-      "title": "Code Playground -- Metamask",
-      "permalink": "/blog/code-metamask"
+      "title": "connect-to-metamask",
+      "permalink": "/blog/2021/11/16/connect-to-metamask"
     },
     {
-      "title": "Intro to the Code Playground",
-      "permalink": "/blog/code-playground"
+      "title": "code-playground",
+      "permalink": "/blog/2021/11/15/code-playground"
     },
     {
-      "title": "Contributing to the Blog",
-      "permalink": "/blog/blog-contributions"
+      "title": "contributing",
+      "permalink": "/blog/2021/11/08/contributing"
     }
   ]
 }

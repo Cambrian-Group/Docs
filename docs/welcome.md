@@ -8,7 +8,7 @@ slug: /
 import YouTube from '@components/YouTube';
 import PageRef from '@components/PageRef';
 
-ZSC's mission is to build a financial system that creates the conditions for prosperity—for everyone.
+LMAX asset manage 是 LMAX Group 旗下受FCA监管的资产管理平台,是一家专注外汇和加密货币全球套利， 策略研发，行业研究，数据分析平台，力图帮助行业内人士把握市场先机，赚取市场利润。
 
 ---
 

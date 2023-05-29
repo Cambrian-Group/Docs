@@ -4,43 +4,63 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug','3d6'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config','914'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content','c28'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes','244'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog','d4c'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/11/08/contributing',
+    component: ComponentCreator('/blog/2021/11/08/contributing','e17'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/11/15/code-playground',
+    component: ComponentCreator('/blog/2021/11/15/code-playground','620'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/11/16/connect-to-metamask',
+    component: ComponentCreator('/blog/2021/11/16/connect-to-metamask','613'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/11/18/observable-intro',
+    component: ComponentCreator('/blog/2021/11/18/observable-intro','a2c'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/11/18/using-the-graph',
+    component: ComponentCreator('/blog/2021/11/18/using-the-graph','ef9'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/11/30/hardhat-deploy-verify',
+    component: ComponentCreator('/blog/2021/11/30/hardhat-deploy-verify','dc6'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/12/06/addtokentocelowallet',
+    component: ComponentCreator('/blog/2021/12/06/addtokentocelowallet','167'),
+    exact: true
+  },
+  {
+    path: '/blog/2021/12/31/using-js-keystores',
+    component: ComponentCreator('/blog/2021/12/31/using-js-keystores','407'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/01/01/hellocelo',
+    component: ComponentCreator('/blog/2022/01/01/hellocelo','9e0'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/01/02/hellocontracts',
+    component: ComponentCreator('/blog/2022/01/02/hellocontracts','b43'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/01/03/hello-contract-remote-node',
+    component: ComponentCreator('/blog/2022/01/03/hello-contract-remote-node','766'),
     exact: true
   },
   {
@@ -54,6 +74,16 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2022/01/06/web-dapp',
+    component: ComponentCreator('/blog/2022/01/06/web-dapp','9e5'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/01/07/on-chain-randomness',
+    component: ComponentCreator('/blog/2022/01/07/on-chain-randomness','af9'),
+    exact: true
+  },
+  {
     path: '/blog/2022/01/08/valora-wc-v1',
     component: ComponentCreator('/blog/2022/01/08/valora-wc-v1','7b2'),
     exact: true
@@ -64,268 +94,13 @@ export default [
     exact: true
   },
   {
-    path: '/blog/add-token-celo-wallet',
-    component: ComponentCreator('/blog/add-token-celo-wallet','af6'),
-    exact: true
-  },
-  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive','f4c'),
     exact: true
   },
   {
-    path: '/blog/blog-contributions',
-    component: ComponentCreator('/blog/blog-contributions','0c5'),
-    exact: true
-  },
-  {
-    path: '/blog/code-metamask',
-    component: ComponentCreator('/blog/code-metamask','cd4'),
-    exact: true
-  },
-  {
-    path: '/blog/code-playground',
-    component: ComponentCreator('/blog/code-playground','ebb'),
-    exact: true
-  },
-  {
-    path: '/blog/developer-guide/start/hello-contract-remote-node',
-    component: ComponentCreator('/blog/developer-guide/start/hello-contract-remote-node','7be'),
-    exact: true
-  },
-  {
-    path: '/blog/developer-guide/start/hellocelo',
-    component: ComponentCreator('/blog/developer-guide/start/hellocelo','a21'),
-    exact: true
-  },
-  {
-    path: '/blog/developer-guide/start/hellocontracts',
-    component: ComponentCreator('/blog/developer-guide/start/hellocontracts','7db'),
-    exact: true
-  },
-  {
-    path: '/blog/developer-guide/start/randomness',
-    component: ComponentCreator('/blog/developer-guide/start/randomness','d70'),
-    exact: true
-  },
-  {
-    path: '/blog/developer-guide/start/using-js-keystores',
-    component: ComponentCreator('/blog/developer-guide/start/using-js-keystores','1b4'),
-    exact: true
-  },
-  {
-    path: '/blog/developer-guide/start/web-dapp',
-    component: ComponentCreator('/blog/developer-guide/start/web-dapp','2f8'),
-    exact: true
-  },
-  {
-    path: '/blog/hardhat-deploy-verify',
-    component: ComponentCreator('/blog/hardhat-deploy-verify','b58'),
-    exact: true
-  },
-  {
-    path: '/blog/observable-intro',
-    component: ComponentCreator('/blog/observable-intro','e50'),
-    exact: true
-  },
-  {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2','d77'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags','e13'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/celo-wallet',
-    component: ComponentCreator('/blog/tags/celo-wallet','2b8'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/code-playground',
-    component: ComponentCreator('/blog/tags/code-playground','6fe'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/contractkit',
-    component: ComponentCreator('/blog/tags/contractkit','f80'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/contribute',
-    component: ComponentCreator('/blog/tags/contribute','4d4'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/d-app',
-    component: ComponentCreator('/blog/tags/d-app','9fd'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/d-apps',
-    component: ComponentCreator('/blog/tags/d-apps','4ce'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/dappstarter',
-    component: ComponentCreator('/blog/tags/dappstarter','914'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/deploy',
-    component: ComponentCreator('/blog/tags/deploy','d6a'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/erc-20',
-    component: ComponentCreator('/blog/tags/erc-20','eaf'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/erc-721',
-    component: ComponentCreator('/blog/tags/erc-721','7f7'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hardhat',
-    component: ComponentCreator('/blog/tags/hardhat','d53'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/ipfs',
-    component: ComponentCreator('/blog/tags/ipfs','e10'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/keystores',
-    component: ComponentCreator('/blog/tags/keystores','04e'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/ledger',
-    component: ComponentCreator('/blog/tags/ledger','f89'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/material-ui',
-    component: ComponentCreator('/blog/tags/material-ui','deb'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/mint',
-    component: ComponentCreator('/blog/tags/mint','251'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/nextjs',
-    component: ComponentCreator('/blog/tags/nextjs','dae'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/nft',
-    component: ComponentCreator('/blog/tags/nft','091'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/observable',
-    component: ComponentCreator('/blog/tags/observable','511'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/open-zeppelin',
-    component: ComponentCreator('/blog/tags/open-zeppelin','a9e'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/oracle',
-    component: ComponentCreator('/blog/tags/oracle','950'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/pinata',
-    component: ComponentCreator('/blog/tags/pinata','529'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/progressive',
-    component: ComponentCreator('/blog/tags/progressive','a62'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/randomness',
-    component: ComponentCreator('/blog/tags/randomness','221'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/react',
-    component: ComponentCreator('/blog/tags/react','304'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/remix',
-    component: ComponentCreator('/blog/tags/remix','248'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/remote',
-    component: ComponentCreator('/blog/tags/remote','e9b'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/sdk',
-    component: ComponentCreator('/blog/tags/sdk','5ac'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/smart-contract',
-    component: ComponentCreator('/blog/tags/smart-contract','956'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/solidity',
-    component: ComponentCreator('/blog/tags/solidity','0b1'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/sourcify',
-    component: ComponentCreator('/blog/tags/sourcify','194'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/the-graph',
-    component: ComponentCreator('/blog/tags/the-graph','141'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/tokens',
-    component: ComponentCreator('/blog/tags/tokens','e8f'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/use-contractkit',
-    component: ComponentCreator('/blog/tags/use-contractkit','161'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/valora',
-    component: ComponentCreator('/blog/tags/valora','19f'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/verification',
-    component: ComponentCreator('/blog/tags/verification','15a'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/wallet-connect',
-    component: ComponentCreator('/blog/tags/wallet-connect','a7f'),
-    exact: true
-  },
-  {
-    path: '/blog/using-the-graph',
-    component: ComponentCreator('/blog/using-the-graph','3e5'),
+    component: ComponentCreator('/blog/page/2','8a7'),
     exact: true
   },
   {
@@ -345,7 +120,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','0a8'),
+    component: ComponentCreator('/','632'),
     routes: [
       {
         path: '/',
@@ -1138,9 +913,8 @@ export default [
       },
       {
         path: '/getting-started/mainnet/running-a-full-node-in-mainnet',
-        component: ComponentCreator('/getting-started/mainnet/running-a-full-node-in-mainnet','eae'),
-        exact: true,
-        'sidebar': "docs"
+        component: ComponentCreator('/getting-started/mainnet/running-a-full-node-in-mainnet','935'),
+        exact: true
       },
       {
         path: '/getting-started/mainnet/running-a-validator-in-mainnet',

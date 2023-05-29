@@ -273,28 +273,14 @@
         "collapsed": true
       },
       {
-        "type": "category",
-        "label": "Networks",
-        "items": [
-          {
-            "type": "link",
-            "label": "Mainnet",
-            "href": "/getting-started/choosing-a-network",
-            "docId": "getting-started/choosing-a-network"
-          },
-          {
-            "type": "link",
-            "label": "Run Mainnet Full Node",
-            "href": "/getting-started/mainnet/running-a-full-node-in-mainnet",
-            "docId": "getting-started/mainnet/running-a-full-node-in-mainnet"
-          }
-        ],
-        "collapsible": true,
-        "collapsed": true
+        "type": "link",
+        "label": "网络",
+        "href": "/getting-started/choosing-a-network",
+        "docId": "getting-started/choosing-a-network"
       },
       {
         "type": "link",
-        "label": "Gallery",
+        "label": "审计",
         "href": "/developer-guide/celo-dapp-gallery",
         "docId": "developer-resources/celo-dapp-gallery"
       },
@@ -350,13 +336,13 @@
     "contributors": [
       {
         "type": "link",
-        "label": "Overview",
+        "label": "视频直播",
         "href": "/community/contributing",
         "docId": "community/contributing"
       },
       {
         "type": "link",
-        "label": "Developer Events",
+        "label": "媒体报道",
         "href": "/community/developer-events",
         "docId": "community/developer-events"
       }
@@ -831,7 +817,7 @@
     },
     "developer-resources/celo-dapp-gallery": {
       "id": "developer-resources/celo-dapp-gallery",
-      "title": "Zsc DApp Gallery",
+      "title": "审计",
       "description": "List of featured DApp examples to help you start building on Zsc.",
       "sidebar": "docs"
     },
@@ -1085,7 +1071,7 @@
     },
     "faqs": {
       "id": "faqs",
-      "title": "ZSC FAQ",
+      "title": "Lmax Group FAQ",
       "description": "Answers to frequently asked questions about ZSC.",
       "sidebar": "docs"
     },
@@ -1126,8 +1112,8 @@
     },
     "getting-started/choosing-a-network": {
       "id": "getting-started/choosing-a-network",
-      "title": "Mainnet",
-      "description": "How to choose a Zsc network based on your interested and objectives.",
+      "title": "链上网络",
+      "description": "Lmax Group 平台支持的网络.",
       "sidebar": "docs"
     },
     "getting-started/glossary": {
@@ -1149,8 +1135,7 @@
     "getting-started/mainnet/running-a-full-node-in-mainnet": {
       "id": "getting-started/mainnet/running-a-full-node-in-mainnet",
       "title": "Run a Zsc Full Node",
-      "description": "How to run a full node on the Zsc Mainnet Network using a prebuilt Docker image.",
-      "sidebar": "docs"
+      "description": "How to run a full node on the Zsc Mainnet Network using a prebuilt Docker image."
     },
     "getting-started/mainnet/running-a-validator-in-mainnet": {
       "id": "getting-started/mainnet/running-a-validator-in-mainnet",

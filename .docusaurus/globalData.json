@@ -645,8 +645,7 @@
             },
             {
               "id": "getting-started/mainnet/running-a-full-node-in-mainnet",
-              "path": "/getting-started/mainnet/running-a-full-node-in-mainnet",
-              "sidebar": "docs"
+              "path": "/getting-started/mainnet/running-a-full-node-in-mainnet"
             },
             {
               "id": "getting-started/mainnet/running-a-validator-in-mainnet",

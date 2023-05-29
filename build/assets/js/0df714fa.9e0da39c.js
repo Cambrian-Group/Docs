@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[7704],{6409:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/celo-wallet","name":"celo wallet","count":2,"permalink":"/blog/tags/celo-wallet"}')}}]);

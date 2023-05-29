@@ -161,24 +161,13 @@ const sidebars = {
       ],
     },
     {
-      type: "category",
-      label: "Networks",
-      items: [
-        {
-          type: "doc",
-          label: "Mainnet",
-          id: "getting-started/choosing-a-network",
-        },
-        {
-          type: "doc",
-          label: "Run Mainnet Full Node",
-          id: "getting-started/mainnet/running-a-full-node-in-mainnet",
-        },
-      ],
+      type: "doc",
+      label: "网络",
+      id: "getting-started/choosing-a-network",
     },
     {
       type: "doc",
-      label: "Gallery",
+      label: "审计",
       id: "developer-resources/celo-dapp-gallery",
     },
     { type: "doc", label: "FAQ", id: "faqs" },
@@ -224,10 +213,10 @@ const sidebars = {
   // Community
   // ######################################
   contributors: [
-    { type: "doc", label: "Overview", id: "community/contributing" },
+    { type: "doc", label: "视频直播", id: "community/contributing" },
     {
       type: "doc",
-      label: "Developer Events",
+      label: "媒体报道",
       id: "community/developer-events",
     },
   ],

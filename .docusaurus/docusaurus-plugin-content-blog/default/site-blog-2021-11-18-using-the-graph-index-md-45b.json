@@ -1,37 +1,20 @@
 {
-  "permalink": "/blog/using-the-graph",
+  "permalink": "/blog/2021/11/18/using-the-graph",
   "source": "@site/blog/2021-11-18-using-the-graph/index.md",
-  "title": "Using the Graph w/ Celo",
-  "description": "Learn about what the Graph is and how to use it in your Celo DApp",
+  "title": "using-the-graph",
+  "description": "",
   "date": "2021-11-18T00:00:00.000Z",
   "formattedDate": "November 18, 2021",
-  "tags": [
-    {
-      "label": "The Graph",
-      "permalink": "/blog/tags/the-graph"
-    },
-    {
-      "label": "DApps",
-      "permalink": "/blog/tags/d-apps"
-    }
-  ],
-  "readingTime": 4.496666666666667,
-  "truncated": true,
-  "authors": [
-    {
-      "name": "Josh Crites",
-      "title": "Developer Relations, cLabs",
-      "url": "https://github.com/critesjosh",
-      "imageURL": "https://github.com/critesjosh.png",
-      "key": "josh"
-    }
-  ],
+  "tags": [],
+  "readingTime": 0,
+  "truncated": false,
+  "authors": [],
   "prevItem": {
-    "title": "Demos with ObservableHQ",
-    "permalink": "/blog/observable-intro"
+    "title": "hardhat-deploy-verify",
+    "permalink": "/blog/2021/11/30/hardhat-deploy-verify"
   },
   "nextItem": {
-    "title": "Code Playground -- Metamask",
-    "permalink": "/blog/code-metamask"
+    "title": "observable-intro",
+    "permalink": "/blog/2021/11/18/observable-intro"
   }
 }

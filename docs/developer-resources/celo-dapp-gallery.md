@@ -1,39 +1,20 @@
 ---
-title: Zsc DApp Gallery
+title: 审计
 description: List of featured DApp examples to help you start building on Zsc.
 slug: /developer-guide/celo-dapp-gallery
 ---
 
-import PageRef from '@components/PageRef'
 
-# Zsc DApp Gallery
+# 审计
 
-List of featured DApp examples to help you learn more about Zsc.
+Lmax Group 非常重视信任和安全。我们的智能合约已成功完成业内一些领先公司的审计。
 
-___
+您可以在下面找到我们的审计报告链接：
 
-:::note Add your app
+### Lmax Asset Manage的LMMF
 
-Are you building on Zsc? To add your project, please submit a pull request updating this page!
+[2023 年 1 月 Code4rena 审计](https://docs.ondo.finance/assets/files/Ondo-ABDK-Audit-October-2022-b08d29dce81d383e0d2c05fbf51af385.pdf)
 
-:::
+[2022 年 5 月 ABDK 审计](https://docs.ondo.finance/assets/files/Ondo-ABDK-Audit-October-2022-b08d29dce81d383e0d2c05fbf51af385.pdf)
 
-## TF swap
-
-* [Website](https://www.tofuswap.top/#/swap)
-* [GitHub](https://www.tofuswap.top/#/swap)
-
-## TEA
-
-* [Website](https://www.teafarm.net/)
-* [GitHub](https://www.teafarm.net/)
-
-## Apple
-
-* [Website](https://www.appleswap.top/)
-* [GitHub](https://www.appleswap.top/)
-
-## Banana
-
-* [Website](https://www.nanafarm.pro/)
-* [GitHub](https://www.nanafarm.pro/)
+[2022 年 1 月 Quantstamp 审计](https://docs.ondo.finance/assets/files/Ondo-ABDK-Audit-October-2022-b08d29dce81d383e0d2c05fbf51af385.pdf)
