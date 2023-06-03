@@ -39,8 +39,8 @@ const sidebars = {
       label: "信任与安全",
       items: [
         { type: "doc", label: "安全模型", id: "celo-codebase/protocol/index" },
-        { type: "doc", type: "信任",id: "celo-codebase/protocol/consensus/index"},
-        { type: "doc", type: "审计",id: "celo-codebase/protocol/consensus/validator-set-differences"},
+        { type: "doc", tabel: "信任",id: "celo-codebase/protocol/consensus/index"},
+        { type: "doc", tabel: "审计",id: "celo-codebase/protocol/consensus/validator-set-differences"},
 
       ],
     },
