@@ -3,171 +3,55 @@ const sidebars = {
     { type: "doc", label: "Welcome to LMAX", id: "welcome" },
     {
       type: "category",
-      label: "Basics",
+      label: "基础",
       items: [
-        { type: "doc", label: "Highlights", id: "learn/celo-highlights" },
+        { type: "doc", label: "LMMF货币市场基金", id: "learn/celo-highlights" },
         {
           type: "doc",
-          label: "Economic Model",
+          label: "TradeFi",
           id: "learn/celo-economic-model",
         },
-        { type: "doc", label: "Ecosystem", id: "learn/celo-ecosystem" },
-        { type: "doc", label: "Key Concepts", id: "learn/key-concepts" },
-        { type: "doc", label: "Whitepapers", id: "learn/celo-whitepapers" },
-        { type: "doc", label: "Community", id: "community/join-the-community" },
-        { type: "doc", label: "Glossary", id: "getting-started/glossary" },
+        { type: "doc", label: "LMMF风险指标", id: "learn/celo-ecosystem" },
+        { type: "doc", label: "资金管理", id: "learn/key-concepts" },
+        { type: "doc", label: "资产策略", id: "learn/celo-whitepapers" },
+        { type: "doc", label: "系统架构", id: "community/join-the-community" },
+        { type: "doc", label: "资产流转", id: "getting-started/glossary" },
       ],
     },
     {
       type: "category",
-      label: "Wallets",
+      label: "如何运作",
       items: [
         {
           type: "doc",
-          label: "LMAX Wallets",
+          label: "提供流动性",
           id: "getting-started/wallets/index",
         },
-      ],
-    },
-    {
-      type: "category",
-      label: "Owners",
-      items: [
-        { type: "doc", label: "Overview", id: "celo-holder-guide/owners" },
-      ],
-    },
-    {
-      type: "category",
-      label: "Bridging",
-      items: [
-        {
+        { 
           type: "doc",
-          label: "LMAX Bridges",
-          id: "celo-codebase/protocol/bridging/bridging-to-celo",
-        },
-        {
-          type: "doc",
-          label: "Optics Bridge GUI",
-          id: "celo-codebase/protocol/bridging/optics-gui",
-        },
-        {
-          type: "doc",
-          label: "Native Assets with LMAX",
-          id: "celo-codebase/protocol/bridging/bridging-native-assets",
-        },
-        {
-          type: "doc",
-          label: "Tokens with LMAX",
-          id: "celo-codebase/protocol/bridging/bridging-tokens-with-etherscan",
-        },
-        {
-          type: "doc",
-          label: "Optics Bridge FAQ",
-          id: "celo-codebase/protocol/bridging/optics-bridge-faq",
+          label: "链上货币市场基金",
+           id: "celo-holder-guide/owners" ,
         },
       ],
     },
     {
       type: "category",
-      label: "Oracles",
+      label: "信任与安全",
       items: [
-        {
-          type: "doc",
-          label: "Zsc Oracles",
-          id: "celo-codebase/protocol/oracles/oracles-on-celo",
-        },
-        {
-          type: "doc",
-          id: "celo-codebase/protocol/oracles/band-protocol-how-to",
-        },
-        {
-          type: "doc",
-          id: "celo-codebase/protocol/oracles/redstone-protocol-how-to",
-        },
-      ],
-    },
-    {
-      type: "category",
-      label: "Protocol",
-      items: [
-        { type: "doc", label: "Overview", id: "celo-codebase/protocol/index" },
-        {
-          type: "category",
-          label: "Consensus",
-          items: [
-            {
-              type: "doc",
-              label: "Overview",
-              id: "celo-codebase/protocol/consensus/index",
-            },
-            {
-              type: "doc",
-              label: "Validator Set Differences",
-              id: "celo-codebase/protocol/consensus/validator-set-differences",
-            },
-            {
-              type: "doc",
-              label: "Locating Nodes",
-              id: "celo-codebase/protocol/consensus/locating-nodes",
-            },
-            {
-              type: "doc",
-              label: "Archive Sync",
-              id: "celo-codebase/protocol/consensus/ultralight-sync",
-            },
-          ],
-        },
-        {
-          type: "category",
-          label: "Proof-of-Stake",
-          items: [
-            {
-              type: "doc",
-              label: "Overview",
-              id: "celo-codebase/protocol/proof-of-stake/index",
-            },
-            {
-              type: "doc",
-              label: "Locked ZTB",
-              id: "celo-codebase/protocol/proof-of-stake/locked-gold",
-            },
-            {
-              type: "doc",
-              label: "Validator Elections",
-              id: "celo-codebase/protocol/proof-of-stake/validator-elections",
-            },
-            {
-              type: "doc",
-              label: "Penalties",
-              id: "celo-codebase/protocol/proof-of-stake/penalties",
-            },
-          ],
-        },
-        "celo-codebase/protocol/governance",
-        {
-          type: "category",
-          label: "Transactions",
-          items: [
-            {
-              type: "doc",
-              label: "Overview",
-              id: "celo-codebase/protocol/transactions/index",
-            },
-            "celo-codebase/protocol/transactions/native-currency",
-            "celo-codebase/protocol/transactions/erc20-transaction-fees",
-            "celo-codebase/protocol/transactions/gas-pricing",
-          ],
-        },
+        { type: "doc", label: "安全模型", id: "celo-codebase/protocol/index" },
+        { type: "doc", type: "信任",id: "celo-codebase/protocol/consensus/index"},
+        { type: "doc", type: "审计",id: "celo-codebase/protocol/consensus/validator-set-differences"},
+
       ],
     },
     {
       type: "doc",
-      label: "网络",
+      label: "支持网络",
       id: "getting-started/choosing-a-network",
     },
     {
       type: "doc",
-      label: "审计",
+      label: "如何使用",
       id: "developer-resources/celo-dapp-gallery",
     },
     { type: "doc", label: "FAQ", id: "faqs" },
