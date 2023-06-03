@@ -1,20 +1,36 @@
 ---
-title: 审计
+title: 如何使用
 description: List of featured DApp examples to help you start building on Zsc.
 slug: /developer-guide/celo-dapp-gallery
 ---
 
 
-# 审计
 
-Lmax Group 非常重视信任和安全。我们的智能合约已成功完成业内一些领先公司的审计。
+## 如何使用
 
-您可以在下面找到我们的审计报告链接：
+快速上手熟悉并使用Lmax Group Asset的方法
 
-### Lmax Asset Manage的LMMF
+:::tip
 
-[2023 年 1 月 Code4rena 审计](https://docs.ondo.finance/assets/files/Ondo-ABDK-Audit-October-2022-b08d29dce81d383e0d2c05fbf51af385.pdf)
+Before moving forward, downloading and installing a wallet are a must (MetaMask wallet is used as an example for instruct
 
-[2022 年 5 月 ABDK 审计](https://docs.ondo.finance/assets/files/Ondo-ABDK-Audit-October-2022-b08d29dce81d383e0d2c05fbf51af385.pdf)
+:::
+## 1. 设置
 
-[2022 年 1 月 Quantstamp 审计](https://docs.ondo.finance/assets/files/Ondo-ABDK-Audit-October-2022-b08d29dce81d383e0d2c05fbf51af385.pdf)
+### 1.1 访问 Lmax Group Asset 并连接您的MetaMask
+
+### 1.2 设置网络
+
+The default network setting in MetaMask is Ethereum Mainnet, which means you will need to set up MetaMask on other networks. Here, we take BSC network as an example to show you the setup process.
+
+## 2. 认购
+
+
+### 2.1 合约授权
+
+Once approved, a small notification window will appear. Click to see the details if you want to.
+
+
+### 3. 认购检查
+
+通过访问对应的浏览器去检查是否认购成功，链上确认后，页面会提示认购成功的金额
