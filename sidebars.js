@@ -15,7 +15,7 @@ const sidebars = {
         { type: "doc", label: "资金管理", id: "learn/key-concepts" },
         { type: "doc", label: "资产策略", id: "learn/celo-whitepapers" },
         { type: "doc", label: "系统架构", id: "community/join-the-community" },
-        { type: "doc", label: "资产流转", id: "getting-started/glossary" },
+        { type: "doc", label: "公告", id: "getting-started/glossary" },
       ],
     },
     {
