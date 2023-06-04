@@ -265,27 +265,6 @@ module.exports = {
             },
           ],
         },
-        {
-          title: "Ecosystem",
-          items: [
-            {
-              label: "LMAX Global",
-              href: "https://lmax.pro/",
-            },
-            {
-              label: "Ethereum",
-              href: "https://www.ethereum.org/",
-            },
-            {
-              label: "Binance Chain",
-              href: "https://www.binance.com/",
-            },
-            {
-              label: "Polygon",
-              href: "https://polygon.technology/",
-            },
-          ],
-        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} LMAX Group, Inc. Built with Docusaurus.`,
     },
