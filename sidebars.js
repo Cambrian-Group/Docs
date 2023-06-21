@@ -5,10 +5,10 @@ const sidebars = {
       type: "category",
       label: "基础",
       items: [
-        { type: "doc", label: "Lmax Group技术优势", id: "learn/celo-highlights" },
+        { type: "doc", label: "Lmax Group行业背景", id: "learn/celo-highlights" },
         {
           type: "doc",
-          label: "TradeFi",
+          label: "Lmax Group技术优势",
           id: "learn/celo-economic-model",
         },
         { type: "doc", label: "系统架构", id: "learn/celo-ecosystem" },
