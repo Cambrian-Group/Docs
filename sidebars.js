@@ -95,10 +95,10 @@ const sidebars = {
   // Community
   // ######################################
   contributors: [
-    { type: "doc", label: "视频直播", id: "community/contributing" },
+    { type: "doc", label: "live video", id: "community/contributing" },
     {
       type: "doc",
-      label: "媒体报道",
+      label: "media reports",
       id: "community/developer-events",
     },
   ],
