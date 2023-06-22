@@ -24,33 +24,23 @@ const sidebars = {
       items: [
         {
           type: "doc",
-          label: "参与机构",
+          label: "合作机构",
           id: "getting-started/wallets/index",
         },
         { 
           type: "doc",
-          label: "运作流程",
+          label: "操作流程",
            id: "celo-holder-guide/owners" ,
         },
       ],
     },
     {
       type: "category",
-      label: "信任与安全",
+      label: "Trust and safety",
       items: [
-        { type: "doc", label: "安全模型", id: "celo-codebase/protocol/index" },
-        { type: "doc", label: "信任与安全", id: "celo-codebase/protocol/consensus/index"},
+        { type: "doc", label: "Trust and safety", id: "celo-codebase/protocol/index" },
+        { type: "doc", label: "Security model", id: "celo-codebase/protocol/consensus/index"},
       ],
-    },
-    {
-      type: "doc",
-      label: "支持通道",
-      id: "getting-started/choosing-a-network",
-    },
-    {
-      type: "doc",
-      label: "如何参与",
-      id: "developer-resources/celo-dapp-gallery",
     },
     { type: "doc", label: "FAQ", id: "faqs" },
   ],

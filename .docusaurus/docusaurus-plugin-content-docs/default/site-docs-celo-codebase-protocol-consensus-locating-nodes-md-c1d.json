@@ -6,21 +6,12 @@
   "source": "@site/docs/celo-codebase/protocol/consensus/locating-nodes.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus/locating-nodes",
-  "permalink": "/es/celo-codebase/protocol/consensus/locating-nodes",
+  "permalink": "/celo-codebase/protocol/consensus/locating-nodes",
   "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Locating Nodes",
     "description": "How Zsc nodes join the network, establish a connection, and communiate their IP address."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Validator Set Differences",
-    "permalink": "/es/celo-codebase/protocol/consensus/validator-set-differences"
-  },
-  "next": {
-    "title": "Celo Ultralight Sync",
-    "permalink": "/es/celo-codebase/protocol/consensus/ultralight-sync"
   }
 }

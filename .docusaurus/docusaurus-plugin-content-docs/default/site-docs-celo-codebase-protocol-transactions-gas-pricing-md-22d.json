@@ -6,21 +6,12 @@
   "source": "@site/docs/celo-codebase/protocol/transactions/gas-pricing.md",
   "sourceDirName": "celo-codebase/protocol/transactions",
   "slug": "/celo-codebase/protocol/transactions/gas-pricing",
-  "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing",
+  "permalink": "/celo-codebase/protocol/transactions/gas-pricing",
   "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Zsc Gas Pricing",
     "description": "Introduction to gas prices, calculations, transactions, and fees on the Zsc network."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Paying for Gas in Tokens",
-    "permalink": "/es/celo-codebase/protocol/transactions/erc20-transaction-fees"
-  },
-  "next": {
-    "title": "链上网络",
-    "permalink": "/es/getting-started/choosing-a-network"
   }
 }

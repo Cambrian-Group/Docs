@@ -6,7 +6,7 @@
   "source": "@site/docs/FAQs.md",
   "sourceDirName": ".",
   "slug": "/faqs",
-  "permalink": "/es/faqs",
+  "permalink": "/faqs",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,7 +17,7 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "审计",
-    "permalink": "/es/developer-guide/celo-dapp-gallery"
+    "title": "security model",
+    "permalink": "/celo-codebase/protocol/consensus/"
   }
 }

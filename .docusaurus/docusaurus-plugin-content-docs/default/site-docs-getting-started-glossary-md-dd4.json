@@ -1,28 +1,28 @@
 {
   "unversionedId": "getting-started/glossary",
   "id": "getting-started/glossary",
-  "title": "Glossary",
-  "description": "List of key terms related to the Celo platform, networks, tools, and blockchain technology.",
+  "title": "公告",
+  "description": "Lmax Group 平台公告.",
   "source": "@site/docs/getting-started/glossary.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/glossary",
-  "permalink": "/es/getting-started/glossary",
+  "permalink": "/getting-started/glossary",
   "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Glossary",
+    "title": "公告",
     "id": "glossary",
     "slug": "/getting-started/glossary",
-    "description": "List of key terms related to the Celo platform, networks, tools, and blockchain technology."
+    "description": "Lmax Group 平台公告."
   },
   "sidebar": "docs",
   "previous": {
     "title": "Join the Zsc Community",
-    "permalink": "/es/community/join-the-community"
+    "permalink": "/community/join-the-community"
   },
   "next": {
     "title": "Digital Wallets for Celo",
-    "permalink": "/es/getting-started/wallets"
+    "permalink": "/getting-started/wallets"
   }
 }

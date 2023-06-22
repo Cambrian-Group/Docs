@@ -6,7 +6,7 @@
   "source": "@site/docs/developer-resources/develop-on-windows.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-guide/start/develop-on-windows",
-  "permalink": "/es/developer-guide/start/develop-on-windows",
+  "permalink": "/developer-guide/start/develop-on-windows",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "developers",
   "previous": {
     "title": "Celo Local Development Environment Using Mac",
-    "permalink": "/es/developer-resources/using-mac"
+    "permalink": "/developer-resources/using-mac"
   }
 }

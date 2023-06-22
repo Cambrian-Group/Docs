@@ -2,7 +2,7 @@ export default {
   "title": "LMAX Docs",
   "tagline": "LMAX Group",
   "url": "https://docs.lmax.pro",
-  "baseUrl": "/es/",
+  "baseUrl": "/",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -264,7 +264,7 @@ export default {
       }
     },
     "navbar": {
-      "title": "LMAX Docs",
+      "title": "LMAX  Docs",
       "logo": {
         "alt": "LMAX Logo",
         "src": "img/color-logo.png"
@@ -352,27 +352,6 @@ export default {
             {
               "label": "Facebook",
               "href": "https://www.facebook.com/dmcsingular"
-            }
-          ]
-        },
-        {
-          "title": "Ecosystem",
-          "items": [
-            {
-              "label": "LMAX Global",
-              "href": "https://lmax.pro/"
-            },
-            {
-              "label": "Ethereum",
-              "href": "https://www.ethereum.org/"
-            },
-            {
-              "label": "Binance Chain",
-              "href": "https://www.binance.com/"
-            },
-            {
-              "label": "Polygon",
-              "href": "https://polygon.technology/"
             }
           ]
         }

@@ -6,7 +6,7 @@
   "source": "@site/docs/community/join-the-community.md",
   "sourceDirName": "community",
   "slug": "/community/join-the-community",
-  "permalink": "/es/community/join-the-community",
+  "permalink": "/community/join-the-community",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "ZSC Whitepapers",
-    "permalink": "/es/learn/celo-whitepapers"
+    "permalink": "/learn/celo-whitepapers"
   },
   "next": {
-    "title": "Glossary",
-    "permalink": "/es/getting-started/glossary"
+    "title": "公告",
+    "permalink": "/getting-started/glossary"
   }
 }

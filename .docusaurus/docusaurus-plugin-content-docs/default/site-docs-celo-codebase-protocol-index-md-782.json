@@ -1,27 +1,27 @@
 {
   "unversionedId": "celo-codebase/protocol/index",
   "id": "celo-codebase/protocol/index",
-  "title": "Zsc Protocol",
+  "title": "Trust and safety",
   "description": "Introduction to the Zsc protocol, its implementation, and its relationship to Ethereum.",
   "source": "@site/docs/celo-codebase/protocol/index.md",
   "sourceDirName": "celo-codebase/protocol",
   "slug": "/celo-codebase/protocol",
-  "permalink": "/es/celo-codebase/protocol",
+  "permalink": "/celo-codebase/protocol",
   "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Zsc Protocol",
+    "title": "Trust and safety",
     "description": "Introduction to the Zsc protocol, its implementation, and its relationship to Ethereum.",
     "slug": "/celo-codebase/protocol"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Using RedStone oracles",
-    "permalink": "/es/celo-codebase/protocol/oracles/redstone-protocol-how-to"
+    "title": "Get ZTB",
+    "permalink": "/celo-holder-guide/owners"
   },
   "next": {
-    "title": "Consensus Introduction",
-    "permalink": "/es/celo-codebase/protocol/consensus"
+    "title": "security model",
+    "permalink": "/celo-codebase/protocol/consensus/"
   }
 }

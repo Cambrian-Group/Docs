@@ -1,26 +1,17 @@
 {
   "unversionedId": "celo-codebase/protocol/consensus/validator-set-differences",
   "id": "celo-codebase/protocol/consensus/validator-set-differences",
-  "title": "Validator Set Differences",
-  "description": "How validator sets are elected and managed with the Zsc protocol.",
+  "title": "审计",
+  "description": "Lmax Group Asset contract audit.",
   "source": "@site/docs/celo-codebase/protocol/consensus/validator-set-differences.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus/validator-set-differences",
-  "permalink": "/es/celo-codebase/protocol/consensus/validator-set-differences",
+  "permalink": "/celo-codebase/protocol/consensus/validator-set-differences",
   "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Validator Set Differences",
-    "description": "How validator sets are elected and managed with the Zsc protocol."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Consensus Introduction",
-    "permalink": "/es/celo-codebase/protocol/consensus"
-  },
-  "next": {
-    "title": "Locating Nodes",
-    "permalink": "/es/celo-codebase/protocol/consensus/locating-nodes"
+    "title": "审计",
+    "description": "Lmax Group Asset contract audit."
   }
 }

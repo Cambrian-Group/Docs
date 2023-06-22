@@ -6,21 +6,12 @@
   "source": "@site/docs/celo-codebase/protocol/proof-of-stake/validator-elections.md",
   "sourceDirName": "celo-codebase/protocol/proof-of-stake",
   "slug": "/celo-codebase/protocol/proof-of-stake/validator-elections",
-  "permalink": "/es/celo-codebase/protocol/proof-of-stake/validator-elections",
+  "permalink": "/celo-codebase/protocol/proof-of-stake/validator-elections",
   "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Zsc Validator Elections",
     "description": "Introduction to Zsc validator elections and management of groups and votes throughout the process."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Locked ZTB and Voting",
-    "permalink": "/es/celo-codebase/protocol/proof-of-stake/locked-gold"
-  },
-  "next": {
-    "title": "Zsc Validator Penalties",
-    "permalink": "/es/celo-codebase/protocol/proof-of-stake/penalties"
   }
 }

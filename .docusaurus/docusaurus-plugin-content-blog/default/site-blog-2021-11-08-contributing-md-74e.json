@@ -1,14 +1,14 @@
 {
-  "permalink": "/es/blog/blog-contributions",
+  "permalink": "/blog/blog-contributions",
   "source": "@site/blog/2021-11-08-contributing.md",
   "title": "Contributing to the Blog",
   "description": "How to contribute to the blog",
   "date": "2021-11-08T00:00:00.000Z",
-  "formattedDate": "8 de noviembre de 2021",
+  "formattedDate": "November 8, 2021",
   "tags": [
     {
       "label": "contribute",
-      "permalink": "/es/blog/tags/contribute"
+      "permalink": "/blog/tags/contribute"
     }
   ],
   "readingTime": 1.4666666666666666,
@@ -24,6 +24,6 @@
   ],
   "prevItem": {
     "title": "Intro to the Code Playground",
-    "permalink": "/es/blog/code-playground"
+    "permalink": "/blog/code-playground"
   }
 }

@@ -6,21 +6,12 @@
   "source": "@site/docs/celo-codebase/protocol/bridging/optics-bridge-faq.md",
   "sourceDirName": "celo-codebase/protocol/bridging",
   "slug": "/celo-codebase/protocol/bridging/optics-bridge-faq",
-  "permalink": "/es/celo-codebase/protocol/bridging/optics-bridge-faq",
+  "permalink": "/celo-codebase/protocol/bridging/optics-bridge-faq",
   "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Optics Bridge FAQs",
     "description": "Common questions about the Optics Bridge."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Bridge Tokens with Etherscan",
-    "permalink": "/es/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan"
-  },
-  "next": {
-    "title": "Oracles on Zsc",
-    "permalink": "/es/celo-codebase/protocol/oracles/oracles-on-celo"
   }
 }

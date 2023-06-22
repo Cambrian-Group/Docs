@@ -6,7 +6,7 @@
   "source": "@site/docs/community/contributing.md",
   "sourceDirName": "community",
   "slug": "/community/contributing",
-  "permalink": "/es/community/contributing",
+  "permalink": "/community/contributing",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "contributors",
   "next": {
     "title": "媒体报道",
-    "permalink": "/es/community/developer-events"
+    "permalink": "/community/developer-events"
   }
 }

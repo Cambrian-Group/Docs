@@ -6,7 +6,7 @@
   "source": "@site/docs/learn/celo-ecosystem.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-ecosystem",
-  "permalink": "/es/learn/celo-ecosystem",
+  "permalink": "/learn/celo-ecosystem",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Celo Economic Model",
-    "permalink": "/es/learn/celo-economic-model"
+    "permalink": "/learn/celo-economic-model"
   },
   "next": {
     "title": "Key Concepts",
-    "permalink": "/es/key-concepts"
+    "permalink": "/key-concepts"
   }
 }

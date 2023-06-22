@@ -6,21 +6,12 @@
   "source": "@site/docs/celo-codebase/protocol/transactions/erc20-transaction-fees.md",
   "sourceDirName": "celo-codebase/protocol/transactions",
   "slug": "/celo-codebase/protocol/transactions/erc20-transaction-fees",
-  "permalink": "/es/celo-codebase/protocol/transactions/erc20-transaction-fees",
+  "permalink": "/celo-codebase/protocol/transactions/erc20-transaction-fees",
   "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Paying for Gas in Tokens",
     "description": "How to pay Zsc gas fees using whitelisted ERC20 tokens."
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Zsc Native Currency",
-    "permalink": "/es/celo-codebase/protocol/transactions/native-currency"
-  },
-  "next": {
-    "title": "Zsc Gas Pricing",
-    "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing"
   }
 }

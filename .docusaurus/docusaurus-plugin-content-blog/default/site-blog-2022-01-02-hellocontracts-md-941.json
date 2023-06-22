@@ -1,14 +1,14 @@
 {
-  "permalink": "/es/blog/developer-guide/start/hellocontracts",
+  "permalink": "/blog/developer-guide/start/hellocontracts",
   "source": "@site/blog/2022-01-02-hellocontracts.md",
   "title": "Deploy a Contract on Celo (local node)",
   "description": "How to deploy your own smart contracts onto Celo from a local node.",
   "date": "2022-01-02T00:00:00.000Z",
-  "formattedDate": "2 de enero de 2022",
+  "formattedDate": "January 2, 2022",
   "tags": [
     {
       "label": "smart contract",
-      "permalink": "/es/blog/tags/smart-contract"
+      "permalink": "/blog/tags/smart-contract"
     }
   ],
   "readingTime": 2.776666666666667,
@@ -24,10 +24,10 @@
   ],
   "prevItem": {
     "title": "Deploy and Interact with Contracts (Remotely)",
-    "permalink": "/es/blog/developer-guide/start/hello-contract-remote-node"
+    "permalink": "/blog/developer-guide/start/hello-contract-remote-node"
   },
   "nextItem": {
     "title": "Sending CELO & Stable Assets",
-    "permalink": "/es/blog/developer-guide/start/hellocelo"
+    "permalink": "/blog/developer-guide/start/hellocelo"
   }
 }

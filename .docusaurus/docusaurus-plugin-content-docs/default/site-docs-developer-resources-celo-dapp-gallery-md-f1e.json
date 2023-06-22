@@ -1,27 +1,18 @@
 {
   "unversionedId": "developer-resources/celo-dapp-gallery",
   "id": "developer-resources/celo-dapp-gallery",
-  "title": "审计",
+  "title": "如何使用",
   "description": "List of featured DApp examples to help you start building on Zsc.",
   "source": "@site/docs/developer-resources/celo-dapp-gallery.md",
   "sourceDirName": "developer-resources",
   "slug": "/developer-guide/celo-dapp-gallery",
-  "permalink": "/es/developer-guide/celo-dapp-gallery",
+  "permalink": "/developer-guide/celo-dapp-gallery",
   "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "审计",
+    "title": "如何使用",
     "description": "List of featured DApp examples to help you start building on Zsc.",
     "slug": "/developer-guide/celo-dapp-gallery"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "链上网络",
-    "permalink": "/es/getting-started/choosing-a-network"
-  },
-  "next": {
-    "title": "Lmax Group FAQ",
-    "permalink": "/es/faqs"
   }
 }

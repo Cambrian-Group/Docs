@@ -6,7 +6,7 @@
   "source": "@site/docs/validator-guide/attestation-service.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/attestation-service",
-  "permalink": "/es/validator-guide/attestation-service",
+  "permalink": "/validator-guide/attestation-service",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "validators",
   "previous": {
     "title": "Privacy Policy",
-    "permalink": "/es/validator-guide/overview"
+    "permalink": "/validator-guide/overview"
   }
 }

@@ -1,27 +1,26 @@
 {
   "unversionedId": "celo-codebase/protocol/consensus/index",
   "id": "celo-codebase/protocol/consensus/index",
-  "title": "Consensus Introduction",
-  "description": "Overview of Zsc's consensus protocol and network validators.",
+  "title": "security model",
+  "description": "security model.",
   "source": "@site/docs/celo-codebase/protocol/consensus/index.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
-  "slug": "/celo-codebase/protocol/consensus",
-  "permalink": "/es/celo-codebase/protocol/consensus",
+  "slug": "/celo-codebase/protocol/consensus/",
+  "permalink": "/celo-codebase/protocol/consensus/",
   "editUrl": "",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Consensus Introduction",
-    "description": "Overview of Zsc's consensus protocol and network validators.",
-    "slug": "/celo-codebase/protocol/consensus"
+    "title": "security model",
+    "description": "security model."
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Zsc Protocol",
-    "permalink": "/es/celo-codebase/protocol"
+    "title": "Trust and safety",
+    "permalink": "/celo-codebase/protocol"
   },
   "next": {
-    "title": "Validator Set Differences",
-    "permalink": "/es/celo-codebase/protocol/consensus/validator-set-differences"
+    "title": "Lmax Group FAQ",
+    "permalink": "/faqs"
   }
 }

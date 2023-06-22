@@ -31,15 +31,6 @@
               "frontMatter": {
                 "title": "Bridge Native Assets with Etherscan",
                 "description": "How to bridge native assets from ETH and Matic to Zsc with Etherscan."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Optics Bridge GUI",
-                "permalink": "/celo-codebase/protocol/bridging/optics-gui"
-              },
-              "next": {
-                "title": "Bridge Tokens with Etherscan",
-                "permalink": "/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan"
               }
             },
             {
@@ -57,15 +48,6 @@
               "frontMatter": {
                 "title": "Zsc Bridges",
                 "description": "How to bridge from Ethereum, Polygon, and Solana to Zsc."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Get ZTB",
-                "permalink": "/celo-holder-guide/owners"
-              },
-              "next": {
-                "title": "Optics Bridge GUI",
-                "permalink": "/celo-codebase/protocol/bridging/optics-gui"
               }
             },
             {
@@ -83,15 +65,6 @@
               "frontMatter": {
                 "title": "Bridge Tokens with Etherscan",
                 "description": "Bridging ERC-20 tokens from Ethereum and Polygon to Zsc."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Bridge Native Assets with Etherscan",
-                "permalink": "/celo-codebase/protocol/bridging/bridging-native-assets"
-              },
-              "next": {
-                "title": "Optics Bridge FAQs",
-                "permalink": "/celo-codebase/protocol/bridging/optics-bridge-faq"
               }
             },
             {
@@ -123,15 +96,6 @@
               "frontMatter": {
                 "title": "Optics Bridge FAQs",
                 "description": "Common questions about the Optics Bridge."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Bridge Tokens with Etherscan",
-                "permalink": "/celo-codebase/protocol/bridging/bridging-tokens-with-etherscan"
-              },
-              "next": {
-                "title": "Oracles on Zsc",
-                "permalink": "/celo-codebase/protocol/oracles/oracles-on-celo"
               }
             },
             {
@@ -149,15 +113,6 @@
               "frontMatter": {
                 "title": "Optics Bridge GUI",
                 "description": "How to send ETH From Ethereum to Celo using the Optics Bridge GUI."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Zsc Bridges",
-                "permalink": "/celo-codebase/protocol/bridging/bridging-to-celo"
-              },
-              "next": {
-                "title": "Bridge Native Assets with Etherscan",
-                "permalink": "/celo-codebase/protocol/bridging/bridging-native-assets"
               }
             },
             {
@@ -197,28 +152,27 @@
             {
               "unversionedId": "celo-codebase/protocol/consensus/index",
               "id": "celo-codebase/protocol/consensus/index",
-              "title": "Consensus Introduction",
-              "description": "Overview of Zsc's consensus protocol and network validators.",
+              "title": "security model",
+              "description": "security model.",
               "source": "@site/docs/celo-codebase/protocol/consensus/index.md",
               "sourceDirName": "celo-codebase/protocol/consensus",
-              "slug": "/celo-codebase/protocol/consensus",
-              "permalink": "/celo-codebase/protocol/consensus",
+              "slug": "/celo-codebase/protocol/consensus/",
+              "permalink": "/celo-codebase/protocol/consensus/",
               "editUrl": "",
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Consensus Introduction",
-                "description": "Overview of Zsc's consensus protocol and network validators.",
-                "slug": "/celo-codebase/protocol/consensus"
+                "title": "security model",
+                "description": "security model."
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Zsc Protocol",
+                "title": "Trust and safety",
                 "permalink": "/celo-codebase/protocol"
               },
               "next": {
-                "title": "Validator Set Differences",
-                "permalink": "/celo-codebase/protocol/consensus/validator-set-differences"
+                "title": "Lmax Group FAQ",
+                "permalink": "/faqs"
               }
             },
             {
@@ -236,15 +190,6 @@
               "frontMatter": {
                 "title": "Locating Nodes",
                 "description": "How Zsc nodes join the network, establish a connection, and communiate their IP address."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Validator Set Differences",
-                "permalink": "/celo-codebase/protocol/consensus/validator-set-differences"
-              },
-              "next": {
-                "title": "Celo Ultralight Sync",
-                "permalink": "/celo-codebase/protocol/consensus/ultralight-sync"
               }
             },
             {
@@ -262,22 +207,13 @@
               "frontMatter": {
                 "title": "Celo Ultralight Sync",
                 "description": "Introduction to Zsc's ultralight sync mode and how it improves the speed of the Zsc network."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Locating Nodes",
-                "permalink": "/celo-codebase/protocol/consensus/locating-nodes"
-              },
-              "next": {
-                "title": "Zsc Proof of Stake Overview",
-                "permalink": "/celo-codebase/protocol/proof-of-stake"
               }
             },
             {
               "unversionedId": "celo-codebase/protocol/consensus/validator-set-differences",
               "id": "celo-codebase/protocol/consensus/validator-set-differences",
-              "title": "Validator Set Differences",
-              "description": "How validator sets are elected and managed with the Zsc protocol.",
+              "title": "审计",
+              "description": "Lmax Group Asset contract audit.",
               "source": "@site/docs/celo-codebase/protocol/consensus/validator-set-differences.md",
               "sourceDirName": "celo-codebase/protocol/consensus",
               "slug": "/celo-codebase/protocol/consensus/validator-set-differences",
@@ -286,17 +222,8 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Validator Set Differences",
-                "description": "How validator sets are elected and managed with the Zsc protocol."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Consensus Introduction",
-                "permalink": "/celo-codebase/protocol/consensus"
-              },
-              "next": {
-                "title": "Locating Nodes",
-                "permalink": "/celo-codebase/protocol/consensus/locating-nodes"
+                "title": "审计",
+                "description": "Lmax Group Asset contract audit."
               }
             },
             {
@@ -314,15 +241,6 @@
               "frontMatter": {
                 "title": "Zsc Governance",
                 "description": "Overview of Zsc governance and how the network is managed using the stakeholder proposal process."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Zsc Validator Penalties",
-                "permalink": "/celo-codebase/protocol/proof-of-stake/penalties"
-              },
-              "next": {
-                "title": "Celo Transactions Overview",
-                "permalink": "/celo-codebase/protocol/transactions"
               }
             },
             {
@@ -412,7 +330,7 @@
             {
               "unversionedId": "celo-codebase/protocol/index",
               "id": "celo-codebase/protocol/index",
-              "title": "Zsc Protocol",
+              "title": "Trust and safety",
               "description": "Introduction to the Zsc protocol, its implementation, and its relationship to Ethereum.",
               "source": "@site/docs/celo-codebase/protocol/index.md",
               "sourceDirName": "celo-codebase/protocol",
@@ -422,18 +340,18 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Zsc Protocol",
+                "title": "Trust and safety",
                 "description": "Introduction to the Zsc protocol, its implementation, and its relationship to Ethereum.",
                 "slug": "/celo-codebase/protocol"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Using RedStone oracles",
-                "permalink": "/celo-codebase/protocol/oracles/redstone-protocol-how-to"
+                "title": "Get ZTB",
+                "permalink": "/celo-holder-guide/owners"
               },
               "next": {
-                "title": "Consensus Introduction",
-                "permalink": "/celo-codebase/protocol/consensus"
+                "title": "security model",
+                "permalink": "/celo-codebase/protocol/consensus/"
               }
             },
             {
@@ -465,15 +383,6 @@
               "frontMatter": {
                 "title": "Using Band Protocol",
                 "description": "Tutorial on how to use the Band Protocol on Zsc"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Oracles on Zsc",
-                "permalink": "/celo-codebase/protocol/oracles/oracles-on-celo"
-              },
-              "next": {
-                "title": "Using RedStone oracles",
-                "permalink": "/celo-codebase/protocol/oracles/redstone-protocol-how-to"
               }
             },
             {
@@ -491,15 +400,6 @@
               "frontMatter": {
                 "title": "Oracles on Zsc",
                 "description": "A list of oracles available on the Zsc network."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Optics Bridge FAQs",
-                "permalink": "/celo-codebase/protocol/bridging/optics-bridge-faq"
-              },
-              "next": {
-                "title": "Using Band Protocol",
-                "permalink": "/celo-codebase/protocol/oracles/band-protocol-how-to"
               }
             },
             {
@@ -517,15 +417,6 @@
               "frontMatter": {
                 "title": "Using RedStone oracles",
                 "description": "Tutorial on how to use the RedStone oracles on Zsc"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Using Band Protocol",
-                "permalink": "/celo-codebase/protocol/oracles/band-protocol-how-to"
-              },
-              "next": {
-                "title": "Zsc Protocol",
-                "permalink": "/celo-codebase/protocol"
               }
             },
             {
@@ -614,15 +505,6 @@
                 "title": "Zsc Proof of Stake Overview",
                 "slug": "/celo-codebase/protocol/proof-of-stake",
                 "description": "Overview of Zsc's proof-of-stake algorithm, mechanisms, and implementation."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Celo Ultralight Sync",
-                "permalink": "/celo-codebase/protocol/consensus/ultralight-sync"
-              },
-              "next": {
-                "title": "Locked ZTB and Voting",
-                "permalink": "/celo-codebase/protocol/proof-of-stake/locked-gold"
               }
             },
             {
@@ -640,15 +522,6 @@
               "frontMatter": {
                 "title": "Locked ZTB and Voting",
                 "description": "Introduction to locked ZTB and how to use validator elections to participate in voting."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Zsc Proof of Stake Overview",
-                "permalink": "/celo-codebase/protocol/proof-of-stake"
-              },
-              "next": {
-                "title": "Zsc Validator Elections",
-                "permalink": "/celo-codebase/protocol/proof-of-stake/validator-elections"
               }
             },
             {
@@ -680,15 +553,6 @@
               "frontMatter": {
                 "title": "Zsc Validator Penalties",
                 "description": "Introduction to validator penalties, enforcement mechanisms, and conditions."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Zsc Validator Elections",
-                "permalink": "/celo-codebase/protocol/proof-of-stake/validator-elections"
-              },
-              "next": {
-                "title": "Zsc Governance",
-                "permalink": "/celo-codebase/protocol/governance"
               }
             },
             {
@@ -706,15 +570,6 @@
               "frontMatter": {
                 "title": "Zsc Validator Elections",
                 "description": "Introduction to Zsc validator elections and management of groups and votes throughout the process."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Locked ZTB and Voting",
-                "permalink": "/celo-codebase/protocol/proof-of-stake/locked-gold"
-              },
-              "next": {
-                "title": "Zsc Validator Penalties",
-                "permalink": "/celo-codebase/protocol/proof-of-stake/penalties"
               }
             },
             {
@@ -858,15 +713,6 @@
               "frontMatter": {
                 "title": "Paying for Gas in Tokens",
                 "description": "How to pay Zsc gas fees using whitelisted ERC20 tokens."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Zsc Native Currency",
-                "permalink": "/celo-codebase/protocol/transactions/native-currency"
-              },
-              "next": {
-                "title": "Zsc Gas Pricing",
-                "permalink": "/celo-codebase/protocol/transactions/gas-pricing"
               }
             },
             {
@@ -912,15 +758,6 @@
               "frontMatter": {
                 "title": "Zsc Gas Pricing",
                 "description": "Introduction to gas prices, calculations, transactions, and fees on the Zsc network."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Paying for Gas in Tokens",
-                "permalink": "/celo-codebase/protocol/transactions/erc20-transaction-fees"
-              },
-              "next": {
-                "title": "链上网络",
-                "permalink": "/getting-started/choosing-a-network"
               }
             },
             {
@@ -939,15 +776,6 @@
                 "title": "Celo Transactions Overview",
                 "description": "Introduction to Celo transactions, gas prices, and gateway fees.",
                 "slug": "/celo-codebase/protocol/transactions"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Zsc Governance",
-                "permalink": "/celo-codebase/protocol/governance"
-              },
-              "next": {
-                "title": "Zsc Native Currency",
-                "permalink": "/celo-codebase/protocol/transactions/native-currency"
               }
             },
             {
@@ -965,15 +793,6 @@
               "frontMatter": {
                 "title": "Zsc Native Currency",
                 "description": "Introduction to ZTB and its compliance to the ERC20 standard."
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Celo Transactions Overview",
-                "permalink": "/celo-codebase/protocol/transactions"
-              },
-              "next": {
-                "title": "Paying for Gas in Tokens",
-                "permalink": "/celo-codebase/protocol/transactions/erc20-transaction-fees"
               }
             },
             {
@@ -1310,8 +1129,8 @@
                 "permalink": "/getting-started/wallets"
               },
               "next": {
-                "title": "Zsc Bridges",
-                "permalink": "/celo-codebase/protocol/bridging/bridging-to-celo"
+                "title": "Trust and safety",
+                "permalink": "/celo-codebase/protocol"
               }
             },
             {
@@ -1545,7 +1364,7 @@
                 "permalink": "/learn/celo-whitepapers"
               },
               "next": {
-                "title": "Glossary",
+                "title": "公告",
                 "permalink": "/getting-started/glossary"
               }
             },
@@ -1654,7 +1473,7 @@
             {
               "unversionedId": "developer-resources/celo-dapp-gallery",
               "id": "developer-resources/celo-dapp-gallery",
-              "title": "审计",
+              "title": "如何使用",
               "description": "List of featured DApp examples to help you start building on Zsc.",
               "source": "@site/docs/developer-resources/celo-dapp-gallery.md",
               "sourceDirName": "developer-resources",
@@ -1664,18 +1483,9 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "审计",
+                "title": "如何使用",
                 "description": "List of featured DApp examples to help you start building on Zsc.",
                 "slug": "/developer-guide/celo-dapp-gallery"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "链上网络",
-                "permalink": "/getting-started/choosing-a-network"
-              },
-              "next": {
-                "title": "Lmax Group FAQ",
-                "permalink": "/faqs"
               }
             },
             {
@@ -2554,8 +2364,8 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "审计",
-                "permalink": "/developer-guide/celo-dapp-gallery"
+                "title": "security model",
+                "permalink": "/celo-codebase/protocol/consensus/"
               }
             },
             {
@@ -2698,22 +2508,13 @@
                 "description": "Lmax Group 平台支持的网络.",
                 "id": "choosing-a-network",
                 "slug": "/getting-started/choosing-a-network"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Zsc Gas Pricing",
-                "permalink": "/celo-codebase/protocol/transactions/gas-pricing"
-              },
-              "next": {
-                "title": "审计",
-                "permalink": "/developer-guide/celo-dapp-gallery"
               }
             },
             {
               "unversionedId": "getting-started/glossary",
               "id": "getting-started/glossary",
-              "title": "Glossary",
-              "description": "List of key terms related to the Celo platform, networks, tools, and blockchain technology.",
+              "title": "公告",
+              "description": "Lmax Group 平台公告.",
               "source": "@site/docs/getting-started/glossary.md",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/glossary",
@@ -2722,10 +2523,10 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Glossary",
+                "title": "公告",
                 "id": "glossary",
                 "slug": "/getting-started/glossary",
-                "description": "List of key terms related to the Celo platform, networks, tools, and blockchain technology."
+                "description": "Lmax Group 平台公告."
               },
               "sidebar": "docs",
               "previous": {
@@ -2862,7 +2663,7 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Glossary",
+                "title": "公告",
                 "permalink": "/getting-started/glossary"
               },
               "next": {
@@ -3726,41 +3527,41 @@
               },
               {
                 "type": "category",
-                "label": "Basics",
+                "label": "基础",
                 "items": [
                   {
                     "type": "doc",
-                    "label": "Highlights",
+                    "label": "Lmax Group行业背景",
                     "id": "learn/celo-highlights"
                   },
                   {
                     "type": "doc",
-                    "label": "Economic Model",
+                    "label": "Lmax Group技术优势",
                     "id": "learn/celo-economic-model"
                   },
                   {
                     "type": "doc",
-                    "label": "Ecosystem",
+                    "label": "系统架构",
                     "id": "learn/celo-ecosystem"
                   },
                   {
                     "type": "doc",
-                    "label": "Key Concepts",
+                    "label": "指数ETP",
                     "id": "learn/key-concepts"
                   },
                   {
                     "type": "doc",
-                    "label": "Whitepapers",
+                    "label": "指数ETP资产组合",
                     "id": "learn/celo-whitepapers"
                   },
                   {
                     "type": "doc",
-                    "label": "Community",
+                    "label": "资产策略",
                     "id": "community/join-the-community"
                   },
                   {
                     "type": "doc",
-                    "label": "Glossary",
+                    "label": "公告",
                     "id": "getting-started/glossary"
                   }
                 ],
@@ -3769,24 +3570,16 @@
               },
               {
                 "type": "category",
-                "label": "Wallets",
+                "label": "如何运作",
                 "items": [
                   {
                     "type": "doc",
-                    "label": "LMAX Wallets",
+                    "label": "合作机构",
                     "id": "getting-started/wallets/index"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Owners",
-                "items": [
+                  },
                   {
                     "type": "doc",
-                    "label": "Overview",
+                    "label": "操作流程",
                     "id": "celo-holder-guide/owners"
                   }
                 ],
@@ -3795,165 +3588,21 @@
               },
               {
                 "type": "category",
-                "label": "Bridging",
+                "label": "Trust and safety",
                 "items": [
                   {
                     "type": "doc",
-                    "label": "LMAX Bridges",
-                    "id": "celo-codebase/protocol/bridging/bridging-to-celo"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Optics Bridge GUI",
-                    "id": "celo-codebase/protocol/bridging/optics-gui"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Native Assets with LMAX",
-                    "id": "celo-codebase/protocol/bridging/bridging-native-assets"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Tokens with LMAX",
-                    "id": "celo-codebase/protocol/bridging/bridging-tokens-with-etherscan"
-                  },
-                  {
-                    "type": "doc",
-                    "label": "Optics Bridge FAQ",
-                    "id": "celo-codebase/protocol/bridging/optics-bridge-faq"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Oracles",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Zsc Oracles",
-                    "id": "celo-codebase/protocol/oracles/oracles-on-celo"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "celo-codebase/protocol/oracles/band-protocol-how-to"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "celo-codebase/protocol/oracles/redstone-protocol-how-to"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Protocol",
-                "items": [
-                  {
-                    "type": "doc",
-                    "label": "Overview",
+                    "label": "Trust and safety",
                     "id": "celo-codebase/protocol/index"
                   },
                   {
-                    "type": "category",
-                    "label": "Consensus",
-                    "items": [
-                      {
-                        "type": "doc",
-                        "label": "Overview",
-                        "id": "celo-codebase/protocol/consensus/index"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Validator Set Differences",
-                        "id": "celo-codebase/protocol/consensus/validator-set-differences"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Locating Nodes",
-                        "id": "celo-codebase/protocol/consensus/locating-nodes"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Archive Sync",
-                        "id": "celo-codebase/protocol/consensus/ultralight-sync"
-                      }
-                    ],
-                    "collapsible": true,
-                    "collapsed": true
-                  },
-                  {
-                    "type": "category",
-                    "label": "Proof-of-Stake",
-                    "items": [
-                      {
-                        "type": "doc",
-                        "label": "Overview",
-                        "id": "celo-codebase/protocol/proof-of-stake/index"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Locked ZTB",
-                        "id": "celo-codebase/protocol/proof-of-stake/locked-gold"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Validator Elections",
-                        "id": "celo-codebase/protocol/proof-of-stake/validator-elections"
-                      },
-                      {
-                        "type": "doc",
-                        "label": "Penalties",
-                        "id": "celo-codebase/protocol/proof-of-stake/penalties"
-                      }
-                    ],
-                    "collapsible": true,
-                    "collapsed": true
-                  },
-                  {
                     "type": "doc",
-                    "id": "celo-codebase/protocol/governance"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Transactions",
-                    "items": [
-                      {
-                        "type": "doc",
-                        "label": "Overview",
-                        "id": "celo-codebase/protocol/transactions/index"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "celo-codebase/protocol/transactions/native-currency"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "celo-codebase/protocol/transactions/erc20-transaction-fees"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "celo-codebase/protocol/transactions/gas-pricing"
-                      }
-                    ],
-                    "collapsible": true,
-                    "collapsed": true
+                    "label": "Security model",
+                    "id": "celo-codebase/protocol/consensus/index"
                   }
                 ],
                 "collapsible": true,
                 "collapsed": true
-              },
-              {
-                "type": "doc",
-                "label": "网络",
-                "id": "getting-started/choosing-a-network"
-              },
-              {
-                "type": "doc",
-                "label": "审计",
-                "id": "developer-resources/celo-dapp-gallery"
               },
               {
                 "type": "doc",
@@ -4001,12 +3650,12 @@
             "contributors": [
               {
                 "type": "doc",
-                "label": "视频直播",
+                "label": "live video",
                 "id": "community/contributing"
               },
               {
                 "type": "doc",
-                "label": "媒体报道",
+                "label": "media reports",
                 "id": "community/developer-events"
               }
             ]

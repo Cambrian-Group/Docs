@@ -6,7 +6,7 @@
   "source": "@site/docs/getting-started/choosing-a-network.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/choosing-a-network",
-  "permalink": "/es/getting-started/choosing-a-network",
+  "permalink": "/getting-started/choosing-a-network",
   "editUrl": "",
   "tags": [],
   "version": "current",
@@ -15,14 +15,5 @@
     "description": "Lmax Group 平台支持的网络.",
     "id": "choosing-a-network",
     "slug": "/getting-started/choosing-a-network"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Zsc Gas Pricing",
-    "permalink": "/es/celo-codebase/protocol/transactions/gas-pricing"
-  },
-  "next": {
-    "title": "审计",
-    "permalink": "/es/developer-guide/celo-dapp-gallery"
   }
 }
