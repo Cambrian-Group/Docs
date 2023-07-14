@@ -13,203 +13,154 @@ Last Updated: May 2023.
 
 ___
 
-This Privacy Policy ("Policy") describes how Ondo Finance Inc. ("Ondo," "we," "us" or "our") may collect, use and disclose information, and your choices regarding this information. Please read this Policy carefully and contact us with questions at LmaxGroup@gmail.com .
+This Privacy Policy governs the collection, use, maintenance, and disclosure of information that the CoinShares Group collects from its users.
 
 
-## Applicability of This Policy
+## OUR COMMITMENT TO DATA PRIVACY
 
-This Policy applies to our services, which include the services we provide on our platform, user interface to the Protocol or any other websites, pages, features, mobile applications, or content we own or operate (collectively, the "Sites") or when you use any Ondo API or third party applications relying on such an API, and related services (collectively, the "Services"). If you do not agree with the terms of this Policy, do not access or use the Services, Sites, or any other aspect of our business.
+Protecting the privacy of individuals who provide us with Personal Data (as defined below) is very important to CoinShares International Limited (“CoinShares”, “we”, “our”, us) and to the way we do business. You have shown your trust in us by interacting with www.coinshares.com and etp.coinshares.com (the “Websites”), and we value that trust.
 
-## What We Collect
+To this end, we are committed to respecting local data privacy legislations (together “Applicable Laws”), in particular,
 
-When you interact with our Services, we may collect:
+the United Kingdom General Data Protection Regulation and Data Protection Act 2018, 
 
-- Contact Information, such as your email address.
+the Data Protection (Jersey) Law, 2018 and the Data Protection Authority (Jersey) Law, 2018 (together the “DPL”),
 
-- Financial Information, such as your Ethereum address, cryptocurrency wallet information, transaction history, and associated fees paid.
+the (EU) 2016/679 General Data Protection Regulation of the European Parliament and of the Council of 27 April 2016 on the protection of persons with regard to the processing of personal data (“the GDPR”).
 
-- Transaction Information, such as information about the transactions you make on our Services, such as the type of transaction, transaction amount, and timestamp.
 
-- Correspondence, such as your feedback, questionnaire and other survey responses, and information you provide to our support teams, including via our help chat.
 
-- Online Identifiers, such as geo location/tracking details, browser fingerprint, operating system, browser name and version, and/or personal IP addresses.
+## Data Protection Officers
 
-- Usage Data, such as user preferences and other data collected via cookies and similar technologies.
+When you are using the Website, we are the Personal Data Controller. This means that we determine the purposes and means by which your data is processed. “Controller”, “Joint controller” or “Processor”, used in this Policy, refer to the terms defined in Article 4 of the GDPR.
 
-- Information We Get from Others. We may get information about you from other sources as required or permitted by applicable law, including public databases, credit bureaus & ID verification partners. We may combine the information collected from these sources with the information we get from this Site in order to comply with our legal obligations and limit the use of our Services in connection with fraudulent or other illicit activities.
 
-- Information from cookies and other tracking technologies. We, and third parties we authorize, may Sites and mobile apps, and collect information about the use of the Services, as well as about our interactions with you. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data, and information about your interactions with the communications we send to you. We may combine this automatically collected log information with other information we collect about you. You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of our Services may not function properly.
+Pursuant to Article 37 of the GDPR, we are not required to appoint a Data Protection Officer at the group level, although we understand the importance of ensuring good governance of this system.
 
-## How We Use Information
 
-We use your information in accordance with your instructions, including any applicable terms in the Terms of Use, and as required by applicable law. We may also use the information we collect for:
+We have appointed our Compliance Function with the duty to ensure that our processing operations comply with this Policy and, more generally, with the Applicable Laws. The Compliance Function will endeavour to answer any questions or requests in relation to the processing of your data, your rights, and our Policy. However, the Compliance Function is not the same as a Data Protection Officer. 
 
-### Providing Services and Features
 
-We may use the information we collect to provide, personalize, maintain, and improve our products and Services, including as we described in the Terms of Use. This includes using information to:
+If you have any questions or requests regarding the processing of your Personal Data, please email us at the following address: privacy@coinshares.com
 
-- operate, maintain, customize, measure, and improve our Services, and manage our business;
+## WHAT HAPPENS IF YOU DO NOT PROVIDE YOUR PERSONAL DATA?
 
-- process transactions;
+The provision of your Personal Data may be:
 
-- send information, including confirmations, notices, updates, security alerts, and support and administrative messages; and
-to create de-identified or aggregated data.
+necessary to enter a contract with us (e.g., due diligence documents and financial data), but not mandatory as you could refuse to provide it. In that case, it will however expose yourself to the risk of seeing the benefit of a contract taken away from you;
 
+necessary, for us to be able to answer your question (e.g., when you reach out to our Customer Support and provide identification data), or solve your issue (e.g. while making a complaint). In that case, failure to provide such Personal Data could prevent us from handling these matters effectively;
 
-## Safety and Security
+not mandatory (e.g., non-necessary cookies and tracking technologies), as it is only based on your consent. If you refuse to provide some of these personal data, it could however prevent us from offering the best user experience of our Websites.
 
-We may use your information to help maintain the safety, security, and integrity of you and our Services, including to:
+### AUTOMATED DECISION-MAKING AND PROFILING
 
-- protect, investigate, and deter against fraudulent, unauthorized, or illegal activity;
+You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects or similarly significantly affects you. Please note that we may use automated decision-making systems, especially in the context of preventing fraud in relation to our regulatory obligations. Our Compliance Function may proceed to risk screening of CoinShares potential investors to ensure we can comply with AML/CFT regulations. However, no decision is exclusively based on such a type of processing, and each decision always requires human intervention at the very end. This means that the benefit of a contract could be taken away from you, but by means of a decision that is not fully systematised.
 
-- monitor and verify identity or service access, combat spam, malware or security risks;
 
-- perform internal operations necessary to provide our Services, including to troubleshoot software bugs and operational problems;
+## HOW WE PROCESS YOUR PERSONAL DATA
 
-- enforce our agreements with third parties, and address violations of our Terms of Use or agreements for other Services; and
-comply with applicable security laws and regulations.
+We collect and process information relating to you and your use of the Websites and its related services you can access through browsing. How we handle it differs as set out below:
 
-## User Support
 
-We may use information we collect to provide support, including to:
 
-- direct questions to the appropriate support person;
+## HOW LONG DO WE KEEP YOUR PERSONAL DATA?
 
-- investigate and address user concerns; and
+We retain the data collected for the time strictly necessary for the purpose of the processing, and within the limits provided for by Applicable Laws if it allows longer retention.
 
-- monitor and improve our customer support responses and processes.
+Unless explicitly stated in this Policy, the Personal Data we process is deleted or anonymized as soon as it is no longer necessary for the purpose for which it was collected and if the deletion does not conflict with our legal retention obligations.
 
-## Research and Development
 
-We may use the information we collect for testing, research, analysis, and product development to improve your experience. This helps us to improve and enhance the safety and security of our Services, improve our ability to prevent the use of our Services for illegal or improper purposes and develop new features and products relating to our Services.
 
-## Legal and Regulatory Compliance
+## HOW DO WE PROTECT YOUR PERSONAL DATA?
 
-We may verify your identity by comparing the personal information you provide against third-party databases and public records. We may use the information we collect to investigate or address claims or disputes relating to use of our Services, or as otherwise allowed by applicable law, or as requested by regulators, government entities, and official inquiries.
+We adopt appropriate data collection, storage, processing practices and security measures to protect against unauthorised access, alteration, disclosure, or destruction of your Personal Data, username, password, transaction information, and data stored on the Website. All Personal Data is dealt with in accordance with the Applicable Laws. 
 
-## Direct Marketing
+We designed our systems with your security and privacy in mind. We implemented technical and organisational security measures to protect your data from accidental or unlawful destruction, loss, alteration, unauthorised access or disclosure, in particular: Ultra-secure encryption; Secure servers; Backups; Continuous monitoring.
 
-We may use the information we collect to market our Services to you. This may include sending you communications about our Services, features, promotions, surveys, news, updates, and events, and managing your participation in these promotions and events. If you do not want us to send you marketing communications, please opt out by selecting "unsubscribe" to any marketing email sent by us or by contacting us at LmaxGroup@gmail.com.
+We maintain physical, technical, administrative, and procedural safeguards to protect Personal Data, and access to Personal Data is limited to the employees who require it for their job functions. CoinShares is ISO 27001 certified, demonstrating thereby our engagement to maintain a secure platform for our customers, under strict design, procedures, controls, and continual improvement.
 
-## How We Share & Disclose Information
+## How do we share your Personal Data?
 
-We may share your information in the following circumstances:
+We will only share your Personal Data with third parties as described in this Policy and ensure the data recipients follow practices at least as protective as those described in this Policy.
 
-- With Your Consent. For example, you may let us share personal information with others for their own marketing uses. Those uses will be subject to their privacy policies.
+We may share your Personal Data with:
 
-- To Comply with Our Legal Obligations. We may share your information: (A) to cooperate with government or regulatory investigations; (B) when we are compelled to do so by a subpoena, court order, or similar legal procedure; (C) when we believe in good faith that the disclosure of personal information is necessary to prevent harm to another person; (D) to report suspected illegal activity; or (E) to investigate violations of our User Agreement or any other applicable policies.
+Group companies: Relevant departments from the Group will receive your Personal Data if they need it to contribute to the purpose of processing. We may transfer data as part of our business operations, to meet our legitimate interests of carrying out our internal administrative activities efficiently and to improve our products and services. Group companies act as individual data Controllers.
 
-- With Service Providers. We may share your information with service providers who help facilitate business and compliance operations such as marketing and technology services. Our contracts require these service providers to only use your information in connection with the services they perform for us.
+Service providers, affiliates, and commercial partners: These recipients act as Processors and help us with our business operations, and only have access to Personal Data necessary for the performance of their functions and may not use it for any other purpose. Processors are also carefully selected and contractually obliged to ensure the confidentiality and security of your Personal Data that they process on our behalf.
 
-- During a Change to Our Business. If we engage in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of our assets or stock, financing, public offering of securities, acquisition of all or a portion of our business, a similar transaction or proceeding, or steps in contemplation of such activities, some or all of your information may be shared or transferred, subject to standard confidentiality arrangements.
+Third parties, including governmental authorities and law enforcement: We may transfer your Personal Data to the relevant public authorities to i) defend our legal rights, interests, or property and any of its related entities; ii) protect the safety and security of our customers or members of the public; or iii) protect against fraudulent activities, or comply with Applicable Laws, subpoena, or legal process.
 
-- Aggregated or De-identified Data. We may share aggregated and/or anonymized data with others for their own uses.
+Companies that we plan to merge with or may be acquired by. If CoinShares may be sold or transferred in whole or in part (or such a sale or transfer is being contemplated), your Personal Data may be transferred to the new entity or potential new entity as part of the transfer itself or as part of an initial review for such transfer/purchase (i.e. due diligence), subject to any rights provided by applicable law, including jurisdictions where the new entity or potential new entity are located. CoinShares has a legitimate interest in being able to perform these transactions (Art. 6(1)(f) GDPR). 
 
+Other third parties with your consent or at your direction to do so.
 
-## Data Retention
+Third parties for any legitimate business purpose not otherwise prohibited by the Applicable Laws.
 
-To view or update your information, contact us at LmaxGroup@gmail.com. We store your information throughout the life of your use of the Protocol and retain your information for a minimum of five (5) years to comply with our legal obligations or to resolve disputes. If you cease using the Protocol, we will neither use your information for any further purposes, nor sell or share your information with third parties, except as necessary to prevent fraud and assist law enforcement, as required by law, or in accordance with this Policy.
+## HOW CAN YOU RESTRICT US FROM SHARING YOUR PERSONAL DATA
 
-## Security
+It is possible to limit our use and sharing of your Personal Data, as such:
 
-We maintain administrative, technical and physical safeguards designed to protect the personal information we maintain against unauthorized access or disclosure. No system can be completely secure. Therefore, although we take steps to secure your information, we cannot guarantee that your information, searches, or other communication will always remain secure. You are responsible for all activity on the Protocol relating to any of your Ethereum network addresses and/or cryptocurrency wallets.
+You may unsubscribe from marketing emails, by clicking the “Unsubscribe” link in the email footer or contacting privacy@coinshares.com.
 
-## Age Limitations
+You can modify your browser settings to decline cookies, but certain features of the Website may not function properly or be unavailable if you do so. For more information, you can also directly access settings in the cookie settings banner and read our Cookie Policy. During your browsing, you can always withdraw you consent to cookies at any time by changing your cookie preferences in our cookie settings centre (bottom left of the Website).
 
-To the extent prohibited by applicable law, we do not allow use of our Services and Sites by anyone younger than the legal age in the jurisdiction in which the user resides. If you learn that anyone younger than the legal age has unlawfully provided us with personal data, please contact us at Lmax Group@gmail.com and we will take steps to delete such information, close any such accounts, and, to the extent possible, prevent the user from continuing to use our Services.
+On your mobile device, you can know which third parties have currently enabled cookies and eventually opt-out of some of those cookies. You may also select “Limit Ad Tracking” (on iOS devices) or “Opt out of Interest-Based Ads” (on Android). Even if you disable tracking, keep in mind that you may still receive interest-based advertising, including from third parties with whom your information had been previously disclosed and that you may still receive advertising from third parties, although such advertising may not be based on your interests and preferences.
 
-## Changes to This Policy
+We use the information provided by Google Analytics to improve our Services. For more information regarding how Google collects, uses, and shares your information and how to opt-out of certain uses please visit How Google uses information from sites or apps that use our services – Privacy & Terms and Google Analytics Opt-out Browser Add-on Download Page. Please also see our Cookie Policy for more information on how we use cookies on our Website.
 
-If we make any changes, we will change the Last Updated date above. We encourage you to review this Policy to stay informed. If we make material changes, we will provide additional notice, such as via the email specified in your account or through the Services or Sites.
+Note that our information collection and disclosure practices, and the choices we provide to visitors, will continue to operate as described in this Policy whether or not a Do Not Track signal is received.
 
-## Online Tracking Opt-out Guide
 
-Like many companies online, we use services provided by Google and other companies that use tracking technology. These services rely on tracking technologies-such as cookies and web beacons-to collect directly from your device information about your browsing activities, your interactions with websites, and the device you are using to connect to the Internet. There are a number of ways to opt out of having your online activity and device data collected through these services, which we have summarized below:
+## THIRD-PARTY LINKS
 
-- Blocking cookies in your browser. Most browsers let you remove or reject cookies, including cookies used for interest-based advertising. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit www.allaboutcookies.org.
+Our Websites may contain links to third-party websites, including social media sites. By including a link to a third-party website, we do not endorse or recommend any products or services offered or information contained at the third-party website. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third-party websites. We are not responsible for the information practices of such third-party websites. If you decide to visit a third-party website via a link contained in or by the Website, you do so at your risk.
 
-- Blocking advertising ID use in your mobile settings. Your mobile device settings may provide functionality to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes. Using privacy plug-ins or browsers. You can block our websites from setting cookies used for interest-based ads by using a browser with privacy features.
 
-- Platform opt-outs. The following advertising partner offers opt-out features that let you opt-out of use of your information for interest-based advertising - Google: https://adssettings.google.com. Advertising industry opt-out tools. You can also use the opt-out options set forth below to limit use of your information for interest-based advertising by participating companies. Note that because these opt-out mechanisms are specific to the device or browser on which they are exercised, you will need to opt out on every browser and device that you use. Digital Advertising Alliance: http://optout.aboutads.info Network Advertising Initiative: http://optout.networkadvertising.org/
+## ASSERTING YOUR RIGHTS
 
-## Notice to California Residents - CCPA Scope and Exclusions
+You may request, for example, to access, correct, or delete Personal Data that you have provided to us. You will not be permitted to examine the Personal Data of any other person or entity and may be required to provide us with Personal Data to verify your identity prior to accessing any records containing information about you.
 
-This California Consumer Privacy Act of 2018 (CCPA) Notice, including the description of our Privacy Practices and your Privacy Rights, apply only to California residents whose interactions with us are limited to:
+Unless stated otherwise by the Applicable Laws or any other legal provision or applicable regulations, you may exercise the following rights:
 
-- visiting our consumer websites; and
+Right of access: You have the right to obtain confirmation from CoinShares to whether your Personal Data is being processed. In that case, you have the right to request a copy of the Personal Data and additional information such as the purposes of the processing, the categories of Personal Data concerned, where the data came from and the recipients or categories of recipients to whom the Personal Data have been or will be disclosed. To request a copy of the Personal Data undergoing processing does not mean that you always have the right to obtain the document itself where your Personal Data occurs. The right of access should not be confused or equated with right to access official documents from an authority. For additional copies requested by you, we may charge a reasonable fee based on administrative costs.
 
-- signing up for email alerts; and This CCPA Notice does not apply to the personal information we collect, use or disclose about:
+Right to rectification: You have the right to obtain from us the rectification of inaccurate Personal Data concerning you. Depending on the purposes of the processing, you have the right to have incomplete Personal Data completed, including by means of providing a supplementary statement.
 
-- individuals who provide information to us to initiate or complete the process of interacting with our platform, which are subject to the notice set forth in the Additional Disclosure section of this Policy.; or
+Right to erasure: In certain cases, you have the right to ask us to erase your Personal Data if, for example, the Personal Data is no longer necessary in relation to the purpose, you withdraw your consent and there is no legal ground for us to process the Personal Data, the Personal Data have been unlawfully processed or you have objected to the processing and there are no overriding legitimate grounds for the processing. To the extent that it is necessary to continue the processing of your Personal Data, for example to fulfil our legal obligations or to establish, exercise or defend legal claims, we are not obliged to delete your Personal Data. This means that certain data can be stored until we are no longer obliged to process them. However, we will cease our communication (direct marketing/newsletter) to you after you have requested to be deleted.
 
-- representatives of businesses that seek to obtain our products or services, or to provide products or services to us.
+Right to restriction of processing: You have the right to request the restriction of the processing of your Personal Data if you believe that your Personal Data is inaccurate, our processing is unlawful or that we no longer need the Personal Data for specific purpose. If you object to the processing of Personal Data you may also request the restriction while we assess the legitimate grounds (the objection request). In this case, the respective data will be marked and the Personal Data may only be stored and processed by us for certain purposes. CoinShares will inform you when the restriction is lifted.
 
-## Privacy Practices
+Right to withdraw your consent: If CoinShares processes your Personal Data based on consent, you have the right to withdraw your consent at any time by contacting us and this will not affect the lawfulness of the processing based on consent before the withdrawal.
 
-We do not "sell" the personal information we collect (as such term is defined in the CCPA) for monetary value (and will not sell it without providing a right to opt out). Like many companies, we may use third-party cookies for our advertising purposes. If you would like to learn how you may opt out of our use of cookies and other tracking technologies, please review the instructions provided in the Online Tracking Opt-out Guide section of this Policy.
+Right to data portability: You have the right to receive a copy of the Personal Data concerning you which you have provided to us and that we process by automated means for the performance of a contract with you or based on your consent. You have the right to receive your Personal Data in a structured, commonly used, and machine-readable format and this allows you to transmit those Personal Data to another entity without hindrance from us.
 
-## Privacy Rights
+Right to object: You have the right to object at any time to our processing of your Personal Data with reference to your personal circumstances and provided that the processing is based on a legitimate interest (Art. 6(1)(f) of the GDPR) as a legal basis. Unless there are compelling legitimate grounds for the processing which override your interests, rights and freedoms, or for the establishment, exercise or defence of legal claims, we will no longer process this data. If your Personal Data is processed for direct marketing, you have the right to object to the processing at any time and we have no right to continue processing your Personal Data for such purposes. In your objection, please state which processing purpose(s) you object to and your grounds relating to your particular circumstances.
 
-The CCPA grants individuals the following rights:
+## CONTACT THE COMPETENT SUPERVISORY AUTHORITY
 
-- Information. You can request information about how we have collected, used and shared your personal information during the past 12 months. For details about the personal information we have collected over the last 12 months, including the categories of sources, please see the What We Collect section of this Policy. We collect this information for the business and commercial purposes described in the How We Use Information section of this Policy. We share this information with the categories of third parties described in the How We Share and Disclose Information section of this Policy.
+We remind you that you have the possibility to file a complaint with the competent supervisory authority, in particular in the EU Member State of your habitual residence, place of work or alleged infringement of the GDPR. CoinShares International Limited is incorporated in Jersey and owns this Website. Pursuant to Article 56 of the DPL, in Jersey, this authority is the Jersey Office of the Information Commissioner (Jersey Office of the Information Commissioner).
 
-- Access. You can request a copy of the personal information that we maintain about you.
 
-- Deletion. You can ask us to delete the personal information that we collected or maintain about you.
+## HOW TO CONTACT US
 
-Please note that the CCPA limits these rights by, for example, prohibiting us from providing certain sensitive information in response to an access request and limiting the circumstances in which we must comply with a deletion request. We will also respond to requests for information and access only to the extent we are able to associate with a reasonable effort the information we maintain with the identifying details you provide in your request. If we deny your request, we will communicate our decision to you. You are entitled to exercise the rights described above free from discrimination.
+The following legal entity is data controller for the processing of your Personal Data:
 
-## How to Submit a Request
+CoinShares International Limited
+Company registration number: 102185 (Jersey Financial Services Commission)
+Registered address: 2nd Floor, 2 Hill Street, St Helier, JE2 4UA, Jersey, Channel Islands
 
-To request access to or deletion of personal information to LmaxGroup@gmil.com
+If you want to exercise any of your rights, have any questions regarding this privacy policy or the processing of your Personal Data, please contact our Compliance Function at the following address: privacy@coinshares.com. 
 
-## Identity Verification
 
-The CCPA requires us to verify the identity of the individual submitting a request to access or delete personal information before providing a substantive response to the request. We will ask you to verify your identity when you submit a request.
+## CHANGES TO THIS POLICY
 
-## Authorized Agents
+As our business is constantly evolving, it may become necessary to update the Policy from time to time as necessary to comply with Applicable Laws or for legitimate business purposes. In such case, a new version will be published on the Website. 
 
-California residents can empower an "authorized agent" to submit requests on their behalf. We will require the authorized agent to have a written authorization confirming that authority.
 
-## Additional Disclosure for Our Consumers and Customers
+June 2023
 
-This Additional Disclosure governs our collection, use and sharing of personal information that users provide to us to initiate or complete the process of interacting with the Protocol. To the extent there are conflicting provisions between this Additional Disclosure and other sections of the Privacy Policy, the Additional Disclosure will govern.
 
-The types of personal information we collect and share can include:
 
-- Contact details
 
-- Transaction history
-
-- Cryptocurrency balances and wallets When you are no longer our customer, we continue to share your information as described in this notice.
-
-## Reasons We Can Share Your Personal Information
-
-We need to share users' personal information to operate certain aspects of the Protocol and our business. Below, whether we share your personal information, the reasons we share your personal information and whether you can limit this sharing
-
-- We share users' personal information for our everyday business purposes, such as to process and match your orders and respond to court orders and legal investigations. You cannot limit our sharing of this information.
-
-- We share users' personal information for our marketing purposes, such as to offer our products and services to you. You cannot limit our sharing of this information.
-
-- We do not share users' personal information for joint marketing with financial companies.
-
-- We do not share users' personal information for our affiliates' everyday business purposes.
-
-- We do not share users' personal information for our affiliates to market to you.
-
-- We do not share users' personal information for nonaffiliates to market to you.
-
-"Affiliates" refer to companies related by common ownership or control; "nonaffiliates" refer to companies no related by common ownership or control; and "joint marketing" refers to a formal agreement between nonaffiliated financial companies that together market financial products or services to you.
-
-## How Does Lmax group Protect My Personal Information?
-
-To protect your personal information from unauthorized access and use, we use security measures that comply with applicable law. These measures include computer safeguards and secured files and buildings.
-
-## How Does Ondo Collect My Personal Information?
-
-We collect your personal information, for example, when you deposit Digital Assets in the Protocol, make transactions using the Protocol, or withdraw Digital Assets from the Protocol. We may also collect your personal information from other companies.
-
-## Contact Us
-
-Please contact us if you have any questions about this Policy or if you are seeking to exercise any of your statutory rights. Subject to applicable laws, we will respond within a reasonable timeframe. You may contact us at LmaxGroup@gmail.com.

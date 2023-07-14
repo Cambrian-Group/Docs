@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[4642],{25144:function(s){s.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/mint","name":"mint","count":2,"permalink":"/es/blog/tags/mint"}')}}]);

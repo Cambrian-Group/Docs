@@ -21,8 +21,8 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-d4c": {
-    "component": "component---users-youth-documents-code-docs-src-components-custom-blog-list-page-module-tsxc-02-382",
+  "/blog-676": {
+    "component": "component---users-youths-documents-code-docs-src-components-custom-blog-list-page-module-tsxa-18-9ea",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
@@ -142,8 +142,8 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-observable-introafa-239"
   },
-  "/blog/page/2-d77": {
-    "component": "component---users-youth-documents-code-docs-src-components-custom-blog-list-page-module-tsxc-02-382",
+  "/blog/page/2-005": {
+    "component": "component---users-youths-documents-code-docs-src-components-custom-blog-list-page-module-tsxa-18-9ea",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
@@ -597,8 +597,8 @@
     "component": "component---site-src-pages-remove-index-js-69-b-eac",
     "config": "config---remove-index-5-e-9-85d"
   },
-  "/search-06a": {
-    "component": "component---users-youth-documents-code-docs-node-modules-docusaurus-theme-search-algolia-lib-theme-search-page-index-js-955-4fc"
+  "/search-6bb": {
+    "component": "component---users-youths-documents-code-docs-node-modules-docusaurus-theme-search-algolia-lib-theme-search-page-index-js-217-c7d"
   },
   "/-7b9": {
     "component": "component---theme-doc-page-1-be-9be",

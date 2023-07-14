@@ -1,7 +1,7 @@
 {
   "unversionedId": "faqs",
   "id": "faqs",
-  "title": "Lmax Group FAQ",
+  "title": "CoinShares ETP FAQ",
   "description": "Answers to frequently asked questions about ZSC.",
   "source": "@site/docs/FAQs.md",
   "sourceDirName": ".",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Lmax Group FAQ",
+    "title": "CoinShares ETP FAQ",
     "description": "Answers to frequently asked questions about ZSC.",
     "id": "faqs"
   },

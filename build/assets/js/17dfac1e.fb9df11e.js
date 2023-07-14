@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[772],{37670:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/ipfs","name":"ipfs","count":1,"permalink":"/blog/tags/ipfs"}')}}]);

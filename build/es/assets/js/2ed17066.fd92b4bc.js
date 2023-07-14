@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[8868],{23285:function(t){t.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/contractkit","name":"contractkit","count":1,"permalink":"/es/blog/tags/contractkit"}')}}]);

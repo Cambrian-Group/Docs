@@ -12,9 +12,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/youth/Documents/code/Docs/sidebars.js",
-          "contentPath": "/Users/youth/Documents/code/Docs/docs",
-          "contentPathLocalized": "/Users/youth/Documents/code/Docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/youths/Documents/code/Docs/sidebars.js",
+          "contentPath": "/Users/youths/Documents/code/Docs/docs",
+          "contentPathLocalized": "/Users/youths/Documents/code/Docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "celo-codebase/protocol/bridging/bridging-native-assets",
@@ -171,7 +171,7 @@
                 "permalink": "/celo-codebase/protocol"
               },
               "next": {
-                "title": "Lmax Group FAQ",
+                "title": "CoinShares ETP FAQ",
                 "permalink": "/faqs"
               }
             },
@@ -2348,7 +2348,7 @@
             {
               "unversionedId": "faqs",
               "id": "faqs",
-              "title": "Lmax Group FAQ",
+              "title": "CoinShares ETP FAQ",
               "description": "Answers to frequently asked questions about ZSC.",
               "source": "@site/docs/FAQs.md",
               "sourceDirName": ".",
@@ -2358,7 +2358,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Lmax Group FAQ",
+                "title": "CoinShares ETP FAQ",
                 "description": "Answers to frequently asked questions about ZSC.",
                 "id": "faqs"
               },
@@ -3556,7 +3556,7 @@
                   },
                   {
                     "type": "doc",
-                    "label": "资产策略",
+                    "label": "报告",
                     "id": "community/join-the-community"
                   },
                   {
@@ -4426,7 +4426,7 @@
             "previousPage": null,
             "nextPage": "/blog/page/2",
             "blogDescription": "Blog",
-            "blogTitle": "Lmax Blog"
+            "blogTitle": "CoinShares ETP Blog"
           },
           "items": [
             "/2022/02/21/introduction-to-celo-progressive-dappstarter",
@@ -4451,7 +4451,7 @@
             "previousPage": "/blog",
             "nextPage": null,
             "blogDescription": "Blog",
-            "blogTitle": "Lmax Blog"
+            "blogTitle": "CoinShares ETP Blog"
           },
           "items": [
             "add-token-celo-wallet",

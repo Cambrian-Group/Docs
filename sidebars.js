@@ -14,7 +14,7 @@ const sidebars = {
         { type: "doc", label: "系统架构", id: "learn/celo-ecosystem" },
         { type: "doc", label: "指数ETP", id: "learn/key-concepts" },
         { type: "doc", label: "指数ETP资产组合", id: "learn/celo-whitepapers" },
-        { type: "doc", label: "资产策略", id: "community/join-the-community" },
+        { type: "doc", label: "报告", id: "community/join-the-community" },
         { type: "doc", label: "公告", id: "getting-started/glossary" },
       ],
     },

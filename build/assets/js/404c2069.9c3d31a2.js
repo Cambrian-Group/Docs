@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[2823],{6044:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/the-graph","name":"The Graph","count":1,"permalink":"/blog/tags/the-graph"}')}}]);

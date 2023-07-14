@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[4500],{87323:function(a){a.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/valora","name":"valora","count":1,"permalink":"/es/blog/tags/valora"}')}}]);

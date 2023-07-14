@@ -6,15 +6,15 @@ const { docs, developers } = require("./sidebars");
 const DefaultLocale = "en";
 
 module.exports = {
-  title: "LMAX Docs",
-  tagline: "LMAX Group",
-  url: "https://docs.lmax.pro",
+  title: "CoinShares ETP",
+  tagline: "CoinShares ETP",
+  url: "https://docs.CoinShares.pro",
   baseUrl: "/",
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/color-favicon.png",
-  organizationName: "Lmax Group", // Usually your GitHub org/user name.
+  organizationName: "CoinShares ETP", // Usually your GitHub org/user name.
   projectName: "docs", // Usually your repo name.
   i18n: {
     defaultLocale: "en",
@@ -149,7 +149,7 @@ module.exports = {
       defaultMode: "dark",
     },
     navbar: {
-      title: "LMAX Docs",
+      title: "CoinShares ETP",
       logo: {
         alt: "LMAX Logo",
         src: "img/color-logo.png",
@@ -181,7 +181,7 @@ module.exports = {
         //   position: "left",
         // },
         {
-          to: "https://www.lmax.com/blog/",
+          to: "https://etp.coinshares.com/de/documents",
           label: "Blog",
           position: "right",
         },
@@ -220,19 +220,19 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "About LMAX",
+          title: "About CoinShares",
           items: [
             {
-              label: "LMAX Group",
-              to: "https://www.lmax.com/",
+              label: "CoinShares",
+              to: "https://coinshares.com/",
             },
             {
-              label: "LMAX Exchange ",
-              to: "https://www.lmax.com/exchange",
+              label: "CoinShares ETP ",
+              to: "https://etp.coinshares.com/",
             },
             {
-              label: "LMAX Digital",
-              href: "https://www.lmaxdigital.com/",
+              label: "Buy ETP",
+              href: "https://etp.coinshares.com/",
             },
           ],
         },
@@ -245,7 +245,7 @@ module.exports = {
             },
             {
               label: "Youtobe",
-              href: "https://www.youtube.com/@LMAXGroup",
+              href: "https://www.youtube.com/channel/UCY_qvNmvy0OK7IpZrEvV7Eg",
             },
             {
               label: "Discord",
@@ -253,20 +253,20 @@ module.exports = {
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/LmaxAsset",
+              href: "https://twitter.com/CoinSharesCo",
             },
             {
-              label: "Reddit",
-              href: "https://t.me/joinchat/F8Tdpoi_71E2NTFl",
+              label: "Instagram",
+              href: "https://www.instagram.com/coinsharesco/",
             },
             {
               label: "Facebook",
-              href: "https://www.facebook.com/dmcsingular",
+              href: "https://www.facebook.com/CoinSharesCo",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} LMAX Group, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} CoinShares, Inc. Built with Docusaurus.`,
     },
     fathomAnalytics: {
       siteId: "AZMFWALB",
@@ -299,7 +299,7 @@ module.exports = {
           customCss: require.resolve("./src/css/custom.css"),
         },
         blog: {
-          blogTitle: "Lmax Blog",
+          blogTitle: "CoinShares ETP Blog",
           blogSidebarTitle: "All posts",
           blogSidebarCount: "ALL",
           showReadingTime: true,

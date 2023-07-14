@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[5793],{35977:function(s){s.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/progressive","name":"progressive","count":1,"permalink":"/es/blog/tags/progressive"}')}}]);

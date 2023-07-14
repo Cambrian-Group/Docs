@@ -50,7 +50,7 @@
           },
           {
             "type": "link",
-            "label": "资产策略",
+            "label": "报告",
             "href": "/community/join-the-community",
             "docId": "community/join-the-community"
           },
@@ -870,7 +870,7 @@
     },
     "faqs": {
       "id": "faqs",
-      "title": "Lmax Group FAQ",
+      "title": "CoinShares ETP FAQ",
       "description": "Answers to frequently asked questions about ZSC.",
       "sidebar": "docs"
     },

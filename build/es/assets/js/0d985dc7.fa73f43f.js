@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[4454],{86198:function(e){e.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/wallet-connect","name":"wallet connect","count":1,"permalink":"/es/blog/tags/wallet-connect"}')}}]);

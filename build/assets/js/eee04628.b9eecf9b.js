@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelo_docs=self.webpackChunkcelo_docs||[]).push([[5290],{88943:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/ledger","name":"ledger","count":1,"permalink":"/blog/tags/ledger"}')}}]);

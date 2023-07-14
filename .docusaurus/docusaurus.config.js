@@ -1,13 +1,13 @@
 export default {
-  "title": "LMAX Docs",
-  "tagline": "LMAX Group",
-  "url": "https://docs.lmax.pro",
+  "title": "CoinShares ETP",
+  "tagline": "CoinShares ETP",
+  "url": "https://docs.CoinShares.pro",
   "baseUrl": "/",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/color-favicon.png",
-  "organizationName": "Lmax Group",
+  "organizationName": "CoinShares ETP",
   "projectName": "docs",
   "i18n": {
     "defaultLocale": "en",
@@ -27,8 +27,8 @@ export default {
     }
   ],
   "plugins": [
-    "/Users/youth/Documents/code/Docs/node_modules/docusaurus-plugin-fathom/src/index.js",
-    "/Users/youth/Documents/code/Docs/src/plugins/aliases.ts",
+    "/Users/youths/Documents/code/Docs/node_modules/docusaurus-plugin-fathom/src/index.js",
+    "/Users/youths/Documents/code/Docs/src/plugins/aliases.ts",
     [
       "@docusaurus/plugin-client-redirects",
       {
@@ -281,7 +281,7 @@ export default {
           "position": "left"
         },
         {
-          "to": "https://www.lmax.com/blog/",
+          "to": "https://etp.coinshares.com/de/documents",
           "label": "Blog",
           "position": "right"
         },
@@ -310,19 +310,19 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "About LMAX",
+          "title": "About CoinShares",
           "items": [
             {
-              "label": "LMAX Group",
-              "to": "https://www.lmax.com/"
+              "label": "CoinShares",
+              "to": "https://coinshares.com/"
             },
             {
-              "label": "LMAX Exchange ",
-              "to": "https://www.lmax.com/exchange"
+              "label": "CoinShares ETP ",
+              "to": "https://etp.coinshares.com/"
             },
             {
-              "label": "LMAX Digital",
-              "href": "https://www.lmaxdigital.com/"
+              "label": "Buy ETP",
+              "href": "https://etp.coinshares.com/"
             }
           ]
         },
@@ -335,7 +335,7 @@ export default {
             },
             {
               "label": "Youtobe",
-              "href": "https://www.youtube.com/@LMAXGroup"
+              "href": "https://www.youtube.com/channel/UCY_qvNmvy0OK7IpZrEvV7Eg"
             },
             {
               "label": "Discord",
@@ -343,15 +343,15 @@ export default {
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/LmaxAsset"
+              "href": "https://twitter.com/CoinSharesCo"
             },
             {
-              "label": "Reddit",
-              "href": "https://t.me/joinchat/F8Tdpoi_71E2NTFl"
+              "label": "Instagram",
+              "href": "https://www.instagram.com/coinsharesco/"
             },
             {
               "label": "Facebook",
-              "href": "https://www.facebook.com/dmcsingular"
+              "href": "https://www.facebook.com/CoinSharesCo"
             }
           ]
         }
@@ -378,7 +378,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/youth/Documents/code/Docs/sidebars.js",
+          "sidebarPath": "/Users/youths/Documents/code/Docs/sidebars.js",
           "routeBasePath": "/",
           "remarkPlugins": [
             null,
@@ -394,14 +394,14 @@ export default {
           ]
         },
         "theme": {
-          "customCss": "/Users/youth/Documents/code/Docs/src/css/custom.css"
+          "customCss": "/Users/youths/Documents/code/Docs/src/css/custom.css"
         },
         "blog": {
-          "blogTitle": "Lmax Blog",
+          "blogTitle": "CoinShares ETP Blog",
           "blogSidebarTitle": "All posts",
           "blogSidebarCount": "ALL",
           "showReadingTime": true,
-          "blogListComponent": "/Users/youth/Documents/code/Docs/src/components/CustomBlogListPage.module.tsx"
+          "blogListComponent": "/Users/youths/Documents/code/Docs/src/components/CustomBlogListPage.module.tsx"
         }
       }
     ]

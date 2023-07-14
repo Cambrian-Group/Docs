@@ -40,7 +40,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','d4c'),
+    component: ComponentCreator('/blog','676'),
     exact: true
   },
   {
@@ -130,7 +130,7 @@ export default [
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2','d77'),
+    component: ComponentCreator('/blog/page/2','005'),
     exact: true
   },
   {
@@ -340,7 +340,7 @@ export default [
   },
   {
     path: '/search',
-    component: ComponentCreator('/search','06a'),
+    component: ComponentCreator('/search','6bb'),
     exact: true
   },
   {
