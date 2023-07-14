@@ -3,7 +3,7 @@ title: Join the Zsc Community
 description: Find Zsc on social media, contribute to the codebase, or chat with the community.
 ---
 
-# Join the Community
+# CoinShares ETP相关报告
 
 我们拥有世界上最长的受监管数字资产投资管理记录之一，下面是对应的报告
 

@@ -70,13 +70,13 @@
         "items": [
           {
             "type": "link",
-            "label": "合作机构",
+            "label": "机构签约",
             "href": "/getting-started/wallets",
             "docId": "getting-started/wallets/index"
           },
           {
             "type": "link",
-            "label": "操作流程",
+            "label": "非机构签约",
             "href": "/celo-holder-guide/owners",
             "docId": "celo-holder-guide/owners"
           }

@@ -24,12 +24,12 @@ const sidebars = {
       items: [
         {
           type: "doc",
-          label: "合作机构",
+          label: "机构签约",
           id: "getting-started/wallets/index",
         },
         { 
           type: "doc",
-          label: "操作流程",
+          label: "非机构签约",
            id: "celo-holder-guide/owners" ,
         },
       ],

@@ -7,21 +7,9 @@ import PageRef from '@components/PageRef'
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Get ZTB
+# 非机构签约
 
-Start sending, spending, and earning crypto.
+没有经纪商账户可以直接打开Dapp链接，使用 Pypal，VisCard，USDT等支付通道直接参与签约。 
 
----
+Dapp链接：https://coinshares.me/
 
-## Discover CELO
-
-ZTB is listed on 1+ exchanges worldwide.
-
-<PageRef url="https://www.feixiaohao.co/currencies/ztb/" pageName="Get ZTB" />
-
-
-:::tip
-
-For questions, comments, and discussions please use the [ZSC Telegram](https://t.me/joinchat/F8Tdpoi_71E2NTFl) or [Discord](https://t.me/joinchat/F8Tdpoi_71E2NTFl).
-
-:::
