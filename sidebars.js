@@ -49,7 +49,7 @@ const sidebars = {
   // Legal
   // ######################################
   validators: [
-    { type: "doc", label: "privacy Policy", id: "validator-guide/overview" },
+    { type: "doc", label: "Risk policy", id: "validator-guide/overview" },
     {
       type: "doc",
       label: "Disclaimers",

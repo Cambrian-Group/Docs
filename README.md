@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the technical documentation site for the Celo project! You can check out the live site at https://docs.lmax.pro.
+Welcome to the technical documentation site for the Celo project! You can check out the live site at https://docs.coinshares.me.
 
 ## Getting Started
 

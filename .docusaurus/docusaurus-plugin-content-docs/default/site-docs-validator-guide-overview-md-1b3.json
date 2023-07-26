@@ -1,8 +1,8 @@
 {
   "unversionedId": "validator-guide/overview",
   "id": "validator-guide/overview",
-  "title": "Privacy Policy",
-  "description": "Lmax Group Privacy Policy.",
+  "title": "Risk policy",
+  "description": "CoinShares ETP Risk policy.",
   "source": "@site/docs/validator-guide/overview.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/overview",
@@ -11,8 +11,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Privacy Policy",
-    "description": "Lmax Group Privacy Policy."
+    "title": "Risk policy",
+    "description": "CoinShares ETP Risk policy."
   },
   "sidebar": "validators",
   "next": {

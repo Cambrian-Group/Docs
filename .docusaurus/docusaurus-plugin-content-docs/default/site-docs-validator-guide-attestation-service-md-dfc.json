@@ -2,7 +2,7 @@
   "unversionedId": "validator-guide/attestation-service",
   "id": "validator-guide/attestation-service",
   "title": "Disclaimers",
-  "description": "Last Updated: May 2023",
+  "description": "The CoinShares group of companies (the “CoinShares Group”) are committed to strong standards of service and corporate governance and are proud of the CoinShares Group’s reputation and standing within the world of digital assets, including cryptocurrencies, and blockchain-related alternative investments (together, the “CoinShares Products”).",
   "source": "@site/docs/validator-guide/attestation-service.md",
   "sourceDirName": "validator-guide",
   "slug": "/validator-guide/attestation-service",
@@ -16,7 +16,7 @@
   },
   "sidebar": "validators",
   "previous": {
-    "title": "Privacy Policy",
+    "title": "Risk policy",
     "permalink": "/validator-guide/overview"
   }
 }

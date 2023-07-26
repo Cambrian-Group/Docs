@@ -264,7 +264,7 @@ export default {
       }
     },
     "navbar": {
-      "title": "LMAX  Docs",
+      "title": "CoinShares ETP",
       "logo": {
         "alt": "LMAX Logo",
         "src": "img/color-logo.png"

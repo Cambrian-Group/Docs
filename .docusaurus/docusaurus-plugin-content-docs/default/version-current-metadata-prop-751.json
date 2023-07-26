@@ -114,7 +114,7 @@
     "validators": [
       {
         "type": "link",
-        "label": "privacy Policy",
+        "label": "Risk policy",
         "href": "/validator-guide/overview",
         "docId": "validator-guide/overview"
       },
@@ -1124,7 +1124,7 @@
     "validator-guide/attestation-service": {
       "id": "validator-guide/attestation-service",
       "title": "Disclaimers",
-      "description": "Last Updated: May 2023",
+      "description": "The CoinShares group of companies (the “CoinShares Group”) are committed to strong standards of service and corporate governance and are proud of the CoinShares Group’s reputation and standing within the world of digital assets, including cryptocurrencies, and blockchain-related alternative investments (together, the “CoinShares Products”).",
       "sidebar": "validators"
     },
     "validator-guide/celo-foundation-voting-policy": {
@@ -1169,8 +1169,8 @@
     },
     "validator-guide/overview": {
       "id": "validator-guide/overview",
-      "title": "Privacy Policy",
-      "description": "Lmax Group Privacy Policy.",
+      "title": "Risk policy",
+      "description": "CoinShares ETP Risk policy.",
       "sidebar": "validators"
     },
     "validator-guide/proxy": {
