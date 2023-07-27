@@ -5,7 +5,7 @@ description: 全球媒体资讯汇总.
 
 # 
 
-Summary of global media information of Lmax Group
+Summary of global media information of CoinShare ETP
 
 ---
 

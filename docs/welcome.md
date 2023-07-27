@@ -1,5 +1,5 @@
 ---
-title: Welcome to LMAX Group
+title: Welcome to CoinShares ETP
 description: ZSC's mission is to build a financial system that creates the conditions for prosperity—for everyone.
 id: welcome
 slug: /
@@ -9,26 +9,27 @@ import YouTube from '@components/YouTube';
 import PageRef from '@components/PageRef';
 
 
-
-Founded in 2010 and headquartered in London, UK, LMAX Group is a global financial technology company operating multiple institutional execution exchanges for electronic foreign exchange (FX) and cryptocurrency trading. The LMAX Group includes LMAX Exchange, LMAX Global and LMAX Digital.
-
-
-![LMAX-Group](/img/images/LMAX-Group.png)
+![LMAX-Group](/img/images/CoinShares.png)
 
 ---
 
-## About Lmax Group
-
-LMAX Group (LMAX=London Multi-Asset Exchange) is a global financial technology company and a leading independent operator of multiple institutional execution venues for foreign exchange and cryptocurrency trading. LMAX Group provides a transparent, neutral global marketplace for all participants, serving funds, banks, asset managers and retail brokerages in more than 100 countries.
+## 关于CoinShares
 
 
-LMAX Group builds and operates its own high-performance, ultra-low-latency global switching infrastructure, including matching engines in London, New York and Tokyo. The LMAX Group portfolio includes LMAX Exchange (an institutional foreign exchange exchange and FCA regulated MTF), LMAX Global (an FCA and CySec regulated broker) and LMAX Digital (a GFSC regulated institutional spot cryptocurrency exchange).
+CoinShares 是欧洲数字资产管理公司，为包括企业、金融机构和个人在内的广泛客户提供投资管理、交易和证券等广泛的金融服务。 
 
-<YouTube videoId="ao3UPdUCrew"/>
+该公司成立于 2013 年，总部位于泽西岛，在法国、斯德哥尔摩、英国和美国设有办事处。CoinShares 在泽西岛受泽西岛金融服务委员会监管，在法国受金融市场管理局监管，在美国受金融业监管局监管。 
+
+CoinShares 在纳斯达克斯德哥尔摩公开上市，股票代码为 CS，在 OTCQX 公开上市，股票代码为 CNSRF。
+
+已有十年丰富的资产管理经验，以专业的金融知识、人工智能策略、算法模型创造了可持续跟踪的盈利记录（年度盈利75%-800%）
+
+
+<YouTube videoId="cGGbJVCdOg4"/>
 
 :::tip
 
-As a leader in the global foreign exchange and cryptocurrency markets, LMAX Group is shaping the future of capital markets. LMAX Group is unique in providing market access to all client segments and delivering efficient, transparent market structures and precise execution. The LMAX Group operates three well-established regulated businesses - LMAX Exchange, LMAX Global and LMAX Digital. LMAX Group serves funds, banks, asset managers and retail brokerages in more than 100 countries, with a strong global presence in the UK, Eurozone, US and Asia Pacific. The group builds and operates its own high-performance, ultra-low-latency global exchange infrastructure, including matching engines in London, New York and Tokyo.
+我们是一支由金融专业人士、投资组合经理、交易员、营销人员、创意人员和产品创新者组成的团队，他们拥抱数字颠覆并相信其改变市场、经济和现代​​社会的潜力.
 
 :::
 
@@ -65,12 +66,11 @@ In 2014, LMAX Group was named the UK's fastest growing company by the Sunday Tim
 
 <YouTube videoId="1oZsQ4I9oPc"/>
 
-LMAX Group company is an active contributor to the reform of the foreign exchange industry and became the first market participant to commit to comply with the FX Global Code. LMAX Group has developed industry-leading FX TCA methodologies and analytical tools by contributing to the industry's understanding of the execution factors and transaction costs of different liquidity pools through the publication of several research papers and Transaction Cost Analysis (TCA) white papers. At the heart of the report are the findings, which are used to assess market sentiment at a particular point in time and make recommendations on needed changes within the forex market in light of technological innovations, market sentiment and evolving international regulation.
+Watch: CoinShares CEO Jean-Marie Mognetti speaks with Cowen to explain the company's positioning in the digital assets sector (Opens in new window).
 
-<YouTube videoId="x2CSlwbXm_w"/>
+<YouTube videoId="JPfe2cRROi8"/>
 
 
-On July 15, 2021, LMAX Group received an exclusive US$300 million investment from J.C. Flowers & Co. Prior to this, the company received investment from Future Fifty.
 
 
 

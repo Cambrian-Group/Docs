@@ -23,11 +23,11 @@
     }
   ],
   "prevItem": {
-    "title": "Using the Graph w/ Celo",
-    "permalink": "/blog/using-the-graph"
+    "title": "Verifying Contracts with Hardhat",
+    "permalink": "/blog/hardhat-deploy-verify"
   },
   "nextItem": {
-    "title": "Code Playground -- Metamask",
-    "permalink": "/blog/code-metamask"
+    "title": "Using the Graph w/ Celo",
+    "permalink": "/blog/using-the-graph"
   }
 }
