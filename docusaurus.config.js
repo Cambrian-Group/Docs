@@ -151,7 +151,7 @@ module.exports = {
     navbar: {
       title: "CoinShares ETP",
       logo: {
-        alt: "LMAX Logo",
+        alt: "CoinShares Logo",
         src: "img/color-logo.png",
       },
       items: [

@@ -10,7 +10,7 @@
     "docs": [
       {
         "type": "link",
-        "label": "Welcome to LMAX",
+        "label": "Welcome to CoinShare ETP",
         "href": "/",
         "docId": "welcome"
       },
@@ -20,13 +20,13 @@
         "items": [
           {
             "type": "link",
-            "label": "Lmax Group行业背景",
+            "label": "CoinShares 行业背景",
             "href": "/learn/celo-highlights",
             "docId": "learn/celo-highlights"
           },
           {
             "type": "link",
-            "label": "Lmax Group技术优势",
+            "label": "CoinShares 技术优势",
             "href": "/learn/celo-economic-model",
             "docId": "learn/celo-economic-model"
           },
@@ -228,7 +228,7 @@
     "celo-codebase/protocol/consensus/validator-set-differences": {
       "id": "celo-codebase/protocol/consensus/validator-set-differences",
       "title": "审计",
-      "description": "Lmax Group Asset contract audit."
+      "description": "CoinShare ETP Asset contract audit."
     },
     "celo-codebase/protocol/governance": {
       "id": "celo-codebase/protocol/governance",

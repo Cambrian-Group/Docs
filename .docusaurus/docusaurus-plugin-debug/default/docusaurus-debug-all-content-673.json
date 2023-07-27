@@ -213,7 +213,7 @@
               "unversionedId": "celo-codebase/protocol/consensus/validator-set-differences",
               "id": "celo-codebase/protocol/consensus/validator-set-differences",
               "title": "审计",
-              "description": "Lmax Group Asset contract audit.",
+              "description": "CoinShare ETP Asset contract audit.",
               "source": "@site/docs/celo-codebase/protocol/consensus/validator-set-differences.md",
               "sourceDirName": "celo-codebase/protocol/consensus",
               "slug": "/celo-codebase/protocol/consensus/validator-set-differences",
@@ -223,7 +223,7 @@
               "version": "current",
               "frontMatter": {
                 "title": "审计",
-                "description": "Lmax Group Asset contract audit."
+                "description": "CoinShare ETP Asset contract audit."
               }
             },
             {
@@ -3522,7 +3522,7 @@
             "docs": [
               {
                 "type": "doc",
-                "label": "Welcome to LMAX",
+                "label": "Welcome to CoinShare ETP",
                 "id": "welcome"
               },
               {
@@ -3531,12 +3531,12 @@
                 "items": [
                   {
                     "type": "doc",
-                    "label": "Lmax Group行业背景",
+                    "label": "CoinShares 行业背景",
                     "id": "learn/celo-highlights"
                   },
                   {
                     "type": "doc",
-                    "label": "Lmax Group技术优势",
+                    "label": "CoinShares 技术优势",
                     "id": "learn/celo-economic-model"
                   },
                   {

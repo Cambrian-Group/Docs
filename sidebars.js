@@ -1,14 +1,14 @@
 const sidebars = {
   docs: [
-    { type: "doc", label: "Welcome to LMAX", id: "welcome" },
+    { type: "doc", label: "Welcome to CoinShare ETP", id: "welcome" },
     {
       type: "category",
       label: "基础",
       items: [
-        { type: "doc", label: "Lmax Group行业背景", id: "learn/celo-highlights" },
+        { type: "doc", label: "CoinShares 行业背景", id: "learn/celo-highlights" },
         {
           type: "doc",
-          label: "Lmax Group技术优势",
+          label: "CoinShares 技术优势",
           id: "learn/celo-economic-model",
         },
         { type: "doc", label: "系统架构", id: "learn/celo-ecosystem" },

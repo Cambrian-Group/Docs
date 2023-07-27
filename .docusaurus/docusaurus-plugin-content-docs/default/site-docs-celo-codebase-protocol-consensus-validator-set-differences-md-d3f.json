@@ -2,7 +2,7 @@
   "unversionedId": "celo-codebase/protocol/consensus/validator-set-differences",
   "id": "celo-codebase/protocol/consensus/validator-set-differences",
   "title": "审计",
-  "description": "Lmax Group Asset contract audit.",
+  "description": "CoinShare ETP Asset contract audit.",
   "source": "@site/docs/celo-codebase/protocol/consensus/validator-set-differences.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus/validator-set-differences",
@@ -12,6 +12,6 @@
   "version": "current",
   "frontMatter": {
     "title": "审计",
-    "description": "Lmax Group Asset contract audit."
+    "description": "CoinShare ETP Asset contract audit."
   }
 }
