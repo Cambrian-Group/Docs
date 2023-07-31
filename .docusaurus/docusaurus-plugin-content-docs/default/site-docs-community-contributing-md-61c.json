@@ -1,8 +1,8 @@
 {
   "unversionedId": "community/contributing",
   "id": "community/contributing",
-  "title": "视频直播",
-  "description": "LMAX Group相关视频信息.",
+  "title": "CoinShares video",
+  "description": "CoinShares related video.",
   "source": "@site/docs/community/contributing.md",
   "sourceDirName": "community",
   "slug": "/community/contributing",
@@ -11,12 +11,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "视频直播",
-    "description": "LMAX Group相关视频信息."
+    "title": "CoinShares video",
+    "description": "CoinShares related video."
   },
   "sidebar": "contributors",
   "next": {
-    "title": "媒体报道",
+    "title": "CoinShares ETP media information",
     "permalink": "/community/developer-events"
   }
 }

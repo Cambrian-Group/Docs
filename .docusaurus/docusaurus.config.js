@@ -356,7 +356,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 LMAX Group, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 CoinShares ETP, Inc. Built with Docusaurus."
     },
     "fathomAnalytics": {
       "siteId": "AZMFWALB"

@@ -1,7 +1,7 @@
 {
   "unversionedId": "community/developer-events",
   "id": "community/developer-events",
-  "title": "媒体报道",
+  "title": "CoinShares ETP media information",
   "description": "全球媒体资讯汇总.",
   "source": "@site/docs/community/developer-events.md",
   "sourceDirName": "community",
@@ -11,12 +11,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "媒体报道",
+    "title": "CoinShares ETP media information",
     "description": "全球媒体资讯汇总."
   },
   "sidebar": "contributors",
   "previous": {
-    "title": "视频直播",
+    "title": "CoinShares video",
     "permalink": "/community/contributing"
   }
 }

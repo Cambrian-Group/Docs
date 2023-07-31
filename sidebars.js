@@ -20,16 +20,16 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "如何运作",
+      label: "签约",
       items: [
         {
           type: "doc",
-          label: "机构签约",
+          label: "专业投资者",
           id: "getting-started/wallets/index",
         },
         { 
           type: "doc",
-          label: "非机构签约",
+          label: "非机构投资者",
            id: "celo-holder-guide/owners" ,
         },
       ],

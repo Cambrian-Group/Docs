@@ -66,17 +66,17 @@
       },
       {
         "type": "category",
-        "label": "如何运作",
+        "label": "签约",
         "items": [
           {
             "type": "link",
-            "label": "机构签约",
+            "label": "专业投资者",
             "href": "/getting-started/wallets",
             "docId": "getting-started/wallets/index"
           },
           {
             "type": "link",
-            "label": "非机构签约",
+            "label": "非机构投资者",
             "href": "/celo-holder-guide/owners",
             "docId": "celo-holder-guide/owners"
           }
@@ -554,13 +554,13 @@
     },
     "community/contributing": {
       "id": "community/contributing",
-      "title": "视频直播",
-      "description": "LMAX Group相关视频信息.",
+      "title": "CoinShares video",
+      "description": "CoinShares related video.",
       "sidebar": "contributors"
     },
     "community/developer-events": {
       "id": "community/developer-events",
-      "title": "媒体报道",
+      "title": "CoinShares ETP media information",
       "description": "全球媒体资讯汇总.",
       "sidebar": "contributors"
     },

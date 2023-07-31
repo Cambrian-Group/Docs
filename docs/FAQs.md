@@ -10,47 +10,47 @@ Answers to frequently asked questions about Coinshares ETP.
 
 ---
 
-## 1. Coinshares简介 
+## 1. Introduction to Coinshares
 
-Coinshares是欧洲最大的数字资产管理公司，2013年成立于英属泽西岛，2022年在瑞典的纳斯达克上市，股票代码为：CS，（OTCQX股票代码为：CNSRF，即主板交易代码）。已有十年丰富的资产管理经验，以专业的金融知识、人工智能策略、算法模型创造了可持续跟踪的盈利记录（年度盈利75%-800%）。
-
----
-
-## 2. CoinShares ETP运行逻辑
-
-CoinShare ETP是涵盖多种交易的金融产品（ETF、ETN、ETC）。技术跟踪指数包涵加密货币 XBT、加密货币Top10指数、 黄金 XAU、美元指数 DXY、股票指数、基金混合指数等包含所有另类资产组合指数 ，跨越了传统资产投资和数字资产投资之间的鸿沟。通过CoinShare ETP指数帮助投资者在多个市场创造盈利机会。
+Coinshares is the largest digital asset management company in Europe. It was established in Jersey in 2013 and will be listed on NASDAQ in Sweden in 2022. The stock code is: CS, (OTCQX stock code is: CNSRF, which is the main board trading code) . With ten years of rich experience in asset management, he has created sustainable tracking profit records (annual profit 75%-800%) with professional financial knowledge, artificial intelligence strategies, and algorithm models.
 
 ---
 
-## 3. 加密货币ETP和实物ETP分别是什么
+## 2. CoinShares ETP operation logic
 
-加密货币ETP是追踪对应的指数，比如将加密货币市值前10打包成一个指数，并追踪指数，追踪比特币(XBT)指数等。对于 CoinShares 实物 ETP，购买并持有它其旨在由追踪托管人购买的基础资产，实物加密货币由 Komainu 安全持有，Komainu 是一家专门受监管的数字资产托管机构，专门专注于加密资产的安全存储。
-
----
-
-## 4. 什么是XBT和比特币一样吗
-
-XBT 是比特币的缩写 - 无论您看到比特币被称为 XBT 还是 BTC，它们都指向相同的加密货币。XBT 股票代码经常在金融界使用，以避免与市场上也使用“BTC”代码的其他货币发生潜在混淆。按照这种逻辑，通过交易所交易产品等产品提供比特币敞口的金融服务提供商(ETP) 通常被称为 XBT 提供商 - 这是 CoinShares 的 XBT Provider的情况。XBT Provider提供对世界第二大加密货币以太坊的投资。投资者还可以用美元、欧元或瑞典克朗购买此 ETP。
+CoinShare ETP is a financial product (ETF, ETN, ETC) covering a variety of transactions. The technology tracking index includes encrypted currency XBT, encrypted currency Top10 index, gold XAU, US dollar index DXY, stock index, fund mixed index, etc., including all alternative asset portfolio indexes, and crosses the gap between traditional asset investment and digital asset investment. Help investors create profit opportunities in multiple markets through the CoinShare ETP index.
 
 ---
 
+## 3. What are cryptocurrency ETP and physical ETP?
 
-## 5. 我在哪里可以访问 ETP 行情
-
-CoinShares ETP在多家交易所主板市场（Main Market）中进行交易，受到高水平的严格监管。ETP的交易和普通股一样，支持做多和做空。通过ETP指数，经纪商或托管机构可以帮助投资者去跟踪指数或者货币等商品盈利的机会。ETP行情用户可以通过Nasdaq， XETRA，EURONEXT等交易所访问
+Cryptocurrency ETP is to track the corresponding index, such as packaging the top 10 cryptocurrency market capitalization into an index, and tracking the index, tracking the Bitcoin (XBT) index, etc. For CoinShares physical ETP, buy and hold it's underlying asset that is intended to be purchased by a trailing custodian, the physical cryptocurrency is securely held by Komainu, a dedicated regulated digital asset custodian specializing in the security of crypto assets storage.
 
 ---
 
-## 6. 如何参与coinshares ETP ？
+## 4. What is XBT and is it the same as Bitcoin
 
-两个方式参与：1. 通过经纪商签约（仅支持欧洲国家），在支持ETP的经纪商平台开设账户并实名认证，向经纪商购买CoinShares ETP份额与其它投资组合一起纳入投资组合，由经纪商会代操作管理。2. 通过coinshares dapp签约（支持全球用户），选择区块链通道注入USDT或绑定Pypal卡、VisaCard卡支付瑞郎和英镑，直接与coinshares签约收益稳定的投资组合（历史表现周期收益2%-8%）。
+XBT is short for Bitcoin - whether you see Bitcoin referred to as XBT or BTC, they all refer to the same cryptocurrency. The XBT ticker symbol is often used in the financial world to avoid potential confusion with other currencies in the market that also use the "BTC" symbol. By this logic, financial service providers (ETPs) that offer exposure to Bitcoin through products such as exchange-traded products are often referred to as XBT providers — which is the case of CoinShares’ XBT Provider. XBT Provider offers investment in Ethereum, the second largest cryptocurrency in the world. Investors can also purchase this ETP with USD, EUR or SEK.
 
 ---
 
 
-## 7. 签约撤回规则及回报周期
+## 5. Where can I access ETP quotes
 
-用户首次签约有15天的犹豫期，犹豫期可随时撤回。成功撤回后签约资金原路返回即可取。签约成功后，每7天一个周期获得收益，收益到账即可提取。
+CoinShares ETP is traded on the Main Market of multiple exchanges and is subject to a high level of strict supervision. Trading of ETPs is the same as common stocks, supporting long and short positions. Through the ETP index, brokers or custodians can help investors track the profit opportunities of commodities such as indexes or currencies. ETP market users can access through Nasdaq, XETRA, EURONEXT and other exchanges
+
+---
+
+## 6. How to participate in coinshares ETP?
+
+Two ways to participate: 1. Sign a contract with a broker (only European countries are supported), open an account on a broker platform that supports ETP and authenticate with real name, buy CoinShares ETP shares from the broker and include them in the investment portfolio together with other investment portfolios, and the broker association will On behalf of the operation management. 2. Sign a contract through the coinshares dapp (supporting global users), choose a blockchain channel to inject USDT or bind a Pypal card, VisaCard card to pay Swiss francs and British pounds, and directly sign a stable investment portfolio with coinshares (historical performance period income 2%- 8%).
+
+---
+
+
+## 7. Contract withdrawal rules and return cycle
+
+There is a 15-day hesitation period for users to sign for the first time, and the hesitation period can be withdrawn at any time. After successful withdrawal, the contracted funds can be withdrawn by returning to the original route. After the contract is successfully signed, the income will be obtained every 7 days, and the income can be withdrawn when it arrives.
 
 ---
 
