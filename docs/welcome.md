@@ -33,38 +33,43 @@ CoinShares 在纳斯达克斯德哥尔摩公开上市，股票代码为 CS，在
 
 :::
 
-### 1. LMAX Exchange
+## 产品和服务
 
-LMAX Exchange operates a global institutional foreign exchange exchange and a Financial Conduct Authority (FCA) regulated Multilateral Trading Facility (MTF). The Central Limit Order Book (CLOB) execution model provides access to liquid corporate liquidity from top banks and non-banks, transparent price discovery and complete control over trading strategies and costs.
+### 1. 实物ETP
 
-LMAX Exchange, part of the LMAX Group, provides efficient market structures and transparent, precise and consistent execution to all market participants including funds, banks, proprietary trading firms, brokers and asset managers. LMAX Exchange operates a number of global institutional FX exchanges and FCA regulated MTFs, enabling institutions to trade on a central limit order book and providing fixed limit order liquidity from top global banks and non-banks.
+
+CoinShares 物理加密 ETP 100% 由真实加密货币实物支持。加密资产由 Komainu（CoinShares、Nomura 和 Ledger 的合资企业）托管，受益于业界最谨慎、最安全的存储标准之一。
+
+### 2. XBT Provider
+
+XBT Provider ETP 是追踪比特币指数的ETP, 它为投资者参与加密货币提供了很多好处，无需投资者自己处理资产，从而减轻了自我托管的负担和风险。CoinShares 于 2015 年推出的 XBT Provider 仍然是大多数投资比特币和/或以太坊的北欧投资者的首选。
+
+### 3. 指数和基准
+
+指数：稳健、透明的指数跨越了传统资产投资和数字资产投资（涵盖股票、加密货币和黄金）之间的鸿沟。
+
+基准：CoinShares 比特币每小时参考价格基准 (CSBTCHR)创建于 2013 年，其设计目的是为机构投资者提供独立、稳健的加密货币参考价格。基于弹性且符合欧盟 BMR 的方法（已提出申请），它们作为独立且透明的参考价格来评估加密货币投资组合。
+
+
+### 4. 资本市场
+
+
+自 2014 年以来，我们一直是机构、家族办公室和高净值投资者值得信赖的合作伙伴，使他们能够进入和驾驭不断发展的数字资产市场。如今，我们值得信赖、受监管的产品套件和深厚的加密货币专业知识为寻求直接和间接接触数字资产和相关衍生品结构的机构投资者提供支持。与此同时，我们经验丰富的资本市场团队不断创新，探索复杂的高性能对冲、Delta1 套利和收益增强策略。
+
+We connect with tomorrow’s markets. Our powerful fusion of market structure expertise and execution technology enables us to access liquidity in more than 75 trade pairs across 20+ venues (April 2023)
+
+在 CoinShares，我们致力于为全球合作伙伴、投资组合公司和客户提供市场领先的交易技术和支持服务。我们的产品和服务套件既全面又专业。电子交易。流动性供给。借贷。以及定制的对冲和风险管理。专为矿工、交易所、经纪商、加密基金等而设计。
 
 <!-- <YouTube videoId=""/> -->
 
-### 2.  LMAX Global：
 
-MAX Global is a regulated global forex, metals and commodities broker. LMAX Global serves retail brokers and professional traders, providing execution services and access to institutional corporate liquidity and tight spreads from LMAX Exchange CLOB.
+### 风险投资
 
-LMAX Global provides deep institutional FX liquidity, tight spreads and transparent, precise execution to brokers and professional traders around the world. LMAX Global operates a regulated Forex Broker in the UK (FCA), Europe (CySec) and New Zealand (Registered Financial Services Provider). All LMAX Global clients have access to the company's liquidity pools in London, New York and Tokyo and are able to trade over 100 instruments: Forex, metals, stock indices, commodities and crypto CFDs.
-
-<!-- <YouTube videoId=""/> -->
-
-### 3. LMAX Digital:
-
-LMAX Global is a regulated institutional spot cryptocurrency exchange launched in May 2018. Based on LMAX Group's proven proprietary technology, LMAX Digital allows global institutions to securely and securely acquire, trade and hold the most liquid digital assets - BTC, ETH, LTC, BCH and XRP. The company was licensed by the Gibraltar Financial Services Commission (GFSC) in April 2019 as an execution and custody service provider for distributed ledger technology (DLT).
-
-LMAX Digital is the institutional cryptocurrency exchange of the LMAX Group, which operates a leading FCA regulated trading venue. Leveraging LMAX Group's proven and powerful technology and liquidity relationships, LMAX Digital offers the most liquid cryptocurrencies such as BTC (Bitcoin), ETH (Ethereum), LTC (Litecoin), BCH (Bitcoin Cash) and XRP (Ripple) provide market-leading solutions for physical trading and custody services. LMAX Digital provides trust, reliability and deep institutional liquidity, ensuring full transparency for all institutional cryptocurrency market participants in a secure trading environment , open access and a level playing field.LMAX Digital is regulated by the Gibraltar Financial Services Commission (GFSC) as a DLT provider for execution and custody services.
-
-Headquartered in London, UK, LMAX Group builds and operates its own high-performance, ultra-low-latency global switching infrastructure, including matching engines in London, New York and Tokyo. The firm has regional offices in New York, Chicago, Hong Kong, Singapore, Tokyo and Oakland.
-
-## development history
-
-LMAX Group was established in 2010 to provide exchange-style execution and a regulated, rules-based trading environment governed by the LMAX Rulebook, ensuring full transparency and fair order execution for all its clients and market makers. LMAX Group companies provide services to funds, banks, brokerage firms, asset managers and proprietary trading firms, providing an anonymous, regulated and rules-based trading environment, executing strict price and time priority orders with ultra-low latency. Clients have access to live streaming market and trade data, enabling control over execution quality and total trade costs.
+我们为杰出创业者提供资金，利用新的金融和计算协议来改变全球市场。我们采取协作方式进行投资，并渴望通过汇集更多团队的专业知识来支持我们的投资组合在各个增长阶段的发展。主要有三个方向：风险基金，战略投资，主要投资。截止目前，投资企业总数超过46家。
 
 
-In 2014, LMAX Group was named the UK's fastest growing company by the Sunday Times TechTrack 100. The company has also open sourced some components of its technology, including the Disruptor concurrency software, to support the extremely low latency requirements of its transaction processing servers.
 
-<YouTube videoId="1oZsQ4I9oPc"/>
+
 
 Watch: CoinShares CEO Jean-Marie Mognetti speaks with Cowen to explain the company's positioning in the digital assets sector (Opens in new window).
 

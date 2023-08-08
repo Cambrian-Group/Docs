@@ -61,6 +61,6 @@ CEO Jean-Marie Mognetti, delivered this presentation at Bloomberg's Financial In
 
 :::tip
 
-For more video materials, follow Coinshares[Youtobe](https://www.youtube.com/@coinshares).
+For more video materials, follow Coinshares  [Youtobe](https://www.youtube.com/@coinshares).
 
 :::

@@ -70,13 +70,13 @@
         "items": [
           {
             "type": "link",
-            "label": "专业投资者",
+            "label": "普通投资者",
             "href": "/getting-started/wallets",
             "docId": "getting-started/wallets/index"
           },
           {
             "type": "link",
-            "label": "非机构投资者",
+            "label": "授权参与者",
             "href": "/celo-holder-guide/owners",
             "docId": "celo-holder-guide/owners"
           }

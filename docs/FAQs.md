@@ -10,15 +10,15 @@ Answers to frequently asked questions about Coinshares ETP.
 
 ---
 
-## 1. Introduction to Coinshares
+## 1. About Coinshares
 
-Coinshares is the largest digital asset management company in Europe. It was established in Jersey in 2013 and will be listed on NASDAQ in Sweden in 2022. The stock code is: CS, (OTCQX stock code is: CNSRF, which is the main board trading code) . With ten years of rich experience in asset management, he has created sustainable tracking profit records (annual profit 75%-800%) with professional financial knowledge, artificial intelligence strategies, and algorithm models.
+CoinShares is Europe's largest and leading digital asset investment and trading group, managing billions in assets on behalf of a global client base. Our mission is to expand access to financial assets through a trusted, regulated, best-in-class index commodity portfolio. We were established in Jersey, UK in 2013, listed on NASDAQ in Sweden (code CS), and listed on OTCQX in the United States (code CNSRF). We have one of the longest regulatory records in the world in terms of asset investment (annual profit of 75%-800%), and are legally regulated by financial regulators around the world, including AMF, JFSC and FINRA. For more information, please visit the official website: https://coinshares.com
 
 ---
 
 ## 2. CoinShares ETP operation logic
 
-CoinShare ETP is a financial product (ETF, ETN, ETC) covering a variety of transactions. The technology tracking index includes encrypted currency XBT, encrypted currency Top10 index, gold XAU, US dollar index DXY, stock index, fund mixed index, etc., including all alternative asset portfolio indexes, and crosses the gap between traditional asset investment and digital asset investment. Help investors create profit opportunities in multiple markets through the CoinShare ETP index.
+The ETP is an index-traded commodity covering a variety of financial products. The commodity's self-pricing reference is linked to a specific index. In addition to the XTB Provider used globally, the other financial indicators used mainly include three major calculation institutions: Barclays Capital, MSCI and Standard & Poor's. At the same time, it is also an investment tool that tracks a package of related assets, such as indexes, commodities or currencies, etc., including cryptocurrency XBT, cryptocurrency Top10 index, gold XAU, US dollar index DXY, stock index, fund mixed index and other asset portfolio indexes, CoinShare Asset managers use this basket of portfolio indices to help investors create profitable opportunities across multiple markets.
 
 ---
 

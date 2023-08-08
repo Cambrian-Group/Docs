@@ -5,11 +5,11 @@ slug: /getting-started/wallets
 description: Overview of digital wallets available to send, spend, and earn ZSC assets.
 ---
 
-# 机构签约
+# 普通投资者
 
-## 机构经纪商有经纪商账户
+## 二级市场交易（拥有经纪商账户）
 
-通过您常用的经纪商，用户可以通过与购买 ETP 或股票完全相同的方式购买加密货币 ETP。然后，您可以将购买的加密货币ETP与其他股票和基金投资一起纳入您的投资组合。支持的经纪商：
+如果你有经纪商账户，通过您常用的经纪商，可以直接在交易所买卖CoinShares ETP。然后，您可以将购买的ETP与其他股票或基金投资一起纳入您的投资组合。支持的经纪商：
 
 DEGIRO： https://www.degiro.com/
 SAXO: https://www.home.saxo/
