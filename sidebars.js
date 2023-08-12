@@ -3,7 +3,7 @@ const sidebars = {
     { type: "doc", label: "Welcome to CoinShare ETP", id: "welcome" },
     {
       type: "category",
-      label: "基础",
+      label: "About CoinShares ETP",
       items: [
         { type: "doc", label: "CoinShares 行业背景", id: "learn/celo-highlights" },
         {
@@ -20,26 +20,26 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "签约",
+      label: "Way of participation",
       items: [
         {
           type: "doc",
-          label: "普通投资者",
+          label: "ETP portfolio",
           id: "getting-started/wallets/index",
         },
         { 
           type: "doc",
-          label: "授权参与者",
+          label: "ETP Commodity Trading",
            id: "celo-holder-guide/owners" ,
         },
       ],
     },
     {
       type: "category",
-      label: "Trust and safety",
+      label: "Announcement",
       items: [
-        { type: "doc", label: "Trust and safety", id: "celo-codebase/protocol/index" },
-        { type: "doc", label: "Security model", id: "celo-codebase/protocol/consensus/index"},
+        { type: "doc", label: "Product News", id: "celo-codebase/protocol/index" },
+        { type: "doc", label: "Regulatory News", id: "celo-codebase/protocol/consensus/index"},
       ],
     },
     { type: "doc", label: "FAQ", id: "faqs" },

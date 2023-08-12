@@ -16,7 +16,7 @@
       },
       {
         "type": "category",
-        "label": "基础",
+        "label": "About CoinShares ETP",
         "items": [
           {
             "type": "link",
@@ -66,17 +66,17 @@
       },
       {
         "type": "category",
-        "label": "签约",
+        "label": "Way of participation",
         "items": [
           {
             "type": "link",
-            "label": "普通投资者",
+            "label": "ETP portfolio",
             "href": "/getting-started/wallets",
             "docId": "getting-started/wallets/index"
           },
           {
             "type": "link",
-            "label": "授权参与者",
+            "label": "ETP Commodity Trading",
             "href": "/celo-holder-guide/owners",
             "docId": "celo-holder-guide/owners"
           }
@@ -86,17 +86,17 @@
       },
       {
         "type": "category",
-        "label": "Trust and safety",
+        "label": "Announcement",
         "items": [
           {
             "type": "link",
-            "label": "Trust and safety",
+            "label": "Product News",
             "href": "/celo-codebase/protocol",
             "docId": "celo-codebase/protocol/index"
           },
           {
             "type": "link",
-            "label": "Security model",
+            "label": "Regulatory News",
             "href": "/celo-codebase/protocol/consensus/",
             "docId": "celo-codebase/protocol/consensus/index"
           }
@@ -267,8 +267,8 @@
     },
     "celo-codebase/protocol/index": {
       "id": "celo-codebase/protocol/index",
-      "title": "Trust and safety",
-      "description": "Introduction to the Zsc protocol, its implementation, and its relationship to Ethereum.",
+      "title": "Product News",
+      "description": "Introduction to the CoinShares ETP product news.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/optics": {
@@ -917,7 +917,7 @@
     "getting-started/glossary": {
       "id": "getting-started/glossary",
       "title": "公告",
-      "description": "Lmax Group 平台公告.",
+      "description": "CoinShares 公告.",
       "sidebar": "docs"
     },
     "getting-started/hosted-nodes": {

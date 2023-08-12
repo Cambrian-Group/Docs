@@ -2,7 +2,7 @@
   "unversionedId": "getting-started/glossary",
   "id": "getting-started/glossary",
   "title": "公告",
-  "description": "Lmax Group 平台公告.",
+  "description": "CoinShares 公告.",
   "source": "@site/docs/getting-started/glossary.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/glossary",
@@ -14,7 +14,7 @@
     "title": "公告",
     "id": "glossary",
     "slug": "/getting-started/glossary",
-    "description": "Lmax Group 平台公告."
+    "description": "CoinShares 公告."
   },
   "sidebar": "docs",
   "previous": {

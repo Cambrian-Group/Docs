@@ -2,11 +2,11 @@
 title: 公告
 id: glossary
 slug: /getting-started/glossary
-description: Lmax Group 平台公告.
+description: CoinShares 公告.
 ---
 
 # Lmax Group Asset 平台成立
-
+  
 
 2023/6/4 12:00:00
 ___
