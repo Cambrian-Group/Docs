@@ -1,7 +1,7 @@
 {
   "unversionedId": "getting-started/wallets/index",
   "id": "getting-started/wallets/index",
-  "title": "Digital Wallets for Celo",
+  "title": "ETP投资组合",
   "description": "Overview of digital wallets available to send, spend, and earn ZSC assets.",
   "source": "@site/docs/getting-started/wallets/index.md",
   "sourceDirName": "getting-started/wallets",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Digital Wallets for Celo",
+    "title": "ETP投资组合",
     "id": "index",
     "slug": "/getting-started/wallets",
     "description": "Overview of digital wallets available to send, spend, and earn ZSC assets."
@@ -22,7 +22,7 @@
     "permalink": "/getting-started/glossary"
   },
   "next": {
-    "title": "Get ZTB",
+    "title": "ETP商品交易",
     "permalink": "/celo-holder-guide/owners"
   }
 }

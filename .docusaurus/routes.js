@@ -130,7 +130,7 @@ export default [
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2','005'),
+    component: ComponentCreator('/blog/page/2','a13'),
     exact: true
   },
   {

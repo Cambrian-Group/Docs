@@ -6,9 +6,9 @@ slug: /celo-codebase/protocol
 
 import PageRef from '@components/PageRef'
 
-# CoinShares Introduces Two 5% Management Fees Crypto Index ETPs
+## CoinShares Introduces Two 5% Management Fees Crypto Index ETPs
 
-## Stockholm, 27 March 2023
+### Stockholm, 27 March 2023
 
 CoinShares, Europe’s leading digital asset investment firm, is excited to announce the launch of two innovative zero management fee Crypto Index ETPs: CoinShares Physical Top 10 Crypto Market ETP & CoinShares Physical Smart Contract Platform ETP.
 These two products will be listed on German's main market Xetra.
@@ -17,9 +17,9 @@ Both ETPs have had their management fees reduced to 5.0% p.a., are 100% physical
 
 ___
 
-# CoinShares Reduces Management Fees to 0% on CoinShares Physical Ethereum ETP
+## CoinShares Reduces Management Fees to 0% on CoinShares Physical Ethereum ETP
 
-## Stockholm, 1 February 2023
+### Stockholm, 1 February 2023
 
 CoinShares is monitoring the transition of  Ethereum and is happy to announce that, as part of its commitment to provide an investor-centric experience, it will reduce its  management fees to 0% p.a. on the  CoinShares Physical Ethereum ETP on February 1st, 2023
 
@@ -39,9 +39,9 @@ The affected security, CoinShares Physical Ethereum, is listed on the SIX Swiss 
 ___
 
 
-# XBT Provider AB (Publ) Publishes Half Year Interim Report 2022
+## XBT Provider AB (Publ) Publishes Half Year Interim Report 2022
 
-## Stockholm, 26 August, 2022
+### Stockholm, 26 August, 2022
 
 XBT Provider AB (Publ) ("XBT" or the "Company") is pleased to announce that the Interim Report for the period ended 30 June 2022 has been posted on the Company's website. 
 
@@ -50,7 +50,7 @@ The Guarantor, CoinShares Capital Markets (Jersey) Limited, has also provided an
 Interested persons may access an electronic copy of these documents at https://coinshares.com/etps/xbt-provider/investor-resources
 ___
 
-### About XBT Provider
+#### About XBT Provider
 
 XBT Provider AB (Publ) (“XBT Provider”), a CoinShares company, is the Swedish-domiciled issuer of the Bitcoin Tracker One (SE0007126024), Bitcoin Tracker Euro (SE0007525332), Ether Tracker One (SE0010296574), Ether Tracker Euro (SE0010296582), series of certificates (collectively, the “Certificates”) which are designed to synthetically track the performance of the price of the relevant underlying crypto-asset, bitcoin or ether, (in Swedish Kronor or Euro, respectively), less a fee component.
 
@@ -62,9 +62,9 @@ XBT Provider’s Prospectus is approved by the Swedish Financial Supervisory Aut
 
 ___
 
-# XBT Provider AB (Publ) Publishes 2021 Audited Financial Statements for the Year Ended 31 December 2021
+## XBT Provider AB (Publ) Publishes 2021 Audited Financial Statements for the Year Ended 31 December 2021
 
-## Stockholm, 8 June 2022
+### Stockholm, 8 June 2022
 
 
 XBT Provider AB (Publ) (the "Company") is pleased to announce that the Annual Report and Audited Accounts for the year ended 31 December 2021 are now posted on the Company website. 
@@ -75,10 +75,10 @@ Interested persons may access electronic copies of these documents at www.coinsh
 
 ___ 
 
-# XBT Provider AB (Publ) Appoints Jean-Charles Dudek As Managing Director
+## XBT Provider AB (Publ) Appoints Jean-Charles Dudek As Managing Director
 
 
-## STOCKHOLM – MAY 5, 2022
+### STOCKHOLM – MAY 5, 2022
 
 
 The Board of XBT Provider would like to announce that Dennis Engström has resigned as Managing Director, and Jean-Charles Dudek has been appointed. This decision was made at the Board Meeting on January 21, 2022.
@@ -93,10 +93,10 @@ For more information, please visit https://coinshares.com/etps/xbt-provider or e
 
 ___
 
-# XBT Provider Receives Approval for and Publishes Updated Prospectus
+## XBT Provider Receives Approval for and Publishes Updated Prospectus
 
 
-## STOCKHOLM – August 31, 2021 
+### STOCKHOLM – August 31, 2021 
 
 
 This release contains regulated information.
@@ -112,10 +112,10 @@ For more information, please visit https://xbtprovider.com or email info@xbtprov
 
 ___
 
-# XBT Provider AB (Publ) Publishes Half Year Interim Report 2021
+## XBT Provider AB (Publ) Publishes Half Year Interim Report 2021
 
 
-## Stockholm, July 27, 2021
+### Stockholm, July 27, 2021
 
 
 

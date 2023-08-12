@@ -1,8 +1,8 @@
 {
   "unversionedId": "celo-codebase/protocol/consensus/index",
   "id": "celo-codebase/protocol/consensus/index",
-  "title": "security model",
-  "description": "security model.",
+  "title": "Regulatory News",
+  "description": "Regulatory News.",
   "source": "@site/docs/celo-codebase/protocol/consensus/index.md",
   "sourceDirName": "celo-codebase/protocol/consensus",
   "slug": "/celo-codebase/protocol/consensus/",
@@ -11,8 +11,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "security model",
-    "description": "security model."
+    "title": "Regulatory News",
+    "description": "Regulatory News."
   },
   "sidebar": "docs",
   "previous": {

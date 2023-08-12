@@ -17,11 +17,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Get ZTB",
+    "title": "ETP商品交易",
     "permalink": "/celo-holder-guide/owners"
   },
   "next": {
-    "title": "security model",
+    "title": "Regulatory News",
     "permalink": "/celo-codebase/protocol/consensus/"
   }
 }

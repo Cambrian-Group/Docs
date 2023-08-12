@@ -211,8 +211,8 @@
     },
     "celo-codebase/protocol/consensus/index": {
       "id": "celo-codebase/protocol/consensus/index",
-      "title": "security model",
-      "description": "security model.",
+      "title": "Regulatory News",
+      "description": "Regulatory News.",
       "sidebar": "docs"
     },
     "celo-codebase/protocol/consensus/locating-nodes": {
@@ -513,7 +513,7 @@
     },
     "celo-holder-guide/owners": {
       "id": "celo-holder-guide/owners",
-      "title": "Get ZTB",
+      "title": "ETP商品交易",
       "description": "Start sending, spending, and earning crypto",
       "sidebar": "docs"
     },
@@ -952,7 +952,7 @@
     },
     "getting-started/wallets/index": {
       "id": "getting-started/wallets/index",
-      "title": "Digital Wallets for Celo",
+      "title": "ETP投资组合",
       "description": "Overview of digital wallets available to send, spend, and earn ZSC assets.",
       "sidebar": "docs"
     },
