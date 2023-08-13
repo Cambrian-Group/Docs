@@ -1,7 +1,7 @@
 {
   "unversionedId": "getting-started/wallets/index",
   "id": "getting-started/wallets/index",
-  "title": "ETP投资组合",
+  "title": "ETP portfolio",
   "description": "Overview of digital wallets available to send, spend, and earn ZSC assets.",
   "source": "@site/docs/getting-started/wallets/index.md",
   "sourceDirName": "getting-started/wallets",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "ETP投资组合",
+    "title": "ETP portfolio",
     "id": "index",
     "slug": "/getting-started/wallets",
     "description": "Overview of digital wallets available to send, spend, and earn ZSC assets."

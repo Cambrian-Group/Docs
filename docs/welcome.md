@@ -9,7 +9,7 @@ import YouTube from '@components/YouTube';
 import PageRef from '@components/PageRef';
 
 
-![LMAX-Group](/img/images/CoinShares.png)
+![CoinShares](/img/images/CoinShares.png)
 
 ---
 

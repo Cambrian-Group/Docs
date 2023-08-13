@@ -952,7 +952,7 @@
     },
     "getting-started/wallets/index": {
       "id": "getting-started/wallets/index",
-      "title": "ETP投资组合",
+      "title": "ETP portfolio",
       "description": "Overview of digital wallets available to send, spend, and earn ZSC assets.",
       "sidebar": "docs"
     },
