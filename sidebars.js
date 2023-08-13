@@ -5,7 +5,7 @@ const sidebars = {
       type: "category",
       label: "About CoinShares ETP",
       items: [
-        { type: "doc", label: "CoinShares 行业背景", id: "learn/celo-highlights" },
+        { type: "doc", label: "CoinShares ", id: "learn/celo-highlights" },
         {
           type: "doc",
           label: "CoinShares 技术优势",
@@ -13,9 +13,9 @@ const sidebars = {
         },
         { type: "doc", label: "系统架构", id: "learn/celo-ecosystem" },
         { type: "doc", label: "指数ETP", id: "learn/key-concepts" },
-        { type: "doc", label: "指数ETP资产组合", id: "learn/celo-whitepapers" },
-        { type: "doc", label: "报告", id: "community/join-the-community" },
-        { type: "doc", label: "公告", id: "getting-started/glossary" },
+        { type: "doc", label: "ETP资产组合表现", id: "learn/celo-whitepapers" },
+        { type: "doc", label: "Report", id: "community/join-the-community" },
+        { type: "doc", label: "Contact us", id: "getting-started/glossary" },
       ],
     },
     {
@@ -94,3 +94,6 @@ const sidebars = {
   ],
 };
 module.exports = sidebars;
+
+
+

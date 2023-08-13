@@ -1,8 +1,8 @@
 {
   "unversionedId": "getting-started/glossary",
   "id": "getting-started/glossary",
-  "title": "公告",
-  "description": "CoinShares 公告.",
+  "title": "Contract us",
+  "description": "Contract us to know more about of CoinShares.",
   "source": "@site/docs/getting-started/glossary.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/glossary",
@@ -11,14 +11,14 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "公告",
+    "title": "Contract us",
     "id": "glossary",
     "slug": "/getting-started/glossary",
-    "description": "CoinShares 公告."
+    "description": "Contract us to know more about of CoinShares."
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Join the Zsc Community",
+    "title": "CoinShares ETP  related reports",
     "permalink": "/community/join-the-community"
   },
   "next": {

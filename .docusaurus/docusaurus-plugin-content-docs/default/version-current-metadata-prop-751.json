@@ -20,7 +20,7 @@
         "items": [
           {
             "type": "link",
-            "label": "CoinShares 行业背景",
+            "label": "CoinShares ",
             "href": "/learn/celo-highlights",
             "docId": "learn/celo-highlights"
           },
@@ -44,19 +44,19 @@
           },
           {
             "type": "link",
-            "label": "指数ETP资产组合",
+            "label": "ETP资产组合表现",
             "href": "/learn/celo-whitepapers",
             "docId": "learn/celo-whitepapers"
           },
           {
             "type": "link",
-            "label": "报告",
+            "label": "Report",
             "href": "/community/join-the-community",
             "docId": "community/join-the-community"
           },
           {
             "type": "link",
-            "label": "公告",
+            "label": "Contact us",
             "href": "/getting-started/glossary",
             "docId": "getting-started/glossary"
           }
@@ -513,7 +513,7 @@
     },
     "celo-holder-guide/owners": {
       "id": "celo-holder-guide/owners",
-      "title": "ETP商品交易",
+      "title": "ETP Commodity Trading",
       "description": "Start sending, spending, and earning crypto",
       "sidebar": "docs"
     },
@@ -581,7 +581,7 @@
     },
     "community/join-the-community": {
       "id": "community/join-the-community",
-      "title": "Join the Zsc Community",
+      "title": "CoinShares ETP  related reports",
       "description": "Find Zsc on social media, contribute to the codebase, or chat with the community.",
       "sidebar": "docs"
     },
@@ -916,8 +916,8 @@
     },
     "getting-started/glossary": {
       "id": "getting-started/glossary",
-      "title": "公告",
-      "description": "CoinShares 公告.",
+      "title": "Contract us",
+      "description": "Contract us to know more about of CoinShares.",
       "sidebar": "docs"
     },
     "getting-started/hosted-nodes": {

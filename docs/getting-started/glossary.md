@@ -1,30 +1,49 @@
 ---
-title: 公告
+title: Contract us
 id: glossary
 slug: /getting-started/glossary
-description: CoinShares 公告.
+description: Contract us to know more about of CoinShares.
 ---
 
-# Lmax Group Asset 平台成立
-  
+## Contract us
 
-2023/6/4 12:00:00
+We have physical offices in London, Paris and Jersey and satellite offices in Sweden and the United States.
+
+
+### OUR LOCATIONS
+
+#### London
+
+1st Floor, 3 Lombard Street, LONDON, EC3V 9AQ
+
+mail: info@coinshares.me
+
+Phone : +44 1534 513100
+
+
 ___
 
-## Notice
+#### Paris
+
+CoinShares France
+25 Rue de 4 septembre, 75002, Paris
 
 
-A database maintained by a distributed set of computers that do not share a trust relationship or common ownership. This arrangement is referred to as decentralized. The content of a blockchain's database, or ledger, is authenticated using cryptographic techniques, preventing its contents being added to, edited or removed except according to a protocol operated by the network as a whole.
+mail: info@coinshares.me
 
+Phone : +44 1534 513100
 
-# Lmax Group Asset 推出 LMMF
-
-
-2023/6/4 12:00:00
 ___
 
-## Notice
+
+#### Jersey
+
+2 Hill Street, St Helier, Jersey, JE2 4UA
+
+mail: info@coinshares.me
+
+Phone : +44 1534 513100
 
 
-A database maintained by a distributed set of computers that do not share a trust relationship or common ownership. This arrangement is referred to as decentralized. The content of a blockchain's database, or ledger, is authenticated using cryptographic techniques, preventing its contents being added to, edited or removed except according to a protocol operated by the network as a whole.
+
 

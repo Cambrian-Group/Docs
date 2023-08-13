@@ -346,7 +346,7 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "ETP商品交易",
+                "title": "ETP Commodity Trading",
                 "permalink": "/celo-holder-guide/owners"
               },
               "next": {
@@ -1110,7 +1110,7 @@
             {
               "unversionedId": "celo-holder-guide/owners",
               "id": "celo-holder-guide/owners",
-              "title": "ETP商品交易",
+              "title": "ETP Commodity Trading",
               "description": "Start sending, spending, and earning crypto",
               "source": "@site/docs/celo-holder-guide/owners.md",
               "sourceDirName": "celo-holder-guide",
@@ -1120,7 +1120,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "ETP商品交易",
+                "title": "ETP Commodity Trading",
                 "description": "Start sending, spending, and earning crypto"
               },
               "sidebar": "docs",
@@ -1345,7 +1345,7 @@
             {
               "unversionedId": "community/join-the-community",
               "id": "community/join-the-community",
-              "title": "Join the Zsc Community",
+              "title": "CoinShares ETP  related reports",
               "description": "Find Zsc on social media, contribute to the codebase, or chat with the community.",
               "source": "@site/docs/community/join-the-community.md",
               "sourceDirName": "community",
@@ -1355,7 +1355,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Join the Zsc Community",
+                "title": "CoinShares ETP  related reports",
                 "description": "Find Zsc on social media, contribute to the codebase, or chat with the community."
               },
               "sidebar": "docs",
@@ -1364,7 +1364,7 @@
                 "permalink": "/learn/celo-whitepapers"
               },
               "next": {
-                "title": "公告",
+                "title": "Contract us",
                 "permalink": "/getting-started/glossary"
               }
             },
@@ -2513,8 +2513,8 @@
             {
               "unversionedId": "getting-started/glossary",
               "id": "getting-started/glossary",
-              "title": "公告",
-              "description": "CoinShares 公告.",
+              "title": "Contract us",
+              "description": "Contract us to know more about of CoinShares.",
               "source": "@site/docs/getting-started/glossary.md",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/glossary",
@@ -2523,14 +2523,14 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "公告",
+                "title": "Contract us",
                 "id": "glossary",
                 "slug": "/getting-started/glossary",
-                "description": "CoinShares 公告."
+                "description": "Contract us to know more about of CoinShares."
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Join the Zsc Community",
+                "title": "CoinShares ETP  related reports",
                 "permalink": "/community/join-the-community"
               },
               "next": {
@@ -2663,11 +2663,11 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "公告",
+                "title": "Contract us",
                 "permalink": "/getting-started/glossary"
               },
               "next": {
-                "title": "ETP商品交易",
+                "title": "ETP Commodity Trading",
                 "permalink": "/celo-holder-guide/owners"
               }
             },
@@ -3056,7 +3056,7 @@
                 "permalink": "/key-concepts"
               },
               "next": {
-                "title": "Join the Zsc Community",
+                "title": "CoinShares ETP  related reports",
                 "permalink": "/community/join-the-community"
               }
             },
@@ -3531,7 +3531,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "label": "CoinShares 行业背景",
+                    "label": "CoinShares ",
                     "id": "learn/celo-highlights"
                   },
                   {
@@ -3551,17 +3551,17 @@
                   },
                   {
                     "type": "doc",
-                    "label": "指数ETP资产组合",
+                    "label": "ETP资产组合表现",
                     "id": "learn/celo-whitepapers"
                   },
                   {
                     "type": "doc",
-                    "label": "报告",
+                    "label": "Report",
                     "id": "community/join-the-community"
                   },
                   {
                     "type": "doc",
-                    "label": "公告",
+                    "label": "Contact us",
                     "id": "getting-started/glossary"
                   }
                 ],

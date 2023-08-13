@@ -1,5 +1,5 @@
 ---
-title: ETP商品交易
+title: ETP Commodity Trading
 description: Start sending, spending, and earning crypto
 ---
 
@@ -7,13 +7,13 @@ import PageRef from '@components/PageRef'
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-## 证券交易所交易ETP
+## Stock Exchange Traded ETP
 
-在受监管的欧洲证券交易所像股票一样交易该ETP商品；或者在经纪商平台开设账户，通过经纪商平台购买 CoinShares ETP 份额与其它投资一起纳入投资组合由经纪商代操作管理，盈亏平衡点随市场波动。
+Trade the ETP commodity like a stock on a regulated European stock exchange; or open an account on a broker platform, purchase CoinShares ETP shares through the broker platform, and put them into the investment portfolio together with other investments, which will be managed by the broker on behalf of the broker. Market volatility.
 
-如何购买：https://etp.coinshares.com/fr/how-to-buy
+How to buy：https://etp.coinshares.com/fr/how-to-buy
 
-#### 支持的经纪商：
+#### Supported Brokers：
 
 - HelloBank:  http://www.hellobank.com/
 
@@ -29,24 +29,24 @@ import TabItem from '@theme/TabItem';
 
 - SAXO:  https://www.home.saxo/
 
-#### 支持的交易所：
+#### Supported exchanges：
 
-- Nasdaq(那斯达克股票交易所):  https://www.nasdaq.com/
+- Nasdaq:  https://www.nasdaq.com/
 
-- XETRA(法兰克福证券交易所)： https://www.xetra.com/xetra-en/
+- XETRA： https://www.xetra.com/xetra-en/
 
-- EURONEXT(泛欧交易所):  https://xeuronext.com/en
+- EURONEXT:  https://xeuronext.com/en
 
-- SIX(瑞士证券交易所)： https://www.six-group.com/en/products-services/the-swiss-stock-exchange.html
+- SIX： https://www.six-group.com/en/products-services/the-swiss-stock-exchange.html
 
-#### 如何通过您的经纪商购买ETP ？
+#### How to buy ETP through your broker?
 
-- 登录您的在线经纪商帐户或应用程序
+- Log in to your online broker account or application
 
-- 搜索您选择的 ETP 的产品名称、ISIN 代码或股票代码
+- Search for the product name, ISIN code or ticker symbol of the ETP of your choice
 
-- 选择您想要购买的ETP的参与金额或数量
+- Choose the participation amount or quantity of ETP you want to buy
 
-- 下达执行指令
+- Issue an execution order
 
 

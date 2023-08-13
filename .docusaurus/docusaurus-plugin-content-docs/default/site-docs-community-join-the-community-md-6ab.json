@@ -1,7 +1,7 @@
 {
   "unversionedId": "community/join-the-community",
   "id": "community/join-the-community",
-  "title": "Join the Zsc Community",
+  "title": "CoinShares ETP  related reports",
   "description": "Find Zsc on social media, contribute to the codebase, or chat with the community.",
   "source": "@site/docs/community/join-the-community.md",
   "sourceDirName": "community",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Join the Zsc Community",
+    "title": "CoinShares ETP  related reports",
     "description": "Find Zsc on social media, contribute to the codebase, or chat with the community."
   },
   "sidebar": "docs",
@@ -20,7 +20,7 @@
     "permalink": "/learn/celo-whitepapers"
   },
   "next": {
-    "title": "公告",
+    "title": "Contract us",
     "permalink": "/getting-started/glossary"
   }
 }

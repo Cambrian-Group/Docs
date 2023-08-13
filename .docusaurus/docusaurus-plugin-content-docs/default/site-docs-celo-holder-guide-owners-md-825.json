@@ -1,7 +1,7 @@
 {
   "unversionedId": "celo-holder-guide/owners",
   "id": "celo-holder-guide/owners",
-  "title": "ETP商品交易",
+  "title": "ETP Commodity Trading",
   "description": "Start sending, spending, and earning crypto",
   "source": "@site/docs/celo-holder-guide/owners.md",
   "sourceDirName": "celo-holder-guide",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "ETP商品交易",
+    "title": "ETP Commodity Trading",
     "description": "Start sending, spending, and earning crypto"
   },
   "sidebar": "docs",
