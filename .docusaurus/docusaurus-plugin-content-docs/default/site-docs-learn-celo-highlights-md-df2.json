@@ -1,7 +1,7 @@
 {
   "unversionedId": "learn/celo-highlights",
   "id": "learn/celo-highlights",
-  "title": "Technical team",
+  "title": "OUR LEADERSHIP TEAM",
   "description": "CoinShares technical team",
   "source": "@site/docs/learn/celo-highlights.md",
   "sourceDirName": "learn",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Technical team",
+    "title": "OUR LEADERSHIP TEAM",
     "description": "CoinShares technical team"
   },
   "sidebar": "docs",
@@ -20,7 +20,7 @@
     "permalink": "/"
   },
   "next": {
-    "title": "Celo Economic Model",
+    "title": "Index ETPs",
     "permalink": "/learn/celo-economic-model"
   }
 }

@@ -8,7 +8,7 @@ const sidebars = {
         { type: "doc", label: "Technical team", id: "learn/celo-highlights" },
         {
           type: "doc",
-          label: "ETP public",
+          label: "Hybrid Index ETP",
           id: "learn/celo-economic-model",
         },
         { type: "doc", label: "Value vs Price", id: "learn/celo-ecosystem" },

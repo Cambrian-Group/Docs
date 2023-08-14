@@ -50,12 +50,12 @@
       "permalink": "/blog/hardhat-deploy-verify"
     },
     {
-      "title": "Using the Graph w/ Celo",
-      "permalink": "/blog/using-the-graph"
-    },
-    {
       "title": "Demos with ObservableHQ",
       "permalink": "/blog/observable-intro"
+    },
+    {
+      "title": "Using the Graph w/ Celo",
+      "permalink": "/blog/using-the-graph"
     },
     {
       "title": "Code Playground -- Metamask",

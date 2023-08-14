@@ -27,11 +27,11 @@
     }
   ],
   "prevItem": {
-    "title": "Verifying Contracts with Hardhat",
-    "permalink": "/blog/hardhat-deploy-verify"
-  },
-  "nextItem": {
     "title": "Demos with ObservableHQ",
     "permalink": "/blog/observable-intro"
+  },
+  "nextItem": {
+    "title": "Code Playground -- Metamask",
+    "permalink": "/blog/code-metamask"
   }
 }

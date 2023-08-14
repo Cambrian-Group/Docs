@@ -1,58 +1,76 @@
 ---
-title: Technical team
+title: OUR LEADERSHIP TEAM
 description: CoinShares technical team 
 ---
 
+Our hands-on management team has decades of combined industry-leading experience in institutional asset management, trading, technology and regulation. With a proven track record across the digital asset ecosystem, they keep us at the forefront of financial and tech innovation.
 
-Summary of benefits, features, and data behind the zsc platform.
+---
+
+### Jean-Marie Mognetti
+
+CEO
+
+![team](/img/images/p1.png)
+
+Jean-Marie is the CEO and a co-founder of CoinShares. He holds a Master’s degree in Mathematical Trading and Finance from Sir John Cass Business School. n addition to his role as CEO, Jean-Marie oversees the Company’s proprietary trading arm, capital markets portfolio and risk management practices, ensuring that the Group possesses the requisite infrastructure for strategy execution and regulatory compliance. Prior to joining CoinShares, Jean-Marie was a quantitative strategist with Hermès Commodities Fund Managers.
 
 ---
 
-## The Platform for web3
+### Meltem Demirors
 
-The Zsc protocol provides a platform upon which the Zsc community can create digital assets. And web3 application
+HEAD OF STRATEGY
 
-**Innovative tools to build native mobile dApps:**
+![team](/img/images/p2.png)
 
-- Stable Value Currencies
-- On-chain Governance
-- Proof-of-Stake
-- Open-source
-- Permissionless
-- High Speed Sync for Ultra-light Clients
-- Programmable (full EVM Compatibility)
-
-## Core Contracts
-
-Provide more diversified innovative facilities and basic services for global developers.
-
-- Algorithmic reserve-backed stabilization mechanism
-- Crypto-asset collateralized
-- Native support for multiple stablecoins
-
-## Blockchain
-
-Open source permissionless smart contract platform built on decentralized infrastructure.
-
-- Proof-of-Stake based consensus with high throughput, low latency, and zero carbon
-- Incentives for serving mobile devices
-- On-chain governance
-
-## Build on ZSC
-
-Visit [zsc.one](https://zsc.one) to learn more.
+Meltem holds a Bachelor’s degree in Mathematical Economics from Rice University and an MBA with a focus on Finance and Innovation from Sloan School of Management, Massachussetts Institute of Technology (MIT). Meltem has prior experience in the oil and gas industry in trading, corporate treasury and M&A roles. She helped build and grow the Digital Currency Group, managing a portfolio of 120 companies and 4 subsidiaries, is a founding member of the World Economic Forum Blockchain Council, and teaches at MIT as well as Oxford.
 
 ---
-**Proof-of-Stake**
 
-Zsc uses a [Proof-of-Stake (PoS)](../celo-codebase/protocol/proof-of-stake) consensus algorithm. In comparison to Proof-of-Work (PoW) systems like Bitcoin and Ethereum, this eliminates the negative environmental impact and means that users can make transactions that are cheaper, faster, and where the outcome cannot be changed once complete.
+### Graeme Dickson
 
-**On-chain Governance**
+GROUP GENERAL COUNSEL
 
-Since great user experiences and operating a modern networking protocol need iteration and improvement, Zsc supports rapid upgrades and protocol changes via on-chain governance in which all ZTB holders can participate.
+![team](/img/images/p3.png)
 
-**Programmable (Full EVM Compatibility)**
+Graeme holds a Master’s degree (Honours) in International Relations from University of St. Andrews and Post Graduate Diploma in Law from the University of Law. Graeme has 14 years of experience as an English qualified solicitor. He joined CoinShares from Aviva Plc. where he held the position of Senior Legal Counsel. Prior to that he held positions at Linklaters, White & Case, Bank of America and Standard Bank.
 
-ZSC includes a programmable smart contract platform that is compatible with the Ethereum Virtual Machine (EVM), which is already widely adopted, familiar to developers and has strong tool support. This enables Celo to deliver rich user features and rapidly support a wide ecosystem of third-party applications and extensions.
+---
 
+### Richard Nash
 
+CHIEF FINANCIAL OFFICER
+
+![team](/img/images/p4.png)
+
+Richard holds a Master’s degree in Sinology from School of Oriental and African Studies, University of London. Richard has 10 years of experience in chartered accounting. He joined CoinShares from Cairn Financial Advisers where he acted as Nominated Adviser to a number of listed companies, holding the status of Qualified Executive (as granted by the London Stock Exchange).
+
+---
+
+### Benoît Pellevoizin
+
+HEAD OF MARKETING & COMMUNICATIONS
+
+![team](/img/images/p5.png)
+
+Benoît graduated from the Celsa - Sorbonne Université (Grande Ecole of Communications & Journalism) and the Hasso Plattner Institute School of Design Thinking. Benoît has over 15 years of experience in developing marketing, communications, advertising and branding. He joined CoinShares from the leading crypto hardware firm Ledger. Prior to that he has held positions involving strategy, branding and innovation with Ogilvy Consulting, SID LEE, M&CSAATCHI, Fred & Farid and Digitas.
+
+---
+
+### Pierre Porthaux
+
+HEAD OF CAPITAL MARKETS
+
+![team](/img/images/p6.png)
+
+Pierre has close to 20 years experience in finance in both traditional markets and cryptocurrencies. Prior to CoinShares, Pierre co-founded Blockchain Solutions, a technology and strategy consulting company, and Emergence Labs, specialized in Bitcoin trading technology, both located in Paris. Previously, Pierre was a trader undertaking statistical and index arbitrage strategies for banks and hedge funds such as Nomura, Millennium Partners, Dresdner Kleinwort and Natixis.
+
+---
+
+### Frank Spiteri
+
+HEAD OF ASSET MANAGEMENT
+
+![team](/img/images/p7.png)
+
+Frank has over 10 years of experience as an ETP specialist, joining CoinShares after previously working as the former Head of Distribution and Capital Markets at WisdomTree. Prior to specializing in ETPs, he spent 11 years working as a trader with KBC Financial Products.

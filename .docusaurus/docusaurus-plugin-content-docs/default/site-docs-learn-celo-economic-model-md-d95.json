@@ -1,8 +1,8 @@
 {
   "unversionedId": "learn/celo-economic-model",
   "id": "learn/celo-economic-model",
-  "title": "Celo Economic Model",
-  "description": "Celo’s economic model is derived from research in Sacred Economics and Theory of Change.",
+  "title": "Index ETPs",
+  "description": "CoinShare ETP issuance introduce",
   "source": "@site/docs/learn/celo-economic-model.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-economic-model",
@@ -11,12 +11,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Economic Model",
-    "description": "Celo’s economic model is derived from research in Sacred Economics and Theory of Change."
+    "title": "Index ETPs",
+    "description": "CoinShare ETP issuance introduce"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Technical team",
+    "title": "OUR LEADERSHIP TEAM",
     "permalink": "/learn/celo-highlights"
   },
   "next": {
