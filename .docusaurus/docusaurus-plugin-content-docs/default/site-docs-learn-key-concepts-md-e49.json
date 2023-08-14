@@ -1,7 +1,7 @@
 {
   "unversionedId": "learn/key-concepts",
   "id": "learn/key-concepts",
-  "title": "Key Concepts",
+  "title": "ETP Portfolio Performance",
   "description": "Zsc believes in a future where everyone can prosper.",
   "source": "@site/docs/learn/key-concepts.md",
   "sourceDirName": "learn",
@@ -11,18 +11,18 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Key Concepts",
+    "title": "ETP Portfolio Performance",
     "id": "key-concepts",
     "slug": "/key-concepts",
     "description": "Zsc believes in a future where everyone can prosper."
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Celo Ecosystem",
+    "title": "Value vs Price",
     "permalink": "/learn/celo-ecosystem"
   },
   "next": {
-    "title": "ZSC Whitepapers",
+    "title": "Benefits and Risks",
     "permalink": "/learn/celo-whitepapers"
   }
 }

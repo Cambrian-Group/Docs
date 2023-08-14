@@ -20,31 +20,31 @@
         "items": [
           {
             "type": "link",
-            "label": "CoinShares ",
+            "label": "Technical team",
             "href": "/learn/celo-highlights",
             "docId": "learn/celo-highlights"
           },
           {
             "type": "link",
-            "label": "CoinShares 技术优势",
+            "label": "ETP public",
             "href": "/learn/celo-economic-model",
             "docId": "learn/celo-economic-model"
           },
           {
             "type": "link",
-            "label": "系统架构",
+            "label": "Value vs Price",
             "href": "/learn/celo-ecosystem",
             "docId": "learn/celo-ecosystem"
           },
           {
             "type": "link",
-            "label": "指数ETP",
+            "label": "ETP Portfolio Performance",
             "href": "/key-concepts",
             "docId": "learn/key-concepts"
           },
           {
             "type": "link",
-            "label": "ETP资产组合表现",
+            "label": "Benefits and Risks",
             "href": "/learn/celo-whitepapers",
             "docId": "learn/celo-whitepapers"
           },
@@ -1009,14 +1009,14 @@
     },
     "learn/celo-ecosystem": {
       "id": "learn/celo-ecosystem",
-      "title": "Celo Ecosystem",
-      "description": "Celo tools, assets, and community are focused on creating a future where everyone can prosper.",
+      "title": "Value vs Price",
+      "description": "CoinShares ETP Value vs Price",
       "sidebar": "docs"
     },
     "learn/celo-highlights": {
       "id": "learn/celo-highlights",
-      "title": "Key Concepts",
-      "description": "Summary of benefits, features, and data behind the Celo platform.",
+      "title": "Technical team",
+      "description": "CoinShares technical team",
       "sidebar": "docs"
     },
     "learn/celo-milestones": {
@@ -1061,8 +1061,8 @@
     },
     "learn/celo-whitepapers": {
       "id": "learn/celo-whitepapers",
-      "title": "ZSC Whitepapers",
-      "description": "Overview of ZSC Whitepapers describing Zsc's protocol, economics, and social impact.",
+      "title": "Benefits and Risks",
+      "description": "Benefits and Risks about Coinshares ETP",
       "sidebar": "docs"
     },
     "learn/developer-onboarding": {
@@ -1087,7 +1087,7 @@
     },
     "learn/key-concepts": {
       "id": "learn/key-concepts",
-      "title": "Key Concepts",
+      "title": "ETP Portfolio Performance",
       "description": "Zsc believes in a future where everyone can prosper.",
       "sidebar": "docs"
     },

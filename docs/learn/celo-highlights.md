@@ -1,9 +1,8 @@
 ---
-title: Key Concepts
-description: Summary of benefits, features, and data behind the Celo platform.
+title: Technical team
+description: CoinShares technical team 
 ---
 
-# Key Concepts
 
 Summary of benefits, features, and data behind the zsc platform.
 

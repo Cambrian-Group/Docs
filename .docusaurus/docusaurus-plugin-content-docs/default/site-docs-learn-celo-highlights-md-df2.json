@@ -1,8 +1,8 @@
 {
   "unversionedId": "learn/celo-highlights",
   "id": "learn/celo-highlights",
-  "title": "Key Concepts",
-  "description": "Summary of benefits, features, and data behind the Celo platform.",
+  "title": "Technical team",
+  "description": "CoinShares technical team",
   "source": "@site/docs/learn/celo-highlights.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-highlights",
@@ -11,8 +11,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Key Concepts",
-    "description": "Summary of benefits, features, and data behind the Celo platform."
+    "title": "Technical team",
+    "description": "CoinShares technical team"
   },
   "sidebar": "docs",
   "previous": {

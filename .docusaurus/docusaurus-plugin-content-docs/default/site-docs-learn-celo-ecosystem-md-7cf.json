@@ -1,8 +1,8 @@
 {
   "unversionedId": "learn/celo-ecosystem",
   "id": "learn/celo-ecosystem",
-  "title": "Celo Ecosystem",
-  "description": "Celo tools, assets, and community are focused on creating a future where everyone can prosper.",
+  "title": "Value vs Price",
+  "description": "CoinShares ETP Value vs Price",
   "source": "@site/docs/learn/celo-ecosystem.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-ecosystem",
@@ -11,8 +11,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Ecosystem",
-    "description": "Celo tools, assets, and community are focused on creating a future where everyone can prosper."
+    "title": "Value vs Price",
+    "description": "CoinShares ETP Value vs Price"
   },
   "sidebar": "docs",
   "previous": {
@@ -20,7 +20,7 @@
     "permalink": "/learn/celo-economic-model"
   },
   "next": {
-    "title": "Key Concepts",
+    "title": "ETP Portfolio Performance",
     "permalink": "/key-concepts"
   }
 }

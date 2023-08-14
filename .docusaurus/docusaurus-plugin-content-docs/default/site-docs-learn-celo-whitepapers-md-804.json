@@ -1,8 +1,8 @@
 {
   "unversionedId": "learn/celo-whitepapers",
   "id": "learn/celo-whitepapers",
-  "title": "ZSC Whitepapers",
-  "description": "Overview of ZSC Whitepapers describing Zsc's protocol, economics, and social impact.",
+  "title": "Benefits and Risks",
+  "description": "Benefits and Risks about Coinshares ETP",
   "source": "@site/docs/learn/celo-whitepapers.md",
   "sourceDirName": "learn",
   "slug": "/learn/celo-whitepapers",
@@ -11,12 +11,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "ZSC Whitepapers",
-    "description": "Overview of ZSC Whitepapers describing Zsc's protocol, economics, and social impact."
+    "title": "Benefits and Risks",
+    "description": "Benefits and Risks about Coinshares ETP"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Key Concepts",
+    "title": "ETP Portfolio Performance",
     "permalink": "/key-concepts"
   },
   "next": {
