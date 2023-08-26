@@ -165,6 +165,12 @@
         "label": "media reports",
         "href": "/community/developer-events",
         "docId": "community/developer-events"
+      },
+      {
+        "type": "link",
+        "label": "refer links",
+        "href": "/community/guidelines",
+        "docId": "community/guidelines"
       }
     ]
   },
@@ -576,8 +582,9 @@
     },
     "community/guidelines": {
       "id": "community/guidelines",
-      "title": "Celo Contributor Guidelines",
-      "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone."
+      "title": "Join address",
+      "description": "When you don't have a partner to recommend you, use the link below",
+      "sidebar": "contributors"
     },
     "community/join-the-community": {
       "id": "community/join-the-community",

@@ -337,7 +337,8 @@
             },
             {
               "id": "community/guidelines",
-              "path": "/community/guidelines"
+              "path": "/community/guidelines",
+              "sidebar": "contributors"
             },
             {
               "id": "community/join-the-community",

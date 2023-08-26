@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','7b9'),
+    component: ComponentCreator('/','b7d'),
     routes: [
       {
         path: '/',
@@ -760,8 +760,9 @@ export default [
       },
       {
         path: '/community/guidelines',
-        component: ComponentCreator('/community/guidelines','c51'),
-        exact: true
+        component: ComponentCreator('/community/guidelines','064'),
+        exact: true,
+        'sidebar': "contributors"
       },
       {
         path: '/community/join-the-community',

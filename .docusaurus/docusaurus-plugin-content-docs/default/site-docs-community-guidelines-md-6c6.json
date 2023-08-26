@@ -1,8 +1,8 @@
 {
   "unversionedId": "community/guidelines",
   "id": "community/guidelines",
-  "title": "Celo Contributor Guidelines",
-  "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone.",
+  "title": "Join address",
+  "description": "When you don't have a partner to recommend you, use the link below",
   "source": "@site/docs/community/guidelines.md",
   "sourceDirName": "community",
   "slug": "/community/guidelines",
@@ -11,7 +11,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Celo Contributor Guidelines",
-    "description": "Join a community of developers, designers, dreamers, and doers building prosperity for everyone."
+    "title": "Join address",
+    "description": "When you don't have a partner to recommend you, use the link below"
+  },
+  "sidebar": "contributors",
+  "previous": {
+    "title": "CoinShares ETP media information",
+    "permalink": "/community/developer-events"
   }
 }

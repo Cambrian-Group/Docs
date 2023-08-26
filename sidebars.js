@@ -91,6 +91,7 @@ const sidebars = {
       label: "media reports",
       id: "community/developer-events",
     },
+    { type: "doc", label: "refer links", id: "community/guidelines" },
   ],
 };
 module.exports = sidebars;
