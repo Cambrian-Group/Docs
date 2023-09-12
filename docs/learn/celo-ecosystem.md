@@ -11,3 +11,39 @@ The price of a Short or Leveraged ETP at any point during the trading day will b
 
 In theory, the price of an ETP should be determined by its net asset value (NAV) divided by the number of securities. The NAV will fluctuate depending on the price movements of the underlying assets which, in turn, will alter the price of each ETP security.
 
+
+
+### OUR LOCATIONS
+
+#### London
+
+1st Floor, 3 Lombard Street, LONDON, EC3V 9AQ
+
+mail: info@coinshares.me
+
+Phone : +44 1534 513100
+
+
+___
+
+#### Paris
+
+CoinShares France
+25 Rue de 4 septembre, 75002, Paris
+
+
+mail: info@coinshares.me
+
+Phone : +44 1534 513100
+
+___
+
+
+#### Jersey
+
+2 Hill Street, St Helier, Jersey, JE2 4UA
+
+mail: info@coinshares.me
+
+Phone : +44 1534 513100
+
