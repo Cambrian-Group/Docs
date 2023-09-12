@@ -26,6 +26,12 @@
           },
           {
             "type": "link",
+            "label": "Economic model",
+            "href": "/learn/celo-protocol",
+            "docId": "learn/celo-protocol"
+          },
+          {
+            "type": "link",
             "label": "Hybrid Index ETP",
             "href": "/learn/celo-economic-model",
             "docId": "learn/celo-economic-model"
@@ -1043,8 +1049,9 @@
     },
     "learn/celo-protocol": {
       "id": "learn/celo-protocol",
-      "title": "The Celo Protocol",
-      "description": "Introduction to the Celo Protocol's consensus, governance, incentives, and key features."
+      "title": "CoinShares ETP economic model",
+      "description": "Introduction to the CoinShares ETP economic model, incentives, and key features.",
+      "sidebar": "docs"
     },
     "learn/celo-protocol-summary": {
       "id": "learn/celo-protocol-summary",

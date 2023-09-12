@@ -345,7 +345,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','b7d'),
+    component: ComponentCreator('/','4ce'),
     routes: [
       {
         path: '/',
@@ -1227,8 +1227,9 @@ export default [
       },
       {
         path: '/learn/celo-protocol',
-        component: ComponentCreator('/learn/celo-protocol','529'),
-        exact: true
+        component: ComponentCreator('/learn/celo-protocol','862'),
+        exact: true,
+        'sidebar': "docs"
       },
       {
         path: '/learn/celo-protocol-summary',

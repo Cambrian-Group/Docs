@@ -708,7 +708,8 @@
             },
             {
               "id": "learn/celo-protocol",
-              "path": "/learn/celo-protocol"
+              "path": "/learn/celo-protocol",
+              "sidebar": "docs"
             },
             {
               "id": "learn/celo-protocol-summary",

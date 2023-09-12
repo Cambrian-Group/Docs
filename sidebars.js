@@ -6,6 +6,7 @@ const sidebars = {
       label: "About CoinShares ETP",
       items: [
         { type: "doc", label: "Technical team", id: "learn/celo-highlights" },
+        { type: "doc", label: "Economic model", id: "learn/celo-protocol" },
         {
           type: "doc",
           label: "Hybrid Index ETP",
